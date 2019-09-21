@@ -1,0 +1,61 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  permissions.label           "Izin">
+
+<!ENTITY  blockPopups.label           "Blokir jendela pop-up">
+<!ENTITY  blockPopups.accesskey       "B">
+
+<!ENTITY  notificationsPolicyLearnMore.label   "Pelajari lebih lanjut">
+<!ENTITY  notificationsPolicyDesc3.label       "Pilih situs yang diizinkan untuk mengirimkan notifikasi">
+<!ENTITY  notificationsPolicyButton.accesskey  "P">
+<!ENTITY  notificationsPolicyButton.label      "Pilih…">
+<!ENTITY  notificationsDoNotDisturb.label      "Jangan ganggu">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Tidak ada notifikasi ditampilkan hingga Anda memulai ulang &brandShortName;">
+
+<!ENTITY  popupExceptions.label       "Pengecualian…">
+<!ENTITY  popupExceptions.accesskey   "e">
+
+<!ENTITY  fontsAndColors.label        "Huruf &amp; Warna">
+
+<!ENTITY  defaultFont2.label          "Fon baku">
+<!ENTITY  defaultFont2.accesskey      "B">
+<!ENTITY  defaultSize2.label          "Ukuran">
+<!ENTITY  defaultSize2.accesskey      "U">
+
+<!ENTITY  advancedFonts.label         "Canggih…">
+<!ENTITY  advancedFonts.accesskey     "g">
+
+<!ENTITY  colors.label                "Warna…">
+<!ENTITY  colors.accesskey            "W">
+
+
+<!ENTITY language2.label              "Bahasa">
+<!ENTITY chooseLanguage.label         "Pilih bahasa yang disukai untuk menampilkan laman">
+<!ENTITY chooseButton.label           "Pilih…">
+<!ENTITY chooseButton.accesskey       "P">
+
+<!ENTITY translateWebPages.label      "Penerjemahan isi web">
+<!ENTITY translateWebPages.accesskey  "n">
+<!ENTITY translateExceptions.label    "Pengecualian…">
+<!ENTITY translateExceptions.accesskey "l">
+
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -  The translations for these strings should match the translations in
+  -  browser/translation.dtd
+  -->
+<!ENTITY translation.options.attribution.beforeLogo "Terjemahan oleh">
+<!ENTITY translation.options.attribution.afterLogo "">
+
+<!ENTITY  drmContent2.label              "Konten Digital Rights Management (DRM)">
+
+<!ENTITY  playDRMContent.learnMore.label "Pelajari lebih lanjut">
+
+<!ENTITY  notificationsPolicyDesc4.label       "Choose which websites are allowed to send you notifications">
+<!ENTITY  playDRMContent2.accesskey      "P">
+<!ENTITY  playDRMContent2.label          "Play DRM-controlled content">

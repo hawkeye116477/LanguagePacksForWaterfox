@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY defaultSearchEngine.label             "Mesin Pencari Baku">
+
+
+<!ENTITY provideSearchSuggestions.label        "Sertakan saran pencarian">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
+
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur &brandShortName; agar tidak mengingat riwayat.">
+
+<!ENTITY oneClickSearchEngines.label           "Mesin pencari sekali klik">
+
+
+<!ENTITY engineNameColumn.label                "Mesin Pencari">
+<!ENTITY engineKeywordColumn.label             "Kata Kunci">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Pulihkan Mesin Pencari Bawaan">
+<!ENTITY restoreDefaultSearchEngines.accesskey "n">
+
+<!ENTITY removeEngine.label                    "Hapus">
+<!ENTITY removeEngine.accesskey                "H">
+
+<!ENTITY findMoreSearchEngines.label           "Temukan lebih banyak mesin pencari">
+
+<!ENTITY chooseWhichOneToDisplay2.label         "Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.">
+
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Choose the default search engine to use in the address bar and search bar.">
+
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.label           "Show search suggestions in address bar results">
