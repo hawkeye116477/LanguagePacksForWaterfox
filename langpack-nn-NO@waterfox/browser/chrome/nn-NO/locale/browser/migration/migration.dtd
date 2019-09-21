@@ -44,3 +44,4 @@
 <!ENTITY done.label                     "Følgjande element er importerte:">
 
 <!ENTITY closeSourceBrowser.label       "Kontroller at den valde nettlesaren er lukka før du held fram.">
+<!ENTITY migrationWizard.text1          "Waterfox now uses its own profile location to store your personal data. If you are coming from an older version of Waterfox, you will need to import your existing Waterfox data as previously this data was shared with your Firefox profile.">

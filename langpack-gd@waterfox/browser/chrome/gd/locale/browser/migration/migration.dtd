@@ -44,3 +44,4 @@
 <!ENTITY done.label                     "Chaidh na rudan a leanas ion-phortadh gu soirbheachail:">
 
 <!ENTITY closeSourceBrowser.label       "Dèan cinnteach gu bheil am brabhsair a thagh thu dùinte mus lean thu air adhart.">
+<!ENTITY migrationWizard.text1          "Waterfox now uses its own profile location to store your personal data. If you are coming from an older version of Waterfox, you will need to import your existing Waterfox data as previously this data was shared with your Firefox profile.">

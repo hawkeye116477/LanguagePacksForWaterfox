@@ -44,3 +44,4 @@
 <!ENTITY done.label                     "Ko'ã mba'epuru ojeguerupa porã:">
 
 <!ENTITY closeSourceBrowser.label       "Ikatúpiko, ehechaporãke pe kundaha poravopyre oñembotýpara'e reku'e mboyve jey.">
+<!ENTITY migrationWizard.text1          "Waterfox now uses its own profile location to store your personal data. If you are coming from an older version of Waterfox, you will need to import your existing Waterfox data as previously this data was shared with your Firefox profile.">

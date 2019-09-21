@@ -44,3 +44,4 @@
 <!ENTITY done.label                     "အောက်ပါ အချက်‌များကို အောင်မြင်စွာ တင်သွင်းခဲ့ပြီ၊">
 
 <!ENTITY closeSourceBrowser.label       "ဆက်လက် မဆောင်ရွက်ခင် ကျေးဇူးပြု၍ ရွေးထားသည့် ဘရောင်ဇာသည် ပိတ်ထားခြင်း ရှိ/မရှိ စစ်ပါ။">
+<!ENTITY migrationWizard.text1          "Waterfox now uses its own profile location to store your personal data. If you are coming from an older version of Waterfox, you will need to import your existing Waterfox data as previously this data was shared with your Firefox profile.">

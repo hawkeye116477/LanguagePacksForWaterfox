@@ -44,3 +44,4 @@
 <!ENTITY done.label                     "הפריטים הבאים יובאו בהצלחה:">
 
 <!ENTITY closeSourceBrowser.label       "נא לוודא שהדפדפן הנבחר סגור לפני המשך הפעילות.">
+<!ENTITY migrationWizard.text1          "Waterfox now uses its own profile location to store your personal data. If you are coming from an older version of Waterfox, you will need to import your existing Waterfox data as previously this data was shared with your Firefox profile.">

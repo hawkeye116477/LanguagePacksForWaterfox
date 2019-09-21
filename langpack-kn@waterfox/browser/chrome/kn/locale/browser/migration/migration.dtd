@@ -44,3 +44,4 @@
 <!ENTITY done.label                     "ಈ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಆಮದು ಮಾಡಿಕೊಳ್ಳಲಾಯಿತು:">
 
 <!ENTITY closeSourceBrowser.label       "ಮುಂದುವರೆಯುವ ಮೊದಲು, ಆಯ್ಕೆ ಮಾಡಲಾದ ಜಾಲವೀಕ್ಷಕವನ್ನು ಮುಚ್ಚಲಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.">
+<!ENTITY migrationWizard.text1          "Waterfox now uses its own profile location to store your personal data. If you are coming from an older version of Waterfox, you will need to import your existing Waterfox data as previously this data was shared with your Firefox profile.">

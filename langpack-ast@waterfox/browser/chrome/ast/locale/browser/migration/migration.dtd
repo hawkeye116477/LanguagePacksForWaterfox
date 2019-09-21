@@ -44,3 +44,4 @@
 <!ENTITY done.label                     "Importáronse con ésitu los elementos de darréu:">
 
 <!ENTITY closeSourceBrowser.label       "Asegúrate que'l restolador esbilláu ta zarráu enantes de siguir, por favor.">
+<!ENTITY migrationWizard.text1          "Waterfox now uses its own profile location to store your personal data. If you are coming from an older version of Waterfox, you will need to import your existing Waterfox data as previously this data was shared with your Firefox profile.">
