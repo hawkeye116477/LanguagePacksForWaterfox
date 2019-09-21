@@ -152,3 +152,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "頻道">
 <!ENTITY aboutSupport.mediaDeviceRate "取樣率">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latency">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

@@ -152,3 +152,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Canais">
 <!ENTITY aboutSupport.mediaDeviceRate "Taxa">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latência">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

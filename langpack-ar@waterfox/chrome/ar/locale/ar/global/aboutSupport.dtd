@@ -150,3 +150,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "القنوات">
 <!ENTITY aboutSupport.mediaDeviceRate "المعدل">
 <!ENTITY aboutSupport.mediaDeviceLatency "الكمون">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

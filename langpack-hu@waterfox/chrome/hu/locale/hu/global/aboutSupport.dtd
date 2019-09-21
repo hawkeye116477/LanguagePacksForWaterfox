@@ -150,3 +150,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Csatornák">
 <!ENTITY aboutSupport.mediaDeviceRate "Sebesség">
 <!ENTITY aboutSupport.mediaDeviceLatency "Késleltetés">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

@@ -153,3 +153,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "არხები">
 <!ENTITY aboutSupport.mediaDeviceRate "სიხშირე">
 <!ENTITY aboutSupport.mediaDeviceLatency "დაყოვნება">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

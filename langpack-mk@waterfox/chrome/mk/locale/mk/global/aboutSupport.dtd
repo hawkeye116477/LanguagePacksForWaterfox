@@ -168,3 +168,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 <!ENTITY aboutSupport.showWin2.label "Open Folder">
 
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

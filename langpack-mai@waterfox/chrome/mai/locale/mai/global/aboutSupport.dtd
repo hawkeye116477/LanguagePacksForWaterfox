@@ -196,3 +196,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.showWin2.label "Open Folder">
 
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

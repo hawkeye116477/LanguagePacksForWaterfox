@@ -150,3 +150,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Sianeli">
 <!ENTITY aboutSupport.mediaDeviceRate "Cyfradd">
 <!ENTITY aboutSupport.mediaDeviceLatency "Cuddni">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

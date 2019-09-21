@@ -130,3 +130,5 @@
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanały">
 <!ENTITY aboutSupport.mediaDeviceRate "Częstotliwość próbkowania">
 <!ENTITY aboutSupport.mediaDeviceLatency "Opóźnienie">
+
+<!ENTITY aboutSupport.appBasicsBinary "Plik binarny programu">

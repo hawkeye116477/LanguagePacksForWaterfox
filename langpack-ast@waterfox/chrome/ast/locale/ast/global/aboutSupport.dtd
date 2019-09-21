@@ -155,3 +155,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Process Type">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

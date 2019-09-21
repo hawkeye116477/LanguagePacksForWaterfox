@@ -152,3 +152,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanaloj">
 <!ENTITY aboutSupport.mediaDeviceRate "Frekvenco">
 <!ENTITY aboutSupport.mediaDeviceLatency "Prokrasto">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

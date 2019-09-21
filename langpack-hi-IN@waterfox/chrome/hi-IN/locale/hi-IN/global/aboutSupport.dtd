@@ -154,3 +154,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; Features">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Rejected System Calls">
 <!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

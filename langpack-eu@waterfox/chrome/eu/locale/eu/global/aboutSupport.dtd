@@ -150,3 +150,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanalak">
 <!ENTITY aboutSupport.mediaDeviceRate "Emaria">
 <!ENTITY aboutSupport.mediaDeviceLatency "Atzerapena">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

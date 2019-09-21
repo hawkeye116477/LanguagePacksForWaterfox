@@ -176,3 +176,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Rejected System Calls">
 <!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Process Type">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

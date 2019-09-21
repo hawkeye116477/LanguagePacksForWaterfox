@@ -155,3 +155,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaInputDevicesTitle "Input Devices">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "Output Devices">
 <!ENTITY aboutSupport.mediaTitle "Media">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

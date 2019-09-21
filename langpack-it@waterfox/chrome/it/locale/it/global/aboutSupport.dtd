@@ -105,3 +105,5 @@
 <!ENTITY aboutSupport.mediaDeviceChannels "Canali">
 <!ENTITY aboutSupport.mediaDeviceRate "Frequenza">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latenza">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

@@ -154,3 +154,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanavia">
 <!ENTITY aboutSupport.mediaDeviceRate "Näytteenottotaajuus">
 <!ENTITY aboutSupport.mediaDeviceLatency "Viive">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">

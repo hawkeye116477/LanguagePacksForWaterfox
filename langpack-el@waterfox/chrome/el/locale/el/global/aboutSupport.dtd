@@ -154,3 +154,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Κανάλια">
 <!ENTITY aboutSupport.mediaDeviceRate "Ρυθμός">
 <!ENTITY aboutSupport.mediaDeviceLatency "Καθυστέρηση">
+
+<!ENTITY aboutSupport.appBasicsBinary "Application Binary">
