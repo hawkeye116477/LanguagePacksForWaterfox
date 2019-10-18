@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "ach": {
+      "chrome_resources": {
+        "necko": "chrome/ach/locale/ach/necko/", 
+        "pdf.js": "browser/chrome/ach/locale/pdfviewer/", 
+        "global": "chrome/ach/locale/ach/global/", 
+        "devtools": "browser/chrome/ach/locale/ach/devtools/client/", 
+        "pipnss": "chrome/ach/locale/ach/pipnss/", 
+        "alerts": "chrome/ach/locale/ach/alerts/", 
+        "devtools-startup": "browser/chrome/ach/locale/ach/devtools/startup/", 
+        "branding": "browser/chrome/ach/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/ach/locale/ach/", 
+        "autoconfig": "chrome/ach/locale/ach/autoconfig/", 
+        "devtools-shared": "browser/chrome/ach/locale/ach/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/ach/locale/ach/global-platform/win/", 
+          "android": "chrome/ach/locale/ach/global-platform/unix/", 
+          "macosx": "chrome/ach/locale/ach/global-platform/mac/", 
+          "linux": "chrome/ach/locale/ach/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/ach/locale/browser-region/", 
+        "mozapps": "chrome/ach/locale/ach/mozapps/", 
+        "pluginproblem": "chrome/ach/locale/ach/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/ach/locale/ach/", 
+        "weave": "chrome/ach/locale/ach/services/", 
+        "places": "chrome/ach/locale/ach/places/", 
+        "passwordmgr": "chrome/ach/locale/ach/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/ach/locale/ach/", 
+        "pippki": "chrome/ach/locale/ach/pippki/", 
+        "browser": "browser/chrome/ach/locale/browser/"
+      }, 
+      "version": "20190603071703"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-ach@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "ach", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Acholi (UG) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: San James, War Child Holland-Uganda, Acuma George Patrick, Keneth Ogwal, Dan Jasper Okello, Opio June Brian, Kaloba Haron, Komakech S. B. Ford, Akena David Akeni, Acire Samuel, Ojara David Prince)", 
+  "description": "Language pack for Firefox for ach"
+}

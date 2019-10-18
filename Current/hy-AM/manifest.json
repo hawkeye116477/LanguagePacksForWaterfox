@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "hy-AM": {
+      "chrome_resources": {
+        "necko": "chrome/hy-AM/locale/hy-AM/necko/", 
+        "pdf.js": "browser/chrome/hy-AM/locale/pdfviewer/", 
+        "global": "chrome/hy-AM/locale/hy-AM/global/", 
+        "devtools": "browser/chrome/hy-AM/locale/hy-AM/devtools/client/", 
+        "pipnss": "chrome/hy-AM/locale/hy-AM/pipnss/", 
+        "alerts": "chrome/hy-AM/locale/hy-AM/alerts/", 
+        "devtools-startup": "browser/chrome/hy-AM/locale/hy-AM/devtools/startup/", 
+        "branding": "browser/chrome/hy-AM/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/hy-AM/locale/hy-AM/", 
+        "autoconfig": "chrome/hy-AM/locale/hy-AM/autoconfig/", 
+        "devtools-shared": "browser/chrome/hy-AM/locale/hy-AM/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/hy-AM/locale/hy-AM/global-platform/win/", 
+          "android": "chrome/hy-AM/locale/hy-AM/global-platform/unix/", 
+          "macosx": "chrome/hy-AM/locale/hy-AM/global-platform/mac/", 
+          "linux": "chrome/hy-AM/locale/hy-AM/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/hy-AM/locale/browser-region/", 
+        "mozapps": "chrome/hy-AM/locale/hy-AM/mozapps/", 
+        "pluginproblem": "chrome/hy-AM/locale/hy-AM/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/hy-AM/locale/hy-AM/", 
+        "weave": "chrome/hy-AM/locale/hy-AM/services/", 
+        "places": "chrome/hy-AM/locale/hy-AM/places/", 
+        "passwordmgr": "chrome/hy-AM/locale/hy-AM/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/hy-AM/locale/hy-AM/", 
+        "pippki": "chrome/hy-AM/locale/hy-AM/pippki/", 
+        "browser": "browser/chrome/hy-AM/locale/browser/"
+      }, 
+      "version": "20190622053314"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-hy-AM@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "hy-AM", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Armenian (AM) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.am (contributors: Hrant Ohanyan, Robert Sargsyan, Armen Zambrano Gasparnian, Vahe Khachikyan, Mamikon Nikoghosyan)", 
+  "description": "Language pack for Firefox for hy-AM"
+}

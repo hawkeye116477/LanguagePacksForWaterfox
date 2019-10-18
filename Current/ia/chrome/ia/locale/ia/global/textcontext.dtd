@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY cutCmd.label "Taliar">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Collar">
+<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY undoCmd.label "Disfacer">
+<!ENTITY undoCmd.accesskey "D">
+<!ENTITY selectAllCmd.label "Seliger toto">
+<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY deleteCmd.label "Deler">
+<!ENTITY deleteCmd.accesskey "d">
+
+<!ENTITY spellAddToDictionary.label "Adder al dictionario">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Disfacer le adder al dictionario">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellCheckToggle.label "Verificar le orthographia">
+<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellNoSuggestions.label "(Nulle suggestion orthographic)">
+<!ENTITY spellDictionaries.label "Linguas">
+<!ENTITY spellDictionaries.accesskey "l">
+
+<!ENTITY searchTextBox.clear.label "Vacuar">
+
+<!ENTITY fillLoginMenu.label          "Insere le authentication">
+<!ENTITY fillLoginMenu.accesskey      "I">
+<!ENTITY fillPasswordMenu.label       "Insere le contrasigno">
+<!ENTITY fillPasswordMenu.accesskey   "I">
+<!ENTITY fillUsernameMenu.label       "Insere le nomine de usator">
+<!ENTITY fillUsernameMenu.accesskey   "I">
+<!ENTITY noLoginSuggestions.label     "(Nulle suggestiones de authentication)">
+<!ENTITY viewSavedLogins.label        "Vider le authenticationes salvate">

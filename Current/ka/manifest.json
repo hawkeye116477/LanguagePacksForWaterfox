@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "ka": {
+      "chrome_resources": {
+        "necko": "chrome/ka/locale/ka/necko/", 
+        "pdf.js": "browser/chrome/ka/locale/pdfviewer/", 
+        "global": "chrome/ka/locale/ka/global/", 
+        "devtools": "browser/chrome/ka/locale/ka/devtools/client/", 
+        "pipnss": "chrome/ka/locale/ka/pipnss/", 
+        "alerts": "chrome/ka/locale/ka/alerts/", 
+        "devtools-startup": "browser/chrome/ka/locale/ka/devtools/startup/", 
+        "branding": "browser/chrome/ka/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/ka/locale/ka/", 
+        "autoconfig": "chrome/ka/locale/ka/autoconfig/", 
+        "devtools-shared": "browser/chrome/ka/locale/ka/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/ka/locale/ka/global-platform/win/", 
+          "android": "chrome/ka/locale/ka/global-platform/unix/", 
+          "macosx": "chrome/ka/locale/ka/global-platform/mac/", 
+          "linux": "chrome/ka/locale/ka/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/ka/locale/browser-region/", 
+        "mozapps": "chrome/ka/locale/ka/mozapps/", 
+        "pluginproblem": "chrome/ka/locale/ka/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/ka/locale/ka/", 
+        "weave": "chrome/ka/locale/ka/services/", 
+        "places": "chrome/ka/locale/ka/places/", 
+        "passwordmgr": "chrome/ka/locale/ka/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/ka/locale/ka/", 
+        "pippki": "chrome/ka/locale/ka/pippki/", 
+        "browser": "browser/chrome/ka/locale/browser/"
+      }, 
+      "version": "20190624215321"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-ka@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "ka", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Georgian (ქართული) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Beqa Arabuli, Giorgi Maghlakelidze)", 
+  "description": "Language pack for Firefox for ka"
+}

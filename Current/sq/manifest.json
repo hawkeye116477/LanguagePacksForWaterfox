@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "sq": {
+      "chrome_resources": {
+        "necko": "chrome/sq/locale/sq/necko/", 
+        "pdf.js": "browser/chrome/sq/locale/pdfviewer/", 
+        "global": "chrome/sq/locale/sq/global/", 
+        "devtools": "browser/chrome/sq/locale/sq/devtools/client/", 
+        "pipnss": "chrome/sq/locale/sq/pipnss/", 
+        "alerts": "chrome/sq/locale/sq/alerts/", 
+        "devtools-startup": "browser/chrome/sq/locale/sq/devtools/startup/", 
+        "branding": "browser/chrome/sq/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/sq/locale/sq/", 
+        "autoconfig": "chrome/sq/locale/sq/autoconfig/", 
+        "devtools-shared": "browser/chrome/sq/locale/sq/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/sq/locale/sq/global-platform/win/", 
+          "android": "chrome/sq/locale/sq/global-platform/unix/", 
+          "macosx": "chrome/sq/locale/sq/global-platform/mac/", 
+          "linux": "chrome/sq/locale/sq/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/sq/locale/browser-region/", 
+        "mozapps": "chrome/sq/locale/sq/mozapps/", 
+        "pluginproblem": "chrome/sq/locale/sq/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/sq/locale/sq/", 
+        "weave": "chrome/sq/locale/sq/services/", 
+        "places": "chrome/sq/locale/sq/places/", 
+        "passwordmgr": "chrome/sq/locale/sq/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/sq/locale/sq/", 
+        "pippki": "chrome/sq/locale/sq/pippki/", 
+        "browser": "browser/chrome/sq/locale/browser/"
+      }, 
+      "version": "20190624105415"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-sq@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "sq", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Shqip Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Besnik Bleta (contributors: Besnik Bleta)", 
+  "description": "Language pack for Firefox for sq"
+}

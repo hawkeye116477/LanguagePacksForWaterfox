@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "vi": {
+      "chrome_resources": {
+        "necko": "chrome/vi/locale/vi/necko/", 
+        "pdf.js": "browser/chrome/vi/locale/pdfviewer/", 
+        "global": "chrome/vi/locale/vi/global/", 
+        "devtools": "browser/chrome/vi/locale/vi/devtools/client/", 
+        "pipnss": "chrome/vi/locale/vi/pipnss/", 
+        "alerts": "chrome/vi/locale/vi/alerts/", 
+        "devtools-startup": "browser/chrome/vi/locale/vi/devtools/startup/", 
+        "branding": "browser/chrome/vi/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/vi/locale/vi/", 
+        "autoconfig": "chrome/vi/locale/vi/autoconfig/", 
+        "devtools-shared": "browser/chrome/vi/locale/vi/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/vi/locale/vi/global-platform/win/", 
+          "android": "chrome/vi/locale/vi/global-platform/unix/", 
+          "macosx": "chrome/vi/locale/vi/global-platform/mac/", 
+          "linux": "chrome/vi/locale/vi/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/vi/locale/browser-region/", 
+        "mozapps": "chrome/vi/locale/vi/mozapps/", 
+        "pluginproblem": "chrome/vi/locale/vi/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/vi/locale/vi/", 
+        "weave": "chrome/vi/locale/vi/services/", 
+        "places": "chrome/vi/locale/vi/places/", 
+        "passwordmgr": "chrome/vi/locale/vi/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/vi/locale/vi/", 
+        "pippki": "chrome/vi/locale/vi/pippki/", 
+        "browser": "browser/chrome/vi/locale/browser/"
+      }, 
+      "version": "20190620175429"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-vi@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "vi", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Tiếng Việt Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Cộng đồng bản địa hóa Mozilla (contributors: Nguyễn Mạnh Hùng, Nguyễn Xuân Minh, Huỳnh Hải Đăng, Bùi Việt Khoa, Trần Nguyễn Sơn, Ngô Đức Trung, Nguyễn Hà Dương, Nguyễn Phan Hải, Đặng Duy Thanh)", 
+  "description": "Language pack for Firefox for vi"
+}

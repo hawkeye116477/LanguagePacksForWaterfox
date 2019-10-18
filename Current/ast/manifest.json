@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "ast": {
+      "chrome_resources": {
+        "necko": "chrome/ast/locale/ast/necko/", 
+        "pdf.js": "browser/chrome/ast/locale/pdfviewer/", 
+        "global": "chrome/ast/locale/ast/global/", 
+        "devtools": "browser/chrome/ast/locale/ast/devtools/client/", 
+        "pipnss": "chrome/ast/locale/ast/pipnss/", 
+        "alerts": "chrome/ast/locale/ast/alerts/", 
+        "devtools-startup": "browser/chrome/ast/locale/ast/devtools/startup/", 
+        "branding": "browser/chrome/ast/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/ast/locale/ast/", 
+        "autoconfig": "chrome/ast/locale/ast/autoconfig/", 
+        "devtools-shared": "browser/chrome/ast/locale/ast/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/ast/locale/ast/global-platform/win/", 
+          "android": "chrome/ast/locale/ast/global-platform/unix/", 
+          "macosx": "chrome/ast/locale/ast/global-platform/mac/", 
+          "linux": "chrome/ast/locale/ast/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/ast/locale/browser-region/", 
+        "mozapps": "chrome/ast/locale/ast/mozapps/", 
+        "pluginproblem": "chrome/ast/locale/ast/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/ast/locale/ast/", 
+        "weave": "chrome/ast/locale/ast/services/", 
+        "places": "chrome/ast/locale/ast/places/", 
+        "passwordmgr": "chrome/ast/locale/ast/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/ast/locale/ast/", 
+        "pippki": "chrome/ast/locale/ast/pippki/", 
+        "browser": "browser/chrome/ast/locale/browser/"
+      }, 
+      "version": "20190603071819"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-ast@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "ast", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Asturianu Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "softastur.org (contributors: Softastur)", 
+  "description": "Language pack for Firefox for ast"
+}

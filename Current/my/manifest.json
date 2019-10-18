@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "my": {
+      "chrome_resources": {
+        "necko": "chrome/my/locale/my/necko/", 
+        "pdf.js": "browser/chrome/my/locale/pdfviewer/", 
+        "global": "chrome/my/locale/my/global/", 
+        "devtools": "browser/chrome/my/locale/my/devtools/client/", 
+        "pipnss": "chrome/my/locale/my/pipnss/", 
+        "alerts": "chrome/my/locale/my/alerts/", 
+        "devtools-startup": "browser/chrome/my/locale/my/devtools/startup/", 
+        "branding": "browser/chrome/my/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/my/locale/my/", 
+        "autoconfig": "chrome/my/locale/my/autoconfig/", 
+        "devtools-shared": "browser/chrome/my/locale/my/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/my/locale/my/global-platform/win/", 
+          "android": "chrome/my/locale/my/global-platform/unix/", 
+          "macosx": "chrome/my/locale/my/global-platform/mac/", 
+          "linux": "chrome/my/locale/my/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/my/locale/browser-region/", 
+        "mozapps": "chrome/my/locale/my/mozapps/", 
+        "pluginproblem": "chrome/my/locale/my/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/my/locale/my/", 
+        "weave": "chrome/my/locale/my/services/", 
+        "places": "chrome/my/locale/my/places/", 
+        "passwordmgr": "chrome/my/locale/my/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/my/locale/my/", 
+        "pippki": "chrome/my/locale/my/pippki/", 
+        "browser": "browser/chrome/my/locale/browser/"
+      }, 
+      "version": "20190603074142"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-my@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "my", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Burmese Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "မော်ဇီလာ ဖောင်ဒေးရှင်း (contributors: တင်အောင်လင်း, ဝေဖြိုးဟန်, ရက်ပ်ဆဲကျော်, ကျော်စွာသန့်)", 
+  "description": "Language pack for Firefox for my"
+}

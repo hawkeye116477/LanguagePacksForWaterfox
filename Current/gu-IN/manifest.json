@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "gu-IN": {
+      "chrome_resources": {
+        "necko": "chrome/gu-IN/locale/gu-IN/necko/", 
+        "pdf.js": "browser/chrome/gu-IN/locale/pdfviewer/", 
+        "global": "chrome/gu-IN/locale/gu-IN/global/", 
+        "devtools": "browser/chrome/gu-IN/locale/gu-IN/devtools/client/", 
+        "pipnss": "chrome/gu-IN/locale/gu-IN/pipnss/", 
+        "alerts": "chrome/gu-IN/locale/gu-IN/alerts/", 
+        "devtools-startup": "browser/chrome/gu-IN/locale/gu-IN/devtools/startup/", 
+        "branding": "browser/chrome/gu-IN/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/gu-IN/locale/gu-IN/", 
+        "autoconfig": "chrome/gu-IN/locale/gu-IN/autoconfig/", 
+        "devtools-shared": "browser/chrome/gu-IN/locale/gu-IN/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/gu-IN/locale/gu-IN/global-platform/win/", 
+          "android": "chrome/gu-IN/locale/gu-IN/global-platform/unix/", 
+          "macosx": "chrome/gu-IN/locale/gu-IN/global-platform/mac/", 
+          "linux": "chrome/gu-IN/locale/gu-IN/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/gu-IN/locale/browser-region/", 
+        "mozapps": "chrome/gu-IN/locale/gu-IN/mozapps/", 
+        "pluginproblem": "chrome/gu-IN/locale/gu-IN/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/gu-IN/locale/gu-IN/", 
+        "weave": "chrome/gu-IN/locale/gu-IN/services/", 
+        "places": "chrome/gu-IN/locale/gu-IN/places/", 
+        "passwordmgr": "chrome/gu-IN/locale/gu-IN/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/gu-IN/locale/gu-IN/", 
+        "pippki": "chrome/gu-IN/locale/gu-IN/pippki/", 
+        "browser": "browser/chrome/gu-IN/locale/browser/"
+      }, 
+      "version": "20190620213340"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-gu-IN@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "gu-IN", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Gujarati (IN) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Ankit Patel (www.indianoss.org), Utkarsh Team (www.utkarsh.org))", 
+  "description": "Language pack for Firefox for gu-IN"
+}

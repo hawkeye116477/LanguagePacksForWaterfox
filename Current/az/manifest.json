@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "az": {
+      "chrome_resources": {
+        "necko": "chrome/az/locale/az/necko/", 
+        "pdf.js": "browser/chrome/az/locale/pdfviewer/", 
+        "global": "chrome/az/locale/az/global/", 
+        "devtools": "browser/chrome/az/locale/az/devtools/client/", 
+        "pipnss": "chrome/az/locale/az/pipnss/", 
+        "alerts": "chrome/az/locale/az/alerts/", 
+        "devtools-startup": "browser/chrome/az/locale/az/devtools/startup/", 
+        "branding": "browser/chrome/az/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/az/locale/az/", 
+        "autoconfig": "chrome/az/locale/az/autoconfig/", 
+        "devtools-shared": "browser/chrome/az/locale/az/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/az/locale/az/global-platform/win/", 
+          "android": "chrome/az/locale/az/global-platform/unix/", 
+          "macosx": "chrome/az/locale/az/global-platform/mac/", 
+          "linux": "chrome/az/locale/az/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/az/locale/browser-region/", 
+        "mozapps": "chrome/az/locale/az/mozapps/", 
+        "pluginproblem": "chrome/az/locale/az/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/az/locale/az/", 
+        "weave": "chrome/az/locale/az/services/", 
+        "places": "chrome/az/locale/az/places/", 
+        "passwordmgr": "chrome/az/locale/az/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/az/locale/az/", 
+        "pippki": "chrome/az/locale/az/pippki/", 
+        "browser": "browser/chrome/az/locale/browser/"
+      }, 
+      "version": "20190619112022"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-az@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "az", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Azərbaycanca (AZ) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozillaz.org (contributors: Mozilla Azerbaijan (www.mozillaz.org))", 
+  "description": "Language pack for Firefox for az"
+}

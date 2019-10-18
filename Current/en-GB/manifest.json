@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "en-GB": {
+      "chrome_resources": {
+        "necko": "chrome/en-GB/locale/en-GB/necko/", 
+        "pdf.js": "browser/chrome/en-GB/locale/pdfviewer/", 
+        "global": "chrome/en-GB/locale/en-GB/global/", 
+        "devtools": "browser/chrome/en-GB/locale/en-GB/devtools/client/", 
+        "pipnss": "chrome/en-GB/locale/en-GB/pipnss/", 
+        "alerts": "chrome/en-GB/locale/en-GB/alerts/", 
+        "devtools-startup": "browser/chrome/en-GB/locale/en-GB/devtools/startup/", 
+        "branding": "browser/chrome/en-GB/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/en-GB/locale/en-GB/", 
+        "autoconfig": "chrome/en-GB/locale/en-GB/autoconfig/", 
+        "devtools-shared": "browser/chrome/en-GB/locale/en-GB/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/en-GB/locale/en-GB/global-platform/win/", 
+          "android": "chrome/en-GB/locale/en-GB/global-platform/unix/", 
+          "macosx": "chrome/en-GB/locale/en-GB/global-platform/mac/", 
+          "linux": "chrome/en-GB/locale/en-GB/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/en-GB/locale/browser-region/", 
+        "mozapps": "chrome/en-GB/locale/en-GB/mozapps/", 
+        "pluginproblem": "chrome/en-GB/locale/en-GB/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/en-GB/locale/en-GB/", 
+        "weave": "chrome/en-GB/locale/en-GB/services/", 
+        "places": "chrome/en-GB/locale/en-GB/places/", 
+        "passwordmgr": "chrome/en-GB/locale/en-GB/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/en-GB/locale/en-GB/", 
+        "pippki": "chrome/en-GB/locale/en-GB/pippki/", 
+        "browser": "browser/chrome/en-GB/locale/browser/"
+      }, 
+      "version": "20190619112242"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-en-GB@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "en-GB", 
+  "version": "68.0buildid20190826132627", 
+  "name": "English (GB) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Mark Tyndall (contributors: David Bartlett, Constantine Murenin, Ian Neal)", 
+  "description": "Language pack for Firefox for en-GB"
+}

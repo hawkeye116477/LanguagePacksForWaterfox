@@ -1,0 +1,115 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "ბიბლიოთეკა">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "გამართვა">
+<!ENTITY organize.accesskey    "გ">
+<!ENTITY organize.tooltip      "დაალაგეთ თქვენი სანიშნები">
+
+<!ENTITY file.close.label               "დახურვა">
+<!ENTITY file.close.accesskey           "დ">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "ხედები">
+<!ENTITY views.accesskey                "ხ">
+<!ENTITY views.tooltip                  "შეცვალეთ ხედი">
+<!ENTITY view.columns.label             "სვეტების ჩვენება">
+<!ENTITY view.columns.accesskey         "ს">
+<!ENTITY view.sort.label                "დალაგება">
+<!ENTITY view.sort.accesskey            "ლ">
+<!ENTITY view.unsorted.label            "არეული">
+<!ENTITY view.unsorted.accesskey        "უ">
+<!ENTITY view.sortAscending.label       "აღმავალი წესით">
+<!ENTITY view.sortAscending.accesskey   "ა">
+<!ENTITY view.sortDescending.label      "დაღმავალი წესით">
+<!ENTITY view.sortDescending.accesskey  "დ">
+
+<!ENTITY importBookmarksFromHTML.label     "სანიშნების შემოტანა HTML ფაილიდან…">
+<!ENTITY importBookmarksFromHTML.accesskey "ტ">
+<!ENTITY exportBookmarksToHTML.label       "სანიშნების გატანა HTML ფაილად…">
+<!ENTITY exportBookmarksToHTML.accesskey   "გ">
+<!ENTITY importOtherBrowser.label          "მონაცემების გადმოტანა სხვა ბრაუზერიდან…">
+<!ENTITY importOtherBrowser.accesskey      "მ">
+
+<!ENTITY cmd.backup.label               "დამარქაფება…">
+<!ENTITY cmd.backup.accesskey           "დ">
+<!ENTITY cmd.restore2.label             "აღდგენა">
+<!ENTITY cmd.restore2.accesskey         "ღ">
+<!ENTITY cmd.restoreFromFile.label      "ფაილის არჩევა…">
+<!ENTITY cmd.restoreFromFile.accesskey  "ჩ">
+
+<!ENTITY cmd.deleteDomainData.label     "საიტის დავიწყება">
+<!ENTITY cmd.deleteDomainData.accesskey "დ">
+
+<!ENTITY cmd.open.label                  "გახსნა">
+<!ENTITY cmd.open.accesskey              "გ">
+<!ENTITY cmd.open_window.label           "გახსნა ახალ ფანჯარაში">
+<!ENTITY cmd.open_window.accesskey       "ფ">
+<!ENTITY cmd.open_private_window.label     "გახსნა ახალ პირად ფანჯარაში">
+<!ENTITY cmd.open_private_window.accesskey "პ">
+<!ENTITY cmd.open_tab.label              "გახსნა ახალ ჩანართში">
+<!ENTITY cmd.open_tab.accesskey          "ლ">
+<!ENTITY cmd.open_all_in_tabs.label      "ყველას გახსნა ჩანართებში">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "ყ">
+
+<!ENTITY cmd.properties.label      "თვისებები">
+<!ENTITY cmd.properties.accesskey  "თ">
+
+<!ENTITY cmd.sortby_name.label              "სახელით დალაგება">
+<!ENTITY cmd.sortby_name.accesskey          "დ">
+<!ENTITY cmd.context_sortby_name.accesskey  "ხ">
+
+<!ENTITY cmd.new_bookmark.label            "ახალი სანიშნი…">
+<!ENTITY cmd.new_bookmark.accesskey        "ს">
+<!ENTITY cmd.new_folder.label              "ახალი საქაღალდე…">
+<!ENTITY cmd.new_folder.accesskey          "ა">
+<!ENTITY cmd.context_new_folder.accesskey  "ქ">
+<!ENTITY cmd.new_separator.label           "ახალი გამყოფი">
+<!ENTITY cmd.new_separator.accesskey       "გ">
+
+<!ENTITY cmd.reloadLivebookmark.label      "პირდაპირი სანიშნის ხელახლა გახსნა">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "ნ">
+
+<!ENTITY col.name.label          "სახელი">
+<!ENTITY col.tags.label          "ჭდეები">
+<!ENTITY col.url.label           "მისამართი">
+<!ENTITY col.mostrecentvisit.label "ბოლო მონახულება">
+<!ENTITY col.visitcount.label    "ნახვები">
+<!ENTITY col.dateadded.label     "დამატების თარიღი">
+<!ENTITY col.lastmodified.label  "ბოლო ცვლილება">
+
+<!ENTITY historySearch.placeholder  "ძიება ისტორიაში">
+<!ENTITY bookmarksSearch.placeholder  "სანიშნების ძიება">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY maintenance.label      "შემოტანა და მარქაფი">
+<!ENTITY maintenance.accesskey  "შ">
+<!ENTITY maintenance.tooltip    "შემოიტანეთ და დაამარქაფეთ თქვენი სანიშნები">
+
+<!ENTITY backButton.tooltip  "უკან დაბრუნება">
+
+<!ENTITY forwardButton.tooltip  "გადასვლა წინ">
+
+<!ENTITY detailsPane.more.label "ვრცლად">
+<!ENTITY detailsPane.more.accesskey "ვ">
+<!ENTITY detailsPane.less.label "შემოკლებულად">
+<!ENTITY detailsPane.less.accesskey "ე">
+
+<!ENTITY detailsPane.selectAnItemText.description "შეარჩიეთ ელემენტი მისი პარამეტრების სანახავად და ჩასასწორებლად">
+
+<!ENTITY view.label               "ხედი">
+<!ENTITY view.accesskey           "ხ">
+<!ENTITY byDate.label             "თარიღი">
+<!ENTITY byDate.accesskey         "თ">
+<!ENTITY bySite.label             "საიტი">
+<!ENTITY bySite.accesskey         "ს">
+<!ENTITY byMostVisited.label      "ხშირად მონახულებული">
+<!ENTITY byMostVisited.accesskey  "მ">
+<!ENTITY byLastVisited.label      "ბოლოს მონახულებული">
+<!ENTITY byLastVisited.accesskey  "ბ">
+<!ENTITY byDayAndSite.label       "თარიღი და საიტი">
+<!ENTITY byDayAndSite.accesskey   "დ">

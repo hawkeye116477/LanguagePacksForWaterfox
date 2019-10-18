@@ -1,0 +1,179 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Moo zumandiyan šenday">
+<!ENTITY retry.label "Ceeci koyne">
+<!ENTITY returnToPreviousPage.label "Yee &amp;banda">
+<!ENTITY advanced.label "Jinekoyante">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Ši hin ka ciya">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Aderesoo ga dafandi">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Feršikaa ši duwandi">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Aderesoo ceeci ka firkawey hantum sanda <strong>ww</strong>.example.com manti <strong>www</strong>.example.com</li> <li>Nda war ši hin ka moɲey zumandi, war ordinateroo sankaa guna ciyari se.</li> <li>Nda war nuneceta wala war ordinateroo wala sankaa jejebu, w'alhakiika kaŋ &brandShortName; woo goo nda fondo ka huru interneti ra.</li> </ul>">
+
+<!ENTITY fileNotFound.title "Tuku mana diyandi">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Tuku maɲoo guna harfu beerandiyan wala hantum firkayaŋ še.</li> <li>Guna ka dii wala tukooo mana ganandi, maa-barmandi, wala tuusandi.</li> </ul>">
+
+<!ENTITY fileAccessDenied.title "Tukoo duuyanoo mongu">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>A hin ka tee kaŋ a n' ka hun, ka ganandi wala duɲeyaney ga ganji a ma duwandi.</li> </ul>">
+
+<!ENTITY generic.title "Jalla!">
+<!ENTITY generic.longDesc "Haya foo kaŋ ši nda fahami se, <p>&brandShortName; ši hin ka moɲoo woo zumandi.</p>">
+
+<!ENTITY captivePortal.title "Huru sankaa ra">
+<!ENTITY captivePortal.longDesc2 "<p>War mma hima ka huru sankaa woo ra jina hala war ma hin ka duu interneti.</p>">
+
+<!ENTITY openPortalLoginPage.label2 "Sankaa huruyan tammaasa moɲoo feeri">
+
+<!ENTITY malformedURI.title "Aderesoo woo ši boori">
+<!ENTITY malformedURI.longDesc "<ul> <li>Tataaru aderesey ši doona ka hantumandi sanda <strong>http://www.example.com/</strong></li> <li>War m'alhakiika kaŋ jine žeeri šiirante ši war hantumoo ra (maana ti <strong>/</strong>).</li> </ul>">
+
+<!ENTITY netInterrupt.title "Ciyaroo dunbu">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Takaddaa waatoo ben">
+<!ENTITY notCached.longDesc "<p>Takadda wirantaa ši bara &brandShortName; lanbari lakkaloo ra.</p><ul><li>Saajaw laasaabu ra, &brandShortName; ši sutura takadda wiri nga bonše.</li><li>Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.</li></ul>">
+
+<!ENTITY netOffline.title "Bila nda ciyari alhaali">
+<!ENTITY netOffline.longDesc2 "<ul> <li>&quot;Ceeci koyne&quot; naagu ka bere ciyari alhaali ga nda ka moɲoo zumandi taaga.</li> </ul>">
+
+<!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> </ul>">
+
+<!ENTITY unsafeContentType.title "Tuku dumi kaŋ ši nda naanay">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> </ul>">
+
+<!ENTITY netReset.title "Ciyaroo willi lasaloo ga">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Ciyari batuyan waatoo bisa">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "Aderesoo mana fahamandi">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>War ga hima ka goyjinaw waani foo sinji ka aderesoo feeri.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "Feršikaw tokoraa ga wanji ciyarey ga">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Guna wala tokore alhaaley k'alhakiika wal'i ga boori.</li> <li>War feršikaw juwalkaa hãa wala feršikaw tokoraa goo goy ra.</li> </ul>">
+
+<!ENTITY proxyResolveFailure.title "Mana hin ka duu feršikaw tokoraa">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Guna wala tokore alhaaley k'alhakiika wal'i ga boori.</li> <li>Guna wala war ordinateroo goo nda sankay ciyari goyante.</li> <li>Guna wala nuneceta wala tokore ga war ordinateroo wala sankaa jejebu, m'alhakiika wala &brandShortName; goo nda fondo ka huru tataaroo ra.</li> </ul>">
+
+<!ENTITY redirectLoop.title "Moɲoo woo ši ma bisandi taaga boryo">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Cee fooyaŋ šenday ga tee nda war na aleewawey kayandi wal'i hode.</li> </ul>">
+
+<!ENTITY unknownSocketType.title "Zaabi kaŋ mana hongandi hun feršikaa do">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Guna k'alhakiika wala boŋ-saajaw juwalkaw sinjandi.</li> <li>Woo sotoloo ga hin ka tee hanseyan dumi foo kaŋ fondaa ši hennay ga bara feršikaa ga.</li> </ul>">
+
+<!ENTITY nssFailure2.title "Ciyari saajante kay">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Moɲoo kaŋ war ga ceeci k'a guna ši hin ka cebandi zama bayhaya duwantey ši hin ka tabatandi</li> <li>Taare war interneti nungu koyey cee ka šendaa woo bayrandi i se.</li> </ul>">
+
+<!ENTITY certerror.longpagetitle1 "War ciyaroo manti saajante">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> koyoo mana nga interneti nungoo hanse ka boori.  Ka ganji war alhabaroo ma zayandi, &brandShortName; wanji ka dobu interneti nungoo woo ga.">
+
+<!ENTITY sharedLongDesc "<ul> <li>Nungoo ši duwandi waati foo, wala a goo goy warga ra. A ceeci koyne nd'a too kayna.</li> <li>Nda war mana hin ka moɲey zumandi, guna wala war ordinateroo sanka ga ciya.</li> <li>Nda nuneceta wala tokore ga war ordinateroo wala sankaa jejebu, w'alhakiika kaŋ goo &brandShortName; nda fondo ka huru tataaroo ra.</li> </ul>">
+
+<!ENTITY cspBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
+
+<!ENTITY corruptedContentErrorv2.title "Gundekuna laybante firka">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Moɲoo kaŋ war ga wiri ka dii ya ši hin ka cebandi zama firka maatandi bayhayey toonandiyanoo waate.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li></ul>">
+
+
+<!ENTITY securityOverride.exceptionButtonLabel "Hasaraw tonton…">
+
+<!ENTITY errorReporting.automatic2 "Firkawey bangandi ka Mozilla faaba ka dii nungu laaley nda k'i gagay">
+<!ENTITY errorReporting.learnMore "Bay ka tonton…">
+
+<!ENTITY remoteXUL.title "XUL moora">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungoo koyey se.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "Ši hin ka ciyari saajante tee">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Alhabar koyjinante: SSL_ERROR_UNSUPPORTED_VERSION">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; mana hin ka dobu <span id='wrongSystemTime_URL'/> ga zama war ordinateroo montoraa ga waati laala cebe, nd'a ga dobuyan saajante ganji.</p> <p>War ordinateroo n ka kayandi <span id='wrongSystemTime_systemDate'/> ga, waati kaŋ a ga hima ka tee <span id='wrongSystemTime_actualDate'/>. Ka layboo woo kaa, war han nda waati kayandiyaney barmay k'i tenjandi nda waati boryaa.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; mana hin ka dobu <span id='wrongSystemTimeWithoutReference_URL'/> ga zama war ordinateroo montoraa ga waati laala cebe, nd'a ga dobuyan saajante ganji.</p> <p>War ordinateroo n ka kayandi <span id='wrongSystemTimeWithoutReference_systemDate'/> ga. Ka layboo woo kaa, war han nda waati kayandiyaney barmay k'i tenjandi nda waati boryaa.</p>">
+
+<!ENTITY certerror.pagetitle1  "Manti ciyari saajante">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Nungoo woo ga goy nda HTTP Strict Transport Security (HSTS) ka tabatandi kaŋ &brandShortName; ka ciya saajante hinne tee a ga. Woo sabboo ra, boro ši hin ka hasaraw tonton tabatiyan-tiiraa woo se.">
+<!ENTITY certerror.copyToClipboard.label "Hantumoo berandi deeji-walhaa ga">
+
+<!ENTITY inadequateSecurityError.title "War ciyaroo manti saajante">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ga goy nda dabaribayray kaŋ žen nd'a ga yalaafu zanbakey se. A ga faala zanbakaw se a ma hin ka alhabar kaŋ war ga tammahãa a ga saajaw fukkar. Interneti nungu juwalkaa mma hima ka feršikaa hanse jina hala war ma ma nungoo guna.</p><p>Firka tammaasa: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc "A ga him sanda war sankay saajaw kayandiyaney mma woo tee. War ga boona kaŋ tilasu kayandiyaney ma yeeti?">
+<!ENTITY prefReset.label "Tilasu kayandiyaney yeeti">
+
+<!ENTITY returnToPreviousPage1.label "Go Back (Recommended)">
+<!ENTITY advanced2.label "Advanced…">
+<!ENTITY viewCertificate.label "View Certificate">
+<!ENTITY dnsNotFound.pageTitle "Server Not Found">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. We’re having trouble finding that site.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>If that address is correct, here are three other things you can try:</strong>
+<ul>
+  <li>Try again later.</li>
+  <li>Check your network connection.</li>
+  <li>If you are connected but behind a firewall, check that &brandShortName; has permission to access the Web.</li>
+</ul>
+">
+<!ENTITY malformedURI.pageTitle "Invalid URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. That address doesn’t look right.">
+<!ENTITY certerror.longpagetitle2 "Warning: Potential Security Risk Ahead">
+<!ENTITY certerror.sts.longpagetitle  "Did Not Connect: Potential Security Issue">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/>. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
+<!ENTITY certerror.sts.introPara "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/> because this website requires a secure connection.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; detected an issue and did not continue to <span class='hostname'/>. The website is either misconfigured or your computer clock is set to the wrong time.">
+<!ENTITY certerror.expiredCert.secondPara2 "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
+<!ENTITY certerror.expiredCert.sts.secondPara "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely.">
+<!ENTITY certerror.whatCanYouDoAboutItTitle "What can you do about it?">
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>The issue is most likely with the website, and there is nothing you can do to resolve it.</p>
+<p>If you are on a corporate network or using anti-virus software, you can reach out to the support teams for assistance. You can also notify the website’s administrator about the problem.</p>
+">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Your computer clock is set to <span id='wrongSystemTime_systemDate2'/>. Make sure your computer is set to the correct date, time, and time zone in your system settings, and then refresh <span class='hostname'/>.</p>
+<p>If your clock is already set to the right time, the website is likely misconfigured, and there is nothing you can do to resolve the issue. You can notify the website’s administrator about the problem.</p>
+">
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>The issue is most likely with the website, and there is nothing you can do to resolve it. You can notify the website’s administrator about the problem.</p>
+">
+<!ENTITY securityOverride.exceptionButton1Label "Accept the Risk and Continue">
+<!ENTITY certerror.pagetitle2  "Warning: Potential Security Risk Ahead">
+<!ENTITY certerror.sts.pagetitle  "Did Not Connect: Potential Security Issue">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> has a security policy called HTTP Strict Transport Security (HSTS), which means that &brandShortName; can only connect to it securely. You can’t add an exception to visit this site.">
+<!ENTITY blockedByPolicy.title "Blocked Page">
+<!ENTITY certerror.mitm.title "Software is Preventing &brandShortName; From Safely Connecting to This Site">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> is most likely a safe site, but a secure connection could not be established. This issue is caused by <span class='mitm-name'/>, which is either software on your computer or your network.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "If your antivirus software includes a feature that scans encrypted connections (often called “web scanning” or “https scanning”), you can disable that feature. If that doesn’t work, you can remove and reinstall the antivirus software.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "If you are on a corporate network, you can contact your IT department.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack and you should not continue to the site.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack, and there is nothing you can do to access the site.">
+<!ENTITY clockSkewError.title "Your Computer Clock is Wrong">
+<!ENTITY clockSkewError.longDesc "Your computer thinks it is <span id='wrongSystemTime_systemDate1'/>, which prevents &brandShortName; from connecting securely. To visit <span class='hostname'></span>, update your computer clock in your system settings to the current date, time, and time zone, and then refresh <span class='hostname'></span>.">
+<!ENTITY networkProtocolError.title "Network Protocol Error">
+<!ENTITY networkProtocolError.longDesc "<p>The page you are trying to view cannot be shown because an error in the network protocol was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">

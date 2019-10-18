@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "pl": {
+      "chrome_resources": {
+        "necko": "chrome/pl/locale/pl/necko/", 
+        "pdf.js": "browser/chrome/pl/locale/pdfviewer/", 
+        "global": "chrome/pl/locale/pl/global/", 
+        "devtools": "browser/chrome/pl/locale/pl/devtools/client/", 
+        "pipnss": "chrome/pl/locale/pl/pipnss/", 
+        "alerts": "chrome/pl/locale/pl/alerts/", 
+        "devtools-startup": "browser/chrome/pl/locale/pl/devtools/startup/", 
+        "branding": "browser/chrome/pl/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/pl/locale/pl/", 
+        "autoconfig": "chrome/pl/locale/pl/autoconfig/", 
+        "devtools-shared": "browser/chrome/pl/locale/pl/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/pl/locale/pl/global-platform/win/", 
+          "android": "chrome/pl/locale/pl/global-platform/unix/", 
+          "macosx": "chrome/pl/locale/pl/global-platform/mac/", 
+          "linux": "chrome/pl/locale/pl/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/pl/locale/browser-region/", 
+        "mozapps": "chrome/pl/locale/pl/mozapps/", 
+        "pluginproblem": "chrome/pl/locale/pl/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/pl/locale/pl/", 
+        "weave": "chrome/pl/locale/pl/services/", 
+        "places": "chrome/pl/locale/pl/places/", 
+        "passwordmgr": "chrome/pl/locale/pl/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/pl/locale/pl/", 
+        "pippki": "chrome/pl/locale/pl/pippki/", 
+        "browser": "browser/chrome/pl/locale/browser/"
+      }, 
+      "version": "20190620141410"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-pl@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "pl", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Polski Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Aviary.pl (contributors: Aviary.pl, Zbigniew Braniecki, Marek Stępień, Piotr Komoda, Marek Wawoczny, Piotr Bartecki, Kornel Misiejuk, Wadim Dziedzic, Stefan Plewako)", 
+  "description": "Language pack for Firefox for pl"
+}

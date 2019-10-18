@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "bn": {
+      "chrome_resources": {
+        "necko": "chrome/bn/locale/bn/necko/", 
+        "pdf.js": "browser/chrome/bn/locale/pdfviewer/", 
+        "global": "chrome/bn/locale/bn/global/", 
+        "devtools": "browser/chrome/bn/locale/bn/devtools/client/", 
+        "pipnss": "chrome/bn/locale/bn/pipnss/", 
+        "alerts": "chrome/bn/locale/bn/alerts/", 
+        "devtools-startup": "browser/chrome/bn/locale/bn/devtools/startup/", 
+        "branding": "browser/chrome/bn/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/bn/locale/bn/", 
+        "autoconfig": "chrome/bn/locale/bn/autoconfig/", 
+        "devtools-shared": "browser/chrome/bn/locale/bn/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/bn/locale/bn/global-platform/win/", 
+          "android": "chrome/bn/locale/bn/global-platform/unix/", 
+          "macosx": "chrome/bn/locale/bn/global-platform/mac/", 
+          "linux": "chrome/bn/locale/bn/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/bn/locale/browser-region/", 
+        "mozapps": "chrome/bn/locale/bn/mozapps/", 
+        "pluginproblem": "chrome/bn/locale/bn/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/bn/locale/bn/", 
+        "weave": "chrome/bn/locale/bn/services/", 
+        "places": "chrome/bn/locale/bn/places/", 
+        "passwordmgr": "chrome/bn/locale/bn/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/bn/locale/bn/", 
+        "pippki": "chrome/bn/locale/bn/pippki/", 
+        "browser": "browser/chrome/bn/locale/browser/"
+      }, 
+      "version": "20190625043906"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-bn@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "bn", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Bengali (Bangladesh) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Zobayer Ahmed Khan, Mahay Alam Khan)", 
+  "description": "Language pack for Firefox for bn"
+}

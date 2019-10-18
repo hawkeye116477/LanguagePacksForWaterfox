@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "tr": {
+      "chrome_resources": {
+        "necko": "chrome/tr/locale/tr/necko/", 
+        "pdf.js": "browser/chrome/tr/locale/pdfviewer/", 
+        "global": "chrome/tr/locale/tr/global/", 
+        "devtools": "browser/chrome/tr/locale/tr/devtools/client/", 
+        "pipnss": "chrome/tr/locale/tr/pipnss/", 
+        "alerts": "chrome/tr/locale/tr/alerts/", 
+        "devtools-startup": "browser/chrome/tr/locale/tr/devtools/startup/", 
+        "branding": "browser/chrome/tr/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/tr/locale/tr/", 
+        "autoconfig": "chrome/tr/locale/tr/autoconfig/", 
+        "devtools-shared": "browser/chrome/tr/locale/tr/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/tr/locale/tr/global-platform/win/", 
+          "android": "chrome/tr/locale/tr/global-platform/unix/", 
+          "macosx": "chrome/tr/locale/tr/global-platform/mac/", 
+          "linux": "chrome/tr/locale/tr/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/tr/locale/browser-region/", 
+        "mozapps": "chrome/tr/locale/tr/mozapps/", 
+        "pluginproblem": "chrome/tr/locale/tr/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/tr/locale/tr/", 
+        "weave": "chrome/tr/locale/tr/services/", 
+        "places": "chrome/tr/locale/tr/places/", 
+        "passwordmgr": "chrome/tr/locale/tr/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/tr/locale/tr/", 
+        "pippki": "chrome/tr/locale/tr/pippki/", 
+        "browser": "browser/chrome/tr/locale/browser/"
+      }, 
+      "version": "20190625213447"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-tr@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "tr", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Türkçe (TR) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org.tr (contributors: Mozilla Türkiye Yerelleştirme Takımı)", 
+  "description": "Language pack for Firefox for tr"
+}

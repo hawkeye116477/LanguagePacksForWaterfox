@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "dsb": {
+      "chrome_resources": {
+        "necko": "chrome/dsb/locale/dsb/necko/", 
+        "pdf.js": "browser/chrome/dsb/locale/pdfviewer/", 
+        "global": "chrome/dsb/locale/dsb/global/", 
+        "devtools": "browser/chrome/dsb/locale/dsb/devtools/client/", 
+        "pipnss": "chrome/dsb/locale/dsb/pipnss/", 
+        "alerts": "chrome/dsb/locale/dsb/alerts/", 
+        "devtools-startup": "browser/chrome/dsb/locale/dsb/devtools/startup/", 
+        "branding": "browser/chrome/dsb/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/dsb/locale/dsb/", 
+        "autoconfig": "chrome/dsb/locale/dsb/autoconfig/", 
+        "devtools-shared": "browser/chrome/dsb/locale/dsb/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/dsb/locale/dsb/global-platform/win/", 
+          "android": "chrome/dsb/locale/dsb/global-platform/unix/", 
+          "macosx": "chrome/dsb/locale/dsb/global-platform/mac/", 
+          "linux": "chrome/dsb/locale/dsb/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/dsb/locale/browser-region/", 
+        "mozapps": "chrome/dsb/locale/dsb/mozapps/", 
+        "pluginproblem": "chrome/dsb/locale/dsb/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/dsb/locale/dsb/", 
+        "weave": "chrome/dsb/locale/dsb/services/", 
+        "places": "chrome/dsb/locale/dsb/places/", 
+        "passwordmgr": "chrome/dsb/locale/dsb/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/dsb/locale/dsb/", 
+        "pippki": "chrome/dsb/locale/dsb/pippki/", 
+        "browser": "browser/chrome/dsb/locale/browser/"
+      }, 
+      "version": "20190619221324"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-dsb@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "dsb", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Dolnoserbšćina Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Michael Wolf (contributors: Michael Wolf)", 
+  "description": "Language pack for Firefox for dsb"
+}

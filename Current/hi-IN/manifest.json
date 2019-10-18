@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "hi-IN": {
+      "chrome_resources": {
+        "necko": "chrome/hi-IN/locale/hi-IN/necko/", 
+        "pdf.js": "browser/chrome/hi-IN/locale/pdfviewer/", 
+        "global": "chrome/hi-IN/locale/hi-IN/global/", 
+        "devtools": "browser/chrome/hi-IN/locale/hi-IN/devtools/client/", 
+        "pipnss": "chrome/hi-IN/locale/hi-IN/pipnss/", 
+        "alerts": "chrome/hi-IN/locale/hi-IN/alerts/", 
+        "devtools-startup": "browser/chrome/hi-IN/locale/hi-IN/devtools/startup/", 
+        "branding": "browser/chrome/hi-IN/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/hi-IN/locale/hi-IN/", 
+        "autoconfig": "chrome/hi-IN/locale/hi-IN/autoconfig/", 
+        "devtools-shared": "browser/chrome/hi-IN/locale/hi-IN/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/hi-IN/locale/hi-IN/global-platform/win/", 
+          "android": "chrome/hi-IN/locale/hi-IN/global-platform/unix/", 
+          "macosx": "chrome/hi-IN/locale/hi-IN/global-platform/mac/", 
+          "linux": "chrome/hi-IN/locale/hi-IN/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/hi-IN/locale/browser-region/", 
+        "mozapps": "chrome/hi-IN/locale/hi-IN/mozapps/", 
+        "pluginproblem": "chrome/hi-IN/locale/hi-IN/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/hi-IN/locale/hi-IN/", 
+        "weave": "chrome/hi-IN/locale/hi-IN/services/", 
+        "places": "chrome/hi-IN/locale/hi-IN/places/", 
+        "passwordmgr": "chrome/hi-IN/locale/hi-IN/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/hi-IN/locale/hi-IN/", 
+        "pippki": "chrome/hi-IN/locale/hi-IN/pippki/", 
+        "browser": "browser/chrome/hi-IN/locale/browser/"
+      }, 
+      "version": "20190626063503"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-hi-IN@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "hi-IN", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Hindi Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Rajesh Ranjan, Vaibhav Agarwal)", 
+  "description": "Language pack for Firefox for hi-IN"
+}

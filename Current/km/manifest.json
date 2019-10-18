@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "km": {
+      "chrome_resources": {
+        "necko": "chrome/km/locale/km/necko/", 
+        "pdf.js": "browser/chrome/km/locale/pdfviewer/", 
+        "global": "chrome/km/locale/km/global/", 
+        "devtools": "browser/chrome/km/locale/km/devtools/client/", 
+        "pipnss": "chrome/km/locale/km/pipnss/", 
+        "alerts": "chrome/km/locale/km/alerts/", 
+        "devtools-startup": "browser/chrome/km/locale/km/devtools/startup/", 
+        "branding": "browser/chrome/km/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/km/locale/km/", 
+        "autoconfig": "chrome/km/locale/km/autoconfig/", 
+        "devtools-shared": "browser/chrome/km/locale/km/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/km/locale/km/global-platform/win/", 
+          "android": "chrome/km/locale/km/global-platform/unix/", 
+          "macosx": "chrome/km/locale/km/global-platform/mac/", 
+          "linux": "chrome/km/locale/km/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/km/locale/browser-region/", 
+        "mozapps": "chrome/km/locale/km/mozapps/", 
+        "pluginproblem": "chrome/km/locale/km/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/km/locale/km/", 
+        "weave": "chrome/km/locale/km/services/", 
+        "places": "chrome/km/locale/km/places/", 
+        "passwordmgr": "chrome/km/locale/km/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/km/locale/km/", 
+        "pippki": "chrome/km/locale/km/pippki/", 
+        "browser": "browser/chrome/km/locale/browser/"
+      }, 
+      "version": "20190603073712"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-km@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "km", 
+  "version": "68.0buildid20190826132627", 
+  "name": "ខ្មែរ Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "ខ្មែរ (km) (contributors: Eng Vannak, Khoem Sokhem, Seng Sutha, Sok Sophea, Morn Met, Chank Sambathratanak)", 
+  "description": "Language pack for Firefox for km"
+}

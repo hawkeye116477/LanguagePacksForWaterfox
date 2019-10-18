@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "ko": {
+      "chrome_resources": {
+        "necko": "chrome/ko/locale/ko/necko/", 
+        "pdf.js": "browser/chrome/ko/locale/pdfviewer/", 
+        "global": "chrome/ko/locale/ko/global/", 
+        "devtools": "browser/chrome/ko/locale/ko/devtools/client/", 
+        "pipnss": "chrome/ko/locale/ko/pipnss/", 
+        "alerts": "chrome/ko/locale/ko/alerts/", 
+        "devtools-startup": "browser/chrome/ko/locale/ko/devtools/startup/", 
+        "branding": "browser/chrome/ko/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/ko/locale/ko/", 
+        "autoconfig": "chrome/ko/locale/ko/autoconfig/", 
+        "devtools-shared": "browser/chrome/ko/locale/ko/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/ko/locale/ko/global-platform/win/", 
+          "android": "chrome/ko/locale/ko/global-platform/unix/", 
+          "macosx": "chrome/ko/locale/ko/global-platform/mac/", 
+          "linux": "chrome/ko/locale/ko/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/ko/locale/browser-region/", 
+        "mozapps": "chrome/ko/locale/ko/mozapps/", 
+        "pluginproblem": "chrome/ko/locale/ko/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/ko/locale/ko/", 
+        "weave": "chrome/ko/locale/ko/services/", 
+        "places": "chrome/ko/locale/ko/places/", 
+        "passwordmgr": "chrome/ko/locale/ko/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/ko/locale/ko/", 
+        "pippki": "chrome/ko/locale/ko/pippki/", 
+        "browser": "browser/chrome/ko/locale/browser/"
+      }, 
+      "version": "20190625043932"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-ko@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "ko", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Korean (KR) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "한글 Mozilla 프로젝트(mozilla.or.kr) (contributors: Seokchan Yun, JoungKyun Kim)", 
+  "description": "Language pack for Firefox for ko"
+}

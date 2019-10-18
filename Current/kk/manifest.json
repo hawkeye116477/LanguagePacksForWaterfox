@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "kk": {
+      "chrome_resources": {
+        "necko": "chrome/kk/locale/kk/necko/", 
+        "pdf.js": "browser/chrome/kk/locale/pdfviewer/", 
+        "global": "chrome/kk/locale/kk/global/", 
+        "devtools": "browser/chrome/kk/locale/kk/devtools/client/", 
+        "pipnss": "chrome/kk/locale/kk/pipnss/", 
+        "alerts": "chrome/kk/locale/kk/alerts/", 
+        "devtools-startup": "browser/chrome/kk/locale/kk/devtools/startup/", 
+        "branding": "browser/chrome/kk/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/kk/locale/kk/", 
+        "autoconfig": "chrome/kk/locale/kk/autoconfig/", 
+        "devtools-shared": "browser/chrome/kk/locale/kk/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/kk/locale/kk/global-platform/win/", 
+          "android": "chrome/kk/locale/kk/global-platform/unix/", 
+          "macosx": "chrome/kk/locale/kk/global-platform/mac/", 
+          "linux": "chrome/kk/locale/kk/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/kk/locale/browser-region/", 
+        "mozapps": "chrome/kk/locale/kk/mozapps/", 
+        "pluginproblem": "chrome/kk/locale/kk/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/kk/locale/kk/", 
+        "weave": "chrome/kk/locale/kk/services/", 
+        "places": "chrome/kk/locale/kk/places/", 
+        "passwordmgr": "chrome/kk/locale/kk/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/kk/locale/kk/", 
+        "pippki": "chrome/kk/locale/kk/pippki/", 
+        "browser": "browser/chrome/kk/locale/browser/"
+      }, 
+      "version": "20190626063521"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-kk@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "kk", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Kazakh (KZ) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "linuxforum.kz (contributors: Baurzhan Muftakhidinov, Timur Timirkhanov, Zhanbolat Satybaldinov, Dauren Sarsenov)", 
+  "description": "Language pack for Firefox for kk"
+}

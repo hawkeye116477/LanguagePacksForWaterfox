@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "xh": {
+      "chrome_resources": {
+        "necko": "chrome/xh/locale/xh/necko/", 
+        "pdf.js": "browser/chrome/xh/locale/pdfviewer/", 
+        "global": "chrome/xh/locale/xh/global/", 
+        "devtools": "browser/chrome/xh/locale/xh/devtools/client/", 
+        "pipnss": "chrome/xh/locale/xh/pipnss/", 
+        "alerts": "chrome/xh/locale/xh/alerts/", 
+        "devtools-startup": "browser/chrome/xh/locale/xh/devtools/startup/", 
+        "branding": "browser/chrome/xh/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/xh/locale/xh/", 
+        "autoconfig": "chrome/xh/locale/xh/autoconfig/", 
+        "devtools-shared": "browser/chrome/xh/locale/xh/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/xh/locale/xh/global-platform/win/", 
+          "android": "chrome/xh/locale/xh/global-platform/unix/", 
+          "macosx": "chrome/xh/locale/xh/global-platform/mac/", 
+          "linux": "chrome/xh/locale/xh/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/xh/locale/browser-region/", 
+        "mozapps": "chrome/xh/locale/xh/mozapps/", 
+        "pluginproblem": "chrome/xh/locale/xh/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/xh/locale/xh/", 
+        "weave": "chrome/xh/locale/xh/services/", 
+        "places": "chrome/xh/locale/xh/places/", 
+        "passwordmgr": "chrome/xh/locale/xh/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/xh/locale/xh/", 
+        "pippki": "chrome/xh/locale/xh/pippki/", 
+        "browser": "browser/chrome/xh/locale/browser/"
+      }, 
+      "version": "20190603075109"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-xh@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "xh", 
+  "version": "68.0buildid20190826132627", 
+  "name": "IsiXhosa Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Translate.org.za (contributors: Rubric, Translate.org.za)", 
+  "description": "Language pack for Firefox for xh"
+}

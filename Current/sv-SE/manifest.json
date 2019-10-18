@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "sv-SE": {
+      "chrome_resources": {
+        "necko": "chrome/sv-SE/locale/sv-SE/necko/", 
+        "pdf.js": "browser/chrome/sv-SE/locale/pdfviewer/", 
+        "global": "chrome/sv-SE/locale/sv-SE/global/", 
+        "devtools": "browser/chrome/sv-SE/locale/sv-SE/devtools/client/", 
+        "pipnss": "chrome/sv-SE/locale/sv-SE/pipnss/", 
+        "alerts": "chrome/sv-SE/locale/sv-SE/alerts/", 
+        "devtools-startup": "browser/chrome/sv-SE/locale/sv-SE/devtools/startup/", 
+        "branding": "browser/chrome/sv-SE/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/sv-SE/locale/sv-SE/", 
+        "autoconfig": "chrome/sv-SE/locale/sv-SE/autoconfig/", 
+        "devtools-shared": "browser/chrome/sv-SE/locale/sv-SE/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/sv-SE/locale/sv-SE/global-platform/win/", 
+          "android": "chrome/sv-SE/locale/sv-SE/global-platform/unix/", 
+          "macosx": "chrome/sv-SE/locale/sv-SE/global-platform/mac/", 
+          "linux": "chrome/sv-SE/locale/sv-SE/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/sv-SE/locale/browser-region/", 
+        "mozapps": "chrome/sv-SE/locale/sv-SE/mozapps/", 
+        "pluginproblem": "chrome/sv-SE/locale/sv-SE/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/sv-SE/locale/sv-SE/", 
+        "weave": "chrome/sv-SE/locale/sv-SE/services/", 
+        "places": "chrome/sv-SE/locale/sv-SE/places/", 
+        "passwordmgr": "chrome/sv-SE/locale/sv-SE/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/sv-SE/locale/sv-SE/", 
+        "pippki": "chrome/sv-SE/locale/sv-SE/pippki/", 
+        "browser": "browser/chrome/sv-SE/locale/browser/"
+      }, 
+      "version": "20190626181355"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-sv-SE@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "sv-SE", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Svenska (SE) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Mozilla-sv (contributors: Luna Jernberg, Andreas Pettersson)", 
+  "description": "Language pack for Firefox for sv-SE"
+}

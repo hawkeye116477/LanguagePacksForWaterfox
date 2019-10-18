@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "es-MX": {
+      "chrome_resources": {
+        "necko": "chrome/es-MX/locale/es-MX/necko/", 
+        "pdf.js": "browser/chrome/es-MX/locale/pdfviewer/", 
+        "global": "chrome/es-MX/locale/es-MX/global/", 
+        "devtools": "browser/chrome/es-MX/locale/es-MX/devtools/client/", 
+        "pipnss": "chrome/es-MX/locale/es-MX/pipnss/", 
+        "alerts": "chrome/es-MX/locale/es-MX/alerts/", 
+        "devtools-startup": "browser/chrome/es-MX/locale/es-MX/devtools/startup/", 
+        "branding": "browser/chrome/es-MX/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/es-MX/locale/es-MX/", 
+        "autoconfig": "chrome/es-MX/locale/es-MX/autoconfig/", 
+        "devtools-shared": "browser/chrome/es-MX/locale/es-MX/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/es-MX/locale/es-MX/global-platform/win/", 
+          "android": "chrome/es-MX/locale/es-MX/global-platform/unix/", 
+          "macosx": "chrome/es-MX/locale/es-MX/global-platform/mac/", 
+          "linux": "chrome/es-MX/locale/es-MX/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/es-MX/locale/browser-region/", 
+        "mozapps": "chrome/es-MX/locale/es-MX/mozapps/", 
+        "pluginproblem": "chrome/es-MX/locale/es-MX/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/es-MX/locale/es-MX/", 
+        "weave": "chrome/es-MX/locale/es-MX/services/", 
+        "places": "chrome/es-MX/locale/es-MX/places/", 
+        "passwordmgr": "chrome/es-MX/locale/es-MX/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/es-MX/locale/es-MX/", 
+        "pippki": "chrome/es-MX/locale/es-MX/pippki/", 
+        "browser": "browser/chrome/es-MX/locale/browser/"
+      }, 
+      "version": "20190619112323"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-es-MX@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "es-MX", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Español (México) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Mozilla M&#233;xico &#40;Responsable: Mauricio Navarro&#41;)", 
+  "description": "Language pack for Firefox for es-MX"
+}

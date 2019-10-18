@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "rm": {
+      "chrome_resources": {
+        "necko": "chrome/rm/locale/rm/necko/", 
+        "pdf.js": "browser/chrome/rm/locale/pdfviewer/", 
+        "global": "chrome/rm/locale/rm/global/", 
+        "devtools": "browser/chrome/rm/locale/rm/devtools/client/", 
+        "pipnss": "chrome/rm/locale/rm/pipnss/", 
+        "alerts": "chrome/rm/locale/rm/alerts/", 
+        "devtools-startup": "browser/chrome/rm/locale/rm/devtools/startup/", 
+        "branding": "browser/chrome/rm/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/rm/locale/rm/", 
+        "autoconfig": "chrome/rm/locale/rm/autoconfig/", 
+        "devtools-shared": "browser/chrome/rm/locale/rm/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/rm/locale/rm/global-platform/win/", 
+          "android": "chrome/rm/locale/rm/global-platform/unix/", 
+          "macosx": "chrome/rm/locale/rm/global-platform/mac/", 
+          "linux": "chrome/rm/locale/rm/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/rm/locale/browser-region/", 
+        "mozapps": "chrome/rm/locale/rm/mozapps/", 
+        "pluginproblem": "chrome/rm/locale/rm/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/rm/locale/rm/", 
+        "weave": "chrome/rm/locale/rm/services/", 
+        "places": "chrome/rm/locale/rm/places/", 
+        "passwordmgr": "chrome/rm/locale/rm/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/rm/locale/rm/", 
+        "pippki": "chrome/rm/locale/rm/pippki/", 
+        "browser": "browser/chrome/rm/locale/browser/"
+      }, 
+      "version": "20190619113127"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-rm@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "rm", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Rumantsch Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Martin Cantieni, Gion-Andri Cantieni, Sara Hermann, cordial sustegn da la Lia Rumantscha)", 
+  "description": "Language pack for Firefox for rm"
+}

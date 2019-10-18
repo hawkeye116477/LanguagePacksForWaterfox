@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "bs": {
+      "chrome_resources": {
+        "necko": "chrome/bs/locale/bs/necko/", 
+        "pdf.js": "browser/chrome/bs/locale/pdfviewer/", 
+        "global": "chrome/bs/locale/bs/global/", 
+        "devtools": "browser/chrome/bs/locale/bs/devtools/client/", 
+        "pipnss": "chrome/bs/locale/bs/pipnss/", 
+        "alerts": "chrome/bs/locale/bs/alerts/", 
+        "devtools-startup": "browser/chrome/bs/locale/bs/devtools/startup/", 
+        "branding": "browser/chrome/bs/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/bs/locale/bs/", 
+        "autoconfig": "chrome/bs/locale/bs/autoconfig/", 
+        "devtools-shared": "browser/chrome/bs/locale/bs/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/bs/locale/bs/global-platform/win/", 
+          "android": "chrome/bs/locale/bs/global-platform/unix/", 
+          "macosx": "chrome/bs/locale/bs/global-platform/mac/", 
+          "linux": "chrome/bs/locale/bs/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/bs/locale/browser-region/", 
+        "mozapps": "chrome/bs/locale/bs/mozapps/", 
+        "pluginproblem": "chrome/bs/locale/bs/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/bs/locale/bs/", 
+        "weave": "chrome/bs/locale/bs/services/", 
+        "places": "chrome/bs/locale/bs/places/", 
+        "passwordmgr": "chrome/bs/locale/bs/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/bs/locale/bs/", 
+        "pippki": "chrome/bs/locale/bs/pippki/", 
+        "browser": "browser/chrome/bs/locale/browser/"
+      }, 
+      "version": "20190607163424"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-bs@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "bs", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Bosanski Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.ba (contributors: Kerim Kalamujić, Muris Herak, Alma Granov, Lejla Selimović, Kenan Dervišević)", 
+  "description": "Language pack for Firefox for bs"
+}

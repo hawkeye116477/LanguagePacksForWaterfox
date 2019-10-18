@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "de": {
+      "chrome_resources": {
+        "necko": "chrome/de/locale/de/necko/", 
+        "pdf.js": "browser/chrome/de/locale/pdfviewer/", 
+        "global": "chrome/de/locale/de/global/", 
+        "devtools": "browser/chrome/de/locale/de/devtools/client/", 
+        "pipnss": "chrome/de/locale/de/pipnss/", 
+        "alerts": "chrome/de/locale/de/alerts/", 
+        "devtools-startup": "browser/chrome/de/locale/de/devtools/startup/", 
+        "branding": "browser/chrome/de/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/de/locale/de/", 
+        "autoconfig": "chrome/de/locale/de/autoconfig/", 
+        "devtools-shared": "browser/chrome/de/locale/de/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/de/locale/de/global-platform/win/", 
+          "android": "chrome/de/locale/de/global-platform/unix/", 
+          "macosx": "chrome/de/locale/de/global-platform/mac/", 
+          "linux": "chrome/de/locale/de/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/de/locale/browser-region/", 
+        "mozapps": "chrome/de/locale/de/mozapps/", 
+        "pluginproblem": "chrome/de/locale/de/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/de/locale/de/", 
+        "weave": "chrome/de/locale/de/services/", 
+        "places": "chrome/de/locale/de/places/", 
+        "passwordmgr": "chrome/de/locale/de/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/de/locale/de/", 
+        "pippki": "chrome/de/locale/de/pippki/", 
+        "browser": "browser/chrome/de/locale/browser/"
+      }, 
+      "version": "20190628033743"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-de@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "de", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Deutsch (DE) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Sebastian Hengst (contributors: Robert Kaiser, Abdulkadir Topal)", 
+  "description": "Language pack for Firefox for de"
+}

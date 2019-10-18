@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "it": {
+      "chrome_resources": {
+        "necko": "chrome/it/locale/it/necko/", 
+        "pdf.js": "browser/chrome/it/locale/pdfviewer/", 
+        "global": "chrome/it/locale/it/global/", 
+        "devtools": "browser/chrome/it/locale/it/devtools/client/", 
+        "pipnss": "chrome/it/locale/it/pipnss/", 
+        "alerts": "chrome/it/locale/it/alerts/", 
+        "devtools-startup": "browser/chrome/it/locale/it/devtools/startup/", 
+        "branding": "browser/chrome/it/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/it/locale/it/", 
+        "autoconfig": "chrome/it/locale/it/autoconfig/", 
+        "devtools-shared": "browser/chrome/it/locale/it/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/it/locale/it/global-platform/win/", 
+          "android": "chrome/it/locale/it/global-platform/unix/", 
+          "macosx": "chrome/it/locale/it/global-platform/mac/", 
+          "linux": "chrome/it/locale/it/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/it/locale/browser-region/", 
+        "mozapps": "chrome/it/locale/it/mozapps/", 
+        "pluginproblem": "chrome/it/locale/it/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/it/locale/it/", 
+        "weave": "chrome/it/locale/it/services/", 
+        "places": "chrome/it/locale/it/places/", 
+        "passwordmgr": "chrome/it/locale/it/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/it/locale/it/", 
+        "pippki": "chrome/it/locale/it/pippki/", 
+        "browser": "browser/chrome/it/locale/browser/"
+      }, 
+      "version": "20190626062426"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-it@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "it", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Italiano (IT) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozillaitalia.org - Francesco Lodolo (contributors: Associazione Italiana Supporto e Traduzione Mozilla, Francesco Lodolo, Iacopo Benesperi, Michele Dal Corso, Sandro Della Giustina, Simone Lando, Giacomo Magnini, Giuliano Masseroni)", 
+  "description": "Language pack for Firefox for it"
+}

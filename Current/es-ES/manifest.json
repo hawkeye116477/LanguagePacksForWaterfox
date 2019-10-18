@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "es-ES": {
+      "chrome_resources": {
+        "necko": "chrome/es-ES/locale/es-ES/necko/", 
+        "pdf.js": "browser/chrome/es-ES/locale/pdfviewer/", 
+        "global": "chrome/es-ES/locale/es-ES/global/", 
+        "devtools": "browser/chrome/es-ES/locale/es-ES/devtools/client/", 
+        "pipnss": "chrome/es-ES/locale/es-ES/pipnss/", 
+        "alerts": "chrome/es-ES/locale/es-ES/alerts/", 
+        "devtools-startup": "browser/chrome/es-ES/locale/es-ES/devtools/startup/", 
+        "branding": "browser/chrome/es-ES/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/es-ES/locale/es-ES/", 
+        "autoconfig": "chrome/es-ES/locale/es-ES/autoconfig/", 
+        "devtools-shared": "browser/chrome/es-ES/locale/es-ES/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/es-ES/locale/es-ES/global-platform/win/", 
+          "android": "chrome/es-ES/locale/es-ES/global-platform/unix/", 
+          "macosx": "chrome/es-ES/locale/es-ES/global-platform/mac/", 
+          "linux": "chrome/es-ES/locale/es-ES/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/es-ES/locale/browser-region/", 
+        "mozapps": "chrome/es-ES/locale/es-ES/mozapps/", 
+        "pluginproblem": "chrome/es-ES/locale/es-ES/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/es-ES/locale/es-ES/", 
+        "weave": "chrome/es-ES/locale/es-ES/services/", 
+        "places": "chrome/es-ES/locale/es-ES/places/", 
+        "passwordmgr": "chrome/es-ES/locale/es-ES/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/es-ES/locale/es-ES/", 
+        "pippki": "chrome/es-ES/locale/es-ES/pippki/", 
+        "browser": "browser/chrome/es-ES/locale/browser/"
+      }, 
+      "version": "20190622213031"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-es-ES@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "es-ES", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Español (España) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Proyecto NAVE (http://www.proyectonave.es/))", 
+  "description": "Language pack for Firefox for es-ES"
+}

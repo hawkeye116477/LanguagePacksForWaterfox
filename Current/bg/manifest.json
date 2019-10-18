@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "bg": {
+      "chrome_resources": {
+        "necko": "chrome/bg/locale/bg/necko/", 
+        "pdf.js": "browser/chrome/bg/locale/pdfviewer/", 
+        "global": "chrome/bg/locale/bg/global/", 
+        "devtools": "browser/chrome/bg/locale/bg/devtools/client/", 
+        "pipnss": "chrome/bg/locale/bg/pipnss/", 
+        "alerts": "chrome/bg/locale/bg/alerts/", 
+        "devtools-startup": "browser/chrome/bg/locale/bg/devtools/startup/", 
+        "branding": "browser/chrome/bg/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/bg/locale/bg/", 
+        "autoconfig": "chrome/bg/locale/bg/autoconfig/", 
+        "devtools-shared": "browser/chrome/bg/locale/bg/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/bg/locale/bg/global-platform/win/", 
+          "android": "chrome/bg/locale/bg/global-platform/unix/", 
+          "macosx": "chrome/bg/locale/bg/global-platform/mac/", 
+          "linux": "chrome/bg/locale/bg/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/bg/locale/browser-region/", 
+        "mozapps": "chrome/bg/locale/bg/mozapps/", 
+        "pluginproblem": "chrome/bg/locale/bg/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/bg/locale/bg/", 
+        "weave": "chrome/bg/locale/bg/services/", 
+        "places": "chrome/bg/locale/bg/places/", 
+        "passwordmgr": "chrome/bg/locale/bg/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/bg/locale/bg/", 
+        "pippki": "chrome/bg/locale/bg/pippki/", 
+        "browser": "browser/chrome/bg/locale/browser/"
+      }, 
+      "version": "20190619112034"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-bg@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "bg", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Български Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.bg (contributors: Огнян Кулев, Митко Митев, Златко Попов, Милен Иванов, Стоян Димитров)", 
+  "description": "Language pack for Firefox for bg"
+}

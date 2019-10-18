@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "nl": {
+      "chrome_resources": {
+        "necko": "chrome/nl/locale/nl/necko/", 
+        "pdf.js": "browser/chrome/nl/locale/pdfviewer/", 
+        "global": "chrome/nl/locale/nl/global/", 
+        "devtools": "browser/chrome/nl/locale/nl/devtools/client/", 
+        "pipnss": "chrome/nl/locale/nl/pipnss/", 
+        "alerts": "chrome/nl/locale/nl/alerts/", 
+        "devtools-startup": "browser/chrome/nl/locale/nl/devtools/startup/", 
+        "branding": "browser/chrome/nl/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/nl/locale/nl/", 
+        "autoconfig": "chrome/nl/locale/nl/autoconfig/", 
+        "devtools-shared": "browser/chrome/nl/locale/nl/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/nl/locale/nl/global-platform/win/", 
+          "android": "chrome/nl/locale/nl/global-platform/unix/", 
+          "macosx": "chrome/nl/locale/nl/global-platform/mac/", 
+          "linux": "chrome/nl/locale/nl/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/nl/locale/browser-region/", 
+        "mozapps": "chrome/nl/locale/nl/mozapps/", 
+        "pluginproblem": "chrome/nl/locale/nl/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/nl/locale/nl/", 
+        "weave": "chrome/nl/locale/nl/services/", 
+        "places": "chrome/nl/locale/nl/places/", 
+        "passwordmgr": "chrome/nl/locale/nl/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/nl/locale/nl/", 
+        "pippki": "chrome/nl/locale/nl/pippki/", 
+        "browser": "browser/chrome/nl/locale/browser/"
+      }, 
+      "version": "20190625085313"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-nl@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "nl", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Nederlands (NL) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Mozilla-NL (contributors: Gert-Paul van der Beek, Tim Maks van den Broek, Laurens Holst, Ton Kensen, Anne van Kesteren, Hendrik Maryns, Martijn Ras, leden MozBrowser-forum)", 
+  "description": "Language pack for Firefox for nl"
+}

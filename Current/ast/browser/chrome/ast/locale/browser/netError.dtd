@@ -1,0 +1,243 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Problema cargando la páxina">
+<!ENTITY retry.label "Tentar de nueves">
+<!ENTITY returnToPreviousPage.label "Atrás">
+<!ENTITY advanced.label "Avanzao">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Nun pue coneutase">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Esta direición ta restrinxida">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.pageTitle "Nun s'alcontró'l sirvidor">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Umm... Tenemos problemes p'alcontrar el sitiu.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Si la direición ye correuta, equí tienes tres coses que pues probar:</strong>
+<ul>
+  <li>Volvi tentalo más sero.</li>
+  <li>Comprueba la conexón d'internet.</li>
+  <li>Si tas coneutáu pero darrera d'un tornafuéu, comprueba que &brandShortName; tien permisu p'acceder a la Web.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Comprueba les mayúscules u otros fallos d'escritura nel nome'l ficheru.</li>
+  <li>Mira si'l ficheru se movió, renomó o desanició.</li>
+</ul>
+">
+
+<!ENTITY fileAccessDenied.title "Ñegose l'accesu al ficheru">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Quiciabes tea desaniciáu, movíu o que los permisos del ficheru tean evitando l'accesu.</li>
+</ul>
+">
+
+<!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; nun pue cargar esta páxina por daqué razón.</p>
+">
+
+<!ENTITY captivePortal.title "Aniciu de sesión na rede">
+<!ENTITY captivePortal.longDesc2 "
+<p>Has aniciar sesión nesta rede enantes de que pueas acceder a internet.</p>
+">
+
+<!ENTITY openPortalLoginPage.label2 "Abrir páxina d'aniciu de sesión">
+
+<!ENTITY malformedURI.pageTitle "URL non válida">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Umm... La direición nun paez correuta.">
+
+<!ENTITY netInterrupt.title "Interrumpióse la conexón">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Documentu caducáu">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché de &brandShortName;.</p><ul><li>Como midida de seguranza, &brandShortName; nun vuelve a solicitar documentos sensibles.</li><li>Primi «Tentar de nueves» pa volver a solicitar el documentu del sitiu web.</li></ul>">
+
+<!ENTITY netOffline.title "Mou ensin conexón">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Primi «Tentar de nueves» pa camudar al mou en llinia y recargar la páxinaess.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Contauta colos dueños del sitiu pa informa-yos d'esti problema, por favor.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Triba de ficheru insegura">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Reanicióse la conexón">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Escosó'l tiempu de conexón">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "Nun s'entendió la direición">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Quiciabes precises instalar otru software p'abrir esta direicón.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "El sirvidor proxy ta refugando les conexones">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Comprueba los axustes del proxy y asegúrate que tán bien.</li>
+  <li>Contauta col to alministrador de rede p'asegurar que'l sirvidor proxy
+    ta funcionando.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "Nun pue alcontrase'l sirvidor proxy">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Comprueba los axustes del proxy y asegúrate que tán bien.</li>
+  <li>Asegúrate que'l to ordenador tien una conexón a internet que funciona.</li>
+  <li>Si'l to ordenador o rede tán protexíos por un tornafuéu o proxy, asegúrate
+    que &brandShortName; tien permisu p'acceder a la web.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "La páxina nun ta redirixendo de mou afayadizu">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>A vegaes esti problema pue tar causáu por deshabilitar o refugar
+    l'aceutación de cookies.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Rempuesta inesperada del sirvidor">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Comprueba que'l to sistema tien instaláu'l Xestor de Seguranza
+    Personal.</li>
+  <li>Esto quiciabes seya pola mor d'una configuración non estándar
+    nel sirvidor.</li>
+</ul>
+">
+
+<!ENTITY nssFailure2.title "Falló la conexón segura">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Nun pue amosase la páxina que tas tentando de ver porque nun pudo verificase l'autenticidá de los datos recibíos.</li>
+  <li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema.</li>
+</ul>
+">
+
+<!ENTITY certerror.longpagetitle1 "La to conexón nun ye segura">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "El dueñu de <span class='hostname'/> nun configuró afayadizamente'l sitiu web.  Pa protexer la to información de robu, &brandShortName; nun se coneutó a esti sitiu web.">
+
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>El sitiu podría tar perocupáu o nun tar disponible temporalmente. Volvi
+    tentalo nun momentu.</li>
+  <li>Si nun yes a cargar páxina dala, comprueba la conexón del to ordenador.</li>
+  <li>Si'l to ordenador ta protexíu por un tornafuéu o proxy, asegúrate que
+    &brandShortName; tien permisu p'acceder a la web.</li>
+</ul>
+">
+
+<!ENTITY cspBlocked.title "Bloquiáu pola política de seguranza de conteníu">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina cargue d'esti mou porque tien una política de seguranza de conteníu que nun lo permite.</p>">
+
+<!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Contauta colos dueños del sitiu pa informa-yos d'esti problema, por favor.</li></ul>">
+
+
+<!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
+
+<!ENTITY errorReporting.automatic2 "Informa de fallos como esti p'ayudar a Mozilla a identificar y bloquiar sitios maliciosos">
+<!ENTITY errorReporting.learnMore "Deprendi más…">
+
+<!ENTITY remoteXUL.title "XUL Remotu">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "Nun pue coneutase de mou seguru">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+
+<!ENTITY certerror.pagetitle1  "Conexón insegura">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Esti sitiu usa HTTP
+Strict Transport Security (HSTS) pa especificar que &brandShortName; namái se
+coneuta a elli de mou seguru. Como resultáu, nun ye posible amestar una esceición pa
+esti certificáu.">
+<!ENTITY certerror.copyToClipboard.label "Copiar testu al cartafueyu">
+
+<!ENTITY inadequateSecurityError.title "La to conexón nun ye segura">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría, de mou cenciellu, revelar información personal que pensabes que taba segura. L'alministrador del sitiu web precisará iguar el sirvidor enantes que pueas visitalu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY prefReset.longDesc "Paez que los tos axustes de seguranza de rede puen tar causando esto. ¿Quies reafitalos?">
+<!ENTITY prefReset.label "Reafitar axustes">
+
+<!ENTITY returnToPreviousPage1.label "Go Back (Recommended)">
+<!ENTITY advanced2.label "Advanced…">
+<!ENTITY viewCertificate.label "View Certificate">
+<!ENTITY certerror.longpagetitle2 "Warning: Potential Security Risk Ahead">
+<!ENTITY certerror.sts.longpagetitle  "Did Not Connect: Potential Security Issue">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/>. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
+<!ENTITY certerror.sts.introPara "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/> because this website requires a secure connection.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; detected an issue and did not continue to <span class='hostname'/>. The website is either misconfigured or your computer clock is set to the wrong time.">
+<!ENTITY certerror.expiredCert.secondPara2 "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
+<!ENTITY certerror.expiredCert.sts.secondPara "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely.">
+<!ENTITY certerror.whatCanYouDoAboutItTitle "What can you do about it?">
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>The issue is most likely with the website, and there is nothing you can do to resolve it.</p>
+<p>If you are on a corporate network or using anti-virus software, you can reach out to the support teams for assistance. You can also notify the website’s administrator about the problem.</p>
+">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Your computer clock is set to <span id='wrongSystemTime_systemDate2'/>. Make sure your computer is set to the correct date, time, and time zone in your system settings, and then refresh <span class='hostname'/>.</p>
+<p>If your clock is already set to the right time, the website is likely misconfigured, and there is nothing you can do to resolve the issue. You can notify the website’s administrator about the problem.</p>
+">
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>The issue is most likely with the website, and there is nothing you can do to resolve it. You can notify the website’s administrator about the problem.</p>
+">
+<!ENTITY securityOverride.exceptionButton1Label "Accept the Risk and Continue">
+<!ENTITY certerror.pagetitle2  "Warning: Potential Security Risk Ahead">
+<!ENTITY certerror.sts.pagetitle  "Did Not Connect: Potential Security Issue">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> has a security policy called HTTP Strict Transport Security (HSTS), which means that &brandShortName; can only connect to it securely. You can’t add an exception to visit this site.">
+<!ENTITY blockedByPolicy.title "Blocked Page">
+<!ENTITY certerror.mitm.title "Software is Preventing &brandShortName; From Safely Connecting to This Site">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> is most likely a safe site, but a secure connection could not be established. This issue is caused by <span class='mitm-name'/>, which is either software on your computer or your network.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "If your antivirus software includes a feature that scans encrypted connections (often called “web scanning” or “https scanning”), you can disable that feature. If that doesn’t work, you can remove and reinstall the antivirus software.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "If you are on a corporate network, you can contact your IT department.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack and you should not continue to the site.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack, and there is nothing you can do to access the site.">
+<!ENTITY clockSkewError.title "Your Computer Clock is Wrong">
+<!ENTITY clockSkewError.longDesc "Your computer thinks it is <span id='wrongSystemTime_systemDate1'/>, which prevents &brandShortName; from connecting securely. To visit <span class='hostname'></span>, update your computer clock in your system settings to the current date, time, and time zone, and then refresh <span class='hostname'></span>.">
+<!ENTITY networkProtocolError.title "Network Protocol Error">
+<!ENTITY networkProtocolError.longDesc "<p>The page you are trying to view cannot be shown because an error in the network protocol was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">

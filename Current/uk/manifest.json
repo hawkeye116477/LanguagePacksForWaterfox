@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "uk": {
+      "chrome_resources": {
+        "necko": "chrome/uk/locale/uk/necko/", 
+        "pdf.js": "browser/chrome/uk/locale/pdfviewer/", 
+        "global": "chrome/uk/locale/uk/global/", 
+        "devtools": "browser/chrome/uk/locale/uk/devtools/client/", 
+        "pipnss": "chrome/uk/locale/uk/pipnss/", 
+        "alerts": "chrome/uk/locale/uk/alerts/", 
+        "devtools-startup": "browser/chrome/uk/locale/uk/devtools/startup/", 
+        "branding": "browser/chrome/uk/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/uk/locale/uk/", 
+        "autoconfig": "chrome/uk/locale/uk/autoconfig/", 
+        "devtools-shared": "browser/chrome/uk/locale/uk/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/uk/locale/uk/global-platform/win/", 
+          "android": "chrome/uk/locale/uk/global-platform/unix/", 
+          "macosx": "chrome/uk/locale/uk/global-platform/mac/", 
+          "linux": "chrome/uk/locale/uk/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/uk/locale/browser-region/", 
+        "mozapps": "chrome/uk/locale/uk/mozapps/", 
+        "pluginproblem": "chrome/uk/locale/uk/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/uk/locale/uk/", 
+        "weave": "chrome/uk/locale/uk/services/", 
+        "places": "chrome/uk/locale/uk/places/", 
+        "passwordmgr": "chrome/uk/locale/uk/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/uk/locale/uk/", 
+        "pippki": "chrome/uk/locale/uk/pippki/", 
+        "browser": "browser/chrome/uk/locale/browser/"
+      }, 
+      "version": "20190620113317"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-uk@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "uk", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Ukrainian (UA) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Mozilla.org.ua", 
+  "description": "Language pack for Firefox for uk"
+}

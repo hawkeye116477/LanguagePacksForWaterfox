@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "es-AR": {
+      "chrome_resources": {
+        "necko": "chrome/es-AR/locale/es-AR/necko/", 
+        "pdf.js": "browser/chrome/es-AR/locale/pdfviewer/", 
+        "global": "chrome/es-AR/locale/es-AR/global/", 
+        "devtools": "browser/chrome/es-AR/locale/es-AR/devtools/client/", 
+        "pipnss": "chrome/es-AR/locale/es-AR/pipnss/", 
+        "alerts": "chrome/es-AR/locale/es-AR/alerts/", 
+        "devtools-startup": "browser/chrome/es-AR/locale/es-AR/devtools/startup/", 
+        "branding": "browser/chrome/es-AR/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/es-AR/locale/es-AR/", 
+        "autoconfig": "chrome/es-AR/locale/es-AR/autoconfig/", 
+        "devtools-shared": "browser/chrome/es-AR/locale/es-AR/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/es-AR/locale/es-AR/global-platform/win/", 
+          "android": "chrome/es-AR/locale/es-AR/global-platform/unix/", 
+          "macosx": "chrome/es-AR/locale/es-AR/global-platform/mac/", 
+          "linux": "chrome/es-AR/locale/es-AR/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/es-AR/locale/browser-region/", 
+        "mozapps": "chrome/es-AR/locale/es-AR/mozapps/", 
+        "pluginproblem": "chrome/es-AR/locale/es-AR/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/es-AR/locale/es-AR/", 
+        "weave": "chrome/es-AR/locale/es-AR/services/", 
+        "places": "chrome/es-AR/locale/es-AR/places/", 
+        "passwordmgr": "chrome/es-AR/locale/es-AR/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/es-AR/locale/es-AR/", 
+        "pippki": "chrome/es-AR/locale/es-AR/pippki/", 
+        "browser": "browser/chrome/es-AR/locale/browser/"
+      }, 
+      "version": "20190621181314"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-es-AR@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "es-AR", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Español (AR) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Marcelo Poli, Pablo Lillia, Sergio Celani, Ariel Burone, Mariano Cuenze, Ramón Retamar, Pamela Gulijczuk, Guillermo Movia)", 
+  "description": "Language pack for Firefox for es-AR"
+}

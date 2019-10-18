@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "oc": {
+      "chrome_resources": {
+        "necko": "chrome/oc/locale/oc/necko/", 
+        "pdf.js": "browser/chrome/oc/locale/pdfviewer/", 
+        "global": "chrome/oc/locale/oc/global/", 
+        "devtools": "browser/chrome/oc/locale/oc/devtools/client/", 
+        "pipnss": "chrome/oc/locale/oc/pipnss/", 
+        "alerts": "chrome/oc/locale/oc/alerts/", 
+        "devtools-startup": "browser/chrome/oc/locale/oc/devtools/startup/", 
+        "branding": "browser/chrome/oc/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/oc/locale/oc/", 
+        "autoconfig": "chrome/oc/locale/oc/autoconfig/", 
+        "devtools-shared": "browser/chrome/oc/locale/oc/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/oc/locale/oc/global-platform/win/", 
+          "android": "chrome/oc/locale/oc/global-platform/unix/", 
+          "macosx": "chrome/oc/locale/oc/global-platform/mac/", 
+          "linux": "chrome/oc/locale/oc/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/oc/locale/browser-region/", 
+        "mozapps": "chrome/oc/locale/oc/mozapps/", 
+        "pluginproblem": "chrome/oc/locale/oc/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/oc/locale/oc/", 
+        "weave": "chrome/oc/locale/oc/services/", 
+        "places": "chrome/oc/locale/oc/places/", 
+        "passwordmgr": "chrome/oc/locale/oc/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/oc/locale/oc/", 
+        "pippki": "chrome/oc/locale/oc/pippki/", 
+        "browser": "browser/chrome/oc/locale/browser/"
+      }, 
+      "version": "20190624155336"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-oc@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "oc", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Occitan (lengadocian) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Mozilla.org / totenoc.eu (contributors: Cédric Valmary (totenoc.eu), Yann Marchegay (totenoc.eu))", 
+  "description": "Language pack for Firefox for oc"
+}

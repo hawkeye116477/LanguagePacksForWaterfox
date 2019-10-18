@@ -1,0 +1,59 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY playButton.playLabel "გაშვება">
+<!ENTITY playButton.pauseLabel "შეჩერება">
+<!ENTITY muteButton.muteLabel "დადუმება">
+<!ENTITY muteButton.unmuteLabel "ხმის ჩართვა">
+<!ENTITY fullscreenButton.enterfullscreenlabel "სრულ ეკრანზე">
+<!ENTITY fullscreenButton.exitfullscreenlabel "სრულეკრანიანი რეჟიმიდან გამოსვლა">
+<!ENTITY castingButton.castingLabel "ეკრანზე გადაცემა">
+<!ENTITY closedCaption.off "გამორთ.">
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "ხმის რბია">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "ეკრანი-ეკრანში">
+
+<!ENTITY stats.media "მედია">
+<!ENTITY stats.size "ზომა">
+<!ENTITY stats.activity "მოქმედებები">
+<!ENTITY stats.activityPaused "შეჩერებულია">
+<!ENTITY stats.activityPlaying "გაშვებულია">
+<!ENTITY stats.activityEnded "დასრულებულია">
+<!ENTITY stats.activitySeeking "(ძიება)">
+<!ENTITY stats.volume "ხმის სიმაღლე">
+<!ENTITY stats.framesParsed "გარჩეული კადრები">
+<!ENTITY stats.framesDecoded "გაშიფრული კადრები">
+<!ENTITY stats.framesPresented "არსებული კადრები">
+<!ENTITY stats.framesPainted "დახატული კადრები">
+
+<!ENTITY error.aborted "ვიდეოს ჩატვირთვა შეჩერებულია">
+<!ENTITY error.network "ვიდეოს გაშვება შეწყვეტილია, ქსელის ხარვეზის გამო.">
+<!ENTITY error.decode "ვიდეოს გაშვება ვერ მოხერხდა, რადგან ფაილი დაზიანებულია.">
+<!ENTITY error.srcNotSupported "ვიდეოს ფორმატი ან MIME-სახეობა არ არის მხარდაჭერილი.">
+<!ENTITY error.noSource2 "მხარდაჭერილი ფორმატის ან MIME ტიპის ვიდეო, ვერ მოიძებნა.">
+<!ENTITY error.generic "ვიდეოს გაშვება შეწყდა, გაურკვეველი შეცდომის გამო.">
+
+<!ENTITY status.pictureInPicture "ვიდეო გაშვებულია რეჟიმით ეკრანი-ეკრანში.">
+
+<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
+media position, and the #2 string is the total duration. For example, when at
+the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
+-->
+<!ENTITY scrubberScale.nameFormat "გასრულდა #1, სულ #2-დან">
+
+<!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
+media position, and the #2 string is the total duration. For example, when at
+the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
+"6:00:00", result string would be "5:00 / 6:00:00".
+Note that #2 is not always available. For example, when at the 5 minute mark in an
+unknown duration video, #1 would be "5:00" and the string which is surrounded by
+<span> would be deleted, result string would be "5:00".
+-->
+<!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+

@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "te": {
+      "chrome_resources": {
+        "necko": "chrome/te/locale/te/necko/", 
+        "pdf.js": "browser/chrome/te/locale/pdfviewer/", 
+        "global": "chrome/te/locale/te/global/", 
+        "devtools": "browser/chrome/te/locale/te/devtools/client/", 
+        "pipnss": "chrome/te/locale/te/pipnss/", 
+        "alerts": "chrome/te/locale/te/alerts/", 
+        "devtools-startup": "browser/chrome/te/locale/te/devtools/startup/", 
+        "branding": "browser/chrome/te/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/te/locale/te/", 
+        "autoconfig": "chrome/te/locale/te/autoconfig/", 
+        "devtools-shared": "browser/chrome/te/locale/te/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/te/locale/te/global-platform/win/", 
+          "android": "chrome/te/locale/te/global-platform/unix/", 
+          "macosx": "chrome/te/locale/te/global-platform/mac/", 
+          "linux": "chrome/te/locale/te/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/te/locale/browser-region/", 
+        "mozapps": "chrome/te/locale/te/mozapps/", 
+        "pluginproblem": "chrome/te/locale/te/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/te/locale/te/", 
+        "weave": "chrome/te/locale/te/services/", 
+        "places": "chrome/te/locale/te/places/", 
+        "passwordmgr": "chrome/te/locale/te/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/te/locale/te/", 
+        "pippki": "chrome/te/locale/te/pippki/", 
+        "browser": "browser/chrome/te/locale/browser/"
+      }, 
+      "version": "20190623033303"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-te@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "te", 
+  "version": "68.0buildid20190826132627", 
+  "name": "తెలుగు (IN) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Krishnababu Krothapalli, Arjuna Rao Chavala, Veeven, Dinesh Mv, Jayesh Kr, Sandeep Kapalawai)", 
+  "description": "Language pack for Firefox for te"
+}

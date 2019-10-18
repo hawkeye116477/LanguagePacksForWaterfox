@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "be": {
+      "chrome_resources": {
+        "necko": "chrome/be/locale/be/necko/", 
+        "pdf.js": "browser/chrome/be/locale/pdfviewer/", 
+        "global": "chrome/be/locale/be/global/", 
+        "devtools": "browser/chrome/be/locale/be/devtools/client/", 
+        "pipnss": "chrome/be/locale/be/pipnss/", 
+        "alerts": "chrome/be/locale/be/alerts/", 
+        "devtools-startup": "browser/chrome/be/locale/be/devtools/startup/", 
+        "branding": "browser/chrome/be/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/be/locale/be/", 
+        "autoconfig": "chrome/be/locale/be/autoconfig/", 
+        "devtools-shared": "browser/chrome/be/locale/be/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/be/locale/be/global-platform/win/", 
+          "android": "chrome/be/locale/be/global-platform/unix/", 
+          "macosx": "chrome/be/locale/be/global-platform/mac/", 
+          "linux": "chrome/be/locale/be/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/be/locale/browser-region/", 
+        "mozapps": "chrome/be/locale/be/mozapps/", 
+        "pluginproblem": "chrome/be/locale/be/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/be/locale/be/", 
+        "weave": "chrome/be/locale/be/services/", 
+        "places": "chrome/be/locale/be/places/", 
+        "passwordmgr": "chrome/be/locale/be/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/be/locale/be/", 
+        "pippki": "chrome/be/locale/be/pippki/", 
+        "browser": "browser/chrome/be/locale/browser/"
+      }, 
+      "version": "20190624203457"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-be@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "be", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Беларуская Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: mozilla by)", 
+  "description": "Language pack for Firefox for be"
+}

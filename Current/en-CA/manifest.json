@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "en-CA": {
+      "chrome_resources": {
+        "necko": "chrome/en-CA/locale/en-CA/necko/", 
+        "pdf.js": "browser/chrome/en-CA/locale/pdfviewer/", 
+        "global": "chrome/en-CA/locale/en-CA/global/", 
+        "devtools": "browser/chrome/en-CA/locale/en-CA/devtools/client/", 
+        "pipnss": "chrome/en-CA/locale/en-CA/pipnss/", 
+        "alerts": "chrome/en-CA/locale/en-CA/alerts/", 
+        "devtools-startup": "browser/chrome/en-CA/locale/en-CA/devtools/startup/", 
+        "branding": "browser/chrome/en-CA/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/en-CA/locale/en-CA/", 
+        "autoconfig": "chrome/en-CA/locale/en-CA/autoconfig/", 
+        "devtools-shared": "browser/chrome/en-CA/locale/en-CA/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/en-CA/locale/en-CA/global-platform/win/", 
+          "android": "chrome/en-CA/locale/en-CA/global-platform/unix/", 
+          "macosx": "chrome/en-CA/locale/en-CA/global-platform/mac/", 
+          "linux": "chrome/en-CA/locale/en-CA/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/en-CA/locale/browser-region/", 
+        "mozapps": "chrome/en-CA/locale/en-CA/mozapps/", 
+        "pluginproblem": "chrome/en-CA/locale/en-CA/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/en-CA/locale/en-CA/", 
+        "weave": "chrome/en-CA/locale/en-CA/services/", 
+        "places": "chrome/en-CA/locale/en-CA/places/", 
+        "passwordmgr": "chrome/en-CA/locale/en-CA/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/en-CA/locale/en-CA/", 
+        "pippki": "chrome/en-CA/locale/en-CA/pippki/", 
+        "browser": "browser/chrome/en-CA/locale/browser/"
+      }, 
+      "version": "20190619123804"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-en-CA@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "en-CA", 
+  "version": "68.0buildid20190826132627", 
+  "name": "English (CA) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org", 
+  "description": "Language pack for Firefox for en-CA"
+}

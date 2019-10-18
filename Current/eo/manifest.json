@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "eo": {
+      "chrome_resources": {
+        "necko": "chrome/eo/locale/eo/necko/", 
+        "pdf.js": "browser/chrome/eo/locale/pdfviewer/", 
+        "global": "chrome/eo/locale/eo/global/", 
+        "devtools": "browser/chrome/eo/locale/eo/devtools/client/", 
+        "pipnss": "chrome/eo/locale/eo/pipnss/", 
+        "alerts": "chrome/eo/locale/eo/alerts/", 
+        "devtools-startup": "browser/chrome/eo/locale/eo/devtools/startup/", 
+        "branding": "browser/chrome/eo/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/eo/locale/eo/", 
+        "autoconfig": "chrome/eo/locale/eo/autoconfig/", 
+        "devtools-shared": "browser/chrome/eo/locale/eo/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/eo/locale/eo/global-platform/win/", 
+          "android": "chrome/eo/locale/eo/global-platform/unix/", 
+          "macosx": "chrome/eo/locale/eo/global-platform/mac/", 
+          "linux": "chrome/eo/locale/eo/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/eo/locale/browser-region/", 
+        "mozapps": "chrome/eo/locale/eo/mozapps/", 
+        "pluginproblem": "chrome/eo/locale/eo/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/eo/locale/eo/", 
+        "weave": "chrome/eo/locale/eo/services/", 
+        "places": "chrome/eo/locale/eo/places/", 
+        "passwordmgr": "chrome/eo/locale/eo/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/eo/locale/eo/", 
+        "pippki": "chrome/eo/locale/eo/pippki/", 
+        "browser": "browser/chrome/eo/locale/browser/"
+      }, 
+      "version": "20190626063456"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-eo@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "eo", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Esperanto Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Eduardo Trápani)", 
+  "description": "Language pack for Firefox for eo"
+}

@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "pa-IN": {
+      "chrome_resources": {
+        "necko": "chrome/pa-IN/locale/pa-IN/necko/", 
+        "pdf.js": "browser/chrome/pa-IN/locale/pdfviewer/", 
+        "global": "chrome/pa-IN/locale/pa-IN/global/", 
+        "devtools": "browser/chrome/pa-IN/locale/pa-IN/devtools/client/", 
+        "pipnss": "chrome/pa-IN/locale/pa-IN/pipnss/", 
+        "alerts": "chrome/pa-IN/locale/pa-IN/alerts/", 
+        "devtools-startup": "browser/chrome/pa-IN/locale/pa-IN/devtools/startup/", 
+        "branding": "browser/chrome/pa-IN/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/pa-IN/locale/pa-IN/", 
+        "autoconfig": "chrome/pa-IN/locale/pa-IN/autoconfig/", 
+        "devtools-shared": "browser/chrome/pa-IN/locale/pa-IN/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/pa-IN/locale/pa-IN/global-platform/win/", 
+          "android": "chrome/pa-IN/locale/pa-IN/global-platform/unix/", 
+          "macosx": "chrome/pa-IN/locale/pa-IN/global-platform/mac/", 
+          "linux": "chrome/pa-IN/locale/pa-IN/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/pa-IN/locale/browser-region/", 
+        "mozapps": "chrome/pa-IN/locale/pa-IN/mozapps/", 
+        "pluginproblem": "chrome/pa-IN/locale/pa-IN/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/pa-IN/locale/pa-IN/", 
+        "weave": "chrome/pa-IN/locale/pa-IN/services/", 
+        "places": "chrome/pa-IN/locale/pa-IN/places/", 
+        "passwordmgr": "chrome/pa-IN/locale/pa-IN/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/pa-IN/locale/pa-IN/", 
+        "pippki": "chrome/pa-IN/locale/pa-IN/pippki/", 
+        "browser": "browser/chrome/pa-IN/locale/browser/"
+      }, 
+      "version": "20190614135305"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-pa-IN@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "pa-IN", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Punjabi (Gurmukhi) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Amanpreet Singh Brar, Punjabi Open Source Team, with Jaswiner Singh Phulewala's continue support and efforts)", 
+  "description": "Language pack for Firefox for pa-IN"
+}

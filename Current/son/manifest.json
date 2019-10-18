@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "son": {
+      "chrome_resources": {
+        "necko": "chrome/son/locale/son/necko/", 
+        "pdf.js": "browser/chrome/son/locale/pdfviewer/", 
+        "global": "chrome/son/locale/son/global/", 
+        "devtools": "browser/chrome/son/locale/son/devtools/client/", 
+        "pipnss": "chrome/son/locale/son/pipnss/", 
+        "alerts": "chrome/son/locale/son/alerts/", 
+        "devtools-startup": "browser/chrome/son/locale/son/devtools/startup/", 
+        "branding": "browser/chrome/son/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/son/locale/son/", 
+        "autoconfig": "chrome/son/locale/son/autoconfig/", 
+        "devtools-shared": "browser/chrome/son/locale/son/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/son/locale/son/global-platform/win/", 
+          "android": "chrome/son/locale/son/global-platform/unix/", 
+          "macosx": "chrome/son/locale/son/global-platform/mac/", 
+          "linux": "chrome/son/locale/son/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/son/locale/browser-region/", 
+        "mozapps": "chrome/son/locale/son/mozapps/", 
+        "pluginproblem": "chrome/son/locale/son/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/son/locale/son/", 
+        "weave": "chrome/son/locale/son/services/", 
+        "places": "chrome/son/locale/son/places/", 
+        "passwordmgr": "chrome/son/locale/son/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/son/locale/son/", 
+        "pippki": "chrome/son/locale/son/pippki/", 
+        "browser": "browser/chrome/son/locale/browser/"
+      }, 
+      "version": "20190603074649"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-son@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "son", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Soŋay Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Abdoul Seydou Cissé, Mohomodou Houssouba, Moussa Yacouba Maïga)", 
+  "description": "Language pack for Firefox for son"
+}

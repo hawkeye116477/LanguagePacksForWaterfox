@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY position.label             "Posición:">
+<!ENTITY tile.label                 "Mosaicu">
+<!ENTITY center.label               "Centráu">
+<!ENTITY stretch.label              "Axustar">
+<!ENTITY preview.label              "Vista preliminar">
+<!ENTITY color.label                "Color:">
+<!ENTITY setDesktopBackground.title "Afitar como fondu d'escritoriu">
+<!ENTITY openDesktopPrefs.label     "Abrir preferencies d'escritoriu">
+<!ENTITY closeWindow.key            "w">
+<!ENTITY fill.label                 "Rellenar">
+<!ENTITY fit.label                  "Axustar">
+
+
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Span">
+<!ENTITY previewUnavailable         "Preview unavailable">

@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "da": {
+      "chrome_resources": {
+        "necko": "chrome/da/locale/da/necko/", 
+        "pdf.js": "browser/chrome/da/locale/pdfviewer/", 
+        "global": "chrome/da/locale/da/global/", 
+        "devtools": "browser/chrome/da/locale/da/devtools/client/", 
+        "pipnss": "chrome/da/locale/da/pipnss/", 
+        "alerts": "chrome/da/locale/da/alerts/", 
+        "devtools-startup": "browser/chrome/da/locale/da/devtools/startup/", 
+        "branding": "browser/chrome/da/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/da/locale/da/", 
+        "autoconfig": "chrome/da/locale/da/autoconfig/", 
+        "devtools-shared": "browser/chrome/da/locale/da/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/da/locale/da/global-platform/win/", 
+          "android": "chrome/da/locale/da/global-platform/unix/", 
+          "macosx": "chrome/da/locale/da/global-platform/mac/", 
+          "linux": "chrome/da/locale/da/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/da/locale/browser-region/", 
+        "mozapps": "chrome/da/locale/da/mozapps/", 
+        "pluginproblem": "chrome/da/locale/da/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/da/locale/da/", 
+        "weave": "chrome/da/locale/da/services/", 
+        "places": "chrome/da/locale/da/places/", 
+        "passwordmgr": "chrome/da/locale/da/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/da/locale/da/", 
+        "pippki": "chrome/da/locale/da/pippki/", 
+        "browser": "browser/chrome/da/locale/browser/"
+      }, 
+      "version": "20190624185623"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-da@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "da", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Dansk (da) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilladanmark.dk (contributors: Jesper Kristensen, Søren Lønbæk Nygaard Christensen, Søren Munk Skrøder)", 
+  "description": "Language pack for Firefox for da"
+}

@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "et": {
+      "chrome_resources": {
+        "necko": "chrome/et/locale/et/necko/", 
+        "pdf.js": "browser/chrome/et/locale/pdfviewer/", 
+        "global": "chrome/et/locale/et/global/", 
+        "devtools": "browser/chrome/et/locale/et/devtools/client/", 
+        "pipnss": "chrome/et/locale/et/pipnss/", 
+        "alerts": "chrome/et/locale/et/alerts/", 
+        "devtools-startup": "browser/chrome/et/locale/et/devtools/startup/", 
+        "branding": "browser/chrome/et/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/et/locale/et/", 
+        "autoconfig": "chrome/et/locale/et/autoconfig/", 
+        "devtools-shared": "browser/chrome/et/locale/et/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/et/locale/et/global-platform/win/", 
+          "android": "chrome/et/locale/et/global-platform/unix/", 
+          "macosx": "chrome/et/locale/et/global-platform/mac/", 
+          "linux": "chrome/et/locale/et/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/et/locale/browser-region/", 
+        "mozapps": "chrome/et/locale/et/mozapps/", 
+        "pluginproblem": "chrome/et/locale/et/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/et/locale/et/", 
+        "weave": "chrome/et/locale/et/services/", 
+        "places": "chrome/et/locale/et/places/", 
+        "passwordmgr": "chrome/et/locale/et/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/et/locale/et/", 
+        "pippki": "chrome/et/locale/et/pippki/", 
+        "browser": "browser/chrome/et/locale/browser/"
+      }, 
+      "version": "20190625101226"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-et@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "et", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Estonian Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Sander Lepik (contributors: Marek Laane, Ain Vagula, Ivar Smolin)", 
+  "description": "Language pack for Firefox for et"
+}

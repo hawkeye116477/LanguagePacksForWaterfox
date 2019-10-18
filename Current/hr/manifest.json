@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "hr": {
+      "chrome_resources": {
+        "necko": "chrome/hr/locale/hr/necko/", 
+        "pdf.js": "browser/chrome/hr/locale/pdfviewer/", 
+        "global": "chrome/hr/locale/hr/global/", 
+        "devtools": "browser/chrome/hr/locale/hr/devtools/client/", 
+        "pipnss": "chrome/hr/locale/hr/pipnss/", 
+        "alerts": "chrome/hr/locale/hr/alerts/", 
+        "devtools-startup": "browser/chrome/hr/locale/hr/devtools/startup/", 
+        "branding": "browser/chrome/hr/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/hr/locale/hr/", 
+        "autoconfig": "chrome/hr/locale/hr/autoconfig/", 
+        "devtools-shared": "browser/chrome/hr/locale/hr/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/hr/locale/hr/global-platform/win/", 
+          "android": "chrome/hr/locale/hr/global-platform/unix/", 
+          "macosx": "chrome/hr/locale/hr/global-platform/mac/", 
+          "linux": "chrome/hr/locale/hr/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/hr/locale/browser-region/", 
+        "mozapps": "chrome/hr/locale/hr/mozapps/", 
+        "pluginproblem": "chrome/hr/locale/hr/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/hr/locale/hr/", 
+        "weave": "chrome/hr/locale/hr/services/", 
+        "places": "chrome/hr/locale/hr/places/", 
+        "passwordmgr": "chrome/hr/locale/hr/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/hr/locale/hr/", 
+        "pippki": "chrome/hr/locale/hr/pippki/", 
+        "browser": "browser/chrome/hr/locale/browser/"
+      }, 
+      "version": "20190619071330"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-hr@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "hr", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Hrvatski (HR) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Saša Teković, Danijel Šnajder, Robert Okadar, Anton Gagić, Ante Karamatić)", 
+  "description": "Language pack for Firefox for hr"
+}

@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "ar": {
+      "chrome_resources": {
+        "necko": "chrome/ar/locale/ar/necko/", 
+        "pdf.js": "browser/chrome/ar/locale/pdfviewer/", 
+        "global": "chrome/ar/locale/ar/global/", 
+        "devtools": "browser/chrome/ar/locale/ar/devtools/client/", 
+        "pipnss": "chrome/ar/locale/ar/pipnss/", 
+        "alerts": "chrome/ar/locale/ar/alerts/", 
+        "devtools-startup": "browser/chrome/ar/locale/ar/devtools/startup/", 
+        "branding": "browser/chrome/ar/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/ar/locale/ar/", 
+        "autoconfig": "chrome/ar/locale/ar/autoconfig/", 
+        "devtools-shared": "browser/chrome/ar/locale/ar/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/ar/locale/ar/global-platform/win/", 
+          "android": "chrome/ar/locale/ar/global-platform/unix/", 
+          "macosx": "chrome/ar/locale/ar/global-platform/mac/", 
+          "linux": "chrome/ar/locale/ar/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/ar/locale/browser-region/", 
+        "mozapps": "chrome/ar/locale/ar/mozapps/", 
+        "pluginproblem": "chrome/ar/locale/ar/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/ar/locale/ar/", 
+        "weave": "chrome/ar/locale/ar/services/", 
+        "places": "chrome/ar/locale/ar/places/", 
+        "passwordmgr": "chrome/ar/locale/ar/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/ar/locale/ar/", 
+        "pippki": "chrome/ar/locale/ar/pippki/", 
+        "browser": "browser/chrome/ar/locale/browser/"
+      }, 
+      "version": "20190608195307"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-ar@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "ar", 
+  "version": "68.0buildid20190826132627", 
+  "name": "العربية Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: أيمن حورية, جهاد عفيفي, خالد حسني, سبأ برتو, عبد الرحمن حسني, علاء كساب, أنس الحسيني)", 
+  "description": "Language pack for Firefox for ar"
+}

@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "eu": {
+      "chrome_resources": {
+        "necko": "chrome/eu/locale/eu/necko/", 
+        "pdf.js": "browser/chrome/eu/locale/pdfviewer/", 
+        "global": "chrome/eu/locale/eu/global/", 
+        "devtools": "browser/chrome/eu/locale/eu/devtools/client/", 
+        "pipnss": "chrome/eu/locale/eu/pipnss/", 
+        "alerts": "chrome/eu/locale/eu/alerts/", 
+        "devtools-startup": "browser/chrome/eu/locale/eu/devtools/startup/", 
+        "branding": "browser/chrome/eu/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/eu/locale/eu/", 
+        "autoconfig": "chrome/eu/locale/eu/autoconfig/", 
+        "devtools-shared": "browser/chrome/eu/locale/eu/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/eu/locale/eu/global-platform/win/", 
+          "android": "chrome/eu/locale/eu/global-platform/unix/", 
+          "macosx": "chrome/eu/locale/eu/global-platform/mac/", 
+          "linux": "chrome/eu/locale/eu/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/eu/locale/browser-region/", 
+        "mozapps": "chrome/eu/locale/eu/mozapps/", 
+        "pluginproblem": "chrome/eu/locale/eu/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/eu/locale/eu/", 
+        "weave": "chrome/eu/locale/eu/services/", 
+        "places": "chrome/eu/locale/eu/places/", 
+        "passwordmgr": "chrome/eu/locale/eu/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/eu/locale/eu/", 
+        "pippki": "chrome/eu/locale/eu/pippki/", 
+        "browser": "browser/chrome/eu/locale/browser/"
+      }, 
+      "version": "20190625115235"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-eu@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "eu", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Basque Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Librezale.org)", 
+  "description": "Language pack for Firefox for eu"
+}

@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "id": {
+      "chrome_resources": {
+        "necko": "chrome/id/locale/id/necko/", 
+        "pdf.js": "browser/chrome/id/locale/pdfviewer/", 
+        "global": "chrome/id/locale/id/global/", 
+        "devtools": "browser/chrome/id/locale/id/devtools/client/", 
+        "pipnss": "chrome/id/locale/id/pipnss/", 
+        "alerts": "chrome/id/locale/id/alerts/", 
+        "devtools-startup": "browser/chrome/id/locale/id/devtools/startup/", 
+        "branding": "browser/chrome/id/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/id/locale/id/", 
+        "autoconfig": "chrome/id/locale/id/autoconfig/", 
+        "devtools-shared": "browser/chrome/id/locale/id/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/id/locale/id/global-platform/win/", 
+          "android": "chrome/id/locale/id/global-platform/unix/", 
+          "macosx": "chrome/id/locale/id/global-platform/mac/", 
+          "linux": "chrome/id/locale/id/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/id/locale/browser-region/", 
+        "mozapps": "chrome/id/locale/id/mozapps/", 
+        "pluginproblem": "chrome/id/locale/id/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/id/locale/id/", 
+        "weave": "chrome/id/locale/id/services/", 
+        "places": "chrome/id/locale/id/places/", 
+        "passwordmgr": "chrome/id/locale/id/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/id/locale/id/", 
+        "pippki": "chrome/id/locale/id/pippki/", 
+        "browser": "browser/chrome/id/locale/browser/"
+      }, 
+      "version": "20190626123323"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-id@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "id", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Bahasa Indonesia (ID) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "id-Mozilla - Komunitas Mozilla Indonesia (contributors: Dody Suria Wijaya, Milda Irhamni, Romi Hardiyanto)", 
+  "description": "Language pack for Firefox for id"
+}

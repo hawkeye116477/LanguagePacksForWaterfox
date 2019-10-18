@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "sr": {
+      "chrome_resources": {
+        "necko": "chrome/sr/locale/sr/necko/", 
+        "pdf.js": "browser/chrome/sr/locale/pdfviewer/", 
+        "global": "chrome/sr/locale/sr/global/", 
+        "devtools": "browser/chrome/sr/locale/sr/devtools/client/", 
+        "pipnss": "chrome/sr/locale/sr/pipnss/", 
+        "alerts": "chrome/sr/locale/sr/alerts/", 
+        "devtools-startup": "browser/chrome/sr/locale/sr/devtools/startup/", 
+        "branding": "browser/chrome/sr/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/sr/locale/sr/", 
+        "autoconfig": "chrome/sr/locale/sr/autoconfig/", 
+        "devtools-shared": "browser/chrome/sr/locale/sr/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/sr/locale/sr/global-platform/win/", 
+          "android": "chrome/sr/locale/sr/global-platform/unix/", 
+          "macosx": "chrome/sr/locale/sr/global-platform/mac/", 
+          "linux": "chrome/sr/locale/sr/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/sr/locale/browser-region/", 
+        "mozapps": "chrome/sr/locale/sr/mozapps/", 
+        "pluginproblem": "chrome/sr/locale/sr/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/sr/locale/sr/", 
+        "weave": "chrome/sr/locale/sr/services/", 
+        "places": "chrome/sr/locale/sr/places/", 
+        "passwordmgr": "chrome/sr/locale/sr/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/sr/locale/sr/", 
+        "pippki": "chrome/sr/locale/sr/pippki/", 
+        "browser": "browser/chrome/sr/locale/browser/"
+      }, 
+      "version": "20190617205344"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-sr@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "sr", 
+  "version": "68.0buildid20190826132627", 
+  "name": "српски (sr) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.rs (contributors: Вања Тумбас, Марко Андрејић, Никола Радовановић, Горан Ракић, Филип Милетић, Игор Милетић, Љубиша Радовановић, Иван Ичин, проф. др Драган Јанковић, проф. др Милорад Тошић, дипл. инж. Оливера Тошић, Бранимир Станковић, дипл. инж. Душан Вучковић, Владана Михајловић, Драган Митровић)", 
+  "description": "Language pack for Firefox for sr"
+}

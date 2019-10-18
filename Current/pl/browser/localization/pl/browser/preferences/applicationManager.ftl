@@ -1,0 +1,16 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+app-manager-window=
+    .title=Szczegóły aplikacji
+    .style=width: 32em; min-height: 20em;
+app-manager-remove=
+    .label=Usuń
+    .accesskey=U
+app-manager-handle-webfeeds=Do obsługi kanałów informacyjnych można użyć następujących aplikacji:
+app-manager-handle-protocol=Do obsługi odnośników „{ $type }” można użyć następujących aplikacji:
+app-manager-handle-file=Do obsługi treści „{ $type }” można użyć następujących aplikacji:
+
+app-manager-web-app-info=Ta aplikacja internetowa pochodzi z serwera:
+app-manager-local-app-info=Ta aplikacja znajduje się w:

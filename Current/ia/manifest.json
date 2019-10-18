@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "ia": {
+      "chrome_resources": {
+        "necko": "chrome/ia/locale/ia/necko/", 
+        "pdf.js": "browser/chrome/ia/locale/pdfviewer/", 
+        "global": "chrome/ia/locale/ia/global/", 
+        "devtools": "browser/chrome/ia/locale/ia/devtools/client/", 
+        "pipnss": "chrome/ia/locale/ia/pipnss/", 
+        "alerts": "chrome/ia/locale/ia/alerts/", 
+        "devtools-startup": "browser/chrome/ia/locale/ia/devtools/startup/", 
+        "branding": "browser/chrome/ia/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/ia/locale/ia/", 
+        "autoconfig": "chrome/ia/locale/ia/autoconfig/", 
+        "devtools-shared": "browser/chrome/ia/locale/ia/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/ia/locale/ia/global-platform/win/", 
+          "android": "chrome/ia/locale/ia/global-platform/unix/", 
+          "macosx": "chrome/ia/locale/ia/global-platform/mac/", 
+          "linux": "chrome/ia/locale/ia/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/ia/locale/browser-region/", 
+        "mozapps": "chrome/ia/locale/ia/mozapps/", 
+        "pluginproblem": "chrome/ia/locale/ia/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/ia/locale/ia/", 
+        "weave": "chrome/ia/locale/ia/services/", 
+        "places": "chrome/ia/locale/ia/places/", 
+        "passwordmgr": "chrome/ia/locale/ia/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/ia/locale/ia/", 
+        "pippki": "chrome/ia/locale/ia/pippki/", 
+        "browser": "browser/chrome/ia/locale/browser/"
+      }, 
+      "version": "20190620073300"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-ia@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "ia", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Interlingua Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Rodrigo Guerra, Carmelo Serraino)", 
+  "description": "Language pack for Firefox for ia"
+}

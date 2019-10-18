@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "ja": {
+      "chrome_resources": {
+        "necko": "chrome/ja/locale/ja/necko/", 
+        "pdf.js": "browser/chrome/ja/locale/pdfviewer/", 
+        "global": "chrome/ja/locale/ja/global/", 
+        "devtools": "browser/chrome/ja/locale/ja/devtools/client/", 
+        "pipnss": "chrome/ja/locale/ja/pipnss/", 
+        "alerts": "chrome/ja/locale/ja/alerts/", 
+        "devtools-startup": "browser/chrome/ja/locale/ja/devtools/startup/", 
+        "branding": "browser/chrome/ja/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/ja/locale/ja/", 
+        "autoconfig": "chrome/ja/locale/ja/autoconfig/", 
+        "devtools-shared": "browser/chrome/ja/locale/ja/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/ja/locale/ja/global-platform/win/", 
+          "android": "chrome/ja/locale/ja/global-platform/unix/", 
+          "macosx": "chrome/ja/locale/ja/global-platform/mac/", 
+          "linux": "chrome/ja/locale/ja/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/ja/locale/browser-region/", 
+        "mozapps": "chrome/ja/locale/ja/mozapps/", 
+        "pluginproblem": "chrome/ja/locale/ja/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/ja/locale/ja/", 
+        "weave": "chrome/ja/locale/ja/services/", 
+        "places": "chrome/ja/locale/ja/places/", 
+        "passwordmgr": "chrome/ja/locale/ja/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/ja/locale/ja/", 
+        "pippki": "chrome/ja/locale/ja/pippki/", 
+        "browser": "browser/chrome/ja/locale/browser/"
+      }, 
+      "version": "20190625124532"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-ja@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "ja", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Japanese Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Mozilla Japanese L10N Community (contributors: Hiroki Abe, Makoto Arai, Tomoya Asai, Hideyuki EMURA, Shaw Hosaka, Joji Ikeda, Masahiko Imanaka, Kosuke Kaizuka, Hidehiro Kozawa, Teiji Matsuba, Shigeki Narisawa, Takeshi Nishimura, Toshiyuki Oka, Atsushi Sakai, Hiroshi Sekiya, Youhei Tooyama, Satoru Yamaguchi)", 
+  "description": "Language pack for Firefox for ja"
+}

@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "el": {
+      "chrome_resources": {
+        "necko": "chrome/el/locale/el/necko/", 
+        "pdf.js": "browser/chrome/el/locale/pdfviewer/", 
+        "global": "chrome/el/locale/el/global/", 
+        "devtools": "browser/chrome/el/locale/el/devtools/client/", 
+        "pipnss": "chrome/el/locale/el/pipnss/", 
+        "alerts": "chrome/el/locale/el/alerts/", 
+        "devtools-startup": "browser/chrome/el/locale/el/devtools/startup/", 
+        "branding": "browser/chrome/el/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/el/locale/el/", 
+        "autoconfig": "chrome/el/locale/el/autoconfig/", 
+        "devtools-shared": "browser/chrome/el/locale/el/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/el/locale/el/global-platform/win/", 
+          "android": "chrome/el/locale/el/global-platform/unix/", 
+          "macosx": "chrome/el/locale/el/global-platform/mac/", 
+          "linux": "chrome/el/locale/el/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/el/locale/browser-region/", 
+        "mozapps": "chrome/el/locale/el/mozapps/", 
+        "pluginproblem": "chrome/el/locale/el/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/el/locale/el/", 
+        "weave": "chrome/el/locale/el/services/", 
+        "places": "chrome/el/locale/el/places/", 
+        "passwordmgr": "chrome/el/locale/el/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/el/locale/el/", 
+        "pippki": "chrome/el/locale/el/pippki/", 
+        "browser": "browser/chrome/el/locale/browser/"
+      }, 
+      "version": "20190621002349"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-el@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "el", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Ελληνικά Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Kostas Papadimas", 
+  "description": "Language pack for Firefox for el"
+}

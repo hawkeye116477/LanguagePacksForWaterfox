@@ -1,0 +1,178 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Kukho ingxaki ngokulayisha ikhasi">
+<!ENTITY retry.label "Zama Kwakhona">
+<!ENTITY returnToPreviousPage.label "Yiya Emva">
+<!ENTITY advanced.label "Kwinqanaba Eliphambili">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Ayikwazi kudibanisa">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Le dilesi inemida">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+
+<!ENTITY fileNotFound.title "Ifayile ayifumaneki">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Khangela igama lefayile yoonobumba okanye ezinye iimpazamo zokutayipha.</li> <li>Khangela ubone ukuba ingaba ifayile yashenxiswa, yathiywa ngokutsha okanye yacinywa na.</li> </ul>">
+
+<!ENTITY fileAccessDenied.title "Ufikelelo kule fayile lwalelwe">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Kusenokwenzeka isusiwe, ikhutshiwe, okanye imvume yefayile kungenzeka ithintela ufikelelo.</li></ul>">
+
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>I-&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
+
+<!ENTITY captivePortal.title "Loga ungene kwinethwekhi">
+<!ENTITY captivePortal.longDesc2 "<p>Umele ungene kule nethwekhi ngaphambi kokuba ufikelele kwi-Intanethi.</p>">
+
+<!ENTITY openPortalLoginPage.label2 "Vula iPhepha lokuLoga uNgene kwiNethwekhi">
+
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+
+<!ENTITY netInterrupt.title "Unxibelelwano luphazanyisiwe">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Uxwebhu luphelelwe">
+<!ENTITY notCached.longDesc "<p>Uxwebhu oluceliweyo alufumaneki kwikhetshi ye-&brandShortName;</p><ul><li>Njengesilumkiso sokhuseleko, i-&brandShortName; ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.</li></ul>">
+
+<!ENTITY netOffline.title "Imo engeyo yakusebenza">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Cinezela &quot;Zama Kwakhona&quot; ukutshintshela kwimo yeintanethi kwaye ulayishe ngokutsha ikhasi.</li> </ul>">
+
+<!ENTITY contentEncodingError.title "Imposiso yekhowudi yomxholo">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> </ul>">
+
+<!ENTITY unsafeContentType.title "Udidi lwefayile engakhuselekanga">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> </ul>">
+
+<!ENTITY netReset.title "Umdibaniso uphinde wamiselwa">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Umdibaniso uphelelwe lixesha">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "Idilesi ayiqondwanga">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Kunokudingeka ukuba ufakele enye isoftwe ukuze uvule le dilesi.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "Iseva yommeli ayiluvumeli unxibelelwano">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Khangela iisethingi zommeli ukuqinisekisa ukuba zifanelekile.</li> <li>Qhagamshelana nomlawuli wakho wenethiwekhi ukuqinisekisa ukuba iseva yeproksi iyasebenza.</li> </ul>">
+
+<!ENTITY proxyResolveFailure.title "Ayikwazi ukufumana iseva yommeli">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Khangela iisethingi zommeli ukuqinisekisa ukuba zifanelekile.</li> <li>Khangela uqinisekise ukuba ikhompyutha yakho inonxibelelwano olusebenzayo lwenethiwekhi.</li> <li>Ukuba ikhompyutha yakho okanye inethiwekhi ayikhuselwanga yi-firewall okanye iproksi, qiniseka ukuba i-&brandShortName; ivunyelwe ukufikelela kwiWebhu.</li> </ul>">
+
+<!ENTITY redirectLoop.title "Ikhasi alithumeli kwenye indawo kakuhle">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Le ngxaki maxa wambi ingabangelwa ngokungasebenzisi okanye ngokwala ukwamkela iikhuki.</li> </ul>">
+
+<!ENTITY unknownSocketType.title "Impendulo engalindelekanga kwiseva">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Khangela ukuqinisekisa ukuba isistim yakho ine-Personal Security Manager efakelweyo.</li> <li>Oku kunokuba ngenxa yolungelelwano olungekho semgangathweni kwiseva.</li> </ul>">
+
+<!ENTITY nssFailure2.title "Unxibelelwano Ukhuseleko Aluphumelelanga">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Ikhasi ozama ukulijonga alinakho ukuboniswa kuba ukufaneleka kweengcombolo ezifunyenweyo akunakuqinisekiswa.</li>  <li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li> </ul>">
+
+<!ENTITY certerror.longpagetitle1 "Uqhagamshelo lwakho alukhuselekanga">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "Umnini we-<span class='hostname'/> uyile iwebhsayithi yabo ngokungafanelekanga.  Ukuze ukhusele inkcazelo yakho ingabiwa, i-&brandShortName; ayiqhagamshelanga kule webhsayithi.">
+
+<!ENTITY sharedLongDesc "<ul> <li>Isayithi isenokungafumaneki okwethutyana okanye ixakeke kakhulu. Zama kwakhona kwimizuzwana embalwa.</li> <li>Ukuba akukwazi ukulayisha nawaphi na amakhasi, khangela unxibelelwano lwenethiwekhi yekhompyutha yakho.</li> <li>Ukuba ikhompyutha yakho okanye inethiwekhi ayikhuselwanga yi-firewall okanye iproksi, qiniseka ukuba i-&brandShortName; ivunyelwe ukufikelela kwiWebhu.</li> </ul>">
+
+<!ENTITY cspBlocked.title "Ithintelwe ngumGaqonkqubo woKhuseleko lomXholo">
+<!ENTITY cspBlocked.longDesc "<p>i-&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
+
+<!ENTITY corruptedContentErrorv2.title "Imposiso yomxholo owonakalisiweyo">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
+
+
+<!ENTITY securityOverride.exceptionButtonLabel "Yongeza ieksepshini…">
+
+<!ENTITY errorReporting.automatic2 "Xela iimpazamo ezifana nale ukunceda uMozilla afumanise aze abhloke iisayithi eziyingozi">
+<!ENTITY errorReporting.learnMore "Funda okungakumbi…">
+
+<!ENTITY remoteXUL.title "Susa i-XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "Akunxibelelani ngokukhuselekileyo">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Inkcazelo ehambele phambili: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> I-&brandShortName; ayikhange iqhagamshele kwi <span id='wrongSystemTime_URL'/> ngenxa yokuba iwotshi yekhompyutha kubonakala ngathi ibonisa ixesha elingelilo yaye oku kuthintela uqhagamshelo olukhuselekileyo.</p> <p>Ikhompyutha yakho isetelwe ku- <span id='wrongSystemTime_systemDate'/>, ngoxa bekufuneka ibe ku- <span id='wrongSystemTime_actualDate'/>. Ukuze ulungise le ngxaki, tshintsha iisetingi zomhla nexesha lakho ukuze zingqamane nexesha elililo.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> i-&brandShortName; ayikhange iqhagamshele kwi- <span id='wrongSystemTimeWithoutReference_URL'/> ngenxa yokuba iwotshi yekhompyutha yakho ibonakala ibonisa ixesha elingelilo yaye loo nto ithintela uqhagamshelo olukhuselekileyo.</p> <p>Ikhompyutha yakho isetelwe kwi <span id='wrongSystemTimeWithoutReference_systemDate'/>. Ukulungisa le ngxaki, tshintsha iisetingi zomhla nexesha lakho ukuze zingqamane nexesha elifanelekileyo.</p>">
+
+<!ENTITY certerror.pagetitle1  "Uqhagamshelo Olungakhuselekanga">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Le sayithi isebenzisa HTTP Strict Transport Security (HSTS) ukucacisa ukuba i-&brandShortName; iqhagamshelana kuphela  kuyo ngokukhuselekileyo.Ngokomphumo, akunakwenzeka ukuba udibanise okuphume ecaleni kwesi satifikethi.">
+<!ENTITY certerror.copyToClipboard.label "Khuphela umbhalo kwiklipbhodi">
+
+<!ENTITY inadequateSecurityError.title "Uqhagamshelo lwakho alukhuselekanga">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>isebenzisa iteknoloji yokhuseleko ephelelwe lixesha nesesichengeni sokuhlaselwa. Umhlaseli unokuthi ngokulula atyhile inkcazelo obucinga ukuba ikhuselekile. Umlawuli wewebhsayithi kuya kufuneka aqale alungise iseva kuqala ngaphambi kokuba  utyelele isayithi.</p><p>ERROR CODE: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+
+<!ENTITY prefReset.longDesc "Kukhangeleka ngathi iisetingi zakho zokhuseleko lwenetwekhi kusenokwenzeka zibangela oku. Ngaba ufuna ukuba iisetingi zibuyiselwe?">
+<!ENTITY prefReset.label "Buyisela iisetingi zeedifolti">
+
+<!ENTITY returnToPreviousPage1.label "Go Back (Recommended)">
+<!ENTITY advanced2.label "Advanced…">
+<!ENTITY viewCertificate.label "View Certificate">
+<!ENTITY dnsNotFound.pageTitle "Server Not Found">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. We’re having trouble finding that site.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>If that address is correct, here are three other things you can try:</strong>
+<ul>
+  <li>Try again later.</li>
+  <li>Check your network connection.</li>
+  <li>If you are connected but behind a firewall, check that &brandShortName; has permission to access the Web.</li>
+</ul>
+">
+<!ENTITY malformedURI.pageTitle "Invalid URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. That address doesn’t look right.">
+<!ENTITY certerror.longpagetitle2 "Warning: Potential Security Risk Ahead">
+<!ENTITY certerror.sts.longpagetitle  "Did Not Connect: Potential Security Issue">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/>. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
+<!ENTITY certerror.sts.introPara "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/> because this website requires a secure connection.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; detected an issue and did not continue to <span class='hostname'/>. The website is either misconfigured or your computer clock is set to the wrong time.">
+<!ENTITY certerror.expiredCert.secondPara2 "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
+<!ENTITY certerror.expiredCert.sts.secondPara "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely.">
+<!ENTITY certerror.whatCanYouDoAboutItTitle "What can you do about it?">
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>The issue is most likely with the website, and there is nothing you can do to resolve it.</p>
+<p>If you are on a corporate network or using anti-virus software, you can reach out to the support teams for assistance. You can also notify the website’s administrator about the problem.</p>
+">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Your computer clock is set to <span id='wrongSystemTime_systemDate2'/>. Make sure your computer is set to the correct date, time, and time zone in your system settings, and then refresh <span class='hostname'/>.</p>
+<p>If your clock is already set to the right time, the website is likely misconfigured, and there is nothing you can do to resolve the issue. You can notify the website’s administrator about the problem.</p>
+">
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>The issue is most likely with the website, and there is nothing you can do to resolve it. You can notify the website’s administrator about the problem.</p>
+">
+<!ENTITY securityOverride.exceptionButton1Label "Accept the Risk and Continue">
+<!ENTITY certerror.pagetitle2  "Warning: Potential Security Risk Ahead">
+<!ENTITY certerror.sts.pagetitle  "Did Not Connect: Potential Security Issue">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> has a security policy called HTTP Strict Transport Security (HSTS), which means that &brandShortName; can only connect to it securely. You can’t add an exception to visit this site.">
+<!ENTITY blockedByPolicy.title "Blocked Page">
+<!ENTITY certerror.mitm.title "Software is Preventing &brandShortName; From Safely Connecting to This Site">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> is most likely a safe site, but a secure connection could not be established. This issue is caused by <span class='mitm-name'/>, which is either software on your computer or your network.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "If your antivirus software includes a feature that scans encrypted connections (often called “web scanning” or “https scanning”), you can disable that feature. If that doesn’t work, you can remove and reinstall the antivirus software.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "If you are on a corporate network, you can contact your IT department.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack and you should not continue to the site.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack, and there is nothing you can do to access the site.">
+<!ENTITY clockSkewError.title "Your Computer Clock is Wrong">
+<!ENTITY clockSkewError.longDesc "Your computer thinks it is <span id='wrongSystemTime_systemDate1'/>, which prevents &brandShortName; from connecting securely. To visit <span class='hostname'></span>, update your computer clock in your system settings to the current date, time, and time zone, and then refresh <span class='hostname'></span>.">
+<!ENTITY networkProtocolError.title "Network Protocol Error">
+<!ENTITY networkProtocolError.longDesc "<p>The page you are trying to view cannot be shown because an error in the network protocol was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">

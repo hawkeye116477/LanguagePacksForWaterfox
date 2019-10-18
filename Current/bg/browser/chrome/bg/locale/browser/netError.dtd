@@ -1,0 +1,196 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Проблем при зареждане на страница">
+<!ENTITY retry.label "Повторен опит">
+<!ENTITY returnToPreviousPage.label "Връщане назад">
+<!ENTITY returnToPreviousPage1.label "Връщане назад (препоръчително)">
+<!ENTITY advanced.label "Подробности">
+<!ENTITY continue2.label "Подробности…">
+<!ENTITY moreInformation.label "Повече информация">
+<!ENTITY viewCertificate.label "Преглед на сертификата">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Не може да бъде установена връзка">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Този адрес е ограничен">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.pageTitle "Сървърът не е намерен">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Хмм. Страницата не е намерена">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Ако адресът е правилен има други три неща, които да направите</strong>
+<ul>
+  <li>опитайте по-късно</li>
+  <li>проверете вашата връзка с интернет</li>
+  <li>ако сте свързани, но зад защитна стена проверете дали &brandShortName; има право на достъп до интернет</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Файлът не е намерен">
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>Проверете името на файла за регистъра на буквите или други технически грешки.</li>
+  <li>Проверете дали файлът не е преместен, преименуван или изтрит.</li>
+</ul>">
+
+<!ENTITY fileAccessDenied.title "Достъпът до файла е отказан">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Може да е премахнат, преместен или правата му да ограничават достъпа.</li>
+</ul>">
+
+<!ENTITY generic.title "Олеле.">
+<!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да отвори страницата.</p>">
+
+<!ENTITY captivePortal.title "Влизане в мрежа">
+<!ENTITY captivePortal.longDesc2 "<p>Трябва да се впишете в тази мрежа, за да получите достъп до интернет.</p>">
+
+<!ENTITY openPortalLoginPage.label2 "Страница за вписване в мрежа">
+
+<!ENTITY malformedURI.pageTitle "Неправилен адрес">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Хм. Адресът не изглежда правилен">
+
+<!ENTITY netInterrupt.title "Връзката беше прекъсната">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Документът е с изтекъл срок на валидност">
+<!ENTITY notCached.longDesc "<p>Търсеният документ не е наличен в буфера на &brandShortName;.</p>
+<ul>
+  <li>Като предпазна мярка &brandShortName; не прави повторна заявка на документи с поверително съдържание.</li>
+  <li>Натиснете „Повторен опит“ за нова заявка на документа от страницата.</li>
+</ul>">
+
+<!ENTITY netOffline.title "Работа извън мрежата">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Натиснете „Повторен опит“, за да превключите към режим с връзка и да презаредите страницата.</li></ul>">
+
+<!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
+
+<!ENTITY unsafeContentType.title "Опасен вид файл">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
+
+<!ENTITY netReset.title "Връзката е прекъсната">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Времето за изчакване на връзка изтече">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "Адресът не е разпознат">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Вероятно ще трябва да инсталирате друг софтуер, за да отворите този адрес.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "Мрежовият посредник отказва връзката">
+<!ENTITY proxyConnectFailure.longDesc "<ul>
+  <li>Уверете се, че настройките на мрежовия посредник са правилни.</li>
+  <li>Свържете се с мрежовия администратор и проверете дали мрежовият посредник работи.</li>
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Мрежовия посредник не може да бъде открит">
+<!ENTITY proxyResolveFailure.longDesc "<ul>
+  <li>Уверете се, че настройките на мрежовия посредник са правилни.</li>
+  <li>Проверете дали връзката на компютъра с мрежата е наред.</li>
+  <li>Ако компютърът или мрежата ви са зад защитна стена или мрежов посредник проверете дали &brandShortName; има право на достъп до Интернет.</li>
+</ul>">
+
+<!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
+<!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитките.</li></ul>">
+
+<!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
+<!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
+
+<!ENTITY nssFailure2.title "Неуспешно установяване на шифрована връзка">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
+
+<!ENTITY certerror.longpagetitle1 "Връзката е незащитена">
+<!ENTITY certerror.longpagetitle2 "Внимание: Вероятен риск за сигурността">
+<!ENTITY certerror.sts.longpagetitle  "Неуспешно свързване: Евентуален проблем със сигурността">
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил страницата неправилно. За да ви защити от кражба на информация, &brandShortName; отказа връзката с тази страница.">
+<!ENTITY certerror.introPara2 "&brandShortName; забеляза възможна заплаха за сигурността и не продължи към <span class='hostname'/>. Ако посетите страницата атакуващ може да опита да открадне информация като ваши пароли, електронни писма или данни за банкови карти.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; откри проблем и не продължи към <span class='hostname'/>. Сайтът е или неправилно настроен, или часовникът на вашия компютър е неверен.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Какво да направите в тази ситуация?">
+
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Проблемът най-вероятно е в страницата и нищо не може да направите.</p>
+<p>Ако сте във ведомствена мрежа или използвате антивирусно приложение може потърсите помощ от поддържащия екип. Също може да уведомите администратора на страницата за този проблем.</p>">
+
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Часовникът на компютъра показва <span id='wrongSystemTime_systemDate2'/>. Сверете датата, часа и часовия пояс на компютъра в системните настройки и презаредете страницата на <span class='hostname'/>.</p>
+<p>Ако часовникът е верен тогава страницата не е настроена правилно и нищо не може да направите. Може да уведомите администратора на страницата за този проблем.</p>">
+
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Проблемът най-вероятно е в страницата и нищо не може да направите. Може да уведомите администратора на страницата за него.</p>">
+
+<!ENTITY sharedLongDesc "<ul>
+  <li>Страницата може да е временно недостъпна или натоварена. Опитайте отново след малко.</li>
+  <li>Ако не може да отворите друга страница, проверете връзката си с интернет.</li>
+  <li>Ако компютърът или мрежата ви са зад защитна стена или мрежов посредник проверете дали &brandShortName; има право на достъп до Интернет.</li>
+</ul>">
+
+<!ENTITY cspBlocked.title "Блокирано от Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото тя има политика за сигурност, която го забранява.</p>">
+
+<!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка при прехвърляне на данните.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
+
+
+<!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
+<!ENTITY securityOverride.exceptionButton1Label "Продължаване въпреки риска">
+
+<!ENTITY errorReporting.automatic2 "Докладване на такива грешки, за да може Mozilla да идентифицира и ограничи злонамерени сайтове">
+<!ENTITY errorReporting.learnMore "Научете повече…">
+
+<!ENTITY remoteXUL.title "Отдалечен XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "Невъзможно създаване на защитена връзка">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Допълнителна информация: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; не се свърза с <span id='wrongSystemTime_URL'/>, защото часовникът на компютъра изглежда е неверен, а това пречи на създаването на защитена връзка.</p> <p>Часовнъкът показва <span id='wrongSystemTime_systemDate'/>, а трябва да бъде <span id='wrongSystemTime_actualDate'/>. За да отстраните проблема сверете часовника.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; не се свърза с <span id='wrongSystemTimeWithoutReference_URL'/>, защото часовникът на компютъра изглежда е неверен, а това пречи на създаването на защитена връзка.</p> <p>Часовнъкът показва <span id='wrongSystemTimeWithoutReference_systemDate'/>. За да отстраните проблема сверете часовника.</p>">
+
+<!ENTITY certerror.pagetitle1  "Незащитена връзка">
+<!ENTITY certerror.pagetitle2  "Внимание: Вероятен риск за сигурността">
+<!ENTITY certerror.sts.pagetitle  "Неуспешно свързване: Евентуален проблем със сигурността">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Сайтът използва HTTP Strict Transport Security (HSTS), за да укаже на &brandShortName; да се свързва само по сигурен начин. В резултат на това не може да се добави изключение за този сертификат.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'/> използва политика за сигурност наречена HTTP Strict Transport Security (HSTS), което означава. че &brandShortName; може да използва само сигурни връзки. Не може да добавяте изключение при посещение на тази страница.">
+<!ENTITY certerror.copyToClipboard.label "Копиране на текста в системния буфер">
+
+<!ENTITY inadequateSecurityError.title "Връзката е незащитена">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки могат лесно да разкрият информация, която мислите, че е защитена. Администраторът на сайта трябва да поправи сървъра преди да може да използвате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Забранена страница">
+
+
+<!ENTITY clockSkewError.title "Часовникът на компютъра е неверен">
+<!ENTITY clockSkewError.longDesc "Часовникът на компютъра показва <span id='wrongSystemTime_systemDate1'/> което пречи на &brandShortName; да осъществи защитена връзка. Сверете датата, часа и часовия пояс на компютъра в системните настройки, за да посетите <span class='hostname'/>. След това презаредете страницата на <span class='hostname'/>.">
+
+<!ENTITY prefReset.longDesc "Изглежда вашите настройките на сигурността може да са предизвикали това. Искате ли да възстановите оригиналните настройки?">
+<!ENTITY prefReset.label "Възстановяване на оригиналните настройки">
+
+<!ENTITY networkProtocolError.title "Нарушение на мрежовия протокол">
+<!ENTITY networkProtocolError.longDesc "<p>Страницата не може да бъде показана поради грешка в мрежовия протокол.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
+
+<!ENTITY advanced2.label "Advanced…">
+<!ENTITY certerror.sts.introPara "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/> because this website requires a secure connection.">
+<!ENTITY certerror.expiredCert.secondPara2 "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
+<!ENTITY certerror.expiredCert.sts.secondPara "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely.">
+<!ENTITY certerror.mitm.title "Software is Preventing &brandShortName; From Safely Connecting to This Site">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> is most likely a safe site, but a secure connection could not be established. This issue is caused by <span class='mitm-name'/>, which is either software on your computer or your network.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "If your antivirus software includes a feature that scans encrypted connections (often called “web scanning” or “https scanning”), you can disable that feature. If that doesn’t work, you can remove and reinstall the antivirus software.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "If you are on a corporate network, you can contact your IT department.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack and you should not continue to the site.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack, and there is nothing you can do to access the site.">

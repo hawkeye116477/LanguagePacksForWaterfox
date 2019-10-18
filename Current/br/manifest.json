@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "br": {
+      "chrome_resources": {
+        "necko": "chrome/br/locale/br/necko/", 
+        "pdf.js": "browser/chrome/br/locale/pdfviewer/", 
+        "global": "chrome/br/locale/br/global/", 
+        "devtools": "browser/chrome/br/locale/br/devtools/client/", 
+        "pipnss": "chrome/br/locale/br/pipnss/", 
+        "alerts": "chrome/br/locale/br/alerts/", 
+        "devtools-startup": "browser/chrome/br/locale/br/devtools/startup/", 
+        "branding": "browser/chrome/br/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/br/locale/br/", 
+        "autoconfig": "chrome/br/locale/br/autoconfig/", 
+        "devtools-shared": "browser/chrome/br/locale/br/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/br/locale/br/global-platform/win/", 
+          "android": "chrome/br/locale/br/global-platform/unix/", 
+          "macosx": "chrome/br/locale/br/global-platform/mac/", 
+          "linux": "chrome/br/locale/br/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/br/locale/browser-region/", 
+        "mozapps": "chrome/br/locale/br/mozapps/", 
+        "pluginproblem": "chrome/br/locale/br/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/br/locale/br/", 
+        "weave": "chrome/br/locale/br/services/", 
+        "places": "chrome/br/locale/br/places/", 
+        "passwordmgr": "chrome/br/locale/br/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/br/locale/br/", 
+        "pippki": "chrome/br/locale/br/pippki/", 
+        "browser": "browser/chrome/br/locale/browser/"
+      }, 
+      "version": "20190619120239"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-br@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "br", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Breton Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "Firefox Breton Team (contributors: Alan Monfort, Philippe Basciano-Le Gall, Denis Arnaud, Michel Nédélec, Gwenn Meynier)", 
+  "description": "Language pack for Firefox for br"
+}

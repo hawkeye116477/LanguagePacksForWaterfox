@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "ur": {
+      "chrome_resources": {
+        "necko": "chrome/ur/locale/ur/necko/", 
+        "pdf.js": "browser/chrome/ur/locale/pdfviewer/", 
+        "global": "chrome/ur/locale/ur/global/", 
+        "devtools": "browser/chrome/ur/locale/ur/devtools/client/", 
+        "pipnss": "chrome/ur/locale/ur/pipnss/", 
+        "alerts": "chrome/ur/locale/ur/alerts/", 
+        "devtools-startup": "browser/chrome/ur/locale/ur/devtools/startup/", 
+        "branding": "browser/chrome/ur/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/ur/locale/ur/", 
+        "autoconfig": "chrome/ur/locale/ur/autoconfig/", 
+        "devtools-shared": "browser/chrome/ur/locale/ur/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/ur/locale/ur/global-platform/win/", 
+          "android": "chrome/ur/locale/ur/global-platform/unix/", 
+          "macosx": "chrome/ur/locale/ur/global-platform/mac/", 
+          "linux": "chrome/ur/locale/ur/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/ur/locale/browser-region/", 
+        "mozapps": "chrome/ur/locale/ur/mozapps/", 
+        "pluginproblem": "chrome/ur/locale/ur/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/ur/locale/ur/", 
+        "weave": "chrome/ur/locale/ur/services/", 
+        "places": "chrome/ur/locale/ur/places/", 
+        "passwordmgr": "chrome/ur/locale/ur/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/ur/locale/ur/", 
+        "pippki": "chrome/ur/locale/ur/pippki/", 
+        "browser": "browser/chrome/ur/locale/browser/"
+      }, 
+      "version": "20190622143304"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-ur@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "ur", 
+  "version": "68.0buildid20190826132627", 
+  "name": "اردو (پاکستان) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: جوں سولون, سوزی سولون)", 
+  "description": "Language pack for Firefox for ur"
+}

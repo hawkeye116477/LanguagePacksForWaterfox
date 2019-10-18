@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "nn-NO": {
+      "chrome_resources": {
+        "necko": "chrome/nn-NO/locale/nn-NO/necko/", 
+        "pdf.js": "browser/chrome/nn-NO/locale/pdfviewer/", 
+        "global": "chrome/nn-NO/locale/nn-NO/global/", 
+        "devtools": "browser/chrome/nn-NO/locale/nn-NO/devtools/client/", 
+        "pipnss": "chrome/nn-NO/locale/nn-NO/pipnss/", 
+        "alerts": "chrome/nn-NO/locale/nn-NO/alerts/", 
+        "devtools-startup": "browser/chrome/nn-NO/locale/nn-NO/devtools/startup/", 
+        "branding": "browser/chrome/nn-NO/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/nn-NO/locale/nn-NO/", 
+        "autoconfig": "chrome/nn-NO/locale/nn-NO/autoconfig/", 
+        "devtools-shared": "browser/chrome/nn-NO/locale/nn-NO/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/nn-NO/locale/nn-NO/global-platform/win/", 
+          "android": "chrome/nn-NO/locale/nn-NO/global-platform/unix/", 
+          "macosx": "chrome/nn-NO/locale/nn-NO/global-platform/mac/", 
+          "linux": "chrome/nn-NO/locale/nn-NO/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/nn-NO/locale/browser-region/", 
+        "mozapps": "chrome/nn-NO/locale/nn-NO/mozapps/", 
+        "pluginproblem": "chrome/nn-NO/locale/nn-NO/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/nn-NO/locale/nn-NO/", 
+        "weave": "chrome/nn-NO/locale/nn-NO/services/", 
+        "places": "chrome/nn-NO/locale/nn-NO/places/", 
+        "passwordmgr": "chrome/nn-NO/locale/nn-NO/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/nn-NO/locale/nn-NO/", 
+        "pippki": "chrome/nn-NO/locale/nn-NO/pippki/", 
+        "browser": "browser/chrome/nn-NO/locale/browser/"
+      }, 
+      "version": "20190626123329"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-nn-NO@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "nn-NO", 
+  "version": "68.0buildid20190826132627", 
+  "name": "Norsk nynorsk (NO) Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "firefox.no (contributors: Vebjørn Sture, Torstein Hønsi, Kurt-Rune Bergset, Ronny Vårdal, Tom Ottar Røw, Kristian Svanes, Åsmund Skjæveland, Erik Klepsvik, Håvar Henriksen, Håvard Mork, Jan-Espen Pettersen, Pascual Strømsnæs, Bjørn I. Svindseth)", 
+  "description": "Language pack for Firefox for nn-NO"
+}

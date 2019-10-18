@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "kn": {
+      "chrome_resources": {
+        "necko": "chrome/kn/locale/kn/necko/", 
+        "pdf.js": "browser/chrome/kn/locale/pdfviewer/", 
+        "global": "chrome/kn/locale/kn/global/", 
+        "devtools": "browser/chrome/kn/locale/kn/devtools/client/", 
+        "pipnss": "chrome/kn/locale/kn/pipnss/", 
+        "alerts": "chrome/kn/locale/kn/alerts/", 
+        "devtools-startup": "browser/chrome/kn/locale/kn/devtools/startup/", 
+        "branding": "browser/chrome/kn/locale/branding/", 
+        "fxmonitor": "browser/features/fxmonitor@mozilla.org/kn/locale/kn/", 
+        "autoconfig": "chrome/kn/locale/kn/autoconfig/", 
+        "devtools-shared": "browser/chrome/kn/locale/kn/devtools/shared/", 
+        "global-platform": {
+          "win": "chrome/kn/locale/kn/global-platform/win/", 
+          "android": "chrome/kn/locale/kn/global-platform/unix/", 
+          "macosx": "chrome/kn/locale/kn/global-platform/mac/", 
+          "linux": "chrome/kn/locale/kn/global-platform/unix/"
+        }, 
+        "browser-region": "browser/chrome/kn/locale/browser-region/", 
+        "mozapps": "chrome/kn/locale/kn/mozapps/", 
+        "pluginproblem": "chrome/kn/locale/kn/pluginproblem/", 
+        "formautofill": "browser/features/formautofill@mozilla.org/kn/locale/kn/", 
+        "weave": "chrome/kn/locale/kn/services/", 
+        "places": "chrome/kn/locale/kn/places/", 
+        "passwordmgr": "chrome/kn/locale/kn/passwordmgr/", 
+        "report-site-issue": "browser/features/webcompat-reporter@mozilla.org/kn/locale/kn/", 
+        "pippki": "chrome/kn/locale/kn/pippki/", 
+        "browser": "browser/chrome/kn/locale/browser/"
+      }, 
+      "version": "20190603073726"
+    }
+  }, 
+  "applications": {
+    "gecko": {
+      "strict_min_version": "68.0", 
+      "id": "langpack-kn@firefox.mozilla.org", 
+      "strict_max_version": "68.*"
+    }
+  }, 
+  "langpack_id": "kn", 
+  "version": "68.0buildid20190826132627", 
+  "name": "ಕನ್ನಡ Language Pack", 
+  "manifest_version": 2, 
+  "sources": {
+    "browser": {
+      "base_path": "browser/"
+    }
+  }, 
+  "author": "mozilla.org (contributors: Shankar Prasad, Omshivaprakash)", 
+  "description": "Language pack for Firefox for kn"
+}
