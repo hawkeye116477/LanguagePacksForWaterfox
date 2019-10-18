@@ -8,7 +8,7 @@ cd "$SCRIPT_PATH" || exit
 for D in *; do
     if [ -d "${D}" ]; then
         cd "${D}"
-        mkdir "$SCRIPT_PATH/../Current_XPI"
-        zip -r9 "$SCRIPT_PATH/../Current_XPI/${D%.*}.xpi" *
+        zip -r9 "$SCRIPT_PATH/../Current_XPI/langpack-${D%.*}@waterfox-current.xpi" *
+        cd ..
     fi
 done
