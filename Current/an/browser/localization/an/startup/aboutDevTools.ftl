@@ -4,26 +4,26 @@
 
 head-title = Sobre las Ferramentas de Desenvolvedor
 enable-title = Activar las ferramientas de desenvolvedor de Firegox
-enable-inspect-element-title = Activar las ferramientas de desenvolvedor de Firefox pa usar Examinar l'elemento
+enable-inspect-element-title = Activar las ferramientas de desenvolvedor de Waterfox pa usar Examinar l'elemento
 enable-inspect-element-message = Examinar y editar HTML y CSS con l'Inspector de Ferramientas de Desenvolvedor.
-enable-about-debugging-message = Desenvolver y depurar WebExtensions, web workers, workers de servicio y mas, con as ferramientas de desenvolvedor de Firefox.
+enable-about-debugging-message = Desenvolver y depurar WebExtensions, web workers, workers de servicio y mas, con as ferramientas de desenvolvedor de Waterfox.
 enable-key-shortcut-message = Has activau un alcorce de Ferramientas de Desenvolvedor. Si ye per error, puetz zarrar esta pestanya.
 enable-menu-message = Perfecciona los codigos HTML, CSS y JavaScript d'as tuyas pachinas con ferramientas como l'Inspector y lo Depurador.
-enable-common-message = Las Ferramientas de Desenvolvedor de Firefox son desactivadas per defecto pa dar-te mas control sobre lo navegador.
+enable-common-message = Las Ferramientas de Desenvolvedor de Waterfox son desactivadas per defecto pa dar-te mas control sobre lo navegador.
 enable-learn-more-link = Saber mas sobre las Ferramientas de Desenvolvedor
 enable-enable-button = Acativar las Ferramientas de Desenvolvedor
 enable-close-button = Zarrar esta pestanya
-welcome-title = Benveniu ta las Ferramientas de Desenvolvedor de Firefox!
-newsletter-title = Boletín d'o desenvolvedor de Mozilla
+welcome-title = Benveniu ta las Ferramientas de Desenvolvedor de Waterfox!
+newsletter-title = Boletín d'o desenvolvedor de Waterfox
 newsletter-message = Leye noticias pa los desenvolverdors, trucos y recursos, directament en o tuya servilla de correu.
 newsletter-email-placeholder =
     .placeholder = Correu-e
-newsletter-privacy-label = Veigo bien que Mozilla maneye la mía información como s'explica en esta <a data-l10n-name="privacy-policy">Politica de Privacidat</a>.
+newsletter-privacy-label = Veigo bien que Waterfox maneye la mía información como s'explica en esta <a data-l10n-name="privacy-policy">Politica de Privacidat</a>.
 newsletter-subscribe-button = Conducir-se
 newsletter-thanks-title = Gracias!
-newsletter-thanks-message = Si denantes no has confirmau la conducción a bell boletín de noticias de Mozilla, ye posible que l'haigas de fer. Compreba la servilla de dentrada u lo filtro de correu vasuera pa veyer si i hai bell mensache de Mozilla.
-footer-title = Firefox edición de desenvolvedor
-footer-message = Yes mirando bella cosa mas que ferramientas pa desenvolvedors? Mira-te este navegador de Firefox que ye feito especificament pa desenvolvedors y fluxos de treballo modernos.
+newsletter-thanks-message = Si denantes no has confirmau la conducción a bell boletín de noticias de Waterfox, ye posible que l'haigas de fer. Compreba la servilla de dentrada u lo filtro de correu vasuera pa veyer si i hai bell mensache de Waterfox.
+footer-title = Waterfox edición de desenvolvedor
+footer-message = Yes mirando bella cosa mas que ferramientas pa desenvolvedors? Mira-te este navegador de Waterfox que ye feito especificament pa desenvolvedors y fluxos de treballo modernos.
 footer-learn-more-link = Saber-ne mas
 features-learn-more = Saber-ne mas
 features-inspector-title = Inspector

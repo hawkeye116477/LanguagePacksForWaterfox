@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrijski podaci
 about-telemetry-more-information = Tražite više informacija?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> sadrži vodiče kako koristiti naše podatkovne alate.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry client documentation</a> uključuje definicije koncepata, API dokumentaciju i podatkovne reference.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry dashboard-i</a> vam omogućavaju da vizualizirate podatke koje Mozilla prima putem Telemetrije.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox Data Documentation</a> sadrži vodiče kako koristiti naše podatkovne alate.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox Telemetry client documentation</a> uključuje definicije koncepata, API dokumentaciju i podatkovne reference.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry dashboard-i</a> vam omogućavaju da vizualizirate podatke koje Waterfox prima putem Telemetrije.
 about-telemetry-show-in-Firefox-json-viewer = Otvori u JSON pregledniku
 about-telemetry-home-section = Početna
 about-telemetry-general-data-section = Opći podaci
@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] onemogućeno
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Ova stranica prikazuje informacije o performansama, hardveru, upotrebi i prilagođavanjima koje je prikupio Telemetrija. Ove informacije su poslate { $telemetryServerOwner }-i kako bi unaprijedila { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetrija prikuplja { about-telemetry-data-type } i slanje je podešeno na <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

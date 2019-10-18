@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname }(e)k segurtasun ziurtagiri baliogabe bat erabiltzen du.
 cert-error-mitm-intro = Ziurtagiri-autoritateek jaulkitako ziurtagirien bidez frogatzen duten euren identitatea webguneek.
-cert-error-mitm-mozilla = { -brand-short-name }(e)k irabazi asmorik gabeko Mozillaren babesa du, zeinak erabat irekia den ziurtagiri-autoritateen (CA) biltegia kudeatzen duen. Ziurtagiri-autoritateek erabiltzaileen segurtasunerako jardunbide egokienak jarraitzen dituztela ziurtatzen laguntzen du CA biltegiak.
-cert-error-mitm-connection = Konexio bat segurua dela egiaztatzeko, erabiltzailearen sistema eragileak emandako ziurtagirien ordez Mozillaren CA biltegia erabiltzen du { -brand-short-name }(e)k. Hortaz, antibirus-programa edo sare bat konexio bat atzematen ari bada Mozillaren CA biltegian ez dagoen CA batek jaulkitako segurtasun-ziurtagiri bat erabiliz, konexioa ez-segurutzat emango da.
+cert-error-mitm-mozilla = { -brand-short-name }(e)k irabazi asmorik gabeko Waterfoxren babesa du, zeinak erabat irekia den ziurtagiri-autoritateen (CA) biltegia kudeatzen duen. Ziurtagiri-autoritateek erabiltzaileen segurtasunerako jardunbide egokienak jarraitzen dituztela ziurtatzen laguntzen du CA biltegiak.
+cert-error-mitm-connection = Konexio bat segurua dela egiaztatzeko, erabiltzailearen sistema eragileak emandako ziurtagirien ordez Waterfoxren CA biltegia erabiltzen du { -brand-short-name }(e)k. Hortaz, antibirus-programa edo sare bat konexio bat atzematen ari bada Waterfoxren CA biltegian ez dagoen CA batek jaulkitako segurtasun-ziurtagiri bat erabiliz, konexioa ez-segurutzat emango da.
 cert-error-trust-unknown-issuer-intro = Norbait gunearen nortasuna bere egiten saiatzen ari liteke eta ez zenuke jarraitu beharko.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

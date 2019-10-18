@@ -136,7 +136,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Lägg till undantag…">
 <!ENTITY securityOverride.exceptionButton1Label "Acceptera risken och fortsätt">
 
-<!ENTITY errorReporting.automatic2 "Rapportera fel som detta för att hjälpa Mozilla identifiera och blockera skadliga webbplatser">
+<!ENTITY errorReporting.automatic2 "Rapportera fel som detta för att hjälpa Waterfox identifiera och blockera skadliga webbplatser">
 <!ENTITY errorReporting.learnMore "Läs mer…">
 
 <!ENTITY remoteXUL.title "Extern XUL">

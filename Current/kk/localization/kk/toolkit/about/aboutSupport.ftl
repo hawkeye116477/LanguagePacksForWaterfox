@@ -61,7 +61,7 @@ app-basics-remote-processes-count = Қашықтағы үрдістер
 app-basics-enterprise-policies = Кәсіпоорындық саясаттар
 app-basics-location-service-key-google = Google орналасулар қызметінің кілті
 app-basics-safebrowsing-key-google = Google Safebrowsing кілті
-app-basics-key-mozilla = Mozilla орналасулар қызметінің кілті
+app-basics-key-mozilla = Waterfox орналасулар қызметінің кілті
 app-basics-safe-mode = Қауіпсіз режимі
 show-dir-label =
     { PLATFORM() ->

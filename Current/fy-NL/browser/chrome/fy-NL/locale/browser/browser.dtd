@@ -119,7 +119,7 @@ in "Search through tabs". -->
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
+when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "Lokaasje iepenje…">
 <!ENTITY openFileCmd.label "Bestân iepenje…">
 <!ENTITY openFileCmd.accesskey "i">
@@ -176,7 +176,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+Source" on macOS. pageSourceCmd.commandkey above is Waterfox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
@@ -217,19 +217,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "F">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Nim Firefox mei jo mei">
+     for the Waterfox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Nim Waterfox mei jo mei">
 <!ENTITY fxa.signin.description.label "Berik jo blêdwizers, skiednis, wachtwurden en oare ynstellingen op al jo apparaten.">
 <!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; ynskeakelje…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
+     for the Waterfox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Kontrolearje jo e-mail">
 <!ENTITY fxa.unverified.description.label "Jo moatte jo account ferifiearje eardat jo syngronisearje kinne.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label;-ynstellingen iepenje…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Waterfox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Oanmeld as">
 <!ENTITY fxa.menu.manageAccount.label "Account beheare…">
@@ -492,7 +492,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Set ljepblêdsyngronisaasje oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
+     the account. We also show links to download Waterfox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Wolle jo hjir jo ljepblêden fan oare apparaten sjen?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Foarkarren foar Sync iepenje">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Meld jo oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.">
@@ -532,7 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.accesskey "f">
 
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     toolbar buttons context menus, a user can use this command to submit to Waterfox
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Utwreiding rapportearje">
 <!ENTITY customizeMenu.reportExtension.accesskey "r">
@@ -886,7 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Dizze side is laden fan in útwreiding út.">
 <!ENTITY identity.insecureLoginForms2 "Ynfierde oanmeldingen op dizze side soene oernommen wurde kinne.">
 
-<!ENTITY identity.customRoot "Ferbining ferifiearre troch in sertifikaatútjouwer dy't net troch Mozilla werkend wurdt.">
+<!ENTITY identity.customRoot "Ferbining ferifiearre troch in sertifikaatútjouwer dy't net troch Waterfox werkend wurdt.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre.">
@@ -906,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Dizze website befettet ynhâld dy't net befeilige is (lykas scripts) en jo ferbining dêrmei is net privee.">
 <!ENTITY identity.description.activeLoaded2 "Gegevens dy't jo mei dizze website diele, soene troch oaren besjoen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).">
 
-<!ENTITY identity.description.customRoot "Mozilla werkent dizze sertifikaatútjouwer net. Hy is mooglik fan jo bestjoeringssysteem út of troch in behearder tafoege.">
+<!ENTITY identity.description.customRoot "Waterfox werkent dizze sertifikaatútjouwer net. Hy is mooglik fan jo bestjoeringssysteem út of troch in behearder tafoege.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Beskerming ynskeakelje">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "s">
@@ -936,7 +936,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Syngronisearre ljepblêden">
 
 <!ENTITY syncedTabs.sidebar.label              "Syngronisearre ljepblêden">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Meld jo oan by Firefox fan jo oare apparaten ôf om harren ljepblêden hjir wer te jaan.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Meld jo oan by Waterfox fan jo oare apparaten ôf om harren ljepblêden hjir wer te jaan.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Wolle jo hjir jo ljepblêden fan oare apparaten sjen?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Meld jo oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Jo account moat ferifiearre wurde.">
@@ -1050,7 +1050,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "In probleem rapportearje">
 <!ENTITY contentBlocking.breakageReportView.label "Problemen rapportearje">
-<!ENTITY contentBlocking.breakageReportView2.description "Ynhâldsblokkearring kin problemen mei bepaalde websites feroarsaakje. As jo problemen rapportearje, helpe jo &brandShortName; foar elkenien te ferbetterjen. (Hjirtroch wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei Mozilla ferstjoerd.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Ynhâldsblokkearring kin problemen mei bepaalde websites feroarsaakje. As jo problemen rapportearje, helpe jo &brandShortName; foar elkenien te ferbetterjen. (Hjirtroch wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei Waterfox ferstjoerd.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Mear ynfo">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hokker problemen hiene jo? (Opsjoneel)">

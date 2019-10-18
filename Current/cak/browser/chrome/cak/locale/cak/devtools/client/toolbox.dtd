@@ -85,7 +85,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Titz'ij ri näj chojmirisaxïk">
-<!ENTITY options.enableRemote.tooltip2  "Toq nokisäx re jun cha'oj re', nuya' q'ij chi ke ri taq kisamajib'al b'anöl kema' nikichojmirisaj jun näj peraj achi'el ri Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Toq nokisäx re jun cha'oj re', nuya' q'ij chi ke ri taq kisamajib'al b'anöl kema' nikichojmirisaj jun näj peraj achi'el ri Waterfox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

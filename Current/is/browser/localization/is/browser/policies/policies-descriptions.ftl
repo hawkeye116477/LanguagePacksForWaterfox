@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -26,8 +26,8 @@ policy-DisableBuiltinPDFViewer = Óvirkja PDF.js, innbyggða PDF-lesarann í { -
 policy-DisableDeveloperTools = Loka aðgangi að þróunartólum.
 policy-DisableFeedbackCommands = Slökkva á "Senda viðbrögð" og "Tilkynna villandi síðu" í hjálparvalmyndinni.
 policy-DisableFirefoxAccounts = Slökkva á { -fxaccount-brand-name } tengdri þjónustu, m.a. Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Slökkva á viðbótinni Firefox skjámyndir.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Slökkva á viðbótinni Waterfox skjámyndir.
 policy-DisableFirefoxStudies = Hamla aðgang að könnunum frá { -brand-short-name }
 policy-DisableForgetButton = Hamla aðgang að Gleyma hnappnum.
 policy-DisableFormHistory = Ekki geyma form- og leitarsögu
@@ -40,7 +40,7 @@ policy-DisableSafeMode = Slökkva á endurræsa í Safe Mode. Athugið að aðei
 policy-DisableSecurityBypass = Forða notanda frá tilteknum öryggisviðvörunum.
 policy-DisableSetAsDesktopBackground = Slökkva á valmyndarskipuninni "Velja forsíðubakgrunn" fyrir myndir.
 policy-DisableSystemAddonUpdate = Forða því að vafrinn setji upp og uppfæri kerfisviðbætur.
-policy-DisableTelemetry = Slökkva á gagnasöfnun til að bæta Firefox (telemetry)
+policy-DisableTelemetry = Slökkva á gagnasöfnun til að bæta Waterfox (telemetry)
 policy-DisplayBookmarksToolbar = Sýna bókamerkjastikuna sjálfgefið.
 policy-DisplayMenuBar = Birta valmyndarstikuna sjálfgefið.
 policy-DNSOverHTTPS = Stilla DNS yfir HTTPS.
@@ -54,7 +54,7 @@ policy-EnableTrackingProtection = Virkja eða slökkva á Efnablokkun og læsa h
 policy-Extensions = Setja upp, fjarlægja eða læsa fyrir viðbætur. Uppsetningarvalkosturinn samþykkir vefslóðir og leiðir sem breytur. Valkostir um að fjarlægja viðbót eða læstir valkostir krefjast auðkennis viðbótarinnar.
 policy-ExtensionSettings = Stjórna öllum uppsetningarþáttum viðbóta.
 policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
-policy-FirefoxHome = Stilla Firefox heimasvæðið.
+policy-FirefoxHome = Stilla Waterfox heimasvæðið.
 policy-FlashPlugin = Leyfa eða hafna notkun Flash-viðbótarinnar.
 policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
 # “lock” means that the user won’t be able to change this setting
@@ -65,7 +65,7 @@ policy-NewTabPage = Virkja eða slökkva á nýju flipasíðunni.
 policy-NoDefaultBookmarks = Slökkva á stöðluðum bókamerkjum meðfylgjandi { -brand-short-name } og frá greindum bókamerkjum (flestar heimsóknir, nýleg meki) Ath. að þessi stefna hefur aðeins áhrif ef það er notað áður en sniðið er notað fyrst.
 policy-OfferToSaveLogins = Skoðaðu spurningu um að geyma aðgangsupplýsingar með { -brand-short-name }. Gildin true og false eru bæði gild.
 policy-OverrideFirstRunPage = Breyta upphafssíðu. Tómt gildi til að slökkva á opnun síðunnar.
-policy-OverridePostUpdatePage = Setja Firefox News síðu - birtist eftir uppfærslu á forritinu. Tómt gildi gerir slökkt á því að opna síðuna.
+policy-OverridePostUpdatePage = Setja Waterfox News síðu - birtist eftir uppfærslu á forritinu. Tómt gildi gerir slökkt á því að opna síðuna.
 policy-Permissions = Stilla heimildir fyrir myndavél, hljóðnema, staðsetningu og tilkynningar.
 policy-PopupBlocking = Leyfa tilteknum vefsíðum að birta sprettiglugga að sjálfgefnu.
 policy-PromptForDownloadLocation = Spyrðja hvar eigi að vista skrár frá niðurhali.

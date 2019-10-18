@@ -49,7 +49,7 @@ app-basics-multi-process-support = Çox əməliyyatlı Pəncərələr
 app-basics-process-count = Web Məzmun Emalçıları
 app-basics-enterprise-policies = Sahibkarlıq Siyasəti
 app-basics-key-google = Google açarı
-app-basics-key-mozilla = Mozilla Mövqe Xidməti Açarı
+app-basics-key-mozilla = Waterfox Mövqe Xidməti Açarı
 app-basics-safe-mode = Təhlükəsiz Rejim
 show-dir-label =
     { PLATFORM() ->

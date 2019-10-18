@@ -80,7 +80,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Hasarawkaayan moora tunandi">
-<!ENTITY options.enableRemote.tooltip2  "Suubarooo woo tunandiyanoo ka too cinakaw goyjinawey ka hasaraw kaa Firefox teera moora doo ra sanda Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Suubarooo woo tunandiyanoo ka too cinakaw goyjinawey ka hasaraw kaa Waterfox teera moora doo ra sanda Waterfox OS">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -103,7 +103,7 @@
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
 
-<!ENTITY options.selectDefaultTools.label2    "Firefox cinakaw goyjinawey">
+<!ENTITY options.selectDefaultTools.label2    "Waterfox cinakaw goyjinawey">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool

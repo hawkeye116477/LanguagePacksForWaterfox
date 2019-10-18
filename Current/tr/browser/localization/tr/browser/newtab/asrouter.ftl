@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = Sitede bir güncelleme olursa sabit sekmenizde mav
 cfr-doorhanger-pintab-animation-pause = Duraklat
 cfr-doorhanger-pintab-animation-resume = Devam et
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Yer imlerinize her yerden ulaşın.
 cfr-doorhanger-bookmark-fxa-body = Bu yer imine mobil cihazlarınızdan da ulaşmak istemez miydiniz? Hemen { -fxaccount-brand-name } açın.

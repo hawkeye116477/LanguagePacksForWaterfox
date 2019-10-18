@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 -sync-brand-short-name = هم‌گام‌سازی
-# “Sync” can be localized, “Firefox” must be treated as a brand,
+# “Sync” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name = هم‌گام‌سازی فایرفاکس
-# “Account” can be localized, “Firefox” must be treated as a brand,
+# “Account” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name = حساب فایرفاکس

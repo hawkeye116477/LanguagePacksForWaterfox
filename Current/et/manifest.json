@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-et@firefox.mozilla.org", 
+      "id": "langpack-et@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Sander Lepik (contributors: Marek Laane, Ain Vagula, Ivar Smolin)", 
-  "description": "Language pack for Firefox for et"
+  "description": "Language pack for Waterfox Current for et"
 }

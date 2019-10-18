@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -23,8 +23,8 @@ policy-DisableAppUpdate = براؤزر کو اپڈیٹ ہونے سے روکیں�
 policy-DisableBuiltinPDFViewer = PDF.js کو غیر فعال کریں، جو { -brand-short-name } مے پہلے سے بنا PDF ویور ہے۔
 policy-DisableDeveloperTools = تخلیق کار ٹول تک رسائی کو روکیں۔
 policy-DisableFeedbackCommands = مدد مینو سے رائے بھیجنے کے احکامات کو غیر فعال کریں (رائے جمع کریں اور فریبی سائٹ کو رپورٹ کریں)۔
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Firefox کے اسکرین شاٹ خصوصیت کو غیر فعال کریں۔
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Waterfox کے اسکرین شاٹ خصوصیت کو غیر فعال کریں۔
 policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں۔
 policy-DisableFormHistory = تلاش اور فارم کی تاریخ یاد نا رکھیں۔
 policy-DisableMasterPasswordCreation = اگر سچ ہے تو، ایک ماسٹر پاس ورڈ بنائی نہی جا سکتی۔

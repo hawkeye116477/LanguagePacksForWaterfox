@@ -40,7 +40,7 @@ app-basics-service-workers = Oibrithe Seirbhíse Cláraithe
 app-basics-profiles = Próifílí
 app-basics-multi-process-support = Fuinneoga Ilphróisis
 app-basics-key-google = Eochair Google
-app-basics-key-mozilla = Eochair Sheirbhís Geoshuite Mozilla
+app-basics-key-mozilla = Eochair Sheirbhís Geoshuite Waterfox
 app-basics-safe-mode = Mód Slán
 show-dir-label =
     { PLATFORM() ->

@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = Inactivar PDF.js, le visor de PDF integrate in 
 policy-DisableDeveloperTools = Blocar le accesso al instrumentos del developpatores.
 policy-DisableFeedbackCommands = Inactivar le commandos pro submitter tu commentarios in le menu Adjuta (Submitter tu opinion e Denunciar sito fraudulente).
 policy-DisableFirefoxAccounts = Disactivar le servicios basate sur { -fxaccount-brand-name }, comprendite Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Disactivar le functionalitate Firefox Screenshots.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Disactivar le functionalitate Waterfox Screenshots.
 policy-DisableFirefoxStudies = Impedir a { -brand-short-name } de exequer studios.
 policy-DisableForgetButton = Impedir accesso al button Oblidar.
 policy-DisableFormHistory = Non rememorar le chronologia de recercas e formularios.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Activar o disactivar le Blocada de contentos e
 policy-Extensions = Installar, disinstallar o blocar le extensiones. Le option Installar require URLs o percursos como parametros. Le optiones Disinstallar e Blocate require le extension IDs.
 policy-ExtensionSettings = Gerer tote le aspectos del installation de extensiones.
 policy-ExtensionUpdate = Activar o disactivar le actualisation automatic de extensiones.
-policy-FirefoxHome = Configura Firefox Home.
+policy-FirefoxHome = Configura Waterfox Home.
 policy-FlashPlugin = Consentir o negar le uso del plugin Flash.
 policy-HardwareAcceleration = Si false, disactivar le acceleration hardware.
 # “lock” means that the user won’t be able to change this setting

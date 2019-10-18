@@ -11,7 +11,7 @@ process-type-privileged = Tetepy jehecharamóva
 process-type-privilegedabout = Ojehecharamovéva
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Mozilla ohecharamovéva tetepy
+process-type-privilegedmozilla = Waterfox ohecharamovéva tetepy
 process-type-extension = Jepysokue
 # process used to open file:// URLs
 process-type-file = Marandurenda pypeguáva

@@ -17,9 +17,9 @@ about-telemetry-next-ping = > >
 about-telemetry-page-title = Telemetría mba'ekuaarã
 about-telemetry-current-store = Ñembyatyha ag̃agua:
 about-telemetry-more-information = ¿Ehekavépa marandu?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox mba'ekuaarã kuatia</a> oguereko guataha mba'éichapa emba'apova'erã mba'ekuaarã rembipuru rehegua.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Telemetry Firefox mba'éva kuatiatee</a> ogueroike mba'e ñemyesakã, API kuatiatee ha mba'ekuaarã rehegua.
-about-telemetry-telemetry-dashboard = Umi <a data-l10n-name="dashboard-link">Telemetry rechaha</a> ohechauka ndéve Mozilla mba'ekuaarã og̃uahẽva Telemetry rupive.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox mba'ekuaarã kuatia</a> oguereko guataha mba'éichapa emba'apova'erã mba'ekuaarã rembipuru rehegua.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Telemetry Waterfox mba'éva kuatiatee</a> ogueroike mba'e ñemyesakã, API kuatiatee ha mba'ekuaarã rehegua.
+about-telemetry-telemetry-dashboard = Umi <a data-l10n-name="dashboard-link">Telemetry rechaha</a> ohechauka ndéve Waterfox mba'ekuaarã og̃uahẽva Telemetry rupive.
 about-telemetry-telemetry-probe-dictionary = Pe <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> ome’ẽ mba’emimi ha ñemoha’anga Telemetry ombyatyva’ekue sónda.
 about-telemetry-show-in-Firefox-json-viewer = Eike JSON hechahápe
 about-telemetry-home-section = Ñepyrũ
@@ -68,7 +68,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } techaukarã, mombyte = { $prettyAverage }, mboheta ={ $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Ko kuatiarogue ohechauka marandu tembiapokue rehegua, hardware, jeporu ha ñemomba'etee ombyatyva'ekue Telemetry. Ko marandu oñemondo { $telemetryServerOwner }-pe oipytyvõ { -brand-full-name }-pe oiko porãve hag̃ua.
 about-telemetry-settings-explanation = Telemetría ombyaty hína { about-telemetry-data-type } ha iñemyenyhẽ oĩ <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -140,8 +140,8 @@ about-telemetry-origin-section = Telemetría ñepyrũha
 about-telemetry-origin-origin = Ñepyrũha
 about-telemetry-origin-count = papa
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> ombopapapy mba’ekuaarã ojegueraha’ỹre { $telemetryServerOwner }-pe ikatúva omombe’u, hákatu ndoikuaái peteĩva { -brand-product-name } oipytyvõpa pe jepapápe. <a data-l10n-name="prio-blog-link">maranduve</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfox Origin Telemetry</a> ombopapapy mba’ekuaarã ojegueraha’ỹre { $telemetryServerOwner }-pe ikatúva omombe’u, hákatu ndoikuaái peteĩva { -brand-product-name } oipytyvõpa pe jepapápe. <a data-l10n-name="prio-blog-link">maranduve</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Tapereko { $process }

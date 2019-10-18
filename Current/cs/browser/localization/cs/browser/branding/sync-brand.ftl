@@ -12,18 +12,18 @@
         [loc] Syncu
         [ins] Syncem
     }
-# “Sync” can be localized, “Firefox” must be treated as a brand,
+# “Sync” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name =
     { $case ->
-       *[nom] Firefox Sync
-        [gen] Firefox Syncu
-        [dat] Firefox Syncu
-        [acc] Firefox Sync
-        [voc] Firefox Syncu
-        [loc] Firefox Syncu
-        [ins] Firefox Syncem
+       *[nom] Waterfox Sync
+        [gen] Waterfox Syncu
+        [dat] Waterfox Syncu
+        [acc] Waterfox Sync
+        [voc] Waterfox Syncu
+        [loc] Waterfox Syncu
+        [ins] Waterfox Syncem
     }
-# “Account” can be localized, “Firefox” must be treated as a brand,
+# “Account” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = Účet Firefoxu
+-fxaccount-brand-name = Účet Waterfoxu

@@ -205,7 +205,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "위험을 감수하고 계속">
 
-<!ENTITY errorReporting.automatic2 "이러한 오류를 보고하여 Mozilla가 악성 사이트를 식별하고 차단하는 것을 돕습니다.">
+<!ENTITY errorReporting.automatic2 "이러한 오류를 보고하여 Waterfox가 악성 사이트를 식별하고 차단하는 것을 돕습니다.">
 <!ENTITY errorReporting.learnMore "더 알아보기…">
 
 <!ENTITY remoteXUL.title "원격 XUL">

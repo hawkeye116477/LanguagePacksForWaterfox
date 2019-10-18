@@ -22,8 +22,8 @@ category-search =
 pane-privacy-title = Privaatheid en sekuriteit
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-rekening
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Waterfox-rekening
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name }-ondersteuning
@@ -64,10 +64,10 @@ search-results-empty-message =
 ## General Section
 
 startup-header = Begin
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Laat { -brand-short-name } en Firefox toe om gelyktydig te loop
+    .label = Laat { -brand-short-name } en Waterfox toe om gelyktydig te loop
 use-firefox-sync = Wenk: Dit gebruik aparte profiele. Gebruik { -sync-brand-short-name } om data tussen hulle te deel.
 get-started-not-logged-in = Meld aan by { -sync-brand-short-name }…
 get-started-configured = Open { -sync-brand-short-name }-voorkeure
@@ -297,7 +297,7 @@ sync-signedout-account-title = Koppel met 'n { -fxaccount-brand-name }
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Laai Firefox af vir <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> of <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> om met 'n selfoon te sinkroniseer.
+sync-mobile-promo = Laai Waterfox af vir <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> of <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> om met 'n selfoon te sinkroniseer.
 
 ## Sync Section - Signed in
 
@@ -357,12 +357,12 @@ history-header = Geskiedenis
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } sal
     .accesskey = s
 history-remember-option-all =

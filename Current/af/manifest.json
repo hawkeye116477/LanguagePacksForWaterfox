@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-af@firefox.mozilla.org", 
+      "id": "langpack-af@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Translate.org.za (contributors: Translate.org.za, Dwayne Bailey, Friedel Wolff, Samuel Murray)", 
-  "description": "Language pack for Firefox for af"
+  "description": "Language pack for Waterfox Current for af"
 }

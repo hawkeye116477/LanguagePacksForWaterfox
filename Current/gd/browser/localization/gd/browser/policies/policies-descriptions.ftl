@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -26,8 +26,8 @@ policy-DisableBuiltinPDFViewer = Cuir PDF.js à comas, an sealladair PDF a tha a
 policy-DisableDeveloperTools = Bac inntrigeadh dha innealan an luchd-leasachaidh.
 policy-DisableFeedbackCommands = Cuir à comas àitheantan a chuireadh beachdan o chlàr-taice na cobharach (“Cuir beachdan” agus “Dèan aithris air làrach amharasach”).
 policy-DisableFirefoxAccounts = Cuir seirbheisean stèidhichte air { -fxaccount-brand-name } à comas, a’ gabhail a-staigh an t-sioncronachaidh.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Cuir gleus nan glacaidhean-sgrìn aig Firefox à comas.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Cuir gleus nan glacaidhean-sgrìn aig Waterfox à comas.
 policy-DisableFirefoxStudies = Na leig le { -brand-short-name } obair-rannsachaidh a ruith.
 policy-DisableForgetButton = Na ceadaich cothrom air a’ phutan “Dìochuimhnich”.
 policy-DisableFormHistory = Na cuimhnich eachdraidh nan lorg is nam foirmean.

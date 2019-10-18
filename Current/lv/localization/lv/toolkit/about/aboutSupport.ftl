@@ -48,7 +48,7 @@ app-basics-multi-process-support = Vairāku procesu logs
 app-basics-process-count = Tīmekļa satura process
 app-basics-enterprise-policies = Uzņēmuma politikas
 app-basics-key-google = Google atslēga
-app-basics-key-mozilla = Mozilla atrašanās vietas pakalpojuma atslēga
+app-basics-key-mozilla = Waterfox atrašanās vietas pakalpojuma atslēga
 app-basics-safe-mode = Drošais režīms
 show-dir-label =
     { PLATFORM() ->

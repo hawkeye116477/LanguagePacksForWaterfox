@@ -61,7 +61,7 @@ app-basics-remote-processes-count = შორი მოქმედების 
 app-basics-enterprise-policies = დებულებები კომპანიებისთვის
 app-basics-location-service-key-google = Google Location Service-ის გასაღები
 app-basics-safebrowsing-key-google = Google Safebrowsing-ის გასაღები
-app-basics-key-mozilla = Mozilla მდებარეობის განსაზღვრის გასაღები
+app-basics-key-mozilla = Waterfox მდებარეობის განსაზღვრის გასაღები
 app-basics-safe-mode = უსაფრთხო რეჟიმი
 show-dir-label =
     { PLATFORM() ->

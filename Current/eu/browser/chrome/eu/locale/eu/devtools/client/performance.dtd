@@ -18,10 +18,10 @@
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
 
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Denbora errealeko grabazioen datuak desgaituta multiprozesurik gabeko Firefoxen.">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Denbora errealeko grabazioen datuak desgaituta multiprozesurik gabeko Waterfoxen.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+  -  when running on a build that can run multiprocess Waterfox, but just is not enabled. -->
 
 <!ENTITY performanceUI.disabledRealTime.disabledE10S "Gaitu multiprozesu modua hobespenetan grabazioen datuak denbora errealean errendatzeko.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string

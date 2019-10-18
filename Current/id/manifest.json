@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-id@firefox.mozilla.org", 
+      "id": "langpack-id@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "id-Mozilla - Komunitas Mozilla Indonesia (contributors: Dody Suria Wijaya, Milda Irhamni, Romi Hardiyanto)", 
-  "description": "Language pack for Firefox for id"
+  "author": "id-Waterfox - Komunitas Waterfox Indonesia (contributors: Dody Suria Wijaya, Milda Irhamni, Romi Hardiyanto)", 
+  "description": "Language pack for Waterfox Current for id"
 }

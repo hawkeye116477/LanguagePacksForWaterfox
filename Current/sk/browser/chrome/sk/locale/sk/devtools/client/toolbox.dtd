@@ -81,7 +81,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Povoliť vzdialené ladenie">
-<!ENTITY options.enableRemote.tooltip2  "Zapnutie tejto voľby vám umožní používať vývojárske nástroje na ladenie vzdialených inštancií, napr. Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Zapnutie tejto voľby vám umožní používať vývojárske nástroje na ladenie vzdialených inštancií, napr. Waterfox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

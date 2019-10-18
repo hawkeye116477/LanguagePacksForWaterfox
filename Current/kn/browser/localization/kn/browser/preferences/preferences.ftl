@@ -41,8 +41,8 @@ category-search =
 pane-privacy-title = ಗೋಪ್ಯತೆ & ಸುರಕ್ಷತೆ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox ಖಾತೆ
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Waterfox ಖಾತೆ
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } ಸಹಾಯ
@@ -79,10 +79,10 @@ search-results-help-link = ಸಹಾಯ ಬೇಕೆ? ಭೇಟಿ ಮಾಡಿ 
 ## General Section
 
 startup-header = ಆರಂಭಿಕ
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name } ಅನ್ನು ಮತ್ತು Firefox ಅನ್ನು ಏಕಕಾಲಕ್ಕೆ ಚಲಾಯಿತಗೊಳ್ಳಲು ಅನುಮತಿಸಿ
+    .label = { -brand-short-name } ಅನ್ನು ಮತ್ತು Waterfox ಅನ್ನು ಏಕಕಾಲಕ್ಕೆ ಚಲಾಯಿತಗೊಳ್ಳಲು ಅನುಮತಿಸಿ
 use-firefox-sync = ಸೂಚನೆ: ಇದು ಪ್ರತ್ಯೇಕ ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಅವುಗಳ ನಡುವೆ ದತ್ತಾಂಶವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು { -sync-brand-short-name } ಬಳಸಿ.
 get-started-not-logged-in = { -sync-brand-short-name }ಗೆ ಸೈನ್-ಇನ್ ಆಗು…
 get-started-configured = { -sync-brand-short-name } ಆದ್ಯತೆಗಳನ್ನು ತೆರೆ
@@ -330,7 +330,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ಅಥವ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದ ಜೊತೆ ಸಿಂಕ್ ಮಾಡಲು.
+sync-mobile-promo = Waterfox ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ಅಥವ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದ ಜೊತೆ ಸಿಂಕ್ ಮಾಡಲು.
 
 ## Sync Section - Signed in
 
@@ -401,12 +401,12 @@ history-header = ಇತಿಹಾಸ
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } ವು
     .accesskey = w
 history-remember-option-all =

@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Donadas telemetricas
 about-telemetry-more-information = A la recèrca de mai d'informacions ?
-about-telemetry-firefox-data-doc = Las <a data-l10n-name="data-doc-link">Donadas de Documentacion de Firefox</a> contenon de guidas sus cossí trabalhar amb nòstras aisinas de donadas.
-about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentacion de client de Firefox Telemetry</a> inclutz de definicions per de concèptes, documentacion API e referéncias de donadas.
-about-telemetry-telemetry-dashboard = Los <a data-l10n-name="dashboard-link">panèls de Telemetria</a> permeton de visualizar las donadas que Mozilla recep via la Telemetria.
+about-telemetry-firefox-data-doc = Las <a data-l10n-name="data-doc-link">Donadas de Documentacion de Waterfox</a> contenon de guidas sus cossí trabalhar amb nòstras aisinas de donadas.
+about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentacion de client de Waterfox Telemetry</a> inclutz de definicions per de concèptes, documentacion API e referéncias de donadas.
+about-telemetry-telemetry-dashboard = Los <a data-l10n-name="dashboard-link">panèls de Telemetria</a> permeton de visualizar las donadas que Waterfox recep via la Telemetria.
 about-telemetry-show-in-Firefox-json-viewer = Dobrir dins la visualizaira JSON
 about-telemetry-home-section = Acuèlh
 about-telemetry-general-data-section =   Donadas generalas
@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] desactivada
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Aquesta pagina aficha las informacions collectadas per telemetria a prepaus de las performàncias, las caracteristicas materialas, l'utilizacion de las foncionalitats e la personalizacion del navegador. Aquelas informacions son mandadas a { $telemetryServerOwner } per ajudar al melhorament de { -brand-full-name }.
 about-telemetry-settings-explanation = La telemetria reculhís las { about-telemetry-data-type } e transmission es <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = 遥测数据
 about-telemetry-current-store = 当前存储：
 about-telemetry-more-information = 想了解更多吗？
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox 数据文档</a> 介绍了使用我们的数据工具的方式。
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox 遥测客户端文档</a> 包括概念、API 文档以及数据引用的定义。
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">遥测面板</a> 直观显示了 Mozilla 通过遥测收到的数据。
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox 数据文档</a> 介绍了使用我们的数据工具的方式。
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox 遥测客户端文档</a> 包括概念、API 文档以及数据引用的定义。
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">遥测面板</a> 直观显示了 Waterfox 通过遥测收到的数据。
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> 提供了遥测收集所使用探针的详细信息与说明。
 about-telemetry-show-in-Firefox-json-viewer = 在 JSON 查看器中打开
 about-telemetry-home-section = 主页
@@ -67,7 +67,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } 个样本，平均 = { $prettyAverage }，合计 = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = 本页显示“遥测”收集的有关性能、硬件、使用和定制情况的信息，这些信息被提交到 { $telemetryServerOwner } 以帮助改进 { -brand-full-name }。
 about-telemetry-settings-explanation = 遥测正在收集{ about-telemetry-data-type }，并且<a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>上传。
 # Variables:
@@ -139,8 +139,8 @@ about-telemetry-origin-section = 原点遥测
 about-telemetry-origin-origin = 原点
 about-telemetry-origin-count = 数量
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox 原点遥测</a>会在数据发送之前对其进行编码，接着 { $telemetryServerOwner } 才能计数，但不知道是否会有任何给定的{ -brand-product-name } 参与了该计数。（<a data-l10n-name="prio-blog-link">了解详情</a>）
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfox 原点遥测</a>会在数据发送之前对其进行编码，接着 { $telemetryServerOwner } 才能计数，但不知道是否会有任何给定的{ -brand-product-name } 参与了该计数。（<a data-l10n-name="prio-blog-link">了解详情</a>）
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } 进程

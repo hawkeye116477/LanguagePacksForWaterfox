@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Datos de telemetría
 about-telemetry-more-information = Yes buscando mas información?
-about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">Documentación de Datos de Firefox</a> contién guidas sobre cómo treballar con as nuestras ferramientas de datos.
-about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">Documentación d'o client de telemetría de Firefox</a> contién la definición d'os diferents conceptos, la documentación de l'API y referencias d'os datos.
-about-telemetry-telemetry-dashboard = Las <a data-l10n-name="dashboard-link">Taulas de telemetría</a> te permiten visualizar los datos recibius por Mozilla gracias a la telemetría.
+about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">Documentación de Datos de Waterfox</a> contién guidas sobre cómo treballar con as nuestras ferramientas de datos.
+about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">Documentación d'o client de telemetría de Waterfox</a> contién la definición d'os diferents conceptos, la documentación de l'API y referencias d'os datos.
+about-telemetry-telemetry-dashboard = Las <a data-l10n-name="dashboard-link">Taulas de telemetría</a> te permiten visualizar los datos recibius por Waterfox gracias a la telemetría.
 about-telemetry-show-in-Firefox-json-viewer = Ubrir lo visor de JSON
 about-telemetry-home-section = Inicio
 about-telemetry-general-data-section =   Datos chenerals
@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] desactivau
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Ista pachina amuestra información sobre o rendimiento, hardware, uso y personalizacions replegadas por Telemetry. Ista información se ninvia ta { $telemetryServerOwner } ta aduyar a amillorar o { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetría ye replegando { about-telemetry-data-type } y la puyada ye <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

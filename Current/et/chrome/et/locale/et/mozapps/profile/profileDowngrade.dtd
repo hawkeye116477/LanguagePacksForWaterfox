@@ -4,16 +4,16 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "Käivitatud on Firefoxi vanem versioon">
+<!ENTITY window.title "Käivitatud on Waterfoxi vanem versioon">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Vanema Firefoxi versiooni kasutamine võib rikkuda järjehoidjad ning veebilehitsemise ajaloo, mis on olemasolevasse profiili juba salvestatud. Oma andmete kaitsmiseks soovitame luua selle &brandShortName;i paigalduse jaoks uue profiili.">
-<!ENTITY window.sync "Vanema Firefoxi versiooni kasutamine võib rikkuda järjehoidjad ning veebilehitsemise ajaloo, mis on olemasolevasse profiili juba salvestatud. Oma andmete kaitsmiseks soovitame luua selle &brandShortName;i paigalduse jaoks uue profiili. Sa võid alati sisse logida &syncBrand.fxAccount.label;ga ja erinevate profiilide vahel oma järjehoidjad ja veebilehitsemise ajaloo sünkroniseerida.">
+<!ENTITY window.nosync "Vanema Waterfoxi versiooni kasutamine võib rikkuda järjehoidjad ning veebilehitsemise ajaloo, mis on olemasolevasse profiili juba salvestatud. Oma andmete kaitsmiseks soovitame luua selle &brandShortName;i paigalduse jaoks uue profiili.">
+<!ENTITY window.sync "Vanema Waterfoxi versiooni kasutamine võib rikkuda järjehoidjad ning veebilehitsemise ajaloo, mis on olemasolevasse profiili juba salvestatud. Oma andmete kaitsmiseks soovitame luua selle &brandShortName;i paigalduse jaoks uue profiili. Sa võid alati sisse logida &syncBrand.fxAccount.label;ga ja erinevate profiilide vahel oma järjehoidjad ja veebilehitsemise ajaloo sünkroniseerida.">
 
 <!ENTITY window.create "Loo uus profiil">
 <!ENTITY window.quit-win "Välju">

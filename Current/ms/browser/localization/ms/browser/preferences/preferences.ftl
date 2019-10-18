@@ -48,8 +48,8 @@ category-search =
 pane-privacy-title = Privasi & Keselamatan
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Akaun Firefox
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Akaun Waterfox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Sokongan { -brand-short-name }
@@ -123,10 +123,10 @@ search-results-help-link = Perlu bantuan? Lawat <a data-l10n-name="url">Sokongan
 ## General Section
 
 startup-header = Permulaan
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Izinkan { -brand-short-name } dan Firefox untuk dilancarkan pada masa yang sama
+    .label = Izinkan { -brand-short-name } dan Waterfox untuk dilancarkan pada masa yang sama
 use-firefox-sync = Tip: Ciri ini menggunakan profil yang berasingan. Gunakan { -sync-brand-short-name } untuk berkongsi data.
 get-started-not-logged-in = Daftar masuk ke { -sync-brand-short-name }…
 get-started-configured = Buka keutamaan { -sync-brand-short-name }
@@ -348,10 +348,10 @@ home-newtabs-mode-label = Tab baru
 home-restore-defaults =
     .label = Pulih Piawai
     .accesskey = P
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Halaman Utama Firefox (Piawai)
+    .label = Halaman Utama Waterfox (Piawai)
 home-mode-choice-custom =
     .label = URLs Penyesuaian...
 home-mode-choice-blank =
@@ -447,7 +447,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Muat turun Firefox untuk<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> atau <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> untuk sync dengan peranti mudah alih anda.
+sync-mobile-promo = Muat turun Waterfox untuk<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> atau <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> untuk sync dengan peranti mudah alih anda.
 
 ## Sync Section - Signed in
 
@@ -495,7 +495,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Add-ons
-    .tooltiptext = Ekstensi dan tema untuk Firefox desktop
+    .tooltiptext = Ekstensi dan tema untuk Waterfox desktop
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -550,12 +550,12 @@ history-header = Sejarah
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } akan
     .accesskey = a
 history-remember-option-all =

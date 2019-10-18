@@ -4,16 +4,16 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "Ha ejecutado una versión antigua de Firefox">
+<!ENTITY window.title "Ha ejecutado una versión antigua de Waterfox">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Usar una versión antigua de Firefox puede corromper los marcadores y el historial de navegación ya guardados en un perfil de Firefox existente. Para proteger su información, cree un nuevo perfil para esta instalación de &brandShortName;.">
-<!ENTITY window.sync "Usar una versión antigua de Firefox puede corromper los marcadores y el historial de navegación ya guardados en un perfil de Firefox existente. Para proteger su información, cree un nuevo perfil para esta instalación de &brandShortName;. Siempre puede conectarse a una &syncBrand.fxAccount.label; para sincronizar sus marcadores e historial de navegación entre perfiles.">
+<!ENTITY window.nosync "Usar una versión antigua de Waterfox puede corromper los marcadores y el historial de navegación ya guardados en un perfil de Waterfox existente. Para proteger su información, cree un nuevo perfil para esta instalación de &brandShortName;.">
+<!ENTITY window.sync "Usar una versión antigua de Waterfox puede corromper los marcadores y el historial de navegación ya guardados en un perfil de Waterfox existente. Para proteger su información, cree un nuevo perfil para esta instalación de &brandShortName;. Siempre puede conectarse a una &syncBrand.fxAccount.label; para sincronizar sus marcadores e historial de navegación entre perfiles.">
 
 <!ENTITY window.create "Crear nuevo perfil">
 <!ENTITY window.quit-win "Salir">

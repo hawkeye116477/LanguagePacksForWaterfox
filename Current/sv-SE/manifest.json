@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-sv-SE@firefox.mozilla.org", 
+      "id": "langpack-sv-SE@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Mozilla-sv (contributors: Luna Jernberg, Andreas Pettersson)", 
-  "description": "Language pack for Firefox for sv-SE"
+  "author": "Waterfox-sv (contributors: Luna Jernberg, Andreas Pettersson)", 
+  "description": "Language pack for Waterfox Current for sv-SE"
 }

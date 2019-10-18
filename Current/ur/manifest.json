@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ur@firefox.mozilla.org", 
+      "id": "langpack-ur@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: جوں سولون, سوزی سولون)", 
-  "description": "Language pack for Firefox for ur"
+  "description": "Language pack for Waterfox Current for ur"
 }

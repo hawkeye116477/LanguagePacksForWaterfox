@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-my@firefox.mozilla.org", 
+      "id": "langpack-my@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "မော်ဇီလာ ဖောင်ဒေးရှင်း (contributors: တင်အောင်လင်း, ဝေဖြိုးဟန်, ရက်ပ်ဆဲကျော်, ကျော်စွာသန့်)", 
-  "description": "Language pack for Firefox for my"
+  "description": "Language pack for Waterfox Current for my"
 }

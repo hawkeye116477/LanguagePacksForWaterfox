@@ -119,7 +119,7 @@ in "Search through tabs". -->
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
+when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "Konumu aç…">
 <!ENTITY openFileCmd.label "Dosya aç…">
 <!ENTITY openFileCmd.accesskey "a">
@@ -176,7 +176,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+Source" on macOS. pageSourceCmd.commandkey above is Waterfox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
@@ -217,19 +217,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "T">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Firefox’u yanında taşı">
+     for the Waterfox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Waterfox’u yanında taşı">
 <!ENTITY fxa.signin.description.label "Yer imlerinizi, geçmişinizi, parolalarınızı ve diğer ayarlarınızı tüm cihazlarınızda kullanabilirsiniz.">
 <!ENTITY fxa.signin.button.label "&syncBrand.shortName.label;’i etkinleştir…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
+     for the Waterfox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "E-postanızı kontrol edin">
 <!ENTITY fxa.unverified.description.label "Eşitlemeyi başlatabilmek için hesabınızı doğrulamanız gerekir.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; ayarlarını aç…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Waterfox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Giriş yapan kullanıcı">
 <!ENTITY fxa.menu.manageAccount.label "Hesabı yönet…">
@@ -492,7 +492,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Diğer cihazlardaki sekmeleri görmek için sekme eşitlemeyi açın.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
+     the account. We also show links to download Waterfox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync tercihlerini aç">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
@@ -532,7 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.accesskey "n">
 
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     toolbar buttons context menus, a user can use this command to submit to Waterfox
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Eklentiyi şikâyet et">
 <!ENTITY customizeMenu.reportExtension.accesskey "a">
@@ -886,7 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Bu sayfa bir eklenti üzerinden yüklendi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sayfaya girilen hesap bilgileri ele geçirilebilir.">
 
-<!ENTITY identity.customRoot "Bağlantı, Mozilla’nın tanımadığı bir sertifika yayıncısı tarafından doğrulandı.">
+<!ENTITY identity.customRoot "Bağlantı, Waterfox’nın tanımadığı bir sertifika yayıncısı tarafından doğrulandı.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
@@ -906,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Bu web sitesinde güvenli olmayan içerikler var (örn. betikler) ve siteye olan bağlantınız gizli değil.">
 <!ENTITY identity.description.activeLoaded2 "Bu siteyle paylaştığınız bilgiler (örn. parolalar, mesajlar, kredi kartı bilgileri vb.) başkaları tarafından görülebilir.">
 
-<!ENTITY identity.description.customRoot "Mozilla bu sertifika yayıncısını tanımıyor. İşletim sisteminiz üzerinden veya sistem yöneticiniz tarafından eklenmiş olabilir.">
+<!ENTITY identity.description.customRoot "Waterfox bu sertifika yayıncısını tanımıyor. İşletim sisteminiz üzerinden veya sistem yöneticiniz tarafından eklenmiş olabilir.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Korumayı etkinleştir">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
@@ -936,7 +936,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Eşitlenmiş sekmeler">
 
 <!ENTITY syncedTabs.sidebar.label              "Eşitlenmiş sekmeler">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Diğer cihazlardaki sekmelerinizi burada görmek için o cihazlardan Firefox’a giriş yapın.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Diğer cihazlardaki sekmelerinizi burada görmek için o cihazlardan Waterfox’a giriş yapın.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Hesabınızın doğrulanması gerekiyor.">
@@ -1050,7 +1050,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Sorun bildir">
 <!ENTITY contentBlocking.breakageReportView.label "Sorun bildir">
-<!ENTITY contentBlocking.breakageReportView2.description "İçerik engelleme bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz &brandShortName; tarayıcısını iyileştirme şansımız olur. (Sorunlu sayfanın adresi ve tarayıcı ayarlarınızla ilgili bilgiler Mozilla’ya gönderilecektir.)">
+<!ENTITY contentBlocking.breakageReportView2.description "İçerik engelleme bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz &brandShortName; tarayıcısını iyileştirme şansımız olur. (Sorunlu sayfanın adresi ve tarayıcı ayarlarınızla ilgili bilgiler Waterfox’ya gönderilecektir.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Daha fazla bilgi al">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adres">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Nasıl bir sorunla karşılaştınız? (tercihe bağlı)">

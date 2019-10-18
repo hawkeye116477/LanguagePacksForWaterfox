@@ -118,10 +118,10 @@ search-results-help-link = Потрібна допомога? Відвідайт
 ## General Section
 
 startup-header = Запуск
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Дозволити { -brand-short-name } та Firefox виконуватись одночасно
+    .label = Дозволити { -brand-short-name } та Waterfox виконуватись одночасно
 use-firefox-sync = Підказка: При цьому використовуються окремі профілі. Скористайтеся { -sync-brand-short-name(case: "abl", capitalization: "lower") } для обміну даними між ними.
 get-started-not-logged-in = Увійти в { -sync-brand-short-name(case: "acc") }…
 get-started-configured = Відкрити налаштування { -sync-brand-short-name(case: "dat") }
@@ -376,10 +376,10 @@ home-newtabs-mode-label = Нові вкладки
 home-restore-defaults =
     .label = Відновити типові
     .accesskey = т
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Домівка Firefox (Типово)
+    .label = Домівка Waterfox (Типово)
 home-mode-choice-custom =
     .label = Власні URL-адреси…
 home-mode-choice-blank =
@@ -475,7 +475,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Завантажте Firefox для <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> або <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>, щоб синхронізувати дані з вашим мобільним пристроєм.
+sync-mobile-promo = Завантажте Waterfox для <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> або <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>, щоб синхронізувати дані з вашим мобільним пристроєм.
 
 ## Sync Section - Signed in
 
@@ -523,7 +523,7 @@ sync-engine-creditcards =
     .accesskey = К
 sync-engine-addons =
     .label = Додатки
-    .tooltiptext = Розширення і теми Firefox для комп'ютера
+    .tooltiptext = Розширення і теми Waterfox для комп'ютера
     .accesskey = Д
 sync-engine-prefs =
     .label =
@@ -581,12 +581,12 @@ history-header = Історія відвідувань
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = Поведінка { -brand-short-name }
     .accesskey = П
 history-remember-option-all =

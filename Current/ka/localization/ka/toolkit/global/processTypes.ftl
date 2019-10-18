@@ -11,7 +11,7 @@ process-type-privileged = უპირატესად შიგთავს�
 process-type-privilegedabout = უპირატესად შესახებ-გვერდები
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = უპირატესად Mozilla-ს შიგთავსი
+process-type-privilegedmozilla = უპირატესად Waterfox-ს შიგთავსი
 process-type-extension = გაფართოება
 # process used to open file:// URLs
 process-type-file = ადგილობრივი ფაილი

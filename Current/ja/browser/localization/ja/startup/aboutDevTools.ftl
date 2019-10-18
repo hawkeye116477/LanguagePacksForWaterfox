@@ -3,27 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = 開発ツールについて
-enable-title = Firefox 開発ツールを有効にする
-enable-inspect-element-title = Firefox 開発ツールを有効にして、要素を調査する
+enable-title = Waterfox 開発ツールを有効にする
+enable-inspect-element-title = Waterfox 開発ツールを有効にして、要素を調査する
 enable-inspect-element-message = 開発ツールの要素調査機能で HTML と CSS の調査や編集ができます。
-enable-about-debugging-message = Firefox 開発ツールで、ブラウザー拡張機能や Web Worker、Service Worker を開発、デバッグできます。
+enable-about-debugging-message = Waterfox 開発ツールで、ブラウザー拡張機能や Web Worker、Service Worker を開発、デバッグできます。
 enable-key-shortcut-message = 開発ツールのショートカットを有効にしました。誤操作だった場合はこのタブを閉じてください。
 enable-menu-message = インスペクターやデバッガーなどのツールで、あなたのサイトの HTML や CSS、JavaScript が完璧になります。
-enable-common-message = ブラウザをより詳細にコントロールできる Firefox 開発ツールは既定の設定では無効になっています。
+enable-common-message = ブラウザをより詳細にコントロールできる Waterfox 開発ツールは既定の設定では無効になっています。
 enable-learn-more-link = 開発ツールの詳細
-enable-enable-button = Firefox 開発ツールを有効にする
+enable-enable-button = Waterfox 開発ツールを有効にする
 enable-close-button = このタブを閉じる
-welcome-title = Firefox 開発ツールにようこそ！
-newsletter-title = Mozilla Developer Newsletter
+welcome-title = Waterfox 開発ツールにようこそ！
+newsletter-title = Waterfox Developer Newsletter
 newsletter-message = 開発者向けのニュースや小技、リソースをメールでお届けします。
 newsletter-email-placeholder =
     .placeholder = メールアドレス
-newsletter-privacy-label = <a data-l10n-name="privacy-policy">Mozilla プライバシーポリシー</a>で説明される個人情報の取扱いに同意します。
+newsletter-privacy-label = <a data-l10n-name="privacy-policy">Waterfox プライバシーポリシー</a>で説明される個人情報の取扱いに同意します。
 newsletter-subscribe-button = 購読
 newsletter-thanks-title = ありがとうございます！
-newsletter-thanks-message = 今までに Mozilla 関連のニュースレターを購読したことがない場合は、受信トレイやスパムフィルターを確認してください。
-footer-title = Firefox Developer Edition
-footer-message = 単なる開発ツール以上のものをお探しですか？ 開発者と新しい作業フローのために特別にビルドされた Firefox をお試しください。
+newsletter-thanks-message = 今までに Waterfox 関連のニュースレターを購読したことがない場合は、受信トレイやスパムフィルターを確認してください。
+footer-title = Waterfox Developer Edition
+footer-message = 単なる開発ツール以上のものをお探しですか？ 開発者と新しい作業フローのために特別にビルドされた Waterfox をお試しください。
 footer-learn-more-link = 詳細
 features-learn-more = 詳細
 features-inspector-title = インスペクター

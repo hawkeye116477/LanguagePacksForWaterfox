@@ -118,10 +118,10 @@ search-results-help-link = Potrzebujesz pomocy? Odwiedź <a data-l10n-name="url"
 ## General Section
 
 startup-header = Uruchamianie
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Jednoczesne działanie programu { -brand-short-name } oraz programu Firefox
+    .label = Jednoczesne działanie programu { -brand-short-name } oraz programu Waterfox
 use-firefox-sync = Podczas jednoczesnego działania wykorzystywane są oddzielne profile. Można wykorzystać { -sync-brand-short-name(case: "acc", capitalization: "lower") }, aby dzielić dane między nimi.
 get-started-not-logged-in = Zaloguj się do { -sync-brand-short-name(case: "gen", capitalization: "lower") }…
 get-started-configured = Otwórz ustawienia { -sync-brand-short-name(case: "gen", capitalization: "lower") }
@@ -376,10 +376,10 @@ home-newtabs-mode-label = Nowa karta:
 home-restore-defaults =
     .label = Przywróć domyślne
     .accesskey = P
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = strona startowa Firefoksa (domyślnie)
+    .label = strona startowa Waterfoksa (domyślnie)
 home-mode-choice-custom =
     .label = inne strony
 home-mode-choice-blank =
@@ -475,7 +475,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> i <a data-l10n-name="ios-link">iOS</a> <img data-l10n-name="ios-icon"/> daje możliwość synchronizacji z urządzeniami przenośnymi.
+sync-mobile-promo = Waterfox na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> i <a data-l10n-name="ios-link">iOS</a> <img data-l10n-name="ios-icon"/> daje możliwość synchronizacji z urządzeniami przenośnymi.
 
 ## Sync Section - Signed in
 
@@ -581,12 +581,12 @@ history-header = Historia
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = Program { -brand-short-name }:
     .accesskey = m
 history-remember-option-all =

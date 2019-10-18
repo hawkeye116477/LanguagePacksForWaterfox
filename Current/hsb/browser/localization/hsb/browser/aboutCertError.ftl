@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } wužiwa njepłaćiwy wěstotny certifikat.
 cert-error-mitm-intro = Websydła swoju identitu přez certifikaty dopokazuja, kotrež so wot certifikanišćow wudawaja.
-cert-error-mitm-mozilla = { -brand-short-name } so wot powšitkownosći wužitneje załožby Mozilla podpěruje, kotraž dospołnje wotewrjeny wobchod certifikatowanišća (CA) zarjaduje. Wobchod certifikowanišća pomha zawěsćić, zo so certifikowanišća najlěpšich praktikow za wužiwarsku wěstotu dźerža.
-cert-error-mitm-connection = { -brand-short-name } wobchod certifikowanišćow Mozilla wužiwa, zo by přepruwował, hač zwisk je wěsty, a nic certifikaty z dźěłoweho systema wužiwarja. Jeli tuž antiwirusowy program abo syć zwisk z wěstotnym certifikatom wotpopadnje, kotrež je certifikowanišćo wudało, kotrež we wobchodźe certifikowanišćow Mozilla njeje, so zwisk ma za njewěsty.
+cert-error-mitm-mozilla = { -brand-short-name } so wot powšitkownosći wužitneje załožby Waterfox podpěruje, kotraž dospołnje wotewrjeny wobchod certifikatowanišća (CA) zarjaduje. Wobchod certifikowanišća pomha zawěsćić, zo so certifikowanišća najlěpšich praktikow za wužiwarsku wěstotu dźerža.
+cert-error-mitm-connection = { -brand-short-name } wobchod certifikowanišćow Waterfox wužiwa, zo by přepruwował, hač zwisk je wěsty, a nic certifikaty z dźěłoweho systema wužiwarja. Jeli tuž antiwirusowy program abo syć zwisk z wěstotnym certifikatom wotpopadnje, kotrež je certifikowanišćo wudało, kotrež we wobchodźe certifikowanišćow Waterfox njeje, so zwisk ma za njewěsty.
 cert-error-trust-unknown-issuer-intro = Něchtó móhł spytać, sydło imitować a wy njeměł pokročować.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

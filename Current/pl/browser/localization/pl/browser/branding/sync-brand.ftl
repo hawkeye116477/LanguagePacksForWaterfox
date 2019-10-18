@@ -35,73 +35,73 @@
                 [lower] synchronizacji
             }
     }
-# “Sync” can be localized, “Firefox” must be treated as a brand,
+# “Sync” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name =
     { $case ->
        *[nom]
             { $capitalization ->
-               *[upper] Synchronizacja Firefox
-                [lower] synchronizacja Firefox
+               *[upper] Synchronizacja Waterfox
+                [lower] synchronizacja Waterfox
             }
         [gen]
             { $capitalization ->
-               *[upper] Synchronizacji Firefox
-                [lower] synchronizacji Firefox
+               *[upper] Synchronizacji Waterfox
+                [lower] synchronizacji Waterfox
             }
         [dat]
             { $capitalization ->
-               *[upper] Synchronizacji Firefox
-                [lower] synchronizacji Firefox
+               *[upper] Synchronizacji Waterfox
+                [lower] synchronizacji Waterfox
             }
         [acc]
             { $capitalization ->
-               *[upper] Synchronizację Firefox
-                [lower] synchronizację Firefox
+               *[upper] Synchronizację Waterfox
+                [lower] synchronizację Waterfox
             }
         [ins]
             { $capitalization ->
-               *[upper] Synchronizacją Firefox
-                [lower] synchronizacją Firefox
+               *[upper] Synchronizacją Waterfox
+                [lower] synchronizacją Waterfox
             }
         [loc]
             { $capitalization ->
-               *[upper] Synchronizacji Firefox
-                [lower] synchronizacji Firefox
+               *[upper] Synchronizacji Waterfox
+                [lower] synchronizacji Waterfox
             }
     }
-# “Account” can be localized, “Firefox” must be treated as a brand,
+# “Account” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
        *[nom]
             { $capitalization ->
-               *[upper] Konto Firefox
-                [lower] konto Firefox
+               *[upper] Konto Waterfox
+                [lower] konto Waterfox
             }
         [gen]
             { $capitalization ->
-               *[upper] Konta Firefox
-                [lower] konta Firefox
+               *[upper] Konta Waterfox
+                [lower] konta Waterfox
             }
         [dat]
             { $capitalization ->
-               *[upper] Kontu Firefox
-                [lower] kontu Firefox
+               *[upper] Kontu Waterfox
+                [lower] kontu Waterfox
             }
         [acc]
             { $capitalization ->
-               *[upper] Konto Firefox
-                [lower] konto Firefox
+               *[upper] Konto Waterfox
+                [lower] konto Waterfox
             }
         [ins]
             { $capitalization ->
-               *[upper] Kontem Firefox
-                [lower] kontem Firefox
+               *[upper] Kontem Waterfox
+                [lower] kontem Waterfox
             }
         [loc]
             { $capitalization ->
-               *[upper] Koncie Firefox
-                [lower] koncie Firefox
+               *[upper] Koncie Waterfox
+                [lower] koncie Waterfox
             }
     }

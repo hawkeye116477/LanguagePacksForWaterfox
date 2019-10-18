@@ -62,7 +62,7 @@ cfr-doorhanger-pintab-step3 = Os fydd gan y wefan ddiweddariad, gwelwch ddot gla
 cfr-doorhanger-pintab-animation-pause = Oedi
 cfr-doorhanger-pintab-animation-resume = Ailgychwyn
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Cydweddu eich nodau tudalen ym mhobman
 cfr-doorhanger-bookmark-fxa-body = Mae hwn yn dda! Peidiwch bod heb y nod tudalen hon ar eich dyfeisiau symudol. Dechrau arni gyda { -fxaccount-brand-name }.

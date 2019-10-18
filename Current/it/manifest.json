@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-it@firefox.mozilla.org", 
+      "id": "langpack-it@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "mozillaitalia.org - Francesco Lodolo (contributors: Associazione Italiana Supporto e Traduzione Mozilla, Francesco Lodolo, Iacopo Benesperi, Michele Dal Corso, Sandro Della Giustina, Simone Lando, Giacomo Magnini, Giuliano Masseroni)", 
-  "description": "Language pack for Firefox for it"
+  "author": "mozillaitalia.org - Francesco Lodolo (contributors: Associazione Italiana Supporto e Traduzione Waterfox, Francesco Lodolo, Iacopo Benesperi, Michele Dal Corso, Sandro Della Giustina, Simone Lando, Giacomo Magnini, Giuliano Masseroni)", 
+  "description": "Language pack for Waterfox Current for it"
 }

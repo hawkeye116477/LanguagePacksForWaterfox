@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-bg@firefox.mozilla.org", 
+      "id": "langpack-bg@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.bg (contributors: Огнян Кулев, Митко Митев, Златко Попов, Милен Иванов, Стоян Димитров)", 
-  "description": "Language pack for Firefox for bg"
+  "description": "Language pack for Waterfox Current for bg"
 }

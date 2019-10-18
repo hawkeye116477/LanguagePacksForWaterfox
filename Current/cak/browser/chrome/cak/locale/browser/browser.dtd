@@ -119,7 +119,7 @@ in "Search through tabs". -->
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
+when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "Tijaq ri k'ojlemal…">
 <!ENTITY openFileCmd.label "Tijaq yakb'äl…">
 <!ENTITY openFileCmd.accesskey "T">
@@ -176,7 +176,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+Source" on macOS. pageSourceCmd.commandkey above is Waterfox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
@@ -217,19 +217,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "c">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Tak'waj ri Firefox Awik'in">
+     for the Waterfox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Tak'waj ri Waterfox Awik'in">
 <!ENTITY fxa.signin.description.label "Ke'ak'waj ri taq yaketal, natab'äl, ewan taq tzij chuqa' ch'aqa' chik taq nuk'ulem pa ronojel taq awokisaxel.">
 <!ENTITY fxa.signin.button.label "Tokisäx pa &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
+     for the Waterfox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Tanik'oj ri Ataqoya'l">
 <!ENTITY fxa.unverified.description.label "K'o chi nanik'oj ri rub'i' ataqoya'l chuwäch yatikïr yaximon.">
 <!ENTITY fxa.unverified.button.label "Kejaq ri taq Runuk'ulem &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Waterfox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Okisan achi'el">
 <!ENTITY fxa.menu.manageAccount.label "Tinuk'samajïx Rub'i' Taqoya'l…">
@@ -493,7 +493,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Tatzija' ri kiximoj taq ruwi' richin natz'ët kicholajem taq ruwi' pa ch'aqa' chik taq okisaxel.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
+     the account. We also show links to download Waterfox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Kejaq Kajowab'äl Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
@@ -533,7 +533,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.accesskey "y">
 
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     toolbar buttons context menus, a user can use this command to submit to Waterfox
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Tiya' Rutzijol K'amal">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
@@ -887,7 +887,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Re jun ruxaq k'amaya'l re' nisamajib'ëx pa jun k'amal.">
 <!ENTITY identity.insecureLoginForms2 "Kitikirib'al taq molojri'ïl etz'ib'an pa re ruxaq k'amaya'l re' rik'in jub'a' ye'itzelan.">
 
-<!ENTITY identity.customRoot "Xjikib'äx ri okem ruma ya'öl iqitzijib'äl, ri man retaman ta ruwäch ri Mozilla.
+<!ENTITY identity.customRoot "Xjikib'äx ri okem ruma ya'öl iqitzijib'äl, ri man retaman ta ruwäch ri Waterfox.
 ">
 
 <!-- Strings for connection state warnings. -->
@@ -908,7 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Re ruxaq k'amaya'l re' k'o itzel taq na'oj chupam (achi'el taq skript) man awichinan ta ri awokem we yatok chupam.">
 <!ENTITY identity.description.activeLoaded2 "Ri taq etamab'äl xke'akomonij rik'in re ruxaq k'amaya'l re', tikirel nikitz'ët juley chik winaqi' (achi'el ewan taq tzij, taq rutzijol, t'im pwäq, ch'aqa' chik).">
 
-<!ENTITY identity.description.customRoot "Ri Mozilla man retaman ta ruwäch ri ruya'öl iqitzijib'äl Mozilla. Rik'in jub'a' xtz'aqatisäx pa jun samajel q'inoj o ruma jun nuk'samajel.">
+<!ENTITY identity.description.customRoot "Ri Waterfox man retaman ta ruwäch ri ruya'öl iqitzijib'äl Waterfox. Rik'in jub'a' xtz'aqatisäx pa jun samajel q'inoj o ruma jun nuk'samajel.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Titzij ri chajinïk">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "T">
@@ -938,7 +938,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Ximon taq ruwi'">
 
 <!ENTITY syncedTabs.sidebar.label              "Ximon taq ruwi'">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Tatikirisaj molojri'ïl pa Firefox pa juley chik taq okisaxel richin ye'atz'ët taq ruwi' awichin wawe'.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Tatikirisaj molojri'ïl pa Waterfox pa juley chik taq okisaxel richin ye'atz'ët taq ruwi' awichin wawe'.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "K'atzinel nijikib'äx ri rub'i' ataqoya'l.">
@@ -1052,7 +1052,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Tiya' rutzijol jun k'ayewal">
 <!ENTITY contentBlocking.breakageReportView.label "Tiya' Kitzijol K'ayewal">
-<!ENTITY contentBlocking.breakageReportView2.description "Kiq'atik rupam nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri &brandShortName; ütz nub'än chi qawäch qonojel. (Re re' xtutäq ri URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri okik'amaya'l chi re ri Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Kiq'atik rupam nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri &brandShortName; ütz nub'än chi qawäch qonojel. (Re re' xtutäq ri URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri okik'amaya'l chi re ri Waterfox.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Tetamäx Ch'aqa' Chik">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Achike k'ayewal xawïl? (Cha'el)">

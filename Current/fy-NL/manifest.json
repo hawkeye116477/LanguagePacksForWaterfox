@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-fy-NL@firefox.mozilla.org", 
+      "id": "langpack-fy-NL@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Mozilla-fy-NL (contributors: Wim Benes, Hindrik Sijens)", 
-  "description": "Language pack for Firefox for fy-NL"
+  "author": "Waterfox-fy-NL (contributors: Wim Benes, Hindrik Sijens)", 
+  "description": "Language pack for Waterfox Current for fy-NL"
 }

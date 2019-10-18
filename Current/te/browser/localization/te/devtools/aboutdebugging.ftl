@@ -11,10 +11,10 @@
 
 # Sidebar strings
 
-# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Display name of the runtime for the currently running instance of Waterfox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = ఈ { -brand-shorter-name }
-# Sidebar heading for selecting the currently running instance of Firefox
+# Sidebar heading for selecting the currently running instance of Waterfox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
@@ -52,7 +52,7 @@ about-debugging-runtime-tabs =
 
 # Debug Targets strings
 
-# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Text of a button displayed for a temporary extension loaded in the "This Waterfox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = తొలగించు
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before

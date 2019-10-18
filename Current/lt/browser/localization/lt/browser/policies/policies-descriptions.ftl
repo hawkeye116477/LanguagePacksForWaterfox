@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = Išjungti „PDF.js“, į „{ -brand-short-na
 policy-DisableDeveloperTools = Blokuoti prieigą prie programuotojų priemonių.
 policy-DisableFeedbackCommands = Išjungti komandas, skirtas siųsti atsiliepimus iš „Žinyno“ meniu („Siųsti atsiliepimą“ ir „Pranešti apie apgaulingą svetainę“).
 policy-DisableFirefoxAccounts = Išjungti „{ -fxaccount-brand-name }“ paremtas paslaugas, įskaitant „Sync“.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Išjungti „Firefox“ ekrano nuotraukų funkcionalumą.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Išjungti „Waterfox“ ekrano nuotraukų funkcionalumą.
 policy-DisableFirefoxStudies = Neleisti „{ -brand-short-name }“ vykdyti tyrimų.
 policy-DisableForgetButton = Blokuoti prieigą prie mygtuką „Pamiršti“.
 policy-DisableFormHistory = Neįsiminti įvestų paieškos ir formų laukų reikšmių.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Įjungti arba išjungti turinio blokavimą, ir
 policy-Extensions = Diegti, šalinti, arba užrakinti priedus. Diegimo nuostata priima URL adresus arba kelius kaip parametrus. Šalinimo ir užrakinimo nuostatos priima priedų ID.
 policy-ExtensionSettings = Tvarkyti visus priedų įdiegimo aspektus.
 policy-ExtensionUpdate = Įjungti arba išjungti automatinius priedų naujinimus.
-policy-FirefoxHome = Konfigūruoti „Firefox“ pradžios ekraną.
+policy-FirefoxHome = Konfigūruoti „Waterfox“ pradžios ekraną.
 policy-FlashPlugin = Leisti arba drausti „Flash“ plėtinio naudojimą.
 policy-HardwareAcceleration = Jei „false“, išjungti aparatinį spartinimą.
 # “lock” means that the user won’t be able to change this setting

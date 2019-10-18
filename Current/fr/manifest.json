@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-fr@firefox.mozilla.org", 
+      "id": "langpack-fr@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozfr.org (contributors: Vincent Béron, Théo Chevalier, Cédric Corazza, Philippe Dessante, Benoît Leseul, Marie Léger-St-Jean, Jean-Bernard Marcon, Jérôme Schell)", 
-  "description": "Language pack for Firefox for fr"
+  "description": "Language pack for Waterfox Current for fr"
 }

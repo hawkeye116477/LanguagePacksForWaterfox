@@ -4,10 +4,10 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
 
 
@@ -16,13 +16,13 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "You’ve launched an older version of Firefox">
+<!ENTITY window.title "You’ve launched an older version of Waterfox">
 <!ENTITY window.style "width: 490px;">
-<!ENTITY window.nosync "Using an older version of Firefox can corrupt bookmarks and browsing history already saved to an existing Firefox profile. To protect your information, create a new profile for this installation of &brandShortName;.">
-<!ENTITY window.sync "Using an older version of Firefox can corrupt bookmarks and browsing history already saved to an existing Firefox profile. To protect your information, create a new profile for this installation of &brandShortName;. You can always sign in with a &syncBrand.fxAccount.label; to sync your bookmarks and browsing history between profiles.">
+<!ENTITY window.nosync "Using an older version of Waterfox can corrupt bookmarks and browsing history already saved to an existing Waterfox profile. To protect your information, create a new profile for this installation of &brandShortName;.">
+<!ENTITY window.sync "Using an older version of Waterfox can corrupt bookmarks and browsing history already saved to an existing Waterfox profile. To protect your information, create a new profile for this installation of &brandShortName;. You can always sign in with a &syncBrand.fxAccount.label; to sync your bookmarks and browsing history between profiles.">
 <!ENTITY window.create "Create New Profile">

@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-an@firefox.mozilla.org", 
+      "id": "langpack-an@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org / Softaragonés (contributors: Softaragonés, Softcatalà, Juan Pablo Martínez Cortés, Chesús Daniel Trigo, Daniel Martínez Cucalón)", 
-  "description": "Language pack for Firefox for an"
+  "description": "Language pack for Waterfox Current for an"
 }

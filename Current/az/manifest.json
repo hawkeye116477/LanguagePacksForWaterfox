@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-az@firefox.mozilla.org", 
+      "id": "langpack-az@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "mozillaz.org (contributors: Mozilla Azerbaijan (www.mozillaz.org))", 
-  "description": "Language pack for Firefox for az"
+  "author": "mozillaz.org (contributors: Waterfox Azerbaijan (www.mozillaz.org))", 
+  "description": "Language pack for Waterfox Current for az"
 }

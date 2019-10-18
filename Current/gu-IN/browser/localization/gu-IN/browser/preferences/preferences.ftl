@@ -46,8 +46,8 @@ category-search =
 pane-privacy-title = ગોપનીયતા & સુરક્ષા
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox ખાતુ
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Waterfox ખાતુ
 category-sync =
     .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
@@ -121,10 +121,10 @@ search-results-help-link = મદદ જોઈઅે છે? <a data-l10n-name="
 ## General Section
 
 startup-header = શરૂઆત
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = પરવાનગી આપો { -brand-short-name } અને તે જ સમયે Firefox ને ચલાવવા માટે
+    .label = પરવાનગી આપો { -brand-short-name } અને તે જ સમયે Waterfox ને ચલાવવા માટે
 use-firefox-sync = છૂપી સૂચના: આ અલગ પ્રોફાઇલ્સનો ઉપયોગ કરે છે. તેમની વચ્ચે ડેટા શેર કરવા માટે { -sync-brand-short-name } નો ઉપયોગ કરો.
 get-started-not-logged-in = સાઇન ઇન કરો { -sync-brand-short-name }…
 get-started-configured = ખોલો કરો { -sync-brand-short-name } પસંદગીઓ
@@ -357,10 +357,10 @@ home-newtabs-mode-label = નવી ટૅબ્સ
 home-restore-defaults =
     .label = મૂળભૂતને પુન:સંગ્રહો
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox મુખ્ય (મૂળભૂત)
+    .label = Waterfox મુખ્ય (મૂળભૂત)
 home-mode-choice-custom =
     .label = પોતાના URLs...
 home-mode-choice-blank =
@@ -456,7 +456,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = ડાઉનલોડ કરો Firefox માટે <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> અથવા <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> તમારા મોબાઇલ ઉપકરણ સાથે સમન્વયિત કરવા માટે.
+sync-mobile-promo = ડાઉનલોડ કરો Waterfox માટે <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> અથવા <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> તમારા મોબાઇલ ઉપકરણ સાથે સમન્વયિત કરવા માટે.
 
 ## Sync Section - Signed in
 
@@ -504,7 +504,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = ઍડ-ઓન
-    .tooltiptext = Firefox ડેસ્કટૉપ માટે વિસ્તરક અને થીમ્સ
+    .tooltiptext = Waterfox ડેસ્કટૉપ માટે વિસ્તરક અને થીમ્સ
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -561,12 +561,12 @@ history-header = ઇતિહાસ
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } કરશે
     .accesskey = w
 history-remember-option-all =

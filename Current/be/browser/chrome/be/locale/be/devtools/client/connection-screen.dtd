@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "З дапамогай Прылад распрацоўшчыка Firefox можна адладжваць аддаленыя прылады (напрыклад, Firefox для Android і Firefox для OS). Упэўніцеся, што вы ўключылі наладу ‘Адлеглая адладка’ у аддаленай прыладзе. Падрабязней у ">
+<!ENTITY remoteHelp "З дапамогай Прылад распрацоўшчыка Waterfox можна адладжваць аддаленыя прылады (напрыклад, Waterfox для Android і Waterfox для OS). Упэўніцеся, што вы ўключылі наладу ‘Адлеглая адладка’ у аддаленай прыладзе. Падрабязней у ">
 <!ENTITY remoteDocumentation "дакументацыі">
 <!ENTITY remoteHelpSuffix ".">
 

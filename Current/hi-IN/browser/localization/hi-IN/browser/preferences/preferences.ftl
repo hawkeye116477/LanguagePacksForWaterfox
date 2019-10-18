@@ -109,10 +109,10 @@ search-results-help-link = मदद चाहिए? <a data-l10n-name="url">{ 
 ## General Section
 
 startup-header = आरंभन
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name } और Firefox को एक ही समय में चलने के लिए स्वीकारें
+    .label = { -brand-short-name } और Waterfox को एक ही समय में चलने के लिए स्वीकारें
 get-started-not-logged-in = { -sync-brand-short-name } में साइन इन करें…
 get-started-configured = { -sync-brand-short-name } वरीयताएँ खोलें
 always-check-default =
@@ -339,10 +339,10 @@ home-newtabs-mode-label = नया टैब
 home-restore-defaults =
     .label = डिफ़ॉल्ट पुनः स्थापित करें
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox होम (तयशुदा)
+    .label = Waterfox होम (तयशुदा)
 home-mode-choice-custom =
     .label = संशोधित URLs
 home-mode-choice-blank =
@@ -438,7 +438,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox डाउनलोड करें <img data-l10n-name="android-icon"/><a data-l10n-name="android-link">Android</a> या <img data-l10n-name="ios-icon"/><a data-l10n-name="ios-link">iOS के लिए</a> अपने मोबाइल उपकरण के साथ सिंक करने के लिए.
+sync-mobile-promo = Waterfox डाउनलोड करें <img data-l10n-name="android-icon"/><a data-l10n-name="android-link">Android</a> या <img data-l10n-name="ios-icon"/><a data-l10n-name="ios-link">iOS के लिए</a> अपने मोबाइल उपकरण के साथ सिंक करने के लिए.
 
 ## Sync Section - Signed in
 
@@ -486,7 +486,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = सहयुक्तियाँ
-    .tooltiptext = Firefox डेस्कटॉप के लिए एक्सटेंशन और थीम
+    .tooltiptext = Waterfox डेस्कटॉप के लिए एक्सटेंशन और थीम
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -538,12 +538,12 @@ history-header = इतिहास
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } द्वारा
     .accesskey = w
 history-remember-option-all =

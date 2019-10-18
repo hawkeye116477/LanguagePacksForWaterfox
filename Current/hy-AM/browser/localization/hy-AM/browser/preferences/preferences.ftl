@@ -44,8 +44,8 @@ category-search =
 pane-privacy-title = Գաղտնիություն և անվտանգություն
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-ի Հաշիվ
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Waterfox-ի Հաշիվ
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name }-ի աջակցում
@@ -113,10 +113,10 @@ search-results-help-link = Օգնությու՞ն է պետք: Այցելեք <a
 ## General Section
 
 startup-header = Մեկնարկը
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Թույլատրել, որ { -brand-short-name }-ը և Firefox-ը մեկնարկեն միաժամանակ
+    .label = Թույլատրել, որ { -brand-short-name }-ը և Waterfox-ը մեկնարկեն միաժամանակ
 get-started-not-logged-in = Մուտք գործել { -sync-brand-short-name }...
 get-started-configured = Բացել { -sync-brand-short-name }-ի կարգավորումները
 always-check-default =
@@ -333,10 +333,10 @@ home-newtabs-mode-label = Նոր Ներդիրներ
 home-restore-defaults =
     .label = Վերականգնել ծրագրայինը
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox-ի Տնային էջը
+    .label = Waterfox-ի Տնային էջը
 home-mode-choice-custom =
     .label = Հարմարեցված URL-ներ...
 home-mode-choice-blank =
@@ -432,7 +432,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Ներբեռնել Firefox-ը <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> կամ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>-ի համար՝ համաժամեցնելու բջջային սարքի հետ:
+sync-mobile-promo = Ներբեռնել Waterfox-ը <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> կամ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>-ի համար՝ համաժամեցնելու բջջային սարքի հետ:
 
 ## Sync Section - Signed in
 
@@ -480,7 +480,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = Հավելումները
-    .tooltiptext = Ընդլայնումներ և ոճեր Firefox-ի համար
+    .tooltiptext = Ընդլայնումներ և ոճեր Waterfox-ի համար
     .accesskey = Հ
 sync-engine-prefs =
     .label =
@@ -535,12 +535,12 @@ history-header = Պատմություն
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name }-ը կսկսի`
     .accesskey = կ
 history-remember-option-all =

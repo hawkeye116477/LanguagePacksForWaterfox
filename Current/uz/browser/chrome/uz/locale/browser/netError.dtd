@@ -94,7 +94,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Istisno qo‘shish">
 
-<!ENTITY errorReporting.automatic2 "Shu kabi xatolik hisobotlari Mozillaga zararli saytlarni aniqlash va bloklashda yordam beradi">
+<!ENTITY errorReporting.automatic2 "Shu kabi xatolik hisobotlari Waterfoxga zararli saytlarni aniqlash va bloklashda yordam beradi">
 <!ENTITY errorReporting.learnMore "Ko‘proq o‘rganish…">
 
 <!ENTITY remoteXUL.title "Masofadagi XUL">

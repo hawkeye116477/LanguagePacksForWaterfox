@@ -11,7 +11,7 @@ process-type-privileged = Привілейований вміст
 process-type-privilegedabout = Привілейований About
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Привілейований вміст Mozilla
+process-type-privilegedmozilla = Привілейований вміст Waterfox
 process-type-extension = Розширення
 # process used to open file:// URLs
 process-type-file = Локальний файл

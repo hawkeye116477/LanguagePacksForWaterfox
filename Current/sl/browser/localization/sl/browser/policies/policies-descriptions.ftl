@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = Onemogoči PDF.js, pregledovalnik PDF brskalnik
 policy-DisableDeveloperTools = Zavrni dostop do razvojnih orodij.
 policy-DisableFeedbackCommands = Onemogoči ukaze v meniju Pomoč za pošiljanje povratnih informacij ("Povratne informacije" in "Prijavi zavajajočo stran").
 policy-DisableFirefoxAccounts = Onemogoči storitve na osnovi { -fxaccount-brand-name }ov, na primer Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Onemogoči možnost Firefox Screenshots.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Onemogoči možnost Waterfox Screenshots.
 policy-DisableFirefoxStudies = { -brand-short-name }u prepreči izvajanje raziskav.
 policy-DisableForgetButton = Prepreči dostop do gumba Pozabi.
 policy-DisableFormHistory = Ne shranjuj zgodovine iskanja in obrazcev.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Omogoči ali onemogoči zavračanje vsebine te
 policy-Extensions = Namesti, odstrani ali zakleni razširitve. Možnost "Install" kot parametre sprejema URL-je ali poti. Možnosti "Uninstall" in "Locked" sprejemata ID-je razširitev.
 policy-ExtensionSettings = Upravljajte vse vidike namestitve razširitve.
 policy-ExtensionUpdate = Omogoči ali onemogoči samodejno posodabljanje razširitev.
-policy-FirefoxHome = Nastavi Firefoxovo domačo stran.
+policy-FirefoxHome = Nastavi Waterfoxovo domačo stran.
 policy-FlashPlugin = Dovoli ali zavrni uporabo vtičnika Flash.
 policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 # “lock” means that the user won’t be able to change this setting

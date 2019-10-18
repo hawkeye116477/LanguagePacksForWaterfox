@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "As ferramentas de desenvolvemento do Firefox permiten a depuración de dispositivos remotos (Firefox para Android e Firefox OS, por exemplo). Asegúrese de que activou a opción 'Depuración remota' no dispositivo remoto. Para máis información consulte a ">
+<!ENTITY remoteHelp "As ferramentas de desenvolvemento do Waterfox permiten a depuración de dispositivos remotos (Waterfox para Android e Waterfox OS, por exemplo). Asegúrese de que activou a opción 'Depuración remota' no dispositivo remoto. Para máis información consulte a ">
 <!ENTITY remoteDocumentation "documentación">
 <!ENTITY remoteHelpSuffix ".">
 

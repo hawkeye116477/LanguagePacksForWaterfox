@@ -132,7 +132,7 @@ in "Search through tabs". -->
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
+when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "Åbn…">
 <!ENTITY openFileCmd.label "Åbn fil…">
 <!ENTITY openFileCmd.accesskey "b">
@@ -195,7 +195,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+Source" on macOS. pageSourceCmd.commandkey above is Waterfox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
@@ -236,19 +236,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "A">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Tag Firefox med dig">
+     for the Waterfox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Tag Waterfox med dig">
 <!ENTITY fxa.signin.description.label "Få adgang til din historik, dine bogmærker, adgangskoder og andre indstillinger på alle dine enheder.">
 <!ENTITY fxa.signin.button.label "Aktiver &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
+     for the Waterfox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Tjek din indbakke">
 <!ENTITY fxa.unverified.description.label "Du skal bekræfte din konto, før du kan begynde at synkronisere.">
 <!ENTITY fxa.unverified.button.label "Åbn indstillingerne for &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Waterfox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Logget ind som">
 <!ENTITY fxa.menu.manageAccount.label "Håndter konto…">
@@ -538,7 +538,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktivér synkronisering af faneblade for at få vist faneblade, som er åbne på dine andre enheder.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
+     the account. We also show links to download Waterfox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Ingen synkroniserede faneblade…">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du se dine faneblade fra andre enheder her?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Indstillinger for Sync">
@@ -594,7 +594,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     toolbar buttons context menus, a user can use this command to submit to Waterfox
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Rapporter udvidelse">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
@@ -959,7 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Denne side er indlæst fra en udvidelse.">
 <!ENTITY identity.insecureLoginForms2 "Logins foretaget på denne side kan blive kompromitteret.">
 
-<!ENTITY identity.customRoot "Forbindelsen blev bekræftet af en certifikatudsteder, som Mozilla ikke kender.">
+<!ENTITY identity.customRoot "Forbindelsen blev bekræftet af en certifikatudsteder, som Waterfox ikke kender.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokeret usikre dele af denne side.">
@@ -979,7 +979,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.">
 <!ENTITY identity.description.activeLoaded2 "Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort) kan ses af andre.">
 
-<!ENTITY identity.description.customRoot "Mozilla kender ikke udstederen af dette certifikat. Det kan være tilføjet af dit styresystem eller en administrator.">
+<!ENTITY identity.description.customRoot "Waterfox kender ikke udstederen af dette certifikat. Det kan være tilføjet af dit styresystem eller en administrator.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktiver beskyttelse">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
@@ -1011,7 +1011,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "Synkroniserede faneblade">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Du har ingen synkroniserede faneblade">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vil du gerne se faneblade fra dine andre enheder her?">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Log ind på Firefox fra dine andre enheder for at se deres faneblade her.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Log ind på Waterfox fra dine andre enheder for at se deres faneblade her.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Log ind for at se en liste med faneblade fra dine andre enheder.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Din konto skal godkendes.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen åbne faneblade">
@@ -1125,7 +1125,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
-     "Firefox is blocking Slow-Loading Trackers"-->
+     "Waterfox is blocking Slow-Loading Trackers"-->
 <!ENTITY contentBlocking.fastBlock.blocking.label "Blokerer">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
@@ -1151,7 +1151,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Trackers"-->
+     "Waterfox is blocking Trackers"-->
 <!ENTITY contentBlocking.trackingProtection.blocking.label "Blokerer">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
@@ -1170,7 +1170,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
-     "Firefox is blocking Third-Party Cookies"-->
+     "Waterfox is blocking Third-Party Cookies"-->
 <!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Blokerer">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
@@ -1195,7 +1195,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapportér et problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapportér problemer">
-<!ENTITY contentBlocking.breakageReportView2.description "Blokering af indhold kan skabe problemer for nogle websteder. Ved at rapportere problemer hjælper du med at gøre &brandShortName; bedre for alle. (Dette sender en URL samt information om dine browser-indstillinger til Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Blokering af indhold kan skabe problemer for nogle websteder. Ved at rapportere problemer hjælper du med at gøre &brandShortName; bedre for alle. (Dette sender en URL samt information om dine browser-indstillinger til Waterfox.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Læs mere">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvilke problemer oplever du? (valgfrit)">

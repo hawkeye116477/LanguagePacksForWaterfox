@@ -52,7 +52,7 @@ cfr-doorhanger-pintab-step3 = Сайтта жаңарту болса, бекіт
 cfr-doorhanger-pintab-animation-pause = Аялдату
 cfr-doorhanger-pintab-animation-resume = Жалғастыру
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Бетбелгілерді барлық жерде синхрондаңыз.
 cfr-doorhanger-bookmark-fxa-body = Тамаша табу! Енді мобильді құрылғыларыңызда бұл бетбелгісіз қалмаңыз. { -fxaccount-brand-name } қызметімен жұмысты бастаңыз.

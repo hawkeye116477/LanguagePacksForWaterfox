@@ -65,7 +65,7 @@ cfr-doorhanger-pintab-step3 = En blå prik på det fastgjorte faneblad viser, at
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Fortsæt
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 cfr-doorhanger-bookmark-fxa-header = Synkroniser dine bogmærker overalt.
 cfr-doorhanger-bookmark-fxa-body = Vidste du, at du automatisk kan overføre nye bogmærker til din telefon eller tablet? Få en { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bogmærker nu…

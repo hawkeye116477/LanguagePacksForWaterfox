@@ -72,7 +72,7 @@ about-debugging-runtime-processes =
 # runtimes.
 about-debugging-runtime-profile-button2 = प्रोफाइल कामगिरी
 # Displayed for runtime info in runtime pages.
-# { $name } is brand name such as "Firefox Nightly"
+# { $name } is brand name such as "Waterfox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ( { $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
@@ -90,10 +90,10 @@ about-debugging-debug-target-list-empty = आतापर्यंत काह�
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = तपासा
-# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Text of a button displayed for a temporary extension loaded in the "This Waterfox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = पुनःदाखल करा
-# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Text of a button displayed for a temporary extension loaded in the "This Waterfox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = काढून टाका
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before

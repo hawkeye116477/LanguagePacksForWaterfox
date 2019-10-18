@@ -61,7 +61,7 @@ app-basics-remote-processes-count = Urruneko prozesuak
 app-basics-enterprise-policies = Enpresa-politikak
 app-basics-location-service-key-google = Google Location Service gakoa
 app-basics-safebrowsing-key-google = Google Safebrowsing gakoa
-app-basics-key-mozilla = Mozilla Location Service gakoa
+app-basics-key-mozilla = Waterfox Location Service gakoa
 app-basics-safe-mode = Modu segurua
 show-dir-label =
     { PLATFORM() ->

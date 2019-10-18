@@ -11,7 +11,7 @@ process-type-privileged = Contingut privilegiat
 process-type-privilegedabout = Pàgines «about» privilegiades
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Contingut de Mozilla privilegiat
+process-type-privilegedmozilla = Contingut de Waterfox privilegiat
 process-type-extension = Extensió
 # process used to open file:// URLs
 process-type-file = Fitxer local

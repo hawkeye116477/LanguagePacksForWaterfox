@@ -47,7 +47,7 @@ app-basics-profiles = প্রোফাইল
 app-basics-multi-process-support = মাল্টিপ্রসেস উইন্ডো
 app-basics-process-count = ওয়েবের কনটেন্ট প্রসেস
 app-basics-enterprise-policies = এন্ট্রারপ্রাইজ নীতিগুলি
-app-basics-key-mozilla = Mozilla লোকেশন সার্ভিস Key
+app-basics-key-mozilla = Waterfox লোকেশন সার্ভিস Key
 app-basics-safe-mode = সেফ মোড
 show-dir-label =
     { PLATFORM() ->

@@ -205,7 +205,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Het risico aanvaarden en doorgaan">
 
-<!ENTITY errorReporting.automatic2 "Fouten als deze rapporteren om Mozilla te helpen kwaadwillende websites te herkennen en te blokkeren">
+<!ENTITY errorReporting.automatic2 "Fouten als deze rapporteren om Waterfox te helpen kwaadwillende websites te herkennen en te blokkeren">
 <!ENTITY errorReporting.learnMore "Meer info…">
 
 <!ENTITY remoteXUL.title "Remote XUL">

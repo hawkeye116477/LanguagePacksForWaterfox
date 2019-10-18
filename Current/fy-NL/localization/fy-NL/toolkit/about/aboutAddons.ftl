@@ -72,7 +72,7 @@ cmd-contribute =
 discover-title = Wat binne Add-ons?
 discover-description =
     Add-ons binne applikaasjes dy't jo { -brand-short-name } personalisearje litte mei
-    ekstra funksjonaliteit of styl. Probearje in tiidbesparjende sidebalke, in waartsjinst, of in tema om Firefox
+    ekstra funksjonaliteit of styl. Probearje in tiidbesparjende sidebalke, in waartsjinst, of in tema om Waterfox
     jo eigen te meitsjen.
 discover-footer =
     As jo ferbûn binne mei it ynternet, sil dit paniel in pear

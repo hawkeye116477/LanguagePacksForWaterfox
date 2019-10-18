@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-oc@firefox.mozilla.org", 
+      "id": "langpack-oc@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Mozilla.org / totenoc.eu (contributors: Cédric Valmary (totenoc.eu), Yann Marchegay (totenoc.eu))", 
-  "description": "Language pack for Firefox for oc"
+  "description": "Language pack for Waterfox Current for oc"
 }

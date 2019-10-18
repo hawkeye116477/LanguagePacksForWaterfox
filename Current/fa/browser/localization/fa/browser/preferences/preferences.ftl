@@ -46,7 +46,7 @@ category-search =
 pane-privacy-title = حریم‌خصوصی و امنیت
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
 pane-sync-title = حساب فایرفاکس
 category-sync =
     .tooltiptext = { pane-sync-title }
@@ -118,8 +118,8 @@ search-results-help-link = نیاز به راهنمایی دارید؟ از <a d
 ## General Section
 
 startup-header = راه‌اندازی
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
     .label = اجازه بده تا { -brand-short-name } و فایرفاکس همزمان اجرا شوند
 use-firefox-sync = نکته: این از یک نمایه جدا استفاده میکند. از { -sync-brand-short-name } برای اشتراک‌گذاری اطلاعات بین آنها استفاده کنید.
@@ -351,7 +351,7 @@ home-newtabs-mode-label = زبانه‌های جدید
 home-restore-defaults =
     .label = بازنشانی پیش‌فرض‌ها
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = خانهٔ فایرفاکس (پیش‌فرض)
@@ -552,12 +552,12 @@ history-header = تاریخچه
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } will
     .accesskey = w
 history-remember-option-all =

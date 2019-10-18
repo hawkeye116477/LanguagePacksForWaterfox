@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-hu@firefox.mozilla.org", 
+      "id": "langpack-hu@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "FSF.hu (contributors: Tímár András)", 
-  "description": "Language pack for Firefox for hu"
+  "description": "Language pack for Waterfox Current for hu"
 }

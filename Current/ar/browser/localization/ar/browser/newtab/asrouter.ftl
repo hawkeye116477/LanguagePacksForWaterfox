@@ -62,7 +62,7 @@ cfr-doorhanger-pintab-step3 = إن حصل شيء في الموقع وطرأ تح
 cfr-doorhanger-pintab-animation-pause = ألبِث
 cfr-doorhanger-pintab-animation-resume = استأنف
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = زامِن علاماتك في كل مكان.
 cfr-doorhanger-bookmark-fxa-link-text = زامِن العلامات الآن…

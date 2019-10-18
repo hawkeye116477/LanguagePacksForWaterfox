@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = Malaktivigi PDF.js (PDF-legilo inkluzivita en {
 policy-DisableDeveloperTools = Bloki aliron al la iloj por programistoj.
 policy-DisableFeedbackCommands = Malaktivigi eblojn “sendi opiniojn” kaj “denunci trompan retejon” en la menuo de helpo.
 policy-DisableFirefoxAccounts = Malaktivigi servojn bazitaj sur { -fxaccount-brand-name }, inkluzive Speguladon.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Malaktivigi la etendaĵon Firefox Screenshots.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Malaktivigi la etendaĵon Waterfox Screenshots.
 policy-DisableFirefoxStudies = Malpermesi al { -brand-short-name } fari studojn.
 policy-DisableForgetButton = Malpermesi aliron al la butono "Forgesi".
 policy-DisableFormHistory = Ne memori serĉan kah formularan historion.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Aktivigi aŭ malaktivigi la blokadon de enhavo
 policy-Extensions = Instali, malinstali aŭ ŝlosi etendaĵojn. La elekteblo "instali" akceptas retadresojn aŭ vojojn kiel parametrojn. La elektebloj "malinstali" kaj "ŝlosi" akceptas identigilojn de etendaĵo.
 policy-ExtensionSettings = Administri ĉiujn agordojn por instalo de etendaĵoj.
 policy-ExtensionUpdate = Aktivigi aŭ malaktivigi aŭtomatan ĝisdatigon de etendaĵoj.
-policy-FirefoxHome = Agordi la ekan paĝon de Firefox.
+policy-FirefoxHome = Agordi la ekan paĝon de Waterfox.
 policy-FlashPlugin = Permesi aŭ malpermesi la uzon de la kromprogramo Flash.
 policy-HardwareAcceleration = Se estas "malvera" la aparata akcelo estos malŝaltita.
 # “lock” means that the user won’t be able to change this setting

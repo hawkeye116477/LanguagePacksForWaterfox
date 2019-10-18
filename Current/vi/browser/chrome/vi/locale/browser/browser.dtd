@@ -119,7 +119,7 @@ in "Search through tabs". -->
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
+when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "Mở địa chỉ…">
 <!ENTITY openFileCmd.label "Mở tập tin…">
 <!ENTITY openFileCmd.accesskey "O">
@@ -176,7 +176,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+Source" on macOS. pageSourceCmd.commandkey above is Waterfox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
@@ -217,19 +217,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "F">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Mang Firefox theo bạn">
+     for the Waterfox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Mang Waterfox theo bạn">
 <!ENTITY fxa.signin.description.label "Đồng bộ các dấu trang, lịch sử, mật khẩu và các cài đặt khác lên tất cả các thiết bị của bạn.">
 <!ENTITY fxa.signin.button.label "Bật &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
+     for the Waterfox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Kiểm tra email của bạn">
 <!ENTITY fxa.unverified.description.label "Bạn cần phải xác minh tài khoản của mình trước khi có thể đồng bộ hóa.">
 <!ENTITY fxa.unverified.button.label "Mở cài đặt &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Waterfox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Đã đăng nhập với tài khoản">
 <!ENTITY fxa.menu.manageAccount.label "Quản lý tài khoản…">
@@ -492,7 +492,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Bật đồng bộ thẻ để xem danh sách thẻ từ các thiết bị khác của bạn.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
+     the account. We also show links to download Waterfox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Muốn xem thẻ từ các thiết bị khác của bạn ở đây?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Mở Tùy chỉnh Đồng bộ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.">
@@ -532,7 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     toolbar buttons context menus, a user can use this command to submit to Waterfox
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Báo cáo phần mở rộng">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
@@ -886,7 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Trang này được tải từ một tiện ích mở rộng.">
 <!ENTITY identity.insecureLoginForms2 "Đăng nhập vào trang này bạn có thể bị xâm nhập.">
 
-<!ENTITY identity.customRoot "Kết nối được xác minh bởi nhà phát hành chứng chỉ không được Mozilla công nhận.">
+<!ENTITY identity.customRoot "Kết nối được xác minh bởi nhà phát hành chứng chỉ không được Waterfox công nhận.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; đã chặn những phần không an toàn của trang này.">
@@ -906,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Trang web này chứa nội dung không an toàn (ví dụ: các đoạn mã) và kết nối tới nội dung này không bảo mật.">
 <!ENTITY identity.description.activeLoaded2 "Thông tin bạn chia sẻ với trang này có thể bị thấy bởi người khác (ví dụ: mật khẩu, tin nhắn, thẻ tín dụng, vâng vâng).">
 
-<!ENTITY identity.description.customRoot "Mozilla không công nhận nhà phát hành chứng chỉ này. Nó có thể đã được thêm từ hệ điều hành của bạn hoặc bởi quản trị viên.">
+<!ENTITY identity.description.customRoot "Waterfox không công nhận nhà phát hành chứng chỉ này. Nó có thể đã được thêm từ hệ điều hành của bạn hoặc bởi quản trị viên.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Bật bảo vệ">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -936,7 +936,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Các thẻ đã đồng bộ">
 
 <!ENTITY syncedTabs.sidebar.label              "Các thẻ đã đồng bộ">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Đăng nhập vào Firefox từ các thiết bị khác của bạn để xem các thẻ đó ở đây.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Đăng nhập vào Waterfox từ các thiết bị khác của bạn để xem các thẻ đó ở đây.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Muốn xem thẻ từ các thiết bị khác của bạn ở đây?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Tài khoản của bạn cần được xác thực.">
@@ -1050,7 +1050,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Báo cáo một lỗi">
 <!ENTITY contentBlocking.breakageReportView.label "Báo cáo lỗi">
-<!ENTITY contentBlocking.breakageReportView2.description "Chặn nội dung có thể gây ra sự cố với một số trang web. Khi bạn báo cáo sự cố, bạn sẽ giúp tạo &brandShortName; tốt hơn cho mọi người. (Thao tác này sẽ gửi URL cũng như thông tin về cài đặt trình duyệt của bạn tới Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Chặn nội dung có thể gây ra sự cố với một số trang web. Khi bạn báo cáo sự cố, bạn sẽ giúp tạo &brandShortName; tốt hơn cho mọi người. (Thao tác này sẽ gửi URL cũng như thông tin về cài đặt trình duyệt của bạn tới Waterfox.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Tìm hiểu thêm">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Những lỗi bạn đã gặp phải là gì? (không bắt buộc)">

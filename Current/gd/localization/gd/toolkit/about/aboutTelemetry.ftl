@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Dàta telemeatraidh
 about-telemetry-more-information = Barrachd fiosrachaidh a dhìth ort?
-about-telemetry-firefox-data-doc = Tha treòirean ann am <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> a dh’innseas dhut mar a dh’obraicheas tu leis na h-innealan dàta againn.
-about-telemetry-telemetry-client-doc = Gheibh thu deifiniseanan choincheapan, docamaideadh API agus reifreansan dàta san docamaidean <a data-l10n-name="client-doc-link">Firefox Telemetry Client</a>.
-about-telemetry-telemetry-dashboard = Bheir <a data-l10n-name="dashboard-link">deas-bhùird an telemeatraidh</a> comas dhut dealbh a dhèanamh dhen dàta a gheibh Mozilla slighe gleus an telemeatraidh.
+about-telemetry-firefox-data-doc = Tha treòirean ann am <a data-l10n-name="data-doc-link">Waterfox Data Documentation</a> a dh’innseas dhut mar a dh’obraicheas tu leis na h-innealan dàta againn.
+about-telemetry-telemetry-client-doc = Gheibh thu deifiniseanan choincheapan, docamaideadh API agus reifreansan dàta san docamaidean <a data-l10n-name="client-doc-link">Waterfox Telemetry Client</a>.
+about-telemetry-telemetry-dashboard = Bheir <a data-l10n-name="dashboard-link">deas-bhùird an telemeatraidh</a> comas dhut dealbh a dhèanamh dhen dàta a gheibh Waterfox slighe gleus an telemeatraidh.
 about-telemetry-telemetry-probe-dictionary = Tha am <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> a’ toirt dhut mion-fhiosrachadh is tuairisgeulan mun fhiosrachadh a chruinnich an telemeatraidh.
 about-telemetry-show-in-Firefox-json-viewer = Fosgail san t-sealladair JSON
 about-telemetry-home-section = Dhachaidh
@@ -69,7 +69,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } sample, average = { $prettyAverage }, sum = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Tha an duilleag seo a' sealltainn dhut fiosrachadh air dèanadas, bathar-cruaidh, cleachdadh is gnàthachadh a tha gleus an telemeatraidh a' cruinneachadh. Thèid an dàta seo a chur gu { $telemetryServerOwner } a chum leasachadh { -brand-full-name }.
 about-telemetry-settings-explanation = Tha gleus an telemeatraidh a’ cruinneachadh { about-telemetry-data-type } agus tha a luchdadh suas <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -141,5 +141,5 @@ about-telemetry-origin-section = Origin Telemetry
 about-telemetry-origin-origin = origin
 about-telemetry-origin-count = count
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> encodes data before it is sent so that { $telemetryServerOwner } can count things, but not know whether or not any given { -brand-product-name } contributed to that count. (<a data-l10n-name="prio-blog-link">learn more</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfox Origin Telemetry</a> encodes data before it is sent so that { $telemetryServerOwner } can count things, but not know whether or not any given { -brand-product-name } contributed to that count. (<a data-l10n-name="prio-blog-link">learn more</a>)

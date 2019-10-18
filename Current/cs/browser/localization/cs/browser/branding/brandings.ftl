@@ -11,11 +11,11 @@
 
 -facebook-container-brand-name = Facebook Container
     .gender = masculine
--lockwise-brand-name = Firefox Lockwise
+-lockwise-brand-name = Waterfox Lockwise
     .gender = masculine
--monitor-brand-name = Firefox Monitor
+-monitor-brand-name = Waterfox Monitor
     .gender = masculine
 -pocket-brand-name = Pocket
     .gender = masculine
--send-brand-name = Firefox Send
+-send-brand-name = Waterfox Send
     .gender = masculine

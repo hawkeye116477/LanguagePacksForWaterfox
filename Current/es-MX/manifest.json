@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-es-MX@firefox.mozilla.org", 
+      "id": "langpack-es-MX@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "mozilla.org (contributors: Mozilla M&#233;xico &#40;Responsable: Mauricio Navarro&#41;)", 
-  "description": "Language pack for Firefox for es-MX"
+  "author": "mozilla.org (contributors: Waterfox M&#233;xico &#40;Responsable: Mauricio Navarro&#41;)", 
+  "description": "Language pack for Waterfox Current for es-MX"
 }

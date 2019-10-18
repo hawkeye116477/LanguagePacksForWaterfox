@@ -202,7 +202,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 <!ENTITY securityOverride.exceptionButton1Label "Accept the Risk and Continue">
-<!ENTITY errorReporting.automatic2 "Report errors like this to help Mozilla identify and block malicious sites">
+<!ENTITY errorReporting.automatic2 "Report errors like this to help Waterfox identify and block malicious sites">
 <!ENTITY errorReporting.learnMore "Learn more…">
 <!ENTITY sslv3Used.title "Unable to Connect Securely">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate

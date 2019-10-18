@@ -56,7 +56,7 @@ cfr-doorhanger-pintab-step3 = Jeigu svetainė atsinaujino, ant įsegtos kortelė
 cfr-doorhanger-pintab-animation-pause = Pristabdyti
 cfr-doorhanger-pintab-animation-resume = Tęsti
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinchronizuokite adresyną visuose įrenginiuose.
 cfr-doorhanger-bookmark-fxa-body = Puikus radinys! O kad nepasigestumėte šio įrašo kituose įrenginiuose, susikurkite „{ -fxaccount-brand-name }“.

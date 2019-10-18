@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-zh-TW@firefox.mozilla.org", 
+      "id": "langpack-zh-TW@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Mozilla Taiwan Community (MozTW) (contributors: Hung-Te Lin(piaip), Wei-Lun Sun(josesun), Tim Guan-Tin Chien(timdream), Peter Pin-Guang Chen(petercpg))", 
-  "description": "Language pack for Firefox for zh-TW"
+  "author": "Waterfox Taiwan Community (MozTW) (contributors: Hung-Te Lin(piaip), Wei-Lun Sun(josesun), Tim Guan-Tin Chien(timdream), Peter Pin-Guang Chen(petercpg))", 
+  "description": "Language pack for Waterfox Current for zh-TW"
 }

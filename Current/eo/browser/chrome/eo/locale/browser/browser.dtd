@@ -119,7 +119,7 @@ in "Search through tabs". -->
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
+when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "Malfermi adreson…">
 <!ENTITY openFileCmd.label "Malfermi dosieron…">
 <!ENTITY openFileCmd.accesskey "d">
@@ -176,7 +176,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+Source" on macOS. pageSourceCmd.commandkey above is Waterfox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
@@ -217,19 +217,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "P">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Portu Firefox kun vi">
+     for the Waterfox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Portu Waterfox kun vi">
 <!ENTITY fxa.signin.description.label "Ricevu viajn legosignojn, historion, pasvortojn kaj aliajn agordojn en ĉiuj viaj aparatoj.">
 <!ENTITY fxa.signin.button.label "Ŝalti &syncBrand.shortName.label;n…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
+     for the Waterfox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Kontrolu vian retpoŝton">
 <!ENTITY fxa.unverified.description.label "Vi devos konfirmi vian konton antaŭ ol vi povos speguli.">
 <!ENTITY fxa.unverified.button.label "Malfermi agordojn de &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Waterfox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Seanco komencita kiel">
 <!ENTITY fxa.menu.manageAccount.label "Administri konton…">
@@ -492,7 +492,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ŝaltu la dividon de langetoj por vidi liston de langetoj en viaj aliaj aparatoj.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
+     the account. We also show links to download Waterfox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Malfermi preferojn de spegulado">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.">
@@ -532,7 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.accesskey "F">
 
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     toolbar buttons context menus, a user can use this command to submit to Waterfox
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Denunci etendaĵon">
 <!ENTITY customizeMenu.reportExtension.accesskey "D">
@@ -886,7 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Tiu ĉi paĝo estas ŝargata de etendaĵo.">
 <!ENTITY identity.insecureLoginForms2 "Akreditiloj uzitaj en tiu ĉi paĝo povus esti riskitaj.">
 
-<!ENTITY identity.customRoot "Konekto kontrolita de eldoninto de atestilo, kiu ne estas rekonita de Mozilla.">
+<!ENTITY identity.customRoot "Konekto kontrolita de eldoninto de atestilo, kiu ne estas rekonita de Waterfox.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; blokis partojn de tiu ĉi paĝo, kiuj ne estas sekuraj.">
@@ -906,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Tiu ĉi retejo enhavas nesekurajn elementojn (skriptojn, ekzemple) kaj via konekto al ĝi ne estas privata.">
 <!ENTITY identity.description.activeLoaded2 "Datumoj, kiujn vi dividas kun tiu ĉi retejo, povus esti viditaj de aliaj (ekzemple pasvortoj, mesaĝoj, kreditkartoj, ktp.">
 
-<!ENTITY identity.description.customRoot "Mozilla ne rekonas tiun ĉi eldoninton de atestiloj. Ĝi eble estis aldonita de via mastruma sistemo aŭ de administranto.">
+<!ENTITY identity.description.customRoot "Waterfox ne rekonas tiun ĉi eldoninton de atestiloj. Ĝi eble estis aldonita de via mastruma sistemo aŭ de administranto.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktivigi protekton">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
@@ -936,7 +936,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Spegulitaj langetoj">
 
 <!ENTITY syncedTabs.sidebar.label              "Spegulitaj langetoj">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Komencu seancon en Firefox, el viaj aliaj aparatoj, por vidi iliajn langetojn ĉi tie.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Komencu seancon en Waterfox, el viaj aliaj aparatoj, por vidi iliajn langetojn ĉi tie.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Via konto bezonas esti kontrolita.">
@@ -1050,7 +1050,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raporti problemon">
 <!ENTITY contentBlocking.breakageReportView.label "Raporti problemojn">
-<!ENTITY contentBlocking.breakageReportView2.description "La blokado de enhavo povas okazigi problemojn en kelkaj retejoj. Se vi raportas problemojn, vi helpos nin plibonigi &brandShortName; por ĉiuj. (Tio ĉi sendos al Mozilla retadreson kaj informojn pri la agordoj de via retumilo.)">
+<!ENTITY contentBlocking.breakageReportView2.description "La blokado de enhavo povas okazigi problemojn en kelkaj retejoj. Se vi raportas problemojn, vi helpos nin plibonigi &brandShortName; por ĉiuj. (Tio ĉi sendos al Waterfox retadreson kaj informojn pri la agordoj de via retumilo.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pli da informo">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Retadreso">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kiujn problemojn vi havis? (nedeviga)">

@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Dæti telemetria
 about-telemetry-more-information = Ti veu âtre informaçioin?
-about-telemetry-firefox-data-doc = A <a data-l10n-name="data-doc-link">Documentaçion Dæti de Firefox</a> a contegne guidde in sce comme travagiâ co-i nòstri strumenti dati.
-about-telemetry-telemetry-client-doc = A <a data-l10n-name="client-doc-link">Documentaçion da Telemetria Dæti de Firefox</a> a contegne documenti definiçioin, API e referense di dati.
-about-telemetry-telemetry-dashboard = A <a data-l10n-name="dashboard-link">Lavagna da telemetria</a> a permette de vedde i dati che Mozilla a riçeive via Telemetria.
+about-telemetry-firefox-data-doc = A <a data-l10n-name="data-doc-link">Documentaçion Dæti de Waterfox</a> a contegne guidde in sce comme travagiâ co-i nòstri strumenti dati.
+about-telemetry-telemetry-client-doc = A <a data-l10n-name="client-doc-link">Documentaçion da Telemetria Dæti de Waterfox</a> a contegne documenti definiçioin, API e referense di dati.
+about-telemetry-telemetry-dashboard = A <a data-l10n-name="dashboard-link">Lavagna da telemetria</a> a permette de vedde i dati che Waterfox a riçeive via Telemetria.
 about-telemetry-show-in-Firefox-json-viewer = Arvi into vizoalizatô JSON
 about-telemetry-home-section = Pagina prinçipâ
 about-telemetry-general-data-section = Dæti generali
@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] dizabilitou
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = In sta pagina gh'é di dæti in sce prestaçioin e l'uzo de carateristiche arecogeite co-a telemetria. Ste informaçioin vegnan mandæ a { $telemetryServerOwner } in mòddo anònimo pe megiorâ { -brand-full-name }.
 about-telemetry-settings-explanation = A telemetria a piggia { about-telemetry-data-type } e agiorna <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

@@ -118,10 +118,10 @@ search-results-help-link = Necessiteu ajuda? Visiteu l'<a data-l10n-name="url">a
 ## General Section
 
 startup-header = Inici
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Permet que el { -brand-short-name } i el Firefox s'executin alhora
+    .label = Permet que el { -brand-short-name } i el Waterfox s'executin alhora
 use-firefox-sync = Consell: Aquesta funcionalitat utilitza perfils separats. Utilitzeu el { -sync-brand-short-name } per sincronitzar dades entre ells.
 get-started-not-logged-in = Inicia la sessió al { -sync-brand-short-name }…
 get-started-configured = Obre les preferències del { -sync-brand-short-name }
@@ -373,10 +373,10 @@ home-newtabs-mode-label = Pestanyes noves
 home-restore-defaults =
     .label = Restaura els valors per defecte
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Inici del Firefox (per defecte)
+    .label = Inici del Waterfox (per defecte)
 home-mode-choice-custom =
     .label = URL personalitzats…
 home-mode-choice-blank =
@@ -472,7 +472,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Baixeu el Firefox per a l'<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o per a l'<img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronitzar amb el vostre dispositiu mòbil.
+sync-mobile-promo = Baixeu el Waterfox per a l'<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o per a l'<img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronitzar amb el vostre dispositiu mòbil.
 
 ## Sync Section - Signed in
 
@@ -520,7 +520,7 @@ sync-engine-creditcards =
     .accesskey = c
 sync-engine-addons =
     .label = Complements
-    .tooltiptext = Extensions i temes per al Firefox d'escriptori
+    .tooltiptext = Extensions i temes per al Waterfox d'escriptori
     .accesskey = C
 sync-engine-prefs =
     .label =
@@ -575,12 +575,12 @@ history-header = Historial
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = El { -brand-short-name }
     .accesskey = l
 history-remember-option-all =

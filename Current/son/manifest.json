@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-son@firefox.mozilla.org", 
+      "id": "langpack-son@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Abdoul Seydou Cissé, Mohomodou Houssouba, Moussa Yacouba Maïga)", 
-  "description": "Language pack for Firefox for son"
+  "description": "Language pack for Waterfox Current for son"
 }

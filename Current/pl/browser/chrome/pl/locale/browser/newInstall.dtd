@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE: For this feature, "installation" is used to mean "this
- discrete download of Firefox" and "version" is used to mean "the specific
- revision number of a given Firefox channel". These terms are not synonymous.
+ discrete download of Waterfox" and "version" is used to mean "the specific
+ revision number of a given Waterfox channel". These terms are not synonymous.
 -->
 
 <!ENTITY window.title "Ważna informacja">
 <!ENTITY window.style "width: 490px">
-<!ENTITY sync "Aby synchronizować dane już zachowane w Firefoksie z tą instalacją programu &brandShortName;, zaloguj się na koncie Firefoksa.">
+<!ENTITY sync "Aby synchronizować dane już zachowane w Waterfoksie z tą instalacją programu &brandShortName;, zaloguj się na koncie Waterfoksa.">
 <!ENTITY continue-button "Kontynuuj">
 
-<!ENTITY mainText "Ta instalacja programu &brandShortName; ma nowy profil. Zakładki, hasła i preferencje użytkownika nie są współdzielone z pozostałymi instalacjami Firefoksa (w tym Firefoksa, Firefoksa ESR, Firefoksa Beta, Firefox Developer Edition i Firefox Nightly) na tym komputerze.">
+<!ENTITY mainText "Ta instalacja programu &brandShortName; ma nowy profil. Zakładki, hasła i preferencje użytkownika nie są współdzielone z pozostałymi instalacjami Waterfoksa (w tym Waterfoksa, Waterfoksa ESR, Waterfoksa Beta, Waterfox Developer Edition i Waterfox Nightly) na tym komputerze.">

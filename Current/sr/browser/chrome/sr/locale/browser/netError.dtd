@@ -196,7 +196,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Прихвати ризик и настави">
 
-<!ENTITY errorReporting.automatic2 "Аутоматски пријавите грешке да бисте помогли Mozilla-и да идентификује и блокира злонамере сајтове">
+<!ENTITY errorReporting.automatic2 "Аутоматски пријавите грешке да бисте помогли Waterfox-и да идентификује и блокира злонамере сајтове">
 <!ENTITY errorReporting.learnMore "Сазнајте више…">
 
 <!ENTITY remoteXUL.title "Удаљени XUL">

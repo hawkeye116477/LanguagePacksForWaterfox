@@ -130,7 +130,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Ɓeydu Paltoor…">
 <!ENTITY securityOverride.exceptionButton1Label "Jaɓ tanaa oo njokkaa">
 
-<!ENTITY errorReporting.automatic2 "Jaŋto juume hono ɗee ngam wallude Mozilla heftinde e falaade lowe bonnooje">
+<!ENTITY errorReporting.automatic2 "Jaŋto juume hono ɗee ngam wallude Waterfox heftinde e falaade lowe bonnooje">
 <!ENTITY errorReporting.learnMore "Ɓeydu humpito…">
 
 <!ENTITY remoteXUL.title "XUL Poottiiɗo">

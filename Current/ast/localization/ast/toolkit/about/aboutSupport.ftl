@@ -44,7 +44,7 @@ app-basics-profiles = Perfiles
 app-basics-multi-process-support = Ventanes multiprocesu
 app-basics-process-count = Procesos de conteníu web
 app-basics-key-google = Clave de Google
-app-basics-key-mozilla = Clave del serviciu d'allugmientu de Mozilla
+app-basics-key-mozilla = Clave del serviciu d'allugmientu de Waterfox
 app-basics-safe-mode = Mou seguru
 show-dir-label =
     { PLATFORM() ->

@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-km@firefox.mozilla.org", 
+      "id": "langpack-km@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "ខ្មែរ (km) (contributors: Eng Vannak, Khoem Sokhem, Seng Sutha, Sok Sophea, Morn Met, Chank Sambathratanak)", 
-  "description": "Language pack for Firefox for km"
+  "description": "Language pack for Waterfox Current for km"
 }

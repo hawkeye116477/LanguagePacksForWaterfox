@@ -4,7 +4,7 @@
 
 synced-tabs-sidebar-title = Sinxronlangan ichki oynalar
 synced-tabs-sidebar-noclients-subtitle = Bu yerdagi ichki oynalarni boshqa qurilmalarda ko‘rishni xohlaysizmi?
-synced-tabs-sidebar-notsignedin = Boshqa qurilmalardagi ichki oynalar ro‘yxatini ko‘rish uchun Firefox hisobiga kiring.
+synced-tabs-sidebar-notsignedin = Boshqa qurilmalardagi ichki oynalar ro‘yxatini ko‘rish uchun Waterfox hisobiga kiring.
 synced-tabs-sidebar-unverified = Hisobingiz tasdiqlanishi kerak.
 synced-tabs-sidebar-notabs = Ochiq ichki oynalar yo‘q
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } parametrlarini ochish

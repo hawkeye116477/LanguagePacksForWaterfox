@@ -49,7 +49,7 @@
 
 
 
-<!-- We try to repicate Firefox' bindings: -->
+<!-- We try to repicate Waterfox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
 <!-- reload app -->
@@ -152,7 +152,7 @@
 
 
 
-<!ENTITY windowTitle "Firefox WebIDE">
+<!ENTITY windowTitle "Waterfox WebIDE">
 <!ENTITY projectMenu_label "Project">
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "New App…">

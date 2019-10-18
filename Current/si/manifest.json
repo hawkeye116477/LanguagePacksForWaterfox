@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-si@firefox.mozilla.org", 
+      "id": "langpack-si@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Danishka Navin, Kalpa Pathum, Gayan Kalhara, RohanaDasanayaka, SrishanuLokupathirage, HarshanaWeerasinghe, Lahiru Himesh, Nuwan Indika, Lohan Gunaweera)", 
-  "description": "Language pack for Firefox for si"
+  "description": "Language pack for Waterfox Current for si"
 }

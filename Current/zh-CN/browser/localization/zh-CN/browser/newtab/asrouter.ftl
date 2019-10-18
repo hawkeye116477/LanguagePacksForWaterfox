@@ -52,7 +52,7 @@ cfr-doorhanger-pintab-step3 = 若网站有新动向，固定的标签页上会�
 cfr-doorhanger-pintab-animation-pause = 暂停
 cfr-doorhanger-pintab-animation-resume = 恢复
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = 把书签随身带着走
 cfr-doorhanger-bookmark-fxa-body = 找到好网站了！接下来也把该书签同步至移动设备吧。开始使用 { -fxaccount-brand-name }。

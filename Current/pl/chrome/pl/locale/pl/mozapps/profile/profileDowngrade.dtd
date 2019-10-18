@@ -4,16 +4,16 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "Uruchomiono starszą wersję Firefoksa">
+<!ENTITY window.title "Uruchomiono starszą wersję Waterfoksa">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Używanie starszej wersji Firefoksa może uszkodzić zakładki i historię przeglądania już zachowaną w istniejącym profilu Firefoksa. Aby chronić swoje dane, utwórz nowy profil dla tej instalacji programu &brandShortName;.">
-<!ENTITY window.sync "Używanie starszej wersji Firefoksa może uszkodzić zakładki i historię przeglądania już zachowaną w istniejącym profilu Firefoksa. Aby chronić swoje dane, utwórz nowy profil dla tej instalacji programu &brandShortName;. Zawsze można zalogować się na konto Firefoksa, aby synchronizować zakładki i historię przeglądania między profilami.">
+<!ENTITY window.nosync "Używanie starszej wersji Waterfoksa może uszkodzić zakładki i historię przeglądania już zachowaną w istniejącym profilu Waterfoksa. Aby chronić swoje dane, utwórz nowy profil dla tej instalacji programu &brandShortName;.">
+<!ENTITY window.sync "Używanie starszej wersji Waterfoksa może uszkodzić zakładki i historię przeglądania już zachowaną w istniejącym profilu Waterfoksa. Aby chronić swoje dane, utwórz nowy profil dla tej instalacji programu &brandShortName;. Zawsze można zalogować się na konto Waterfoksa, aby synchronizować zakładki i historię przeglądania między profilami.">
 
 <!ENTITY window.create "Utwórz nowy profil">
 <!ENTITY window.quit-win "Zakończ">

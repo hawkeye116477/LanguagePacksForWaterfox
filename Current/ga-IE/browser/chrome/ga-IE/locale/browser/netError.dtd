@@ -94,7 +94,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Cruthaigh Eisceacht…">
 
-<!ENTITY errorReporting.automatic2 "Tuairiscigh earráidí cosúil leis seo chun cuidiú le Mozilla suíomhanna mailíseacha a aithint agus a chosc">
+<!ENTITY errorReporting.automatic2 "Tuairiscigh earráidí cosúil leis seo chun cuidiú le Waterfox suíomhanna mailíseacha a aithint agus a chosc">
 <!ENTITY errorReporting.learnMore "Tuilleadh eolais…">
 
 <!ENTITY remoteXUL.title "XUL Cianda">

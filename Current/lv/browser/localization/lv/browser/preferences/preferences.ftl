@@ -48,8 +48,8 @@ category-search =
 pane-privacy-title = Privātums un drošība
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox konts
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Waterfox konts
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } atbalsts
@@ -123,10 +123,10 @@ search-results-help-link = Vajadzīga palīdzība? Apmeklējiet <a data-l10n-nam
 ## General Section
 
 startup-header = Palaišana
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Ļaut { -brand-short-name } un Firefox darboties vienlaicīgi
+    .label = Ļaut { -brand-short-name } un Waterfox darboties vienlaicīgi
 use-firefox-sync = Padoms: Šis izmanto atsevišķu profilu. Izmantojiet { -sync-brand-short-name }, lai apmainītos ar datiem, starp šiem profiliem.
 get-started-not-logged-in = Pierakstīties { -sync-brand-short-name }…
 get-started-configured = Atvērt { -sync-brand-short-name } iestatījumus
@@ -363,10 +363,10 @@ home-newtabs-mode-label = Jaunas cilnes
 home-restore-defaults =
     .label = Atjaunot sākotnējos
     .accesskey = t
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox sākuma lapu (noklusējuma)
+    .label = Waterfox sākuma lapu (noklusējuma)
 home-mode-choice-custom =
     .label = Pielāgotas adreses...
 home-mode-choice-blank =
@@ -462,7 +462,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Lejupielādēt Firefox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> vai <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> lai sinhronizētos ar mobilajām ierīcēm.
+sync-mobile-promo = Lejupielādēt Waterfox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> vai <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> lai sinhronizētos ar mobilajām ierīcēm.
 
 ## Sync Section - Signed in
 
@@ -510,7 +510,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Papildinājumus
-    .tooltiptext = Firefox datoru versijas paplašinājumi un tēmas
+    .tooltiptext = Waterfox datoru versijas paplašinājumi un tēmas
     .accesskey = a
 sync-engine-prefs =
     .label =
@@ -565,12 +565,12 @@ history-header = Vēsture
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = v
 history-remember-option-all =

@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ca@firefox.mozilla.org", 
+      "id": "langpack-ca@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Mozilla.org / Softcatalà (contributors: Softcatalà)", 
-  "description": "Language pack for Firefox for ca"
+  "description": "Language pack for Waterfox Current for ca"
 }

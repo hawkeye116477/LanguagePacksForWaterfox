@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-cak@firefox.mozilla.org", 
+      "id": "langpack-cak@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "mozilla.org (contributors: Mozilla Kaq&#233;chikel &#40;Responsable: Juan Sián&#41;)", 
-  "description": "Language pack for Firefox for cak"
+  "author": "mozilla.org (contributors: Waterfox Kaq&#233;chikel &#40;Responsable: Juan Sián&#41;)", 
+  "description": "Language pack for Waterfox Current for cak"
 }

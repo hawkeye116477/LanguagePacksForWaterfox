@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = Ha a webhely frissült, akkor egy kék pont jeleni
 cfr-doorhanger-pintab-animation-pause = Szünet
 cfr-doorhanger-pintab-animation-resume = Folytatás
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Szinkronizálja a könyvjelzőit mindenhol.
 cfr-doorhanger-bookmark-fxa-body = Nagyszerű találat! Ne maradjon könyvjelzők nélkül a mobileszközein sem. Kezdjen egy { -fxaccount-brand-name }kal.

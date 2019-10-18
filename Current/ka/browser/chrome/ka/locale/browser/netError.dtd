@@ -202,7 +202,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "საფრთხის გაცნობიერება და გაგრძელება">
 
-<!ENTITY errorReporting.automatic2 "აცნობეთ Mozilla-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში">
+<!ENTITY errorReporting.automatic2 "აცნობეთ Waterfox-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში">
 <!ENTITY errorReporting.learnMore "ვრცლად…">
 
 <!ENTITY remoteXUL.title "დისტანციური XUL">

@@ -57,7 +57,7 @@ app-basics-remote-processes-count = Process a distanza
 app-basics-enterprise-policies = Directivas d'interpresa
 app-basics-location-service-key-google = Clav dal servetsch da localisaziun da Google
 app-basics-safebrowsing-key-google = Clav dal servetsch Google Safebrowsing
-app-basics-key-mozilla = Clav dal servetsch da posiziun da Mozilla
+app-basics-key-mozilla = Clav dal servetsch da posiziun da Waterfox
 app-basics-safe-mode = Modus privat
 show-dir-label =
     { PLATFORM() ->

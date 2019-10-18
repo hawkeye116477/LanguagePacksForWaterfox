@@ -94,7 +94,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Voeg uitsondering by…">
 
-<!ENTITY errorReporting.automatic2 "Rapporteer foute soos dié om Mozilla te help om kwaadwillige werwe te identifiseer en te blok">
+<!ENTITY errorReporting.automatic2 "Rapporteer foute soos dié om Waterfox te help om kwaadwillige werwe te identifiseer en te blok">
 <!ENTITY errorReporting.learnMore "Meer inligting…">
 
 <!ENTITY remoteXUL.title "Afgeleë XUL">

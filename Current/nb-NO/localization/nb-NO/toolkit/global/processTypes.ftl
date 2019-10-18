@@ -11,7 +11,7 @@ process-type-privileged = Priviligert Innhold
 process-type-privilegedabout = Priviligerte About-sider
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Privilegert Mozilla-innhold
+process-type-privilegedmozilla = Privilegert Waterfox-innhold
 process-type-extension = Utvidelse
 # process used to open file:// URLs
 process-type-file = Lokal fil

@@ -11,7 +11,7 @@ process-type-privileged = Kiemelt jogosultságú tartalom
 process-type-privilegedabout = Privilegizált „about” oldal
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Privilegizált Mozilla tartalom
+process-type-privilegedmozilla = Privilegizált Waterfox tartalom
 process-type-extension = Kiegészítő
 # process used to open file:// URLs
 process-type-file = Helyi fájl

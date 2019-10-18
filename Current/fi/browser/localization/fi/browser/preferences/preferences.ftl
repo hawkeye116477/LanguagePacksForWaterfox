@@ -118,10 +118,10 @@ search-results-help-link = Tarvitsetko apua? Avaa <a data-l10n-name="url">{ -bra
 ## General Section
 
 startup-header = Käynnistys
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Salli { -brand-short-name }in ja Firefoxin olla käynnissä samaan aikaan
+    .label = Salli { -brand-short-name }in ja Waterfoxin olla käynnissä samaan aikaan
 use-firefox-sync = Vinkki: Tämä vaatii erilliset käyttäjäprofiilit. Synkronoi profiilien tiedot { -sync-brand-short-name }-palvelulla.
 get-started-not-logged-in = Kirjaudu { -sync-brand-short-name }-palveluun…
 get-started-configured = Avaa { -sync-brand-short-name }-asetukset
@@ -364,10 +364,10 @@ home-newtabs-mode-label = Uudet välilehdet
 home-restore-defaults =
     .label = Palauta oletukset
     .accesskey = P
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefoxin aloitussivu (oletus)
+    .label = Waterfoxin aloitussivu (oletus)
 home-mode-choice-custom =
     .label = Omat osoitteet…
 home-mode-choice-blank =
@@ -463,7 +463,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Lataa Firefox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Androidille</a> tai <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS:lle</a> ja synkronoi tietosi kannettavalle laitteellesi.
+sync-mobile-promo = Lataa Waterfox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Androidille</a> tai <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS:lle</a> ja synkronoi tietosi kannettavalle laitteellesi.
 
 ## Sync Section - Signed in
 
@@ -503,15 +503,15 @@ sync-engine-logins =
     .accesskey = r
 sync-engine-addresses =
     .label = Osoitteet
-    .tooltiptext = Tallentamasi postiosoitteet (vain Firefoxin työpöytäversiossa)
+    .tooltiptext = Tallentamasi postiosoitteet (vain Waterfoxin työpöytäversiossa)
     .accesskey = O
 sync-engine-creditcards =
     .label = Luottokortit
-    .tooltiptext = Nimet, numerot ja vanheneminen (vain Firefoxin työpöytäversiossa)
+    .tooltiptext = Nimet, numerot ja vanheneminen (vain Waterfoxin työpöytäversiossa)
     .accesskey = u
 sync-engine-addons =
     .label = Lisäosat
-    .tooltiptext = Firefoxin työpöytäversion laajennukset ja teemat
+    .tooltiptext = Waterfoxin työpöytäversion laajennukset ja teemat
     .accesskey = i
 sync-engine-prefs =
     .label =
@@ -569,12 +569,12 @@ history-header = Historiatiedot
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } säilyttää
     .accesskey = F
 history-remember-option-all =

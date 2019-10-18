@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ko@firefox.mozilla.org", 
+      "id": "langpack-ko@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "한글 Mozilla 프로젝트(mozilla.or.kr) (contributors: Seokchan Yun, JoungKyun Kim)", 
-  "description": "Language pack for Firefox for ko"
+  "author": "한글 Waterfox 프로젝트(mozilla.or.kr) (contributors: Seokchan Yun, JoungKyun Kim)", 
+  "description": "Language pack for Waterfox Current for ko"
 }

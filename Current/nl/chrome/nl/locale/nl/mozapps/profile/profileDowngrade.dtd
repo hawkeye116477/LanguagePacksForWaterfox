@@ -4,16 +4,16 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "U hebt een oudere versie van Firefox gestart">
+<!ENTITY window.title "U hebt een oudere versie van Waterfox gestart">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Het gebruik van een oudere versie van Firefox kan bladwijzers en navigatiegeschiedenis die al in een bestaand Firefox-profiel is opgeslagen beschadigen. Maak een nieuw profiel aan voor deze installatie van &brandShortName; om uw informatie te beschermen.">
-<!ENTITY window.sync "Het gebruik van een oudere versie van Firefox kan bladwijzers en navigatiegeschiedenis die al in een bestaand Firefox-profiel is opgeslagen beschadigen. Maak een nieuw profiel aan voor deze installatie van &brandShortName; om uw informatie te beschermen. U kunt zich altijd aanmelden met een &syncBrand.fxAccount.label; om uw bladwijzers en navigatiegeschiedenis tussen profielen te synchroniseren.">
+<!ENTITY window.nosync "Het gebruik van een oudere versie van Waterfox kan bladwijzers en navigatiegeschiedenis die al in een bestaand Waterfox-profiel is opgeslagen beschadigen. Maak een nieuw profiel aan voor deze installatie van &brandShortName; om uw informatie te beschermen.">
+<!ENTITY window.sync "Het gebruik van een oudere versie van Waterfox kan bladwijzers en navigatiegeschiedenis die al in een bestaand Waterfox-profiel is opgeslagen beschadigen. Maak een nieuw profiel aan voor deze installatie van &brandShortName; om uw informatie te beschermen. U kunt zich altijd aanmelden met een &syncBrand.fxAccount.label; om uw bladwijzers en navigatiegeschiedenis tussen profielen te synchroniseren.">
 
 <!ENTITY window.create "Nieuw profiel aanmaken">
 <!ENTITY window.quit-win "Afsluiten">

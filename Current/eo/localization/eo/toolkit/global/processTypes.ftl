@@ -11,7 +11,7 @@ process-type-privileged = Privilegia enhavo
 process-type-privilegedabout = Privilegia informo
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Privilegia enhavo de Mozilla
+process-type-privilegedmozilla = Privilegia enhavo de Waterfox
 process-type-extension = Etendaĵo
 # process used to open file:// URLs
 process-type-file = Loka dosiero

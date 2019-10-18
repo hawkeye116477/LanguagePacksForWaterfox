@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Datumoj de telemezuro
 about-telemetry-current-store = Nuna konservejo:
 about-telemetry-more-information = Ĉu vi serĉas pli da informo?
-about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">dokumentaro pri datumoj de Firefox</a> enhavas gvidilojn pri la maniero labori per niaj datumaj iloj.
-about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">dokumentaro pri klientoj de Telemezuro de Firefox</a> enhavas difinojn por konceptoj, dokumentaron de API kaj datumaj referencoj.
-about-telemetry-telemetry-dashboard = La <a data-l10n-name="dashboard-link">paneloj de Telemezuro</a> permesas al vi vidi la datumojn, kiujn Mozilla ricevas pere de Telemezuro.
+about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">dokumentaro pri datumoj de Waterfox</a> enhavas gvidilojn pri la maniero labori per niaj datumaj iloj.
+about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">dokumentaro pri klientoj de Telemezuro de Waterfox</a> enhavas difinojn por konceptoj, dokumentaron de API kaj datumaj referencoj.
+about-telemetry-telemetry-dashboard = La <a data-l10n-name="dashboard-link">paneloj de Telemezuro</a> permesas al vi vidi la datumojn, kiujn Waterfox ricevas pere de Telemezuro.
 about-telemetry-telemetry-probe-dictionary = La <a data-l10n-name="probe-dictionary-link">sonda vortaro</a> provizas detalojn kaj priskribojn de la sondiloj uzataj de Telemezuro.
 about-telemetry-show-in-Firefox-json-viewer = Malfermi per la vidigilo de JSON
 about-telemetry-home-section = Komenco
@@ -68,7 +68,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } specimenoj, mezumo = { $prettyAverage }, sumo = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Tiu ĉi paĝo montras informon pri efikeco, aparataro, uzado kaj personaj agordoj kolektitaj de Telemetry. Tiu ĉi informo estos sendita al { $telemetryServerOwner } por helpi plibonigi { -brand-full-name }.
 about-telemetry-settings-explanation = Telemezuro kolektas nun { about-telemetry-data-type } kaj la alŝuto estas <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -140,8 +140,8 @@ about-telemetry-origin-section = Telemezuro origina
 about-telemetry-origin-origin = origino
 about-telemetry-origin-count = nombro
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> kodigas la datumojn antaŭ ol sendi ilin, tiel ke { $telemetryServerOwner } povas kalkuli ilin, sed ne scii ĉu iu { -brand-product-name } kontribuis al tiu kalkulo. (<a data-l10n-name="prio-blog-link">pli da informo</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfox Origin Telemetry</a> kodigas la datumojn antaŭ ol sendi ilin, tiel ke { $telemetryServerOwner } povas kalkuli ilin, sed ne scii ĉu iu { -brand-product-name } kontribuis al tiu kalkulo. (<a data-l10n-name="prio-blog-link">pli da informo</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } procezo

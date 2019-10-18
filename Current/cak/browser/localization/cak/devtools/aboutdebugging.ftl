@@ -16,10 +16,10 @@ about-debugging-page-title-runtime-page = Chojmirisaxïk - Ruq'ijul samaj / { $s
 
 # Sidebar strings
 
-# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Display name of the runtime for the currently running instance of Waterfox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = Re { -brand-shorter-name } re'
-# Sidebar heading for selecting the currently running instance of Firefox
+# Sidebar heading for selecting the currently running instance of Waterfox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
@@ -52,8 +52,8 @@ about-debugging-sidebar-item-connect-button-connection-timeout = Xk'is ri okem
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Xokisäx
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
-# Firefox) has not been detected yet. Typically, Android phones connected via USB with
-# USB debugging enabled, but where Firefox is not started.
+# Waterfox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Waterfox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Noyob'ëx ri okik'amaya'l...
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
@@ -85,7 +85,7 @@ about-debugging-setup-intro = Tanuk'samajij rub'eyal ri okem achoq ik'in nachojm
 # Link displayed in the Setup page that leads to MDN page with list of supported devices.
 # Temporarily leads to https://support.mozilla.org/en-US/kb/will-firefox-work-my-mobile-device#w_android-devices
 about-debugging-setup-link-android-devices = Rutz'etik kicholajil Android okisab'äl kik'amon ki'
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
+# Explanatory text in the Setup page about what the 'This Waterfox' page is for
 about-debugging-setup-this-firefox = Tokisäx <a>{ about-debugging-this-firefox-runtime-name }</a> richin yechojmirisäx taq ruwi', taq k'amal chuqa' service taq worker pa re ruwäch { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Tokisäx jun Okisab'äl
@@ -110,13 +110,13 @@ about-debugging-setup-usb-step-enable-dev-menu = Titzij ri ruk'utsamaj B'anonel 
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug = Titzij USB Chojmirisanem pa ri Ruk'utsamaj Rub'anonel Android. <a>Tetamäx rub'eyal</a>
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox = Titzij USB Chojmirisanem pa Firefox pa ri Android awokisab'al. <a>Tetamäx rub'eyal</a>
+about-debugging-setup-usb-step-enable-debug-firefox = Titzij USB Chojmirisanem pa Waterfox pa ri Android awokisab'al. <a>Tetamäx rub'eyal</a>
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Titzij ruk'utsamaj B'anonel pan Android awoyonib'al.
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Titzij USB Chojmirisanel pa ri Ruk'utsamaj Android B'anonel.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Titzij USB Chojmirisanem pa Firefox pa ri Android okisab'äl.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Titzij USB Chojmirisanem pa Waterfox pa ri Android okisab'äl.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Tokisäx ri Adroid okisab'äl pan akematz'ib'.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
@@ -153,7 +153,7 @@ about-debugging-network-location-form-duplicate = Ri ruk'u'x samaj “{ $host-va
 
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
-# Title of the temporary extensions category (only available for "This Firefox" runtime).
+# Title of the temporary extensions category (only available for "This Waterfox" runtime).
 about-debugging-runtime-temporary-extensions =
     .name = Jumej K'amal
 # Title of the extensions category.
@@ -184,7 +184,7 @@ about-debugging-runtime-service-workers-not-compatible = Ri runuk'ulem awokik'am
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+# { $minVersion } is the minimum version that is compatible with the current Waterfox instance (same format)
 about-debugging-browser-version-too-old = Ri ruq'ijul samaj okisan ojer rub'anikil ({ $runtimeVersion }). Ri ko'öl ruwäch nuk'äm ri' ja ri ({ $minVersion }). Rere' jun man nuk'äm ta ri' chi nuk'ulem ri nitikïr nub'än chi nisach ri DevTools. Tak'exa' ri ruq'ijul samaj okisan. <a>Kisolik taq k'ayewal</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
@@ -192,16 +192,16 @@ about-debugging-browser-version-too-old = Ri ruq'ijul samaj okisan ojer rub'anik
 # Those are normally in range for DevTools compatibility policy, but specific non
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-about-debugging-browser-version-too-old-67-debugger = Rik'in jub'a' man nisamäj ta ri ruchojmirisanel pas rik'in ri okik'amaya'l okisan. Tawokisaj Firefox { $runtimeVersion } we nawajo' nawokisaj ri chojmirisanel rik'in re okik'amaya'l re'.
+about-debugging-browser-version-too-old-67-debugger = Rik'in jub'a' man nisamäj ta ri ruchojmirisanel pas rik'in ri okik'amaya'l okisan. Tawokisaj Waterfox { $runtimeVersion } we nawajo' nawokisaj ri chojmirisanel rik'in re okik'amaya'l re'.
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
-# { $localID } is the build ID of the current Firefox instance (same format)
+# { $localID } is the build ID of the current Waterfox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Ri ruq'ijul samaj okisan yalan k'ak'a' ({ $runtimeVersion }, buildID { $runtimeID }) chuwäch ri { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Re re' jun man k'amonel ta chi nuk'ulem ri nitikïr nub'än chi nisach ri DevTools. Tak'exa' ri Firefox. <a>Kisolik taq k'ayewal</a>
+about-debugging-browser-version-too-recent = Ri ruq'ijul samaj okisan yalan k'ak'a' ({ $runtimeVersion }, buildID { $runtimeID }) chuwäch ri { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Re re' jun man k'amonel ta chi nuk'ulem ri nitikïr nub'än chi nisach ri DevTools. Tak'exa' ri Waterfox. <a>Kisolik taq k'ayewal</a>
 # Displayed for runtime info in runtime pages.
-# { $name } is brand name such as "Firefox Nightly"
+# { $name } is brand name such as "Waterfox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
@@ -215,7 +215,7 @@ about-debugging-connection-prompt-enable-button = Titzij ri tz'etöy okem
 about-debugging-connection-prompt-disable-button = Tichup ri tz'etöy okem
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = B'i'aj wachib'äl
-# Label of a checkbox displayed in the runtime page for "This Firefox".
+# Label of a checkbox displayed in the runtime page for "This Waterfox".
 # This checkbox will toggle preferences that enable local addon debugging.
 # The "Learn more" link points to MDN.
 # https://developer.mozilla.org/docs/Tools/about:debugging#Enabling_add-on_debugging
@@ -234,15 +234,15 @@ about-debugging-debug-target-list-empty = K'a majun.
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = Tinik'öx
-# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# Text of a button displayed in the "This Waterfox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Tisamajib'ëx Jumej Tz'aqat…
-# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+# Text displayed when trying to install a temporary extension in the "This Waterfox" page.
 about-debugging-tmp-extension-install-error = Xwachin jun sachoj toq niyak ri jumej tz'aqat.
-# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Text of a button displayed for a temporary extension loaded in the "This Waterfox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Tisamajib'ëx chik
-# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Text of a button displayed for a temporary extension loaded in the "This Waterfox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Tiyuj
 # Message displayed in the file picker that opens to select a temporary extension to load

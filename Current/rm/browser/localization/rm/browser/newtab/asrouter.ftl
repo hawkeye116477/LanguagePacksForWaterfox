@@ -54,6 +54,6 @@ cfr-doorhanger-pintab-step3 = Sche la pagina è vegnida actualisada vesas ti in 
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Cuntinuar
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronisescha tes segnapaginas dapertut.

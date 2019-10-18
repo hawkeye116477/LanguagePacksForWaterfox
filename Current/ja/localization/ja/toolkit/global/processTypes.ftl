@@ -14,7 +14,7 @@ process-type-privilegedabout = 特権 About ページ
 
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = 特権 Mozilla コンテンツ
+process-type-privilegedmozilla = 特権 Waterfox コンテンツ
 
 process-type-extension = 拡張機能
 

@@ -189,7 +189,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Shtoni Përjashtim…">
 <!ENTITY securityOverride.exceptionButton1Label "Pranoje Rrezikun dhe Vazhdo">
 
-<!ENTITY errorReporting.automatic2 "Raportoni gabime si ky, që të ndihmoni Mozilla-n të identifikojë dhe bllokojë sajte dashakeqë">
+<!ENTITY errorReporting.automatic2 "Raportoni gabime si ky, që të ndihmoni Waterfox-n të identifikojë dhe bllokojë sajte dashakeqë">
 <!ENTITY errorReporting.learnMore "Mësoni më tepër…">
 
 <!ENTITY remoteXUL.title "XUL i Largët">

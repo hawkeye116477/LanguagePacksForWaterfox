@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-lv@firefox.mozilla.org", 
+      "id": "langpack-lv@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Raivis Dejus, Viesturs Zariņš, Pēteris Krišjānis, Citi palīgi)", 
-  "description": "Language pack for Firefox for lv"
+  "description": "Language pack for Waterfox Current for lv"
 }

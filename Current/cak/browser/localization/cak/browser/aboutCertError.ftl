@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } nrokisaj jun jikomal ruwujil b'i'aj, ri man okel ta.
 cert-error-mitm-intro = Ri ajk'amaya'l ruxaq nikik'üt kib'anikil rik'in iqitzijib'äl, ri e'elesan pe kuma molaj taq iqitzijib'äl.
-cert-error-mitm-mozilla = { -brand-short-name } ütz tz'eton ruma Mozilla, jun molaj majun ch'akuj rojqan yerunuk'samajij jun nojinäq chi jay taq molaj iqitzijib'äl (CA) ri e jaqel. Ri kik'ayij CA nito'on chi ri kik'amol taq b'ey iqitzijib'äl tikojqaj ri jeb'ël samaj richin kichajixik ri okisanela'.
-cert-error-mitm-connection = { -brand-short-name } nrokisaj ri ruyakb'al Mozilla CA richin ninik'öx chi jikïl ri okem, pa ruk'exel ri iqitzijib'äl ya'on ruma ri ruq'inoj samajel okisanel. Ruma ri', we jun antivirus o jun k'amb'ey nrojqaj jun okem rik'in jun riqitzijib'al jikomal elesan ruma ri CA, ri man k'o ta ri ruyakb'al CA richin Mozilla xtitz'et chi itzel el okem ri'.
+cert-error-mitm-mozilla = { -brand-short-name } ütz tz'eton ruma Waterfox, jun molaj majun ch'akuj rojqan yerunuk'samajij jun nojinäq chi jay taq molaj iqitzijib'äl (CA) ri e jaqel. Ri kik'ayij CA nito'on chi ri kik'amol taq b'ey iqitzijib'äl tikojqaj ri jeb'ël samaj richin kichajixik ri okisanela'.
+cert-error-mitm-connection = { -brand-short-name } nrokisaj ri ruyakb'al Waterfox CA richin ninik'öx chi jikïl ri okem, pa ruk'exel ri iqitzijib'äl ya'on ruma ri ruq'inoj samajel okisanel. Ruma ri', we jun antivirus o jun k'amb'ey nrojqaj jun okem rik'in jun riqitzijib'al jikomal elesan ruma ri CA, ri man k'o ta ri ruyakb'al CA richin Waterfox xtitz'et chi itzel el okem ri'.
 cert-error-trust-unknown-issuer-intro = Rik'in jub'a' k'o noxk'ob'en ri ruxaq ruma ri' man ta nasamajij chik qa.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

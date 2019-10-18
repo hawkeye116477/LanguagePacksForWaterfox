@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Alat Pengembang Firefox dapat mendebug perangkat jarak jauh (misalnya Firefox untuk Android dan Firefox OS). Pastikan opsi 'Debug jarak jauh' telah diaktifkan pada perangkat yang terpisah. Untuk informasi lebih lanjut, baca ">
+<!ENTITY remoteHelp "Alat Pengembang Waterfox dapat mendebug perangkat jarak jauh (misalnya Waterfox untuk Android dan Waterfox OS). Pastikan opsi 'Debug jarak jauh' telah diaktifkan pada perangkat yang terpisah. Untuk informasi lebih lanjut, baca ">
 <!ENTITY remoteDocumentation "dokumentasi">
 <!ENTITY remoteHelpSuffix ".">
 

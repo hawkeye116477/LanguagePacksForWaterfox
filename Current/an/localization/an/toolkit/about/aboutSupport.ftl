@@ -48,7 +48,7 @@ app-basics-multi-process-support = Finestras multiproceso
 app-basics-process-count = Procesos de conteniu web
 app-basics-enterprise-policies = Politicas d'interpresa
 app-basics-key-google = Google Key
-app-basics-key-mozilla = Clau d'o servicio de plazamiento de Mozilla
+app-basics-key-mozilla = Clau d'o servicio de plazamiento de Waterfox
 app-basics-safe-mode = Modo seguro
 show-dir-label =
     { PLATFORM() ->

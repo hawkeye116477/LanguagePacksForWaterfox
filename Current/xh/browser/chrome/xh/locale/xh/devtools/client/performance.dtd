@@ -18,12 +18,12 @@
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
 
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Idatha yokurekhoda yexesha lokwenene iyekisiwe kwiFirefox eneeprosesi ezininzi.">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Idatha yokurekhoda yexesha lokwenene iyekisiwe kwiWaterfox eneeprosesi ezininzi.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+  -  when running on a build that can run multiprocess Waterfox, but just is not enabled. -->
 
-<!ENTITY performanceUI.disabledRealTime.disabledE10S "Vumela inkqubo exananazileyo yeFirefox kwiiprefrensi ukuba irekhode idatha ngexesha lokwenene.">
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Vumela inkqubo exananazileyo yeWaterfox kwiiprefrensi ukuba irekhode idatha ngexesha lokwenene.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 

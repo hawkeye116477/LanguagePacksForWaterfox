@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-gn@firefox.mozilla.org", 
+      "id": "langpack-gn@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "mozilla.org (contributors: Mozilla Paraguay)", 
-  "description": "Language pack for Firefox for gn"
+  "author": "mozilla.org (contributors: Waterfox Paraguay)", 
+  "description": "Language pack for Waterfox Current for gn"
 }

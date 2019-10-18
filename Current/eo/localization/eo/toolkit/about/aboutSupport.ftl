@@ -61,7 +61,7 @@ app-basics-remote-processes-count = Foraj procezoj
 app-basics-enterprise-policies = Kompaniaj politikoj
 app-basics-location-service-key-google = Ŝlosilo de la pozicia servo de Google
 app-basics-safebrowsing-key-google = Ŝlosilo de Google Safebrowsing
-app-basics-key-mozilla = Ŝlosilo de la servo de pozicio de Mozilla
+app-basics-key-mozilla = Ŝlosilo de la servo de pozicio de Waterfox
 app-basics-safe-mode = Sekura reĝimo
 show-dir-label =
     { PLATFORM() ->

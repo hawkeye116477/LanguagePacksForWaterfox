@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetri Verileri
 about-telemetry-current-store = Geçerli depo:
 about-telemetry-more-information = Daha fazla bilgi almak mı istiyorsunuz?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Veri Belgeleri</a>, veri araçlarlarımızla nasıl çalışabileceğinize dair rehberleri içerir.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetri istemcisi belgeleri</a> kavram tanımlarını, API belgelerini ve veri referanslarını içerir.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetri panoları</a> Mozilla'nın Telemetri aracılığıyla aldığı verileri görselleştirmenize olanak tanır.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox Veri Belgeleri</a>, veri araçlarlarımızla nasıl çalışabileceğinize dair rehberleri içerir.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox Telemetri istemcisi belgeleri</a> kavram tanımlarını, API belgelerini ve veri referanslarını içerir.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetri panoları</a> Waterfox'nın Telemetri aracılığıyla aldığı verileri görselleştirmenize olanak tanır.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Sonda sözlüğü</a> Telemetri’nin topladığı sondalarla ilgili ayrıntıları ve açıklamaları içerir.
 about-telemetry-show-in-Firefox-json-viewer = JSON görüntüleyicide aç
 about-telemetry-home-section = Ana Sayfa
@@ -68,7 +68,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } örnek, ortalama = { $prettyAverage }, toplam = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Bu sayfa; Telemetri tarafından toplanan performans, donanım, kullanım ve özelleştirme bilgilerini gösterir. Bu bilgiler { -brand-full-name } tarayıcısının gelişimine yardımcı olmaları için { $telemetryServerOwner } sunucularına gönderilir.
 about-telemetry-settings-explanation = Telemetri { about-telemetry-data-type } topluyor ve veri gönderimi <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -140,8 +140,8 @@ about-telemetry-origin-section = Köken Telemetrisi
 about-telemetry-origin-origin = köken
 about-telemetry-origin-count = sayaç
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Köken Telemetrisi</a> verileri göndermeden öne şifreler. Böylece { $telemetryServerOwner } bazı şeyleri sayabilir ama hangi { -brand-product-name } tarayıcılarının bu sayıma dahil olduğunu bilemez. (<a data-l10n-name="prio-blog-link">Daha fazla bilgi alın</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfox Köken Telemetrisi</a> verileri göndermeden öne şifreler. Böylece { $telemetryServerOwner } bazı şeyleri sayabilir ama hangi { -brand-product-name } tarayıcılarının bu sayıma dahil olduğunu bilemez. (<a data-l10n-name="prio-blog-link">Daha fazla bilgi alın</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } işlemi

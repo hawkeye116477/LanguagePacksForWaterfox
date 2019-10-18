@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -24,8 +24,8 @@ policy-DisableBuiltinPDFViewer = Desactiva PDF.js, lo visionador integrat de PDF
 policy-DisableDeveloperTools = Blòca l’accès a las aisinas de desvolopament.
 policy-DisableFeedbackCommands = Desactiva las comandas que permeton de mandar de comentaris dins lo menú d’ajuda (Donar vòstre vejaire e senhalar un site enganaire)
 policy-DisableFirefoxAccounts = Desactiva los servicis basats sus { -fxaccount-brand-name }, e tanben Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Desactivar la foncionalitat de presa de capture Firefox Screenshots.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Desactivar la foncionalitat de presa de capture Waterfox Screenshots.
 policy-DisableFirefoxStudies = Empacha { -brand-short-name } d’executar d’estudis.
 policy-DisableForgetButton = Empacha l’accès al boton d’escafament de las donadas.
 policy-DisableFormHistory = Conservar pas d’istoric de las recèrcas e dels formularis.

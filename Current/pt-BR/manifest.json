@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-pt-BR@firefox.mozilla.org", 
+      "id": "langpack-pt-BR@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Fernando Pereira Silveira, Jefferson Hultmann, Marco Aurélio Krause, Reuben Morais)", 
-  "description": "Language pack for Firefox for pt-BR"
+  "description": "Language pack for Waterfox Current for pt-BR"
 }

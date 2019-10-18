@@ -103,7 +103,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adhibir una excepción…">
 
-<!ENTITY errorReporting.automatic2 "Informa d'errors como iste pa aduyar a Mozilla a identificar y blocar puestos dolents.">
+<!ENTITY errorReporting.automatic2 "Informa d'errors como iste pa aduyar a Waterfox a identificar y blocar puestos dolents.">
 <!ENTITY errorReporting.learnMore "Saber-ne mas…">
 
 <!ENTITY remoteXUL.title "XUL remoto">

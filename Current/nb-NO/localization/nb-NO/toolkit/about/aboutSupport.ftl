@@ -61,7 +61,7 @@ app-basics-remote-processes-count = Fjernprosesser
 app-basics-enterprise-policies = Virksomhets-policy
 app-basics-location-service-key-google = Google Location Service-nøkkel
 app-basics-safebrowsing-key-google = Google Safebrowsing-nøkkel
-app-basics-key-mozilla = Mozilla Location Service-nøkkel
+app-basics-key-mozilla = Waterfox Location Service-nøkkel
 app-basics-safe-mode = Sikker modus
 show-dir-label =
     { PLATFORM() ->

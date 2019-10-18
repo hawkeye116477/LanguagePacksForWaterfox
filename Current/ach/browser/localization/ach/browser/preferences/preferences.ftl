@@ -46,8 +46,8 @@ category-search =
 pane-privacy-title = Mung ki Ber bedo
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Akaunt me Firefox
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Akaunt me Waterfox
 category-sync =
     .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
@@ -120,10 +120,10 @@ search-results-help-link = Imito kony? Lim <a data-l10n-name="url">Kony pa { -br
 ## General Section
 
 startup-header = Caki
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Ye { -brand-short-name } ki Firefox me tic lawang acel
+    .label = Ye { -brand-short-name } ki Waterfox me tic lawang acel
 use-firefox-sync = Ngec: Man tiyo ki propwail ma patpat. Tii ki { -sync-brand-short-name } me nywako data ikin gi.
 get-started-not-logged-in = Dony iyie me { -sync-brand-short-name }…
 get-started-configured = Yab ter me { -sync-brand-short-name }
@@ -339,10 +339,10 @@ home-newtabs-mode-label = Dirica matino manyen
 home-restore-defaults =
     .label = Dwok makwongo
     .accesskey = D
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Acakki me Firefox (Makwongo)
+    .label = Acakki me Waterfox (Makwongo)
 home-mode-choice-blank =
     .label = Potbuk ma nono
 home-homepage-custom-url =
@@ -436,7 +436,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Gam Firefox pi <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> onyo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> me ribo ki nyonyo mamegi me cing.
+sync-mobile-promo = Gam Waterfox pi <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> onyo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> me ribo ki nyonyo mamegi me cing.
 
 ## Sync Section - Signed in
 
@@ -484,7 +484,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Med-ikome
-    .tooltiptext = Lamed ki theme pi Firefox desktop
+    .tooltiptext = Lamed ki theme pi Waterfox desktop
     .accesskey = M
 sync-engine-prefs =
     .label =
@@ -541,12 +541,12 @@ history-header = Gin mukato
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } obi
     .accesskey = o
 history-remember-option-all =

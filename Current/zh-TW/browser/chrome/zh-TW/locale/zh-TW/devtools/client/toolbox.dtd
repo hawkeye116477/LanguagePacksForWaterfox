@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "啟用遠端除錯">
-<!ENTITY options.enableRemote.tooltip2  "開啟此選項將允許開發者工具對遠端實例，例如 Firefox OS 除錯">
+<!ENTITY options.enableRemote.tooltip2  "開啟此選項將允許開發者工具對遠端實例，例如 Waterfox OS 除錯">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

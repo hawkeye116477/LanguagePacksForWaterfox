@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncBrand.shortName.label  "Synchronizacja">
-<!ENTITY syncBrand.fullName.label   "Synchronizacja Firefoksa">
-<!ENTITY syncBrand.fxAccount.label  "Konto Firefoksa">
+<!ENTITY syncBrand.fullName.label   "Synchronizacja Waterfoksa">
+<!ENTITY syncBrand.fxAccount.label  "Konto Waterfoksa">

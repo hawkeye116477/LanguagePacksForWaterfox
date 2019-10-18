@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-pl@firefox.mozilla.org", 
+      "id": "langpack-pl@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Aviary.pl (contributors: Aviary.pl, Zbigniew Braniecki, Marek Stępień, Piotr Komoda, Marek Wawoczny, Piotr Bartecki, Kornel Misiejuk, Wadim Dziedzic, Stefan Plewako)", 
-  "description": "Language pack for Firefox for pl"
+  "description": "Language pack for Waterfox Current for pl"
 }

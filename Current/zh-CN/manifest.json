@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-zh-CN@firefox.mozilla.org", 
+      "id": "langpack-zh-CN@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Mozest (contributors: Wen Shaohua, Jin Jian, Rongjun Mu, Xie Yanbo, Cathayan, YFdyh000, xcffl, Shen Hao, Liu Xing)", 
-  "description": "Language pack for Firefox for zh-CN"
+  "description": "Language pack for Waterfox Current for zh-CN"
 }

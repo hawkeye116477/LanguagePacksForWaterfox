@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Firefox Tərtibatçı Alətləri uzaq cihazları sazlaya bilər (məsələn Android üçün Firefox, Firefox  OS). Uzaq cihazda ‘Uzaqdan sazlama’ seçimini açdığınıza əmin olun. Ətraflı məlumat üçün ">
+<!ENTITY remoteHelp "Waterfox Tərtibatçı Alətləri uzaq cihazları sazlaya bilər (məsələn Android üçün Waterfox, Waterfox  OS). Uzaq cihazda ‘Uzaqdan sazlama’ seçimini açdığınıza əmin olun. Ətraflı məlumat üçün ">
 <!ENTITY remoteDocumentation "sənədə">
 <!ENTITY remoteHelpSuffix " baxın.">
 

@@ -140,10 +140,10 @@ search-results-help-link = 助けが必要な方は、<a data-l10n-name="url">{ 
 
 startup-header = 起動
 
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name } と Firefox の同時起動を許可する
+    .label = { -brand-short-name } と Waterfox の同時起動を許可する
 use-firefox-sync = ヒント: これは別のプロファイルを使用します。データを共有するには { -sync-brand-short-name } を使用してください。
 get-started-not-logged-in = { -sync-brand-short-name } にログインする...
 get-started-configured = { -sync-brand-short-name } 設定を開く
@@ -468,10 +468,10 @@ home-restore-defaults =
     .label = 既定値に戻す
     .accesskey = R
 
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox ホーム (既定)
+    .label = Waterfox ホーム (既定)
 
 home-mode-choice-custom =
     .label = カスタム URL...
@@ -588,7 +588,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> または <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> をダウンロードしてモバイル端末と同期しましょう。
+sync-mobile-promo = Waterfox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> または <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> をダウンロードしてモバイル端末と同期しましょう。
 
 ## Sync Section - Signed in
 
@@ -650,7 +650,7 @@ sync-engine-creditcards =
 
 sync-engine-addons =
     .label = アドオン
-    .tooltiptext = デスクトップ版 Firefox の拡張機能とテーマです
+    .tooltiptext = デスクトップ版 Waterfox の拡張機能とテーマです
     .accesskey = A
 
 sync-engine-prefs =
@@ -716,12 +716,12 @@ history-header = 履歴
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } に
     .accesskey = w
 

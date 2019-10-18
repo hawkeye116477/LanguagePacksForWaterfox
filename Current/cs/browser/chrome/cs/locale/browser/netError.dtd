@@ -200,7 +200,7 @@ za chvíli.</li>
 
 <!ENTITY securityOverride.exceptionButton1Label "Beru na vědomí a chci pokračovat">
 
-<!ENTITY errorReporting.automatic2 "Hlásit chyby jako je tato a pomoci tak organizaci Mozilla identifikovat a blokovat škodlivé stránky">
+<!ENTITY errorReporting.automatic2 "Hlásit chyby jako je tato a pomoci tak organizaci Waterfox identifikovat a blokovat škodlivé stránky">
 <!ENTITY errorReporting.learnMore "Zjistit více…">
 
 <!ENTITY remoteXUL.title "Vzdálené XUL">

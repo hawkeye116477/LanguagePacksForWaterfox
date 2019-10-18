@@ -16,9 +16,9 @@ about-telemetry-previous-ping = < <
 about-telemetry-next-ping = > >
 about-telemetry-page-title = Keɓe Telemeetiri
 about-telemetry-more-information = Aɗa yiyloo kabaruuji goɗɗi?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> ina waɗi dabi kollirooji no kuutorɗe keɓe amen ngollortee.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Data Documentation</a> ina waɗi firooji miijanɗe, duttorɗe e keɓe API tuugorɗe.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry dashboards</a> ina addan maa waawde hollirde keɓe Mozilla heɓri Telemetry.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox Data Documentation</a> ina waɗi dabi kollirooji no kuutorɗe keɓe amen ngollortee.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox Data Documentation</a> ina waɗi firooji miijanɗe, duttorɗe e keɓe API tuugorɗe.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry dashboards</a> ina addan maa waawde hollirde keɓe Waterfox heɓri Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Uddit kolliroowel nder JSON
 about-telemetry-home-section = Jaɓɓorgo
 about-telemetry-general-data-section = Keɓe Kuuɓal
@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] ñifaa
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Ngoo hello hollata ko humpito baɗte moƴƴugol, masiŋeeri, kuutorgol e keertine ngo Telemeetiri roɓindii. Ngoon humpito naatnoytee ko to { $telemetryServerOwner } ngam wallude ƴellitede { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetiri ndii woni ko e roɓindaade { about-telemetry-data-type } e gawtagol ngol ko <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

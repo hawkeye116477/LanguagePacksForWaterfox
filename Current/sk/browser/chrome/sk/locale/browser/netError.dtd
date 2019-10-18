@@ -194,7 +194,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Pridať výnimku…">
 <!ENTITY securityOverride.exceptionButton1Label "Rozumiem riziku a chcem pokračovať">
 
-<!ENTITY errorReporting.automatic2 "Hlásiť chyby ako je táto a pomôcť tým organizácii Mozilla identifikovať a blokovať škodlivé stránky">
+<!ENTITY errorReporting.automatic2 "Hlásiť chyby ako je táto a pomôcť tým organizácii Waterfox identifikovať a blokovať škodlivé stránky">
 <!ENTITY errorReporting.learnMore "Ďalšie informácie…">
 
 <!ENTITY remoteXUL.title "Vzdialené XUL">

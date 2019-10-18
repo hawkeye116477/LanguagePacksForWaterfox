@@ -136,7 +136,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "İstisnalıq ver…">
 <!ENTITY securityOverride.exceptionButton1Label "Riski qəbul et və davam et">
 
-<!ENTITY errorReporting.automatic2 "Bu kimi xətaları Mozillaya xəbər edərək təhlükəli saytları təyin edib bloklamaya kömək edə bilərsiz.">
+<!ENTITY errorReporting.automatic2 "Bu kimi xətaları Waterfoxya xəbər edərək təhlükəli saytları təyin edib bloklamaya kömək edə bilərsiz.">
 <!ENTITY errorReporting.learnMore "Ətraflı öyrən…">
 
 <!ENTITY remoteXUL.title "Uzaq XUL">

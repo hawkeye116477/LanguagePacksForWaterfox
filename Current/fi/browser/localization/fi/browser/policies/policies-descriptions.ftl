@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = Poista käytöstä PDF.js, { -brand-short-name 
 policy-DisableDeveloperTools = Estä pääsy web-työkaluihin.
 policy-DisableFeedbackCommands = Estä komennot, joilla voi antaa palautetta Ohje-valikosta (Anna palautetta ja Ilmoita petollinen sivusto).
 policy-DisableFirefoxAccounts = Poista käytöstä { -fxaccount-brand-name }-pohjaiset palvelut, mukaan lukien Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Poista Firefox Screenshots -ominaisuus käytöstä.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Poista Waterfox Screenshots -ominaisuus käytöstä.
 policy-DisableFirefoxStudies = Estä { -brand-short-name } suorittamasta tutkimuksia.
 policy-DisableForgetButton = Estä pääsy Unohda-painikkeeseen.
 policy-DisableFormHistory = Älä tallenna haku- ja lomakehistoriaa.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Ota käyttöön tai poista käytöstä sisäll
 policy-Extensions = Asenna, poista tai lukitse laajennuksia. Asennusasetus ottaa parametreiksi URL-osoitteita tai polkuja. Poisto- ja lukitsemisasetukset ottavat parametreiksi laajennusten ID:itä.
 policy-ExtensionSettings = Hallitse kaikkia laajennusten asennukseen liittyviä asioita.
 policy-ExtensionUpdate = Ota käyttöön tai poista käytöstä laajennusten automaattipäivitykset.
-policy-FirefoxHome = Muokkaa Firefoxin aloitussivun asetuksia.
+policy-FirefoxHome = Muokkaa Waterfoxin aloitussivun asetuksia.
 policy-FlashPlugin = Salli tai estä Flash-liitännäisen käyttö.
 policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.
 # “lock” means that the user won’t be able to change this setting

@@ -58,7 +58,7 @@ cfr-doorhanger-pintab-step3 = Jeli sydło ma aktualizaciju, budźeće módry dyp
 cfr-doorhanger-pintab-animation-pause = Přestawka
 cfr-doorhanger-pintab-animation-resume = Pokročować
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizujće swoje zapołožki wšudźe.
 cfr-doorhanger-bookmark-fxa-body = Wulkotna namakanka! Njewostawajće bjez tuteje zapołožki na swojich mobilnych gratach. Započńće z { -fxaccount-brand-name }.

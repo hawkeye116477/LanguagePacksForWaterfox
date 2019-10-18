@@ -54,7 +54,7 @@ app-basics-remote-processes-count = Fjarvinnslur
 app-basics-enterprise-policies = Stefna fyrirtækisins
 app-basics-location-service-key-google = Google staðsetningarlykill
 app-basics-safebrowsing-key-google = Google lykill fyrir örugga vöfrun
-app-basics-key-mozilla = Mozilla Location Service lykill
+app-basics-key-mozilla = Waterfox Location Service lykill
 app-basics-safe-mode = Öryggishamur
 show-dir-label =
     { PLATFORM() ->

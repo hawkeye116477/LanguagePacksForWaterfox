@@ -64,7 +64,7 @@ app-basics-remote-processes-count = Oddaljeni procesi
 app-basics-enterprise-policies = Pravilniki za podjetja
 app-basics-location-service-key-google = Ključ lokacijskih storitev Google
 app-basics-safebrowsing-key-google = Ključ Google Safebrowsing
-app-basics-key-mozilla = Ključ lokacijskih storitev Mozilla
+app-basics-key-mozilla = Ključ lokacijskih storitev Waterfox
 app-basics-safe-mode = Varni način
 show-dir-label =
     { PLATFORM() ->

@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = 禁用 { -brand-short-name } 内置的 PDF 阅�
 policy-DisableDeveloperTools = 阻止访问开发者工具。
 policy-DisableFeedbackCommands = 禁用“帮助”菜单中的“发送反馈”命令（提交反馈和举报诈骗网站）。
 policy-DisableFirefoxAccounts = 禁用 { -fxaccount-brand-name }的基础服务，包含同步。
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = 禁用 Firefox Screenshots 功能。
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = 禁用 Waterfox Screenshots 功能。
 policy-DisableFirefoxStudies = 阻止 { -brand-short-name } 运行研究实验。
 policy-DisableForgetButton = 阻止使用“忘记”功能。
 policy-DisableFormHistory = 不要记住搜索和表单的历史记录。
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = 启用或禁用内容拦截，并可选择锁�
 policy-Extensions = 安装，移除或锁定扩展。安装选项可将网址或路径作为参数。移除和锁定选项则需要扩展 ID 作为参数。
 policy-ExtensionSettings = 管理扩展的各种安装设置。
 policy-ExtensionUpdate = 启用或禁用扩展自动更新。
-policy-FirefoxHome = 配置 Firefox 主页。
+policy-FirefoxHome = 配置 Waterfox 主页。
 policy-FlashPlugin = 允许或拒绝使用 Flash 插件。
 policy-HardwareAcceleration = 若为 false，将会关闭硬件加速。
 # “lock” means that the user won’t be able to change this setting

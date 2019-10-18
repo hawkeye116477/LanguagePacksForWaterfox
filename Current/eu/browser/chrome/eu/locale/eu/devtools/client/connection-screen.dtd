@@ -24,7 +24,7 @@
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
 
-<!ENTITY remoteHelp "Firefoxen garatzaile-tresnek urruneko gailuak araz ditzakete (Androiderako Firefox eta Firefox OS, adibidez). Ziurtatu 'Urruneko arazketa' aukera aktibatuta dagoela urruneko gailuan. Argibide gehiagorako, irakurri ">
+<!ENTITY remoteHelp "Waterfoxen garatzaile-tresnek urruneko gailuak araz ditzakete (Androiderako Waterfox eta Waterfox OS, adibidez). Ziurtatu 'Urruneko arazketa' aukera aktibatuta dagoela urruneko gailuan. Argibide gehiagorako, irakurri ">
 <!ENTITY remoteDocumentation "dokumentazioa">
 <!ENTITY remoteHelpSuffix ".">
 

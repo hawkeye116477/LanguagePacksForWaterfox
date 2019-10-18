@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = გაზომვების მონაცემები
 about-telemetry-current-store = მიმდინარე ოდენობა:
 about-telemetry-more-information = მეტ ინფორმაციას ეძებთ?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox-ის მონაცემთა მასალები</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox-გაზომვების კლიენტის მასალები</a> შეიცავს განმარტებებს, კონცეფციას, API-დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">გაზომვების გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox-ის მონაცემთა მასალები</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox-გაზომვების კლიენტის მასალები</a> შეიცავს განმარტებებს, კონცეფციას, API-დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">გაზომვების გვერდი</a>, Waterfox-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">კვლევის ლექსიკონში</a> მოცემულია დაწვრილებითი ინფორმაცია და აღწერილობა გაზომვებით ჩატარებული კვლევების.
 about-telemetry-show-in-Firefox-json-viewer = JSON მნახველში გახსნა
 about-telemetry-home-section = მთავარი
@@ -68,7 +68,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } სინჯი, საშუალო = { $prettyAverage }, ჯამი = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = ამ გვერდზე ნაჩვენებია გაზომვების მიერ შეგროვებული ინფორმაცია წარმადობის, აპარატურის, პროგრამის გამოყენებისა და შერჩეული პარამეტრების შესახებ, რომელიც იგზავნება { $telemetryServerOwner }-ში, რომ გავაუმჯობესოთ { -brand-full-name }.
 about-telemetry-settings-explanation = გაზომვებით აღირიცხება { about-telemetry-data-type }, რომელთა ატვირთვაც <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -140,8 +140,8 @@ about-telemetry-origin-section = წყაროს გაზომვები
 about-telemetry-origin-origin = წარმომავლობა
 about-telemetry-origin-count = რაოდენობა
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox-ის წყაროს გაზომვები</a> შიფრავს მონაცემებს გადაგზავნამდე, შესაბამისად { $telemetryServerOwner } შეძლებს მათ აღრიცხვას, თუმცა არ ეცოდინება რომელი { -brand-product-name } აწვდის საჭირო მონაცემებს. (<a data-l10n-name="prio-blog-link">ვრცლად</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfox-ის წყაროს გაზომვები</a> შიფრავს მონაცემებს გადაგზავნამდე, შესაბამისად { $telemetryServerOwner } შეძლებს მათ აღრიცხვას, თუმცა არ ეცოდინება რომელი { -brand-product-name } აწვდის საჭირო მონაცემებს. (<a data-l10n-name="prio-blog-link">ვრცლად</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } ამოცანა

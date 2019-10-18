@@ -143,7 +143,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
 <!ENTITY securityOverride.exceptionButton1Label "Продължаване въпреки риска">
 
-<!ENTITY errorReporting.automatic2 "Докладване на такива грешки, за да може Mozilla да идентифицира и ограничи злонамерени сайтове">
+<!ENTITY errorReporting.automatic2 "Докладване на такива грешки, за да може Waterfox да идентифицира и ограничи злонамерени сайтове">
 <!ENTITY errorReporting.learnMore "Научете повече…">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">

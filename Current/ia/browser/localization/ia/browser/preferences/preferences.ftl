@@ -118,10 +118,10 @@ search-results-help-link = Besonia tu de adjuta? Visita <a data-l10n-name="url">
 ## General Section
 
 startup-header = A initiar
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Permitter que { -brand-short-name } e Firefox exeque al mesme tempore
+    .label = Permitter que { -brand-short-name } e Waterfox exeque al mesme tempore
 use-firefox-sync = Consilio: Profilos distincte es utilisate. Usa { -sync-brand-short-name } pro compartir datos inter illos.
 get-started-not-logged-in = Connecter se a { -sync-brand-short-name }…
 get-started-configured = Aperir le preferentias de { -sync-brand-short-name }
@@ -373,10 +373,10 @@ home-newtabs-mode-label = Nove schedas
 home-restore-defaults =
     .label = Restaurar le predefinitiones
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Pagina initial (predefinite) de Firefox
+    .label = Pagina initial (predefinite) de Waterfox
 home-mode-choice-custom =
     .label = URLs personalisate...
 home-mode-choice-blank =
@@ -472,7 +472,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Discarga Firefox pro <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pro synchronisar te con tu apparato mobile.
+sync-mobile-promo = Discarga Waterfox pro <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pro synchronisar te con tu apparato mobile.
 
 ## Sync Section - Signed in
 
@@ -520,7 +520,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = Additivos
-    .tooltiptext = Extensiones e themas pro Firefox scriptorio
+    .tooltiptext = Extensiones e themas pro Waterfox scriptorio
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -575,12 +575,12 @@ history-header = Chronologia
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } debe
     .accesskey = d
 history-remember-option-all =

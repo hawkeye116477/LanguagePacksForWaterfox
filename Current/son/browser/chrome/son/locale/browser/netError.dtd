@@ -94,7 +94,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Hasaraw tonton…">
 
-<!ENTITY errorReporting.automatic2 "Firkawey bangandi ka Mozilla faaba ka dii nungu laaley nda k'i gagay">
+<!ENTITY errorReporting.automatic2 "Firkawey bangandi ka Waterfox faaba ka dii nungu laaley nda k'i gagay">
 <!ENTITY errorReporting.learnMore "Bay ka tonton…">
 
 <!ENTITY remoteXUL.title "XUL moora">

@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Taq rutzij Telemetry
 about-telemetry-current-store = K'ayb'äl Wakami:
 about-telemetry-more-information = ¿La nakanoj ch'aqa' chik etamab'äl?
-about-telemetry-firefox-data-doc = Ri <a data-l10n-name="data-doc-link">Firefox Tzij Wujunïk</a> k'o taq rucholajem samaj chupam, akuchi' nusik'ij rub'eyal yeqasamajij ri kisamajib'al qatzij.
-about-telemetry-telemetry-client-doc = Ri <a data-l10n-name="client-doc-link">Firefox Telemetry winäq wujib'äl</a> k'o taq kitzijol tzij chupam, API wujib'äl chuqa' ketal taq tzij.
-about-telemetry-telemetry-dashboard = Ri <a data-l10n-name="dashboard-link">Telemetry dashboards</a> nuya' q'ij chawe ye'atz'ët ri taq tzij yeruk'ül ri Mozilla ruma Telemetry.
+about-telemetry-firefox-data-doc = Ri <a data-l10n-name="data-doc-link">Waterfox Tzij Wujunïk</a> k'o taq rucholajem samaj chupam, akuchi' nusik'ij rub'eyal yeqasamajij ri kisamajib'al qatzij.
+about-telemetry-telemetry-client-doc = Ri <a data-l10n-name="client-doc-link">Waterfox Telemetry winäq wujib'äl</a> k'o taq kitzijol tzij chupam, API wujib'äl chuqa' ketal taq tzij.
+about-telemetry-telemetry-dashboard = Ri <a data-l10n-name="dashboard-link">Telemetry dashboards</a> nuya' q'ij chawe ye'atz'ët ri taq tzij yeruk'ül ri Waterfox ruma Telemetry.
 about-telemetry-telemetry-probe-dictionary = Ri <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> nuya' b'anikil chuqa' taq kitzijoxkil ojqanela' emolon ruma ri Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Tijaq pa JSON tz'etonel
 about-telemetry-home-section = Tikirib'äl
@@ -68,7 +68,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } taq tz'etb'äl, rukojol = { $prettyAverage }, tunuj = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Re ruxaq k'amaya'l re' nuk'utub'ej taq etamab'äl pa ruwi' ri rub'eyal nisamäj, ch'akulakem, rokisaxik chuqa' taq richinaxik emolon ruma ri Telemetry. Re etamab'äl re' nitaq pa { $telemetryServerOwner } richin nuto' rutzil ri { -brand-full-name }.
 about-telemetry-settings-explanation = Ri etataqonel tajin numöl { about-telemetry-data-type } chuqa' ri rusamajib'exik ja ri <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -140,5 +140,5 @@ about-telemetry-origin-section = Ruxe'el Telemetri
 about-telemetry-origin-origin = ruxe'el
 about-telemetry-origin-count = tajiläx
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetri</a> ke'awewaj kisik'ixik taq tzij chuwäch yetaq richin chi ri { $telemetryServerOwner } nitikïr yerajilaj taq wachinäq, po man etaman ta we k'o jun { -brand-product-name } ri xto'on pa ri ajilanem ri'. (<a data-l10n-name="prio-blog-link">Tetamäx ch'aqa' chik</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfox Origin Telemetri</a> ke'awewaj kisik'ixik taq tzij chuwäch yetaq richin chi ri { $telemetryServerOwner } nitikïr yerajilaj taq wachinäq, po man etaman ta we k'o jun { -brand-product-name } ri xto'on pa ri ajilanem ri'. (<a data-l10n-name="prio-blog-link">Tetamäx ch'aqa' chik</a>)

@@ -44,8 +44,8 @@ category-search =
 pane-privacy-title = ကိုယ်ရေးကာကွယ်မှု နှင့် လုံခြုံရေး
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox အကောင့်
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Waterfox အကောင့်
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } အထောက်အပံ့
@@ -110,10 +110,10 @@ search-results-help-link = အကူအညီ လိုပါသလား။ <a 
 ## General Section
 
 startup-header = စတင်ခြင်း
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name } နှင့် Firefox တို့ကို တစ်ချိန်တည်းတွင် လုပ်ငန်းဆောင်ရွက်ခွင့် ပြုပါ
+    .label = { -brand-short-name } နှင့် Waterfox တို့ကို တစ်ချိန်တည်းတွင် လုပ်ငန်းဆောင်ရွက်ခွင့် ပြုပါ
 use-firefox-sync = အရိပ်အမြွက်၊ မတူညီသည့် ပရိုဖိုင်းများကို အသုံးပြုပါသည်။ ထိုပရိုဖိုင်းများကြား အချက်အလက်မျှဝေရန် { -sync-brand-short-name } ကို အသုံးပြုပါ။
 get-started-not-logged-in = { -sync-brand-short-name } သို့ ဝင်ပါ…
 get-started-configured = { -sync-brand-short-name } ၏ အပြင်အဆင်များကို ဖွင့်ပါ
@@ -327,10 +327,10 @@ home-newtabs-mode-label = တပ်ဗ်အသစ်များ
 home-restore-defaults =
     .label = မူလအတိုင်း ပြန်ထားပါ
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox အဖွင့်စာမျက်နှာ (မူသေ)
+    .label = Waterfox အဖွင့်စာမျက်နှာ (မူသေ)
 home-mode-choice-custom =
     .label = စိတ်ကြိုက် URL များ...
 home-mode-choice-blank =
@@ -474,7 +474,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = အတ်အွန်များ
-    .tooltiptext = Firefox ဒက်စတော့အတွက် ပေါင်းထည့်ဆော့ဖ်ဝဲများနှင့် အခင်းအကျင်းများ
+    .tooltiptext = Waterfox ဒက်စတော့အတွက် ပေါင်းထည့်ဆော့ဖ်ဝဲများနှင့် အခင်းအကျင်းများ
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -531,12 +531,12 @@ history-header = မှတ်တမ်း
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } သည်
     .accesskey = w
 history-remember-option-all =

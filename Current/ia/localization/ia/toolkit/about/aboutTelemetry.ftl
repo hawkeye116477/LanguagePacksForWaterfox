@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Datos de telemetria
 about-telemetry-current-store = Archivo actual
 about-telemetry-more-information = Cerca tu plus informationes?
-about-telemetry-firefox-data-doc = Le <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> contine guidas re le uso de nostre instrumentos de dato.
-about-telemetry-telemetry-client-doc = Le <a data-l10n-name="client-doc-link">Firefox Telemetry client documentation</a> include definitiones pro conceptos, documentation re le API e referentias de datos.
-about-telemetry-telemetry-dashboard = Le <a data-l10n-name="dashboard-link">Telemetry dashboards</a> te permitte de visualisar le datos que Mozilla recipe via Telemetry.
+about-telemetry-firefox-data-doc = Le <a data-l10n-name="data-doc-link">Waterfox Data Documentation</a> contine guidas re le uso de nostre instrumentos de dato.
+about-telemetry-telemetry-client-doc = Le <a data-l10n-name="client-doc-link">Waterfox Telemetry client documentation</a> include definitiones pro conceptos, documentation re le API e referentias de datos.
+about-telemetry-telemetry-dashboard = Le <a data-l10n-name="dashboard-link">Telemetry dashboards</a> te permitte de visualisar le datos que Waterfox recipe via Telemetry.
 about-telemetry-telemetry-probe-dictionary = Le <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> forni detalios e descriptiones pro le sondas colligite per Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Aperir in le visor JSON
 about-telemetry-home-section = A casa
@@ -68,7 +68,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } specimens, media = { $prettyAverage }, total = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Iste pagina monstra le information sur rendimento, hardware, uso e personalisationes colligite per telemetria. Iste information es submittite a { $telemetryServerOwner } pro adjutar a meliorar { -brand-full-name }.
 about-telemetry-settings-explanation = Le telemetria collige { about-telemetry-data-type } e le invio es <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -140,8 +140,8 @@ about-telemetry-origin-section = Telemetria “Origin”
 about-telemetry-origin-origin = origine
 about-telemetry-origin-count = conto
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = Le <a data-l10n-name="origin-doc-link">Telemetria Origin de Firefox</a> codifica datos ante que illos es inviate, assi que { $telemetryServerOwner } pote contar le cosas, ma non sape si o non ulle date { -brand-product-name } collabora a ille conto. (<a data-l10n-name="prio-blog-link">saper plus</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = Le <a data-l10n-name="origin-doc-link">Telemetria Origin de Waterfox</a> codifica datos ante que illos es inviate, assi que { $telemetryServerOwner } pote contar le cosas, ma non sape si o non ulle date { -brand-product-name } collabora a ille conto. (<a data-l10n-name="prio-blog-link">saper plus</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Processo “{ $process }”

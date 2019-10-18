@@ -129,7 +129,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ એડ-ઓન">
 <!ENTITY securityOverride.exceptionButton1Label "જોખમ સ્વીકારો અને ચાલુ રાખો">
 
-<!ENTITY errorReporting.automatic2 "Mozilla ને દૂષિત સાઇટ્સ ઓળખવા અને બ્લૉક કરવા માટે આની જેવી ભૂલોની જાણ કરો">
+<!ENTITY errorReporting.automatic2 "Waterfox ને દૂષિત સાઇટ્સ ઓળખવા અને બ્લૉક કરવા માટે આની જેવી ભૂલોની જાણ કરો">
 <!ENTITY errorReporting.learnMore "વધુ શીખો…">
 
 <!ENTITY remoteXUL.title "દૂરસ્થ XUL">

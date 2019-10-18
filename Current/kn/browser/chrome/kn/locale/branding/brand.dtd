@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  brandShorterName      "Firefox">
-<!ENTITY  brandShortName        "Firefox">
-<!ENTITY  brandFullName         "Mozilla Firefox">
-<!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  trademarkInfo.part1   "Firefox ಹಾಗು Firefox ಲೋಗೊಗಳು Mozilla ಫೌಂಡೇಶನ್‌ನ ಟ್ರೇಡ್‌ಮಾರ್ಕುಗಳಾಗಿರುತ್ತವೆ.">
+<!ENTITY  brandShorterName      "Waterfox">
+<!ENTITY  brandShortName        "Waterfox">
+<!ENTITY  brandFullName         "Waterfox Current">
+<!ENTITY  vendorShortName       "Waterfox">
+<!ENTITY  trademarkInfo.part1   "Waterfox ಹಾಗು Waterfox ಲೋಗೊಗಳು Waterfox ಫೌಂಡೇಶನ್‌ನ ಟ್ರೇಡ್‌ಮಾರ್ಕುಗಳಾಗಿರುತ್ತವೆ.">
 
 <!-- LOCALIZATION NOTE (brandProductName):
    This brand name can be used in messages where the product name needs to
    remain unchanged across different versions (Nightly, Beta, etc.). -->
-<!ENTITY  brandProductName      "Firefox">
+<!ENTITY  brandProductName      "Waterfox">

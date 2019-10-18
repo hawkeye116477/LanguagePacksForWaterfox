@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-sr@firefox.mozilla.org", 
+      "id": "langpack-sr@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.rs (contributors: Вања Тумбас, Марко Андрејић, Никола Радовановић, Горан Ракић, Филип Милетић, Игор Милетић, Љубиша Радовановић, Иван Ичин, проф. др Драган Јанковић, проф. др Милорад Тошић, дипл. инж. Оливера Тошић, Бранимир Станковић, дипл. инж. Душан Вучковић, Владана Михајловић, Драган Митровић)", 
-  "description": "Language pack for Firefox for sr"
+  "description": "Language pack for Waterfox Current for sr"
 }

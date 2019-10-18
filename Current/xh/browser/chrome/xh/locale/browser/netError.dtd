@@ -92,7 +92,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Yongeza ieksepshini…">
 
-<!ENTITY errorReporting.automatic2 "Xela iimpazamo ezifana nale ukunceda uMozilla afumanise aze abhloke iisayithi eziyingozi">
+<!ENTITY errorReporting.automatic2 "Xela iimpazamo ezifana nale ukunceda uWaterfox afumanise aze abhloke iisayithi eziyingozi">
 <!ENTITY errorReporting.learnMore "Funda okungakumbi…">
 
 <!ENTITY remoteXUL.title "Susa i-XUL">

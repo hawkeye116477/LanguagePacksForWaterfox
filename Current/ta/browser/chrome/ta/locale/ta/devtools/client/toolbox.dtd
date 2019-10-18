@@ -82,7 +82,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "தொலைநிலை வழுநீக்கத்தை செயல்படுத்து">
-<!ENTITY options.enableRemote.tooltip2  "இந்த விருப்பத்தைச் செயற்படுத்தினால் உருவாக்குநர் கருவிகளால் Firefox OS போன்ற தொலைநிலை Firefox வடிவங்களை வழுநீக்க முடியும்">
+<!ENTITY options.enableRemote.tooltip2  "இந்த விருப்பத்தைச் செயற்படுத்தினால் உருவாக்குநர் கருவிகளால் Waterfox OS போன்ற தொலைநிலை Waterfox வடிவங்களை வழுநீக்க முடியும்">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

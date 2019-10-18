@@ -137,7 +137,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 <!ENTITY securityOverride.exceptionButton1Label "Terima Risikonya dan Lanjutkan">
 
-<!ENTITY errorReporting.automatic2 "Laporkan kesalahan seperti ini untuk membantu Mozilla mengidentifikasi dan memblokir situs yang mencurigakan.">
+<!ENTITY errorReporting.automatic2 "Laporkan kesalahan seperti ini untuk membantu Waterfox mengidentifikasi dan memblokir situs yang mencurigakan.">
 <!ENTITY errorReporting.learnMore "Pelajari lebih lanjut…">
 
 <!ENTITY remoteXUL.title "XUL Jarak Jauh">

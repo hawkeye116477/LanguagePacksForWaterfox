@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = Çaktivizoni PDF.js, parësin e brendshëm të 
 policy-DisableDeveloperTools = Bllokoni hyrje te mjetet për zhvillues.
 policy-DisableFeedbackCommands = Çaktivizoni te menuja Ndihmë urdhra për dërgim përshtypjesh (Parashtroni Përshtypje dhe  Raportoni Sajt të Rrejshëm).
 policy-DisableFirefoxAccounts = Çaktivizoni shërbime me bazë { -fxaccount-brand-name }, përfshi Sync-un.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Çaktivizoni veçorinë Foto Ekrani Firefox.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Çaktivizoni veçorinë Foto Ekrani Waterfox.
 policy-DisableFirefoxStudies = Pengojani { -brand-short-name }-it xhirimin e studimeve.
 policy-DisableForgetButton = Pengoni përdorimin e butoni Harroje.
 policy-DisableFormHistory = Mos mba mend historik kërkimesh dhe plotësimi formularësh.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Aktivizoni ose çaktivizoni Bllokim Lënde, dh
 policy-Extensions = Instaloni, çinstaloni ose kyçni zgjerime. Mundësia Instaloni si parametra përdor URL ose shtigje. Mundësitë Çinstaloni dhe Kyçur përdorin ID zgjerimesh.
 policy-ExtensionSettings = Administroni krejt anët e instalimit të zgjerimeve.
 policy-ExtensionUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme të zgjerimeve.
-policy-FirefoxHome = Formësoni Kreun e Firefox-it
+policy-FirefoxHome = Formësoni Kreun e Waterfox-it
 policy-FlashPlugin = Lejoni ose jo përdorimin e shtojcës Flash.
 policy-HardwareAcceleration = Nëse false, çaktivizohet përshpejtimi përmes hardware-it.
 # “lock” means that the user won’t be able to change this setting

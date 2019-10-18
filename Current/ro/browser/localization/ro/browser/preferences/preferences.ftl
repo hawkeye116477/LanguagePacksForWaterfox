@@ -118,10 +118,10 @@ search-results-help-link = Ai nevoie de ajutor? Intră pe <a data-l10n-name="url
 ## General Section
 
 startup-header = Pornire
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Permite ca { -brand-short-name } și Firefox să ruleze în același timp
+    .label = Permite ca { -brand-short-name } și Waterfox să ruleze în același timp
 use-firefox-sync = Pont: Acesta folosește profiluri separate. Folosește { -sync-brand-short-name } pentru a partaja date între ele.
 get-started-not-logged-in = Autentifică-te la { -sync-brand-short-name }…
 get-started-configured = Deschide preferințele { -sync-brand-short-name }
@@ -376,10 +376,10 @@ home-newtabs-mode-label = File noi
 home-restore-defaults =
     .label = Restaurează valorile implicite
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Pagină de start Firefox (Implicit)
+    .label = Pagină de start Waterfox (Implicit)
 home-mode-choice-custom =
     .label = URL-uri personalizate…
 home-mode-choice-blank =
@@ -475,7 +475,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Descarcă Firefox pentru <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> sau <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ca să sincronizezi datele cu dispozitivul mobil.
+sync-mobile-promo = Descarcă Waterfox pentru <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> sau <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ca să sincronizezi datele cu dispozitivul mobil.
 
 ## Sync Section - Signed in
 
@@ -523,7 +523,7 @@ sync-engine-creditcards =
     .accesskey = c
 sync-engine-addons =
     .label = Suplimente
-    .tooltiptext = Extensii și teme pentru Firefox desktop
+    .tooltiptext = Extensii și teme pentru Waterfox desktop
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -578,12 +578,12 @@ history-header = Istoric
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =

@@ -56,7 +56,7 @@ cfr-doorhanger-pintab-step3 = Якщо на сайті є оновлення, в
 cfr-doorhanger-pintab-animation-pause = Призупинити
 cfr-doorhanger-pintab-animation-resume = Продовжити
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Синхронізуйте свої закладки всюди.
 cfr-doorhanger-bookmark-fxa-body = Гарна знахідка! Тепер синхронізуйте цю закладку зі своїми мобільними пристроями. Почніть роботу з { -fxaccount-brand-name }.

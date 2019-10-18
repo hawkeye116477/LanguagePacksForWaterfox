@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-kab@firefox.mozilla.org", 
+      "id": "langpack-kab@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Tarbaɛt Taqbaylit n Mozilla (contributors: Belkacem Mohammed, Omar Kerdja)", 
-  "description": "Language pack for Firefox for kab"
+  "author": "Tarbaɛt Taqbaylit n Waterfox (contributors: Belkacem Mohammed, Omar Kerdja)", 
+  "description": "Language pack for Waterfox Current for kab"
 }

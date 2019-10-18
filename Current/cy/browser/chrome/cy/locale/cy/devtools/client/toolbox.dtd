@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Galluogi dadfygio pell">
-<!ENTITY options.enableRemote.tooltip2  "Bydd cychwyn y dewis hwn yn caniatáu i chi ddefnyddio offer datblygu i ddadfygio enghreifftiau o Firefox pell megis Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Bydd cychwyn y dewis hwn yn caniatáu i chi ddefnyddio offer datblygu i ddadfygio enghreifftiau o Waterfox pell megis Waterfox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -99,7 +99,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label2    "Offer Datblygu Firefox Rhagosodedig">
+<!ENTITY options.selectDefaultTools.label2    "Offer Datblygu Waterfox Rhagosodedig">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools

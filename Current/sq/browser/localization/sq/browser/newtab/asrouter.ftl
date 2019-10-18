@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = Nëse sajti ka një përditësim, do të shihni nj
 cfr-doorhanger-pintab-animation-pause = Pushim
 cfr-doorhanger-pintab-animation-resume = Vazhdoje
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Njëkohësoni faqerojtësit tuaj kudo.
 cfr-doorhanger-bookmark-fxa-body = Gjetje e fortë! Tani, mos rrini pa këtë faqerojtës në pajisjet tuaja celulare. Fillojani me një { -fxaccount-brand-name }.

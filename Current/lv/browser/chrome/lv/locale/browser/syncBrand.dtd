@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncBrand.shortName.label  "Sync">
-<!ENTITY syncBrand.fullName.label   "Firefox sinhronizācija">
-<!ENTITY syncBrand.fxAccount.label  "Firefox konts">
+<!ENTITY syncBrand.fullName.label   "Waterfox sinhronizācija">
+<!ENTITY syncBrand.fxAccount.label  "Waterfox konts">

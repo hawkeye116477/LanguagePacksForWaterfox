@@ -108,7 +108,7 @@ in "Search through tabs". -->
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
+when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "ස්ථානයක් විවෘත කරන්න...">
 <!ENTITY openFileCmd.label "ගොනුවක් විවෘත කරන්න...">
 <!ENTITY openFileCmd.accesskey "O">
@@ -157,7 +157,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+Source" on macOS. pageSourceCmd.commandkey above is Waterfox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
@@ -432,7 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label " වෙනත් උපාංගයන්ගේ සිට ටැබ් ලැයිස්තුව බැලිමට ටැබ් සම්මුහුර්ථය අරින්න (Turn on).">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
+     the account. We also show links to download Waterfox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "වෙනත් උපාංගයක සිට ඔබේ මෙම ටැබ් බැලීමට අවශ්‍යද?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "සම්මුහුර්ත අභිප්‍රේතයන් විවෘත කරන්න">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "වෙනත් උපාංගයන්ගේ සිට ටැබ් ලැයිස්තුව බැලිමට ඇතුළු වන්න.">
@@ -855,7 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "සම්මුහුර්ථ කළ ටැබ්">
 
 <!ENTITY syncedTabs.sidebar.label              "සම්මුහුර්ථ කළ ටැබ්">
-<!ENTITY syncedTabs.sidebar.noclients.label    "ඔබේ වෙනත් උපාංගයන් ගේ ටැබ මෙහිදී පිරික්සීමට Firefox වෙත පිවිසෙන්න.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "ඔබේ වෙනත් උපාංගයන් ගේ ටැබ මෙහිදී පිරික්සීමට Waterfox වෙත පිවිසෙන්න.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ඔබගේ ටැබ් වෙනත් උපාංගයක සිට බැලීමට අවශ්‍යද?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "වෙනත් උපාංගයන්ගේ ටැබ් ලැයිස්තුව බැලිමට ඇතුළු වන්න.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "ඔබේ ගිනුම තහවුරු කල යුතුයි.">
@@ -1092,17 +1092,17 @@ in "Search through tabs". -->
 <!ENTITY taskManagerCmd.label "Task Manager">
 <!ENTITY ldbCmd.label "Layout Debugger">
 <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Take Firefox with You">
+     for the Waterfox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Take Waterfox with You">
 <!ENTITY fxa.signin.description.label "Get your bookmarks, history, passwords and other settings on all your devices.">
 <!ENTITY fxa.signin.button.label "Turn on &syncBrand.shortName.label;…">
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
+     for the Waterfox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Check Your Email">
 <!ENTITY fxa.unverified.description.label "You’ll need to verify your account before you can sync.">
 <!ENTITY fxa.unverified.button.label "Open &syncBrand.shortName.label; Settings…">
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Waterfox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Signed in as">
 <!ENTITY fxa.menu.manageAccount.label "Manage Account…">
@@ -1130,7 +1130,7 @@ in "Search through tabs". -->
 <!ENTITY customizeMenu.removeExtension.label "Remove Extension">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     toolbar buttons context menus, a user can use this command to submit to Waterfox
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Report Extension">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
@@ -1145,8 +1145,8 @@ in "Search through tabs". -->
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.showForNewBookmarks.label       "Show editor when saving">
-<!ENTITY identity.customRoot "Connection verified by a certificate issuer that is not recognized by Mozilla.">
-<!ENTITY identity.description.customRoot "Mozilla does not recognize this certificate issuer. It may have been added from your operating system or by an administrator.">
+<!ENTITY identity.customRoot "Connection verified by a certificate issuer that is not recognized by Waterfox.">
+<!ENTITY identity.description.customRoot "Waterfox does not recognize this certificate issuer. It may have been added from your operating system or by an administrator.">
 <!ENTITY identity.permissionsPreferences.tooltip "Open Permissions Preferences">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Open Content Blocking Preferences">
 <!ENTITY syncSyncNowItemSyncing.label "Syncing…">
@@ -1163,7 +1163,7 @@ in "Search through tabs". -->
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
 <!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
 <!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
-<!ENTITY contentBlocking.breakageReportView2.description "Content blocking can cause problems with some websites. When you report problems, you’ll help make &brandShortName; better for everyone. (This will send a URL as well as information about your browser settings to Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Content blocking can cause problems with some websites. When you report problems, you’ll help make &brandShortName; better for everyone. (This will send a URL as well as information about your browser settings to Waterfox.)">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->

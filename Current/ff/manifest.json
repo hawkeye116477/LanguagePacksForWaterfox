@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ff@firefox.mozilla.org", 
+      "id": "langpack-ff@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "goomu pulaar-fulfulde.org (contributors: Ibrahima SARR, Bocar Ba, Hady Anne)", 
-  "description": "Language pack for Firefox for ff"
+  "description": "Language pack for Waterfox Current for ff"
 }

@@ -11,7 +11,7 @@ process-type-privileged = Priwilegowany wobsah
 process-type-privilegedabout = Priwilegowane strony about
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Priwilegowany wobsah Mozilla
+process-type-privilegedmozilla = Priwilegowany wobsah Waterfox
 process-type-extension = Rozšěrjenje
 # process used to open file:// URLs
 process-type-file = Lokalna dataja

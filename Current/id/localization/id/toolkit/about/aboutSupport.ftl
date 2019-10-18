@@ -54,7 +54,7 @@ app-basics-remote-processes-count = Proses Jarak Jauh
 app-basics-enterprise-policies = Kebijakan Perusahaan
 app-basics-location-service-key-google = Google Location Service Key
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
-app-basics-key-mozilla = Kunci Layanan Lokasi Mozilla
+app-basics-key-mozilla = Kunci Layanan Lokasi Waterfox
 app-basics-safe-mode = Mode Aman
 show-dir-label =
     { PLATFORM() ->

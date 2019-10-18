@@ -56,7 +56,7 @@ cfr-doorhanger-pintab-step3 = Dacă site-ul are o actualizare, vei vedea un punc
 cfr-doorhanger-pintab-animation-pause = Pauză
 cfr-doorhanger-pintab-animation-resume = Continuă
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizează-ți marcajele oriunde ai fi
 cfr-doorhanger-bookmark-fxa-body = Descoperire grozavă! Acum, ca să nu rămâi fără acest marcaj pe dispozitivele tale mobile, începe să folosești un { -fxaccount-brand-name }.

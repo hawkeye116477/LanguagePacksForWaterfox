@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 -sync-brand-short-name = ஒத்திசை
-# “Sync” can be localized, “Firefox” must be treated as a brand,
+# “Sync” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = Firefox ஒத்திசைவு
-# “Account” can be localized, “Firefox” must be treated as a brand,
+-sync-brand-name = Waterfox ஒத்திசைவு
+# “Account” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name = பயர்பாக்ஸ் கணக்கு

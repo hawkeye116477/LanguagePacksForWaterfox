@@ -143,7 +143,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "හැරදැමීමක් එක් කරන්න…">
 <!ENTITY securityOverride.exceptionButton1Label "අවදානම පිළිගෙන ඉදිරියට යන්න">
 
-<!ENTITY errorReporting.automatic2 "Mozilla ට මෙවැනි ද්වේශ සහගත අඩවි පිළිබඳ දැන අවහිර කිරීමට උදව් වීම සඳහා මෙවැනි දෝෂ වාර්ථා කරන්න">
+<!ENTITY errorReporting.automatic2 "Waterfox ට මෙවැනි ද්වේශ සහගත අඩවි පිළිබඳ දැන අවහිර කිරීමට උදව් වීම සඳහා මෙවැනි දෝෂ වාර්ථා කරන්න">
 <!ENTITY errorReporting.learnMore "තවත් දැනගන්න...">
 
 <!ENTITY remoteXUL.title "Remote XUL">

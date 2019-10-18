@@ -202,7 +202,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Nõustu riskiga ja jätka">
 
-<!ENTITY errorReporting.automatic2 "Raporteeri taolistest vigadest, et Mozilla saaks tuvastada ja blokkida ohtlikud veebilehed">
+<!ENTITY errorReporting.automatic2 "Raporteeri taolistest vigadest, et Waterfox saaks tuvastada ja blokkida ohtlikud veebilehed">
 <!ENTITY errorReporting.learnMore "Rohkem teavet…">
 
 <!ENTITY remoteXUL.title "Remote XUL">

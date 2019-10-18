@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } folosește un certificat de securitate nevalid.
 cert-error-mitm-intro = Site-urile își demonstrează identitatea prin certificate, care sunt eliberate de autorități de certificare.
-cert-error-mitm-mozilla = { -brand-short-name } este susținut de organizația nonprofit Mozilla, care administrează un magazin de autorități de certificare (CA) complet deschis. Magazinul CA ajută la asigurarea că autoritățile de certificare respectă cele mai bune practici pentru securitatea utilizatorului.
-cert-error-mitm-connection = { -brand-short-name } utilizează preponderent magazinul CA Mozilla pentru a verifica dacă o conexiune este securizată, nu certificatele furnizate de sistemul de operare al utilizatorului. Așadar, dacă un program antivirus sau o rețea interceptează o conexiune cu un certificat emis de o CA, care nu se află în magazinul CA Mozilla , conexiunea este considerată nesigură.
+cert-error-mitm-mozilla = { -brand-short-name } este susținut de organizația nonprofit Waterfox, care administrează un magazin de autorități de certificare (CA) complet deschis. Magazinul CA ajută la asigurarea că autoritățile de certificare respectă cele mai bune practici pentru securitatea utilizatorului.
+cert-error-mitm-connection = { -brand-short-name } utilizează preponderent magazinul CA Waterfox pentru a verifica dacă o conexiune este securizată, nu certificatele furnizate de sistemul de operare al utilizatorului. Așadar, dacă un program antivirus sau o rețea interceptează o conexiune cu un certificat emis de o CA, care nu se află în magazinul CA Waterfox , conexiunea este considerată nesigură.
 cert-error-trust-unknown-issuer-intro = Cineva ar putea încerca să uzurpe identitatea site-ului și nu ar trebui să continui.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

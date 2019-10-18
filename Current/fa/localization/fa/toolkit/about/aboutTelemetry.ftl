@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] غیرفعال شد
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = این صفحه اطلاعاتی درباره کارایی، سخت‌افزار، استفاده و سفارشی‌سازی‌های جمع‌آوری شده توسط مسافت‌سنج را نشان می‌دهد. این اطلاعات در { $telemetryServerOwner } ثبت شده است تا در بهبود { -brand-full-name } کمک کند.
 about-telemetry-settings-explanation = سنجش از راه دور { about-telemetry-data-type } را ذخیره می‌کند و <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> بارگذاری می‌کند.
 # Variables:

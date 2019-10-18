@@ -200,7 +200,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Ausnahme hinzufügen…">
 <!ENTITY securityOverride.exceptionButton1Label "Risiko akzeptieren und fortfahren">
 
-<!ENTITY errorReporting.automatic2 "Fehler an Mozilla melden, um beim Identifizieren und Blockieren böswilliger Websites zu helfen">
+<!ENTITY errorReporting.automatic2 "Fehler an Waterfox melden, um beim Identifizieren und Blockieren böswilliger Websites zu helfen">
 <!ENTITY errorReporting.learnMore "Weitere Informationen…">
 
 <!ENTITY remoteXUL.title "Remote-XUL">

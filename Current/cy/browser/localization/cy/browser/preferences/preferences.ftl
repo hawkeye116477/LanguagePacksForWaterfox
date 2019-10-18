@@ -118,10 +118,10 @@ search-results-help-link = Angen help? Ewch i <a data-l10n-name="url">Cefnogaeth
 ## General Section
 
 startup-header = Cychwyn
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Caniatáu i { -brand-short-name } a Firefox redeg ar yr un pryd
+    .label = Caniatáu i { -brand-short-name } a Waterfox redeg ar yr un pryd
 use-firefox-sync = Cyngor: Mae'n defnyddio proffiliau gwahanol. Defnyddiwch { -sync-brand-short-name } i rannu data rhyngddynt.
 get-started-not-logged-in = Mewngofnodi i { -sync-brand-short-name }…
 get-started-configured = Agor dewisiadau { -sync-brand-short-name }
@@ -385,10 +385,10 @@ home-newtabs-mode-label = Tabiau newydd
 home-restore-defaults =
     .label = Adfer gosodiadau
     .accesskey = A
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Cartref Firefox (Rhagosodiad)
+    .label = Cartref Waterfox (Rhagosodiad)
 home-mode-choice-custom =
     .label = URLau Cyfaddas...
 home-mode-choice-blank =
@@ -484,7 +484,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Llwytho Firefox i lawr ar gyfer <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> neu <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> i gydweddu gyda'ch dyfais symudol.
+sync-mobile-promo = Llwytho Waterfox i lawr ar gyfer <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> neu <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> i gydweddu gyda'ch dyfais symudol.
 
 ## Sync Section - Signed in
 
@@ -532,7 +532,7 @@ sync-engine-creditcards =
     .accesskey = r
 sync-engine-addons =
     .label = Ychwanegion
-    .tooltiptext = Estyniadau a themâu ar gyfer Firefox bwrdd gwaith
+    .tooltiptext = Estyniadau a themâu ar gyfer Waterfox bwrdd gwaith
     .accesskey = Y
 sync-engine-prefs =
     .label =
@@ -590,12 +590,12 @@ history-header = Hanes
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = Bydd { -brand-short-name } yn
     .accesskey = B
 history-remember-option-all =

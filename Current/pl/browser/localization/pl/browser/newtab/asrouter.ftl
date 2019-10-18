@@ -58,7 +58,7 @@ cfr-doorhanger-pintab-step3 = Strony z aktualizacjami mają niebieską kropkę 
 cfr-doorhanger-pintab-animation-pause = Wstrzymaj
 cfr-doorhanger-pintab-animation-resume = Wznów
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizuj zakładki na każdym urządzeniu.
 cfr-doorhanger-bookmark-fxa-body = Wspaniałe odkrycie! Fajnie byłoby mieć tę zakładkę także na telefonie, prawda? Zacznij korzystać z { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.

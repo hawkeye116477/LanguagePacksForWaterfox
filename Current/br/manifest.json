@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-br@firefox.mozilla.org", 
+      "id": "langpack-br@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Firefox Breton Team (contributors: Alan Monfort, Philippe Basciano-Le Gall, Denis Arnaud, Michel Nédélec, Gwenn Meynier)", 
-  "description": "Language pack for Firefox for br"
+  "author": "Waterfox Breton Team (contributors: Alan Monfort, Philippe Basciano-Le Gall, Denis Arnaud, Michel Nédélec, Gwenn Meynier)", 
+  "description": "Language pack for Waterfox Current for br"
 }

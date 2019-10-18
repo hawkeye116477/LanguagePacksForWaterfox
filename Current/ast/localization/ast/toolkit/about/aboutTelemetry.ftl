@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Datos de Telemetry
 about-telemetry-more-information = ¿Guetes más información?
-about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">documentación de datos de Firefox</a> contién guíes tocante a cómo funcionen les nueses ferramientes de datos.
-about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentación de datos de Firefox</a> inclúi definiciones pa conceutos, documentación API y referencies de datos.
-about-telemetry-telemetry-dashboard = El <a data-l10n-name="dashboard-link">cuadru de mandos de Telemetry</a> permítete visualizar los datos que recibe Mozilla per Telemetry.
+about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">documentación de datos de Waterfox</a> contién guíes tocante a cómo funcionen les nueses ferramientes de datos.
+about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentación de datos de Waterfox</a> inclúi definiciones pa conceutos, documentación API y referencies de datos.
+about-telemetry-telemetry-dashboard = El <a data-l10n-name="dashboard-link">cuadru de mandos de Telemetry</a> permítete visualizar los datos que recibe Waterfox per Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Abrir nel visor JSON
 about-telemetry-home-section = Aniciu
 about-telemetry-general-data-section = Datos xenerales
@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] desactivóse
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Esta páxina amuesa la información tocante al rindimientu, hardware, usu y personalizaciones recoyida por Telemetry. Esta información únviase a { $telemetryServerOwner } p'ayudar a ameyorar { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetry ta recoyendo { about-telemetry-data-type } y la xuba ta <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

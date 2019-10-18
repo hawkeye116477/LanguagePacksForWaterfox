@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = Als de website een update bevat, ziet u een blauwe
 cfr-doorhanger-pintab-animation-pause = Pauzeren
 cfr-doorhanger-pintab-animation-resume = Hervatten
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchroniseer uw bladwijzers overal.
 cfr-doorhanger-bookmark-fxa-body = Goed gevonden! Zorg er nu voor dat u niet zonder bladwijzers zit op uw mobiele apparaten. Ga van start met { -fxaccount-brand-name }.

@@ -201,7 +201,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Додати виняток…">
 <!ENTITY securityOverride.exceptionButton1Label "Погодитись на ризик і продовжити">
 
-<!ENTITY errorReporting.automatic2 "Звітувати про подібні помилки, щоб допомогти Mozilla виявляти й блокувати зловмисні сайти">
+<!ENTITY errorReporting.automatic2 "Звітувати про подібні помилки, щоб допомогти Waterfox виявляти й блокувати зловмисні сайти">
 <!ENTITY errorReporting.learnMore "Докладніше…">
 
 <!ENTITY remoteXUL.title "Віддалений XUL">

@@ -64,7 +64,7 @@ app-basics-remote-processes-count = Απομακρυσμένες διεργασ�
 app-basics-enterprise-policies = Πολιτικές επιχειρήσεων
 app-basics-location-service-key-google = Κλειδί υπηρεσίας τοποθεσίας Google
 app-basics-safebrowsing-key-google = Κλειδί ασφαλούς περιήγησης Google
-app-basics-key-mozilla = Κλειδί υπηρεσίας τοποθεσίας Mozilla
+app-basics-key-mozilla = Κλειδί υπηρεσίας τοποθεσίας Waterfox
 app-basics-safe-mode = Ασφαλής λειτουργία
 show-dir-label =
     { PLATFORM() ->

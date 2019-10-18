@@ -22,5 +22,5 @@ cfr-doorhanger-extension-notification = Moladh
 
 cfr-doorhanger-pintab-animation-pause = Cuir ar Sos
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 

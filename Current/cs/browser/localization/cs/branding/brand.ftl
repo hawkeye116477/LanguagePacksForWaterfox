@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Firefox Brand
+## Waterfox Brand
 ##
-## Firefox must be treated as a brand, and kept in English.
+## Waterfox must be treated as a brand, and kept in English.
 ## It cannot be:
 ## - Declined to adapt to grammatical case.
 ## - Transliterated.
@@ -13,14 +13,14 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-shorter-name = Firefox
+-brand-shorter-name = Waterfox
     .gender = masculine
--brand-short-name = Firefox
+-brand-short-name = Waterfox
     .gender = masculine
--brand-full-name = Mozilla Firefox
+-brand-full-name = Waterfox Current
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = Firefox
+-brand-product-name = Waterfox
     .gender = masculine
--vendor-short-name = Mozilla
-trademarkInfo = Firefox a logo Firefoxu jsou ochrannými známkami organizace Mozilla Foundation.
+-vendor-short-name = Waterfox
+trademarkInfo = Waterfox a logo Waterfoxu jsou ochrannými známkami organizace Waterfox Ltd.

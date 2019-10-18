@@ -12,9 +12,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = נתוני Telemetry
 about-telemetry-more-information = בחיפוש אחר מידע נוסף?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">תיעוד הנתונים של Firefox</a> מכיל מדריכים על אופן העבודה עם כלי הנתונים שלנו.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">תיעוד הלקוח של Firefox Telemetry</a> כולל הגדרות לשיטות, תיעוד API והפניות למידע.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">לוחות הבקרה של Telemetry</a> מאפשרים לך לראות באופן חזותי את הנתונים ש־Mozilla מקבלת דרך Telemetry.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">תיעוד הנתונים של Waterfox</a> מכיל מדריכים על אופן העבודה עם כלי הנתונים שלנו.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">תיעוד הלקוח של Waterfox Telemetry</a> כולל הגדרות לשיטות, תיעוד API והפניות למידע.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">לוחות הבקרה של Telemetry</a> מאפשרים לך לראות באופן חזותי את הנתונים ש־Waterfox מקבלת דרך Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = פתיחה במציג ה־JSON
 about-telemetry-home-section = בית
 about-telemetry-general-data-section = מידע כללי
@@ -49,7 +49,7 @@ about-telemetry-upload-type =
        *[disabled] מושבתת
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = עמוד זה מציג מידע על ביצועים, חומרה, שימוש והתאמות אישיות כפי שנאספו על ידי Telemetry. מידע זה נשלח אל { $telemetryServerOwner } כדי לסייע בשיפור { -brand-full-name }.
 # string used as a placeholder for the search field
 # More info about it can be found here:

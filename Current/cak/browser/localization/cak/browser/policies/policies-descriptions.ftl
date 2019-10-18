@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = Tichup PDF.js, ri tz'etöy PDF pa { -brand-shor
 policy-DisableDeveloperTools = Tiq'at okem pa ri kisamajib'al b'anonela'.
 policy-DisableFeedbackCommands = Kechup taq nuk'uj richin yetaq taq tzijol pa ri ruk'utsamaj Tob'äl (Titaq Tzijol chuqa' Kesujüx Q'olonel taq Ruxaq).
 policy-DisableFirefoxAccounts = Tichup { -fxaccount-brand-name } samaj ruxe'el, chuqa' Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Tichup ri rusamaj Firefox Screenshots.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Tichup ri rusamaj Waterfox Screenshots.
 policy-DisableFirefoxStudies = Man tiya' q'ij chi ri { -brand-short-name } tib'än tijonïk.
 policy-DisableForgetButton = Tiq'at okem pa ri rupitz'b'al Timestäx.
 policy-DisableFormHistory = Man tinatäx ri runatab'al kanob'äl chuqa' taq nojwuj
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Titzij o tichup ri Kiq'atik Rupam chuqa' ticha
 policy-Extensions = Tiyak, tiyuj o keq'at taq k'amal. Ri rucha'ik Tiyak yeruchäp URLs taq ochochib'äl o taq b'ey achi'el etab'äl. Ri Tiyuj chuqa' Tiq'at yeruchäp ID kichin taq k'amal.
 policy-ExtensionSettings = Kenuk'samajiïx ronojel ri taq rub'anikil kiyakik taq k'amal.
 policy-ExtensionUpdate = Ketzij o kechup ri ruyonil kik'exoj taq k'amal.
-policy-FirefoxHome = Tib'an runuk'ulem Rutikirib'al Firefox.
+policy-FirefoxHome = Tib'an runuk'ulem Rutikirib'al Waterfox.
 policy-FlashPlugin = Niya' q'ij o man niya' ta q'ij nokisäx ri Flash nak'ab'äl.
 policy-HardwareAcceleration = We man qitzij ta, tichup ranin ch'akulkem.
 # “lock” means that the user won’t be able to change this setting

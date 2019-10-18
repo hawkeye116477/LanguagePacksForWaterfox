@@ -41,7 +41,7 @@ app-basics-profiles = Keftinirɗe
 app-basics-multi-process-support = Kenorɗe Cili Keewɗi
 app-basics-process-count = Sifaaji Loowdi Geese
 app-basics-key-google = Coktirgal Google
-app-basics-key-mozilla = Nokkuje Coktirɗe Mozilla
+app-basics-key-mozilla = Nokkuje Coktirɗe Waterfox
 app-basics-safe-mode = Mbayka Hoolno
 show-dir-label =
     { PLATFORM() ->

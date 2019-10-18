@@ -176,7 +176,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "新增例外網站…">
 <!ENTITY securityOverride.exceptionButton1Label "接受風險並繼續">
 
-<!ENTITY errorReporting.automatic2 "回報這類的錯誤，幫助 Mozilla 找出並封鎖惡意網站">
+<!ENTITY errorReporting.automatic2 "回報這類的錯誤，幫助 Waterfox 找出並封鎖惡意網站">
 <!ENTITY errorReporting.learnMore "更多資訊…">
 
 <!ENTITY remoteXUL.title "遠端 XUL">

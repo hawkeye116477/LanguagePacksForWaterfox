@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = Tha { $hostname } a' cleachdadh teisteanas tèarainteachd mì-dhligheach.
 cert-error-mitm-intro = Tha làraichean-lìn a’ dearbhadh cò iad le teisteanasan agus tha iad sin ’gam foillseachadh le ùghdarrasan theisteanasan.
-cert-error-mitm-mozilla = Tha taic a’ bhuidhinn neo-phrothaidich Mozilla aig { -brand-short-name } agus tha iad a’ rianachd ùghdarras theisteanasan (CA) fosgailte. Tha stòras an CA a’ dèanamh cinnteach gu bheil ùghdarrasan nan teisteanasan a’ leantainn nan riaghailtean a mholar airson tèarainteachd chleachdaichean.
-cert-error-mitm-connection = Tha { -brand-short-name } a’ cleachdadh stòras CA Mozilla airson dearbhadh gu bheil ceangal tèarainte, seach teisteanasan a sholair siostam-obrachaidh a’ chleachdaiche. Ma tha prògram an aghaidh bhìorasan no lìonra ag eadar-cheapadh ceangal le teisteanas tèarainteachd a chaidh fhoillseachadh le CA nach eil ann an stòras CA Mozilla, tuigear dheth nach eil an ceangal sàbhailte.
+cert-error-mitm-mozilla = Tha taic a’ bhuidhinn neo-phrothaidich Waterfox aig { -brand-short-name } agus tha iad a’ rianachd ùghdarras theisteanasan (CA) fosgailte. Tha stòras an CA a’ dèanamh cinnteach gu bheil ùghdarrasan nan teisteanasan a’ leantainn nan riaghailtean a mholar airson tèarainteachd chleachdaichean.
+cert-error-mitm-connection = Tha { -brand-short-name } a’ cleachdadh stòras CA Waterfox airson dearbhadh gu bheil ceangal tèarainte, seach teisteanasan a sholair siostam-obrachaidh a’ chleachdaiche. Ma tha prògram an aghaidh bhìorasan no lìonra ag eadar-cheapadh ceangal le teisteanas tèarainteachd a chaidh fhoillseachadh le CA nach eil ann an stòras CA Waterfox, tuigear dheth nach eil an ceangal sàbhailte.
 cert-error-trust-unknown-issuer-intro = Dh’fhaoidte gu bheil cuideigin a’ leigeil orra gur iad-san an làrach seo agus cha bu chòir dhut leantainn air adhart.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

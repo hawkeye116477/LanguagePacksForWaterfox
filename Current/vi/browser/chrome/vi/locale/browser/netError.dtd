@@ -132,7 +132,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Thêm ngoại lệ…">
 <!ENTITY securityOverride.exceptionButton1Label "Chấp nhận rủi ro và tiếp tục">
 
-<!ENTITY errorReporting.automatic2 "Báo cáo những lỗi như thế này để giúp Mozilla nhận diện và chặn những trang độc hại">
+<!ENTITY errorReporting.automatic2 "Báo cáo những lỗi như thế này để giúp Waterfox nhận diện và chặn những trang độc hại">
 <!ENTITY errorReporting.learnMore "Tìm hiểu thêm…">
 
 <!ENTITY remoteXUL.title "Remote XUL">

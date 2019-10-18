@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ga-IE@firefox.mozilla.org", 
+      "id": "langpack-ga-IE@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Séamus Ó Ciardhuáin, Kevin Scannell, Brian King)", 
-  "description": "Language pack for Firefox for ga-IE"
+  "description": "Language pack for Waterfox Current for ga-IE"
 }

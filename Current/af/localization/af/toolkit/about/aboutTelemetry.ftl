@@ -11,7 +11,7 @@ about-telemetry-addon-details-section = Byvoegingbesonderhede
 about-telemetry-late-writes-section = Laat geskryf
 about-telemetry-full-sql-warning = LET WEL: Ontvouting van stadige SQL is geaktiveer. Volledige SQL-stringe word dalk hier onder vertoon, maar sal nie ingedien word aan Telemetry nie.
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Dié bladsy wys die inligting wat Telemetry versamel oor werkverrigting, hardeware, gebruik en aanpassings. Dié inligting word ingedien by { $telemetryServerOwner } om { -brand-full-name } te help verbeter.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Kopieer

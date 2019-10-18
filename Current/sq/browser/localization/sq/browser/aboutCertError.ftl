@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } përdor një dëshmi sigurie të pavlefshme.
 cert-error-mitm-intro = Sajtet e dëshmojnë identitetin e tyre përmes dëshmish, të cilat lëshohen nga autoritete dëshmish.
-cert-error-mitm-mozilla = { -brand-short-name } ka nga pas entin jofitimprurës Mozilla, i cili administron një shitore tërësisht të hapur autoriteti dëshmish (AD). Shitorja AD ndihmon të garantohet se autoritetet e dëshmive ndjekin praktikat më të mirë mbi sigurinë e përdoruesve.
-cert-error-mitm-connection = { -brand-short-name } përdor shitoren AD të Mozilla-s për të verifikuar se një lidhje është e sigurt, në vend se dëshmi të furnizuara nga sistemi operativ i përdoruesit. Kështu, nëse një program antivirus apo një rrjet përgjon një lidhje me një dëshmi sigurie të lëshuar nga një Autoritet Dëshmish që s’gjendet te shitorja AD Mozilla, lidhja konsiderohet jo e parrezik.
+cert-error-mitm-mozilla = { -brand-short-name } ka nga pas entin jofitimprurës Waterfox, i cili administron një shitore tërësisht të hapur autoriteti dëshmish (AD). Shitorja AD ndihmon të garantohet se autoritetet e dëshmive ndjekin praktikat më të mirë mbi sigurinë e përdoruesve.
+cert-error-mitm-connection = { -brand-short-name } përdor shitoren AD të Waterfox-s për të verifikuar se një lidhje është e sigurt, në vend se dëshmi të furnizuara nga sistemi operativ i përdoruesit. Kështu, nëse një program antivirus apo një rrjet përgjon një lidhje me një dëshmi sigurie të lëshuar nga një Autoritet Dëshmish që s’gjendet te shitorja AD Waterfox, lidhja konsiderohet jo e parrezik.
 cert-error-trust-unknown-issuer-intro = Dikush mund të jetë duke u rrekur të hiqet si sajti dhe s’duhet të vazhdoni.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-es-ES@firefox.mozilla.org", 
+      "id": "langpack-es-ES@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Proyecto NAVE (http://www.proyectonave.es/))", 
-  "description": "Language pack for Firefox for es-ES"
+  "description": "Language pack for Waterfox Current for es-ES"
 }

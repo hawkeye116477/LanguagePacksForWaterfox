@@ -86,10 +86,10 @@ search-results-help-link = مدد کی ضرورت ہے؟ <a data-l10n-name="url"
 ## General Section
 
 startup-header = سٹارٹ اپ
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name } اور Firefox کو ہم وقت چلنے کی اجازت دے
+    .label = { -brand-short-name } اور Waterfox کو ہم وقت چلنے کی اجازت دے
 use-firefox-sync = تجاویز: یہ الگ الگ پروفائل استعمال کرتا ہے۔ ان کے درمیان ڈیٹا کا اشتراک کرنے کے لئے { -sync-brand-short-name } استعمال کریں۔
 get-started-not-logged-in = { -sync-brand-short-name } میں سائن ان کریں
 get-started-configured = { -sync-brand-short-name } ترجیحات کھولیں
@@ -291,10 +291,10 @@ home-newtabs-mode-label = نئے ٹیبس
 home-restore-defaults =
     .label = طےشدہ بحال کریں
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox کا ابتائی صفحہ
+    .label = Waterfox کا ابتائی صفحہ
 home-mode-choice-custom =
     .label = مخصوص …URLs
 home-mode-choice-blank =
@@ -376,7 +376,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox ڈاؤن لوڈ کریں <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> یا <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>آپ کے موبائل ڈیوائس کے ساتھ ہمہ وقت ساز
+sync-mobile-promo = Waterfox ڈاؤن لوڈ کریں <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> یا <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>آپ کے موبائل ڈیوائس کے ساتھ ہمہ وقت ساز
 
 ## Sync Section - Signed in
 
@@ -419,7 +419,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = ایڈ-اون
-    .tooltiptext = Firefox ڈیسک ٹاپ کے لئے ایکسٹینشن اور تھیم
+    .tooltiptext = Waterfox ڈیسک ٹاپ کے لئے ایکسٹینشن اور تھیم
     .accesskey = A
 sync-engine-prefs =
     .label =

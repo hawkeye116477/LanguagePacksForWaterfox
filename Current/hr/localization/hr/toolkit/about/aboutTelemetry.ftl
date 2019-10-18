@@ -35,7 +35,7 @@ about-telemetry-full-sql-warning = NAPOMENA: Detaljno praćenje sporih SQL upita
 about-telemetry-fetch-stack-symbols = Prikupi imena funkcija za stogove
 about-telemetry-hide-stack-symbols = Prikaži sirove podatke stogova
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Ova stranica prikazuje informacije o perfomansama, hardveru, korištenju i podešenjima prikupljenim od Telemetrije. Ovi podaci se šalju u { $telemetryServerOwner } kako bi pomogli u unapređenju { -brand-full-name }.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”

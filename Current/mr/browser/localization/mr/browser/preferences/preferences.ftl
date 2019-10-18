@@ -109,10 +109,10 @@ search-results-help-link = मदत हवी आहे? भेट द्या
 ## General Section
 
 startup-header = प्रारंभीकरण
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name } आणि Firefox एकाच वेळी चालविण्याची परवानगी द्यावी
+    .label = { -brand-short-name } आणि Waterfox एकाच वेळी चालविण्याची परवानगी द्यावी
 use-firefox-sync = टीप: हे स्वतंत्र प्रोफाइल वापते. त्यांच्या दरम्यान डाटा शेअर करण्यासाठी { -sync-brand-short-name } वापरा.
 get-started-not-logged-in = { -sync-brand-short-name } मध्ये साईन इन करा...
 get-started-configured = { -sync-brand-short-name } प्राधान्यता उघडा
@@ -336,10 +336,10 @@ home-newtabs-mode-label = नवीन टॅब
 home-restore-defaults =
     .label = पूर्वनिर्धारित स्थितित आणा
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox मुखपृष्ठ (पूर्वनिर्धारित)
+    .label = Waterfox मुखपृष्ठ (पूर्वनिर्धारित)
 home-mode-choice-custom =
     .label = सानुकूलीत URLs...
 home-mode-choice-blank =
@@ -483,7 +483,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = ॲड-ऑन्स्
-    .tooltiptext = Firefox डेस्कटॉप साठी थीम आणि एक्स्टेंशन
+    .tooltiptext = Waterfox डेस्कटॉप साठी थीम आणि एक्स्टेंशन
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -536,12 +536,12 @@ history-header = इतिहास
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } करेल
     .accesskey = w
 history-remember-option-all =

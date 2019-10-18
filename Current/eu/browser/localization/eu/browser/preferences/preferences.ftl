@@ -118,10 +118,10 @@ search-results-help-link = Laguntza behar duzu? Bisitatu <a data-l10n-name="url"
 ## General Section
 
 startup-header = Abioa
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Baimendu { -brand-short-name } eta Firefox aldi berean exekutatzea
+    .label = Baimendu { -brand-short-name } eta Waterfox aldi berean exekutatzea
 use-firefox-sync = Aholkua: bereizitako profilak erabiltzen ditu honek. Erabili { -sync-brand-short-name } hauen artean datuak partekatzeko.
 get-started-not-logged-in = Hasi saioa { -sync-brand-short-name }(e)n…
 get-started-configured = Ireki { -sync-brand-short-name } hobespenak
@@ -373,10 +373,10 @@ home-newtabs-mode-label = Fitxa berriak
 home-restore-defaults =
     .label = Berrezarri lehenetsiak
     .accesskey = B
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefoxen hasiera-orria (lehenetsia)
+    .label = Waterfoxen hasiera-orria (lehenetsia)
 home-mode-choice-custom =
     .label = URL pertsonalizatuak…
 home-mode-choice-blank =
@@ -472,7 +472,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Deskargatu <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> edo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>erako Firefox zure gailu mugikorrarekin sinkronizatzeko.
+sync-mobile-promo = Deskargatu <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> edo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>erako Waterfox zure gailu mugikorrarekin sinkronizatzeko.
 
 ## Sync Section - Signed in
 
@@ -520,7 +520,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Gehigarriak
-    .tooltiptext = Mahaigaineko Firefoxerako hedapenak eta itxurak
+    .tooltiptext = Mahaigaineko Waterfoxerako hedapenak eta itxurak
     .accesskey = G
 sync-engine-prefs =
     .label =
@@ -578,12 +578,12 @@ history-header = Historia
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name }(e)k
     .accesskey = k
 history-remember-option-all =

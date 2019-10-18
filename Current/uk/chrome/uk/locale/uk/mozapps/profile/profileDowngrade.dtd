@@ -4,16 +4,16 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "Ви запустили застарілу версію Firefox">
+<!ENTITY window.title "Ви запустили застарілу версію Waterfox">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Використання застарілої версії Firefox може пошкодити закладки та історію перегляду, що раніше збережені в наявному профілі. Для захисту інформації, створіть новий профіль для цього встановлення &brandShortName;.">
-<!ENTITY window.sync "Використання застарілої версії Firefox може пошкодити закладки та історію перегляду, що раніше збережені в наявному профілі. Для захисту інформації, створіть новий профіль для цього встановлення &brandShortName;. Ви завжди можете виконати вхід в &syncBrand.fxAccount.label; для синхронізації своїх закладок та історії перегляду між різними профілями.">
+<!ENTITY window.nosync "Використання застарілої версії Waterfox може пошкодити закладки та історію перегляду, що раніше збережені в наявному профілі. Для захисту інформації, створіть новий профіль для цього встановлення &brandShortName;.">
+<!ENTITY window.sync "Використання застарілої версії Waterfox може пошкодити закладки та історію перегляду, що раніше збережені в наявному профілі. Для захисту інформації, створіть новий профіль для цього встановлення &brandShortName;. Ви завжди можете виконати вхід в &syncBrand.fxAccount.label; для синхронізації своїх закладок та історії перегляду між різними профілями.">
 
 <!ENTITY window.create "Створити новий профіль">
 <!ENTITY window.quit-win "Вийти">

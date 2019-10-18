@@ -11,7 +11,7 @@ process-type-privileged = Eduki pribilegiatua
 process-type-privilegedabout = Pribilegiodun 'honi buruz' orria
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Pribilegiodun Mozilla edukia
+process-type-privilegedmozilla = Pribilegiodun Waterfox edukia
 process-type-extension = Hedapena
 # process used to open file:// URLs
 process-type-file = Fitxategi lokala

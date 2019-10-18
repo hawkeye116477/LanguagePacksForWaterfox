@@ -30,7 +30,7 @@ about-telemetry-full-sql-warning = NOTE: Slow SQL debugging is enabled. Full SQL
 about-telemetry-fetch-stack-symbols = အကန့်များထဲမှ လုပ်ဆောင်ချက်အမည်များအာ:ဆွဲထုတ်ပါ
 about-telemetry-hide-stack-symbols = မူရင်းမှတ်သားချက်များအားပြပါ
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = This page shows the information about performance, hardware, usage and customizations collected by Telemetry. This information is submitted to { $telemetryServerOwner } to help improve { -brand-full-name }.
 # button label to copy the histogram
 about-telemetry-histogram-copy = ကူးယူပါ

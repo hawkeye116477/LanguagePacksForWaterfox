@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = נטרול PDF.js, מציג ה־PDF המובנ�
 policy-DisableDeveloperTools = חסימת גישה לכלי הפיתוח.
 policy-DisableFeedbackCommands = השבתת פקודות לשליחת משוב מתפריט העזרה (שליחת משוב ודיווח על אתר מטעה).
 policy-DisableFirefoxAccounts = נטרול שירותים מבוססי { -fxaccount-brand-name }, לרבות Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = נטרול התכונה Firefox Screenshots.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = נטרול התכונה Waterfox Screenshots.
 policy-DisableFirefoxStudies = למנוע מ־{ -brand-short-name } להריץ מחקרים.
 policy-DisableForgetButton = מניעת גישה לכפתור 'לשכוח'
 policy-DisableFormHistory = לא לזכור היסטוריית חיפוש וטפסים.
@@ -53,7 +53,7 @@ policy-EnableTrackingProtection = הפעלה או השבתה של חסימת ת�
 # English or translate them as verbs.
 policy-Extensions = התקנה, הסרה או נעילה של הרחבות. אפשרות ההתקנה מקבלת כתובות או נתיבים בתור משתנים. האפשרויות להסרה ולנעילה מקבלות מזהים של הרחבות.
 policy-ExtensionUpdate = הפעלה או השבתה של עדכונים אוטומטיים להרחבות.
-policy-FirefoxHome = הגדרת תצורה של מסך הבית של Firefox.
+policy-FirefoxHome = הגדרת תצורה של מסך הבית של Waterfox.
 policy-FlashPlugin = לאפשר או לדחות את השימוש בתוסף החיצוני Flash.
 policy-HardwareAcceleration = כיבוי האצת חומרה אם מוגדר כ־false.
 # “lock” means that the user won’t be able to change this setting

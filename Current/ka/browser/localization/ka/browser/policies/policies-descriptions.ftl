@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = PDF.js-ის გათიშვა, ჩაშ�
 policy-DisableDeveloperTools = შემმუშავებლის ხელსაწყოებთან წვდომის შეზღუდვა.
 policy-DisableFeedbackCommands = უკუკავშირის ბრძანებების გათიშვა დახმარების მენიუდან (გამოხმაურებისა და თაღლითურ საიტზე მოხსენების გაგზავნა)
 policy-DisableFirefoxAccounts = { -fxaccount-brand-name }-ზე დაფუძნებული მომსახურებების გათიშვა, სინქრონიზაციის ჩათვლით.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Firefox Screenshots-ის გათიშვა
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Waterfox Screenshots-ის გათიშვა
 policy-DisableFirefoxStudies = შეზღუდვა, რომ { -brand-short-name } ვერ შეძლებს კვლევების გაშვებას.
 policy-DisableForgetButton = ისტორიის დავიწყების ღილაკთან წვდომის შეზღუდვა.
 policy-DisableFormHistory = ძიებისა და ველების ისტორიის დამახსოვრების შეზღუდვა.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = შიგთავსის შეზღუდ
 policy-Extensions = გაფართოების დაყენება, ამოშლა ან პარამეტრების ჩაკეტვა. დაყენებას პარამეტრების სახით მიეთითება URL-მისამართები ან მდებარეობა. ამოშლისა და ჩაკეტვის პარამეტრებს მიეთითება გაფართოების ID-ები.
 policy-ExtensionSettings = გაფართოების დაყენების თითოეული წვრილმანის მართვა.
 policy-ExtensionUpdate = ჩართვა ან გამორთვა, გაფართოების თვითგანახლების.
-policy-FirefoxHome = Firefox Home-ის გამართვა.
+policy-FirefoxHome = Waterfox Home-ის გამართვა.
 policy-FlashPlugin = Flash-მოდულის გამოყენების დაშვება ან უარყოფა.
 policy-HardwareAcceleration = თუ უარყოფილია, აპარატურული აჩქარების გათიშვა.
 # “lock” means that the user won’t be able to change this setting

@@ -36,7 +36,7 @@ about-telemetry-upload-type =
        *[disabled] kijuko
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Pot buk man nyutu ngec ikom kit matic woto kwede, nyonyo, tic kwede kadong yik ma Pimo tic ocoko. Ngec man kicwalo bot { $telemetryServerOwner } me konyo yubo { -brand-full-name }.
 # string used as a placeholder for the search field
 # More info about it can be found here:

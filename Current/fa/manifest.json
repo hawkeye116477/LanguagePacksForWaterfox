@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-fa@firefox.mozilla.org", 
+      "id": "langpack-fa@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: بهنام اسفهبد, سارا منصوری, رضا حبیبی, آرش موسوی, میلاد زکریا, مسعود احمدزاده, نیوشا بلندزاده, روزبه پورنادر, هوشمند حسن‌نیا, سارا خلعت‌بری, علیرضا خیرخواهان, فرزانه سرافراز, الناز سربر, سحر فدائیان, رضا محمدی, احسان اخگری)", 
-  "description": "Language pack for Firefox for fa"
+  "description": "Language pack for Waterfox Current for fa"
 }

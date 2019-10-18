@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Kaukomittaustiedot
 about-telemetry-current-store = Nykyinen säilö:
 about-telemetry-more-information = Etsitkö lisätietoa?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> sisältää englanniksi oppaita datatyökalujen käytöstä.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry client documentation</a> sisältää englanniksi käsitteiden määritelmät, API-dokumentaation ja dataviittaukset.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Kaukomittaustietojen kojelautojen</a> avulla voi visualisoida dataa, jota Mozilla vastaanottaa kaukomittauksen avulla.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox Data Documentation</a> sisältää englanniksi oppaita datatyökalujen käytöstä.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox Telemetry client documentation</a> sisältää englanniksi käsitteiden määritelmät, API-dokumentaation ja dataviittaukset.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Kaukomittaustietojen kojelautojen</a> avulla voi visualisoida dataa, jota Waterfox vastaanottaa kaukomittauksen avulla.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Anturihakemisto</a> sisältää kaukomitattavien anturien tiedot ja kuvaukset.
 about-telemetry-show-in-Firefox-json-viewer = Avaa JSON-katselimessa
 about-telemetry-home-section = Etusivu
@@ -68,7 +68,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } näytettä, keskiarvo = { $prettyAverage }, summa = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Tällä sivulla näet Kaukomittaus-toiminnallisuuden keräämät tiedot suorituskyvystä, laitteistosta, ominaisuuksien käytöstä ja muokkauksista. Sivulla näkyvät tiedot lähetetään { $telemetryServerOwner }lle auttamaan { -brand-full-name }in kehityksessä.
 about-telemetry-settings-explanation = Kaukomittaus kerää { about-telemetry-data-type } ja tietojen lähetys on <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -140,8 +140,8 @@ about-telemetry-origin-section = Origin-kaukomittaus
 about-telemetry-origin-origin = origin
 about-telemetry-origin-count = lukumäärä
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefoxin origin-kaukomittaus</a> koodaa datan ennen lähettämistä niin, että { $telemetryServerOwner } voi laskea tietueita mutta ei tiedä vaikuttiko tietty { -brand-product-name } lukumäärään vai ei. (<a data-l10n-name="prio-blog-link">lue lisää</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfoxin origin-kaukomittaus</a> koodaa datan ennen lähettämistä niin, että { $telemetryServerOwner } voi laskea tietueita mutta ei tiedä vaikuttiko tietty { -brand-product-name } lukumäärään vai ei. (<a data-l10n-name="prio-blog-link">lue lisää</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process }-prosessi

@@ -160,7 +160,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Acetta o reizego e vanni avanti">
 
-<!ENTITY errorReporting.automatic2 "Segnala eroî comme sto chi pe agiutâ Mozilla a identificâ e blocâ sciti danozi">
+<!ENTITY errorReporting.automatic2 "Segnala eroî comme sto chi pe agiutâ Waterfox a identificâ e blocâ sciti danozi">
 <!ENTITY errorReporting.learnMore "Atre informaçioin…">
 
 <!ENTITY remoteXUL.title "XUL Remòtto">

@@ -58,7 +58,7 @@ app-basics-enterprise-policies = Unternehmensrichtlinien
 app-basics-location-service-key-google = Google-Location-Service-Schlüssel
 app-basics-safebrowsing-key-google = Google-Safebrowsing-Schlüssel
 app-basics-key-google = Google-Schlüssel
-app-basics-key-mozilla = Mozilla-Location-Service-Schlüssel
+app-basics-key-mozilla = Waterfox-Location-Service-Schlüssel
 app-basics-safe-mode = Abgesicherter Modus
 show-dir-label =
     { PLATFORM() ->

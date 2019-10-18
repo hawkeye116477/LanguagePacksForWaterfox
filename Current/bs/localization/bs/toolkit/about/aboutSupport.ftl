@@ -47,7 +47,7 @@ app-basics-profiles = Profili
 app-basics-multi-process-support = Multiprocesni prozori
 app-basics-process-count = Procesi web sadržaja
 app-basics-key-google = Google Key
-app-basics-key-mozilla = Mozilla Location Service Key
+app-basics-key-mozilla = Waterfox Location Service Key
 app-basics-safe-mode = Sigurni režim
 show-dir-label =
     { PLATFORM() ->

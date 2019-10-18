@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-be@firefox.mozilla.org", 
+      "id": "langpack-be@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: mozilla by)", 
-  "description": "Language pack for Firefox for be"
+  "description": "Language pack for Waterfox Current for be"
 }

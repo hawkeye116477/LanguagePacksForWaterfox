@@ -118,10 +118,10 @@ search-results-help-link = Нужна помощь? Посетите <a data-l10
 ## General Section
 
 startup-header = Запуск
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Разрешить одновременный запуск { -brand-short-name } и Firefox
+    .label = Разрешить одновременный запуск { -brand-short-name } и Waterfox
 use-firefox-sync = Совет: При этом используются отдельные профили. Используйте { -sync-brand-short-name(case: "accusative") } для обмена между ними данными.
 get-started-not-logged-in = Войти в { -sync-brand-short-name(case: "accusative") }…
 get-started-configured = Открыть настройки { -sync-brand-short-name(case: "genitive") }
@@ -376,10 +376,10 @@ home-newtabs-mode-label = Новые вкладки
 home-restore-defaults =
     .label = Восстановить по умолчанию
     .accesskey = о
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Домашняя страница Firefox (по умолчанию)
+    .label = Домашняя страница Waterfox (по умолчанию)
 home-mode-choice-custom =
     .label = Мои URL...
 home-mode-choice-blank =
@@ -475,7 +475,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Загрузите Firefox для <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> или <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS,</a> чтобы синхронизироваться со своим мобильным устройством.
+sync-mobile-promo = Загрузите Waterfox для <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> или <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS,</a> чтобы синхронизироваться со своим мобильным устройством.
 
 ## Sync Section - Signed in
 
@@ -523,7 +523,7 @@ sync-engine-creditcards =
     .accesskey = н
 sync-engine-addons =
     .label = Дополнения
-    .tooltiptext = Расширения и темы для Firefox на компьютере
+    .tooltiptext = Расширения и темы для Waterfox на компьютере
     .accesskey = п
 sync-engine-prefs =
     .label =
@@ -581,12 +581,12 @@ history-header = История
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = i
 history-remember-option-all =

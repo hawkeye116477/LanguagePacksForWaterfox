@@ -180,7 +180,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Дадаць выключэнне…">
 <!ENTITY securityOverride.exceptionButton1Label "Прыняць рызыку і працягнуць">
 
-<!ENTITY errorReporting.automatic2 "Паведамляць пра памылкі такога кшталту, каб дапамагчы Mozilla выяўляць і блакаваць зламысныя сайты">
+<!ENTITY errorReporting.automatic2 "Паведамляць пра памылкі такога кшталту, каб дапамагчы Waterfox выяўляць і блакаваць зламысныя сайты">
 <!ENTITY errorReporting.learnMore "Даведацца больш…">
 
 <!ENTITY remoteXUL.title "Аддалены XUL">

@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-de@firefox.mozilla.org", 
+      "id": "langpack-de@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Sebastian Hengst (contributors: Robert Kaiser, Abdulkadir Topal)", 
-  "description": "Language pack for Firefox for de"
+  "description": "Language pack for Waterfox Current for de"
 }

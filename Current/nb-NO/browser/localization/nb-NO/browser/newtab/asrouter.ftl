@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = Om nettstedet har en oppdatering, vil du se en bl�
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Fortsett
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkroniser bokmerkene dine overalt.
 cfr-doorhanger-bookmark-fxa-body = Bra funn! Mangler du bokmerket på dine mobile enheter. Få en { -fxaccount-brand-name }.

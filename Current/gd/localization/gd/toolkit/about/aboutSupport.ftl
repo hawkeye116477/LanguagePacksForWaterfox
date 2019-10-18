@@ -54,7 +54,7 @@ app-basics-remote-processes-count = Pròiseasan cèin
 app-basics-enterprise-policies = Poileasaidhean Enterprise
 app-basics-location-service-key-google = Google Location Service Key
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
-app-basics-key-mozilla = Iuchair seirbheis nan ionad aig Mozilla
+app-basics-key-mozilla = Iuchair seirbheis nan ionad aig Waterfox
 app-basics-safe-mode = Am modh tèarainte
 show-dir-label =
     { PLATFORM() ->

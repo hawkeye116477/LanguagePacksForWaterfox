@@ -47,7 +47,7 @@ app-basics-profiles = Perfiles
 app-basics-multi-process-support = Ventanas multiproceso
 app-basics-process-count = Procesos de contenido web
 app-basics-enterprise-policies = Políticas empresariales
-app-basics-key-mozilla = Clave del servicio de localización de Mozilla
+app-basics-key-mozilla = Clave del servicio de localización de Waterfox
 app-basics-safe-mode = Modo Seguro
 show-dir-label =
     { PLATFORM() ->

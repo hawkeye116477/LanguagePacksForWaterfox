@@ -31,7 +31,7 @@ about-telemetry-full-sql-warning = Nod: Tá dífhabhtú mall SQL ar siúl. D'fh�
 about-telemetry-fetch-stack-symbols = Faigh ainmneacha na bhfeidhmeanna leis an gcruach a thaispeáint
 about-telemetry-hide-stack-symbols = Taispeáin amhshonraí na cruaiche
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Taispeánann an leathanach seo faisnéis maidir le feidhmíocht, crua-earraí, úsáid, agus saincheapadh a bhailigh Telemetry. Seoltar an fhaisnéis seo chuig { $telemetryServerOwner } chun cabhrú linn { -brand-full-name } a fheabhsú.
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”

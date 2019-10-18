@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-gl@firefox.mozilla.org", 
+      "id": "langpack-gl@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Proxecto Trasno (http://trasno.gal/), Asociación PuntoGal (http://asociacion.dominio.gal/))", 
-  "description": "Language pack for Firefox for gl"
+  "description": "Language pack for Waterfox Current for gl"
 }

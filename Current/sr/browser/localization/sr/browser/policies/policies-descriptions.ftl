@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -25,8 +25,8 @@ policy-DisableBuiltinPDFViewer = Онемогући PDF.js, уграђеног �
 policy-DisableDeveloperTools = Блокирај приступ програмерским алаткама.
 policy-DisableFeedbackCommands = Онемогући наредбе за слање повратних информација из менија „Помоћ“ (опције „Пошаљи повратне информације“ и „Пријави обманљив сајт“).
 policy-DisableFirefoxAccounts = Онемогући { -fxaccount-brand-name } услуге, укључујући Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Онемогући Firefox Screenshots могућност.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Онемогући Waterfox Screenshots могућност.
 policy-DisableFirefoxStudies = Спречи извођење { -brand-short-name } студија.
 policy-DisableForgetButton = Спречи приступ дугмету „Заборави“.
 policy-DisableFormHistory = Не памти историју претраживања и формулара.

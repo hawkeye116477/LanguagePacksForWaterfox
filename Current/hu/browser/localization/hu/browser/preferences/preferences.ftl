@@ -118,10 +118,10 @@ search-results-help-link = Segítségre van szüksége? Látogasson el ide: <a d
 ## General Section
 
 startup-header = Indítás
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = A { -brand-short-name } és a Firefox futhat egyszerre
+    .label = A { -brand-short-name } és a Waterfox futhat egyszerre
 use-firefox-sync = Tipp: Ez külön profilokat használ. A { -sync-brand-short-name } segítségével adatokat oszthat meg közöttük.
 get-started-not-logged-in = Bejelentkezés a { -sync-brand-short-name }be
 get-started-configured = A { -sync-brand-short-name } beállításainak megnyitása
@@ -373,10 +373,10 @@ home-newtabs-mode-label = Új lapok
 home-restore-defaults =
     .label = Alapértelmezések visszaállítása
     .accesskey = A
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox kezdőlap (alapértelmezett)
+    .label = Waterfox kezdőlap (alapértelmezett)
 home-mode-choice-custom =
     .label = Egyéni URL-ek…
 home-mode-choice-blank =
@@ -472,7 +472,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Töltse le a Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> vagy <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> appot a mobileszközével való szinkronizáláshoz.
+sync-mobile-promo = Töltse le a Waterfox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> vagy <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> appot a mobileszközével való szinkronizáláshoz.
 
 ## Sync Section - Signed in
 
@@ -520,7 +520,7 @@ sync-engine-creditcards =
     .accesskey = B
 sync-engine-addons =
     .label = Kiegészítők
-    .tooltiptext = Kiegészítők és témák az asztali Firefoxhoz
+    .tooltiptext = Kiegészítők és témák az asztali Waterfoxhoz
     .accesskey = K
 sync-engine-prefs =
     .label =
@@ -578,12 +578,12 @@ history-header = Előzmények
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = A { -brand-short-name }
     .accesskey = A
 history-remember-option-all =

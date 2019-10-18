@@ -48,7 +48,7 @@ app-basics-multi-process-support = Xanelas multiproceso
 app-basics-process-count = Procesos do contido web
 app-basics-enterprise-policies = Políticas empresariais
 app-basics-key-google = Chave do Google
-app-basics-key-mozilla = Chave do servizo de localización de Mozilla
+app-basics-key-mozilla = Chave do servizo de localización de Waterfox
 app-basics-safe-mode = Modo seguro
 show-dir-label =
     { PLATFORM() ->

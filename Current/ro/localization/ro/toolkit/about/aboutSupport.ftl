@@ -64,7 +64,7 @@ app-basics-remote-processes-count = Procese la distanță
 app-basics-enterprise-policies = Politici dedicate întreprinderilor
 app-basics-location-service-key-google = Cheie de servicii Google pentru localizare
 app-basics-safebrowsing-key-google = Cheie Google pentru navigare în siguranță
-app-basics-key-mozilla = Cheie pentru serviciul de localizare Mozilla
+app-basics-key-mozilla = Cheie pentru serviciul de localizare Waterfox
 app-basics-safe-mode = Mod sigur
 show-dir-label =
     { PLATFORM() ->

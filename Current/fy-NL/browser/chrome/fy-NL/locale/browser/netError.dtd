@@ -201,7 +201,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Utsûndering tafoegje…">
 <!ENTITY securityOverride.exceptionButton1Label "It risiko oanfurdigje en trochgean">
 
-<!ENTITY errorReporting.automatic2 "Flaters as dizze rapportearje om Mozilla te helpen kweawollende websites te werkennen en te blokkearjen">
+<!ENTITY errorReporting.automatic2 "Flaters as dizze rapportearje om Waterfox te helpen kweawollende websites te werkennen en te blokkearjen">
 <!ENTITY errorReporting.learnMore "Mear ynfo…">
 
 <!ENTITY remoteXUL.title "Remote XUL">

@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 -sync-brand-short-name = Ribo
-# “Sync” can be localized, “Firefox” must be treated as a brand,
+# “Sync” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = Ribo Firefox
-# “Account” can be localized, “Firefox” must be treated as a brand,
+-sync-brand-name = Ribo Waterfox
+# “Account” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = Akaunt me Firefox
+-fxaccount-brand-name = Akaunt me Waterfox

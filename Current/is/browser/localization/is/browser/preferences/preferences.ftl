@@ -118,10 +118,10 @@ search-results-help-link = Vantar þig hjálp? Kíktu á <a data-l10n-name="url"
 ## General Section
 
 startup-header = Ræsing
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Leyfa { -brand-short-name } og Firefox að keyra á sama tíma
+    .label = Leyfa { -brand-short-name } og Waterfox að keyra á sama tíma
 use-firefox-sync = Ábending: Þetta notar aðskilda reikninga. Notaðu { -sync-brand-short-name } til að deila gögnum á milli þeirra.
 get-started-not-logged-in = Skráðu þig inn í { -sync-brand-short-name }…
 get-started-configured = Opna { -sync-brand-short-name } stillingar
@@ -365,10 +365,10 @@ home-newtabs-mode-label = Nýir flipar
 home-restore-defaults =
     .label = Endurheimta sjálfgildi
     .accesskey = r
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox Home (Sjálfgefið)
+    .label = Waterfox Home (Sjálfgefið)
 home-mode-choice-custom =
     .label = Sérsniðin URL…
 home-mode-choice-blank =
@@ -464,7 +464,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Hala niður Firefox fyrir <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eða <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> til að samstilla með farsímanum.
+sync-mobile-promo = Hala niður Waterfox fyrir <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eða <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> til að samstilla með farsímanum.
 
 ## Sync Section - Signed in
 
@@ -512,7 +512,7 @@ sync-engine-creditcards =
     .accesskey = G
 sync-engine-addons =
     .label = Viðbætur
-    .tooltiptext = Viðbætur og þema fyrir Firefox á borðtölvu
+    .tooltiptext = Viðbætur og þema fyrir Waterfox á borðtölvu
     .accesskey = æ
 sync-engine-prefs =
     .label =
@@ -567,12 +567,12 @@ history-header = Ferill
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } mun
     .accesskey = m
 history-remember-option-all =

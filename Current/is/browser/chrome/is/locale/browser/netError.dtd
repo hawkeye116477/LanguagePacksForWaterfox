@@ -124,7 +124,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Bæta við undantekningu…">
 <!ENTITY securityOverride.exceptionButton1Label "Samþykkja áhættuna og halda áfram">
 
-<!ENTITY errorReporting.automatic2 "Tilkynntu villur eins og þessa til að hjálpa Mozilla að bera kennsl á og loka á hættuleg vefsvæði">
+<!ENTITY errorReporting.automatic2 "Tilkynntu villur eins og þessa til að hjálpa Waterfox að bera kennsl á og loka á hættuleg vefsvæði">
 <!ENTITY errorReporting.learnMore "Fræðast meira…">
 
 <!ENTITY remoteXUL.title "Fjarlægt XUL">

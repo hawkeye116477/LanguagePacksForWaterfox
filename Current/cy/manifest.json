@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-cy@firefox.mozilla.org", 
+      "id": "langpack-cy@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Rhoslyn Prys, David Chan, Dewi B. Jones)", 
-  "description": "Language pack for Firefox for cy"
+  "description": "Language pack for Waterfox Current for cy"
 }

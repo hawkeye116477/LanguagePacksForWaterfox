@@ -11,7 +11,7 @@ process-type-privileged = Ayrıcalıklı içerik
 process-type-privilegedabout = Ayrıcalıklı about
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Ayrıcalıklı Mozilla içeriği
+process-type-privilegedmozilla = Ayrıcalıklı Waterfox içeriği
 process-type-extension = Eklenti
 # process used to open file:// URLs
 process-type-file = Yerel dosya

@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = Si le sito ha un actualisation tu videra un puncto
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Resumer
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisa tu marcapaginas ubique.
 cfr-doorhanger-bookmark-fxa-body = Grande discoperta! Ora non restar sin iste marcapagina sur tu apparatos mobile. Comencia con un { -fxaccount-brand-name }.

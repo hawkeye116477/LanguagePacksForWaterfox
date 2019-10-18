@@ -101,10 +101,10 @@ search-results-help-link = సహాయం కావాలా? <a data-l10n-name
 ## General Section
 
 startup-header = మొదలవడం
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name }ని మరియు Firefox ని ఒకేసారి నడుపుటకు అనుమతించు
+    .label = { -brand-short-name }ని మరియు Waterfox ని ఒకేసారి నడుపుటకు అనుమతించు
 use-firefox-sync = చిట్కా: ఇది వేర్వేరు ప్రొఫైళ్ళను వాడుతుంది. వాటి మధ్యలో డేటాను పంచుకోడానికి { -sync-brand-short-name }ను వాడండి.
 get-started-not-logged-in = { -sync-brand-short-name } లోనికి ప్రవేశించండి…
 get-started-configured = { -sync-brand-short-name } అభిరుచులను తెరువు
@@ -320,10 +320,10 @@ home-newtabs-mode-label = కొత్త ట్యాబు
 home-restore-defaults =
     .label = అప్రమేయాలను పునరుద్ధరించు
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox ముంగిలి (అప్రమేయం)
+    .label = Waterfox ముంగిలి (అప్రమేయం)
 home-mode-choice-custom =
     .label = ఇష్టానుసారం URLలు...
 home-mode-choice-blank =
@@ -417,7 +417,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = మీ మొబైలు పరికరంతో సింక్రనించడానికి Firefoxని <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> లేదా <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> లో దించుకోండి.
+sync-mobile-promo = మీ మొబైలు పరికరంతో సింక్రనించడానికి Waterfoxని <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> లేదా <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> లో దించుకోండి.
 
 ## Sync Section - Signed in
 
@@ -464,7 +464,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = పొడగింతలు
-    .tooltiptext = డెస్కుటాప్ Firefox కోసం పొడగింతలు, అలంకారాలు
+    .tooltiptext = డెస్కుటాప్ Waterfox కోసం పొడగింతలు, అలంకారాలు
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -517,12 +517,12 @@ history-header = చరిత్ర
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =

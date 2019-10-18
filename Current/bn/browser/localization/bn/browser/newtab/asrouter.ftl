@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = যদি সাইটে হালনাগাদ
 cfr-doorhanger-pintab-animation-pause = বিরতি
 cfr-doorhanger-pintab-animation-resume = পুনরায় শুরু
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = সর্বত্র আপনার বুকমার্ক সিঙ্ক করুন।
 cfr-doorhanger-bookmark-fxa-body = দারুন! আপনার মোবাইল ডিভাইসে বুকমার্ক করা বাকি রাখবেন না। { -fxaccount-brand-name } দিয়ে শুরু করুন।

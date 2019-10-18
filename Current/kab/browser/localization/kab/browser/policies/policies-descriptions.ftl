@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = Sens PDF.js, ameskan PDF usliɣ deg { -brand-sh
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
 policy-DisableFeedbackCommands = Sens tiludna akken ad aɣ-d-tazneḍ tikti-inek/inem seg wumuɣ n tallelt ( Azen-d tikti u mmel-aɣ-d ismal ur nemɛin ara).
 policy-DisableFirefoxAccounts = Sens tanfiwin yebnan ɣef { -fxaccount-brand-name }, ula d Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Sens tamahilt Firefox Screenshots.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Sens tamahilt Waterfox Screenshots.
 policy-DisableFirefoxStudies = Sewḥel aselkem n tezrawin n { -brand-short-name }.
 policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n isefka.
 policy-DisableFormHistory = Ur ḥerrez ara amazray n unadi d tferkit.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur u sekker-it m
 policy-Extensions = Sebded, Kkes neƔ sewḥel isiƔzaf. Asebded yettawi URLs neƔ iberdan d iƔewwaren. Tukksa d usewḥel seqdacen isulayen n isiƔzaf.
 policy-ExtensionSettings = Sefrek meṛṛa timeẓra n usbeddi n yisiɣzaf.
 policy-ExtensionUpdate = Emed neɣ sens alqem awurman n iseɣzaf.
-policy-FirefoxHome = Swel asebter agejdan n Firefox.
+policy-FirefoxHome = Swel asebter agejdan n Waterfox.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
 policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 # “lock” means that the user won’t be able to change this setting

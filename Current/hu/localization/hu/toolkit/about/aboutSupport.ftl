@@ -61,7 +61,7 @@ app-basics-remote-processes-count = Távoli folyamatok
 app-basics-enterprise-policies = Vállalati házirendek
 app-basics-location-service-key-google = Google helymeghatározási szolgáltatás kulcs
 app-basics-safebrowsing-key-google = Google Safebrowsing kulcs
-app-basics-key-mozilla = Mozilla helymeghatározási szolgáltatás kulcs
+app-basics-key-mozilla = Waterfox helymeghatározási szolgáltatás kulcs
 app-basics-safe-mode = Csökkentett mód
 show-dir-label =
     { PLATFORM() ->

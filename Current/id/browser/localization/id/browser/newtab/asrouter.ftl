@@ -52,7 +52,7 @@ cfr-doorhanger-pintab-step3 = Jika situs  diperbarui, akan ada titik biru pada t
 cfr-doorhanger-pintab-animation-pause = Jeda
 cfr-doorhanger-pintab-animation-resume = Lanjutkan
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronkan markah Anda di mana saja.
 cfr-doorhanger-bookmark-fxa-body = Penemuan yang mantap! Sekarang jangan pergi tanpa markah ini di perangkat seluler Anda. Mulai dengan { -fxaccount-brand-name }.

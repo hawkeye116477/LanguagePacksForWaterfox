@@ -58,10 +58,10 @@ abuse-report-damage-example = Beispiel: Installiert Malware oder stiehlt Daten
 abuse-report-spam-reason = Erzeugt Spam oder Werbung
 abuse-report-spam-example = Beispiel: Fügt Werbung zu Webseiten hinzu
 
-abuse-report-settings-reason = Ändert meine Suchmaschine oder die Startseite beim Start von Firefox oder eines neuen Tabs, ohne mich darüber zu informieren oder um Erlaubnis zu bitten
+abuse-report-settings-reason = Ändert meine Suchmaschine oder die Startseite beim Start von Waterfox oder eines neuen Tabs, ohne mich darüber zu informieren oder um Erlaubnis zu bitten
 abuse-report-settings-suggestions = Sie können Folgendes versuchen, bevor Sie die Erweiterung melden:
 abuse-report-settings-suggestions-search = Ändern Sie die Standardsucheinstellungen
-abuse-report-settings-suggestions-homepage = Ändern Sie die Startseiten für den Start von Firefox oder eines neuen Tabs
+abuse-report-settings-suggestions-homepage = Ändern Sie die Startseiten für den Start von Waterfox oder eines neuen Tabs
 
 abuse-report-deceptive-reason = Täuscht vor, etwas zu sein, dass es nicht ist
 abuse-report-deceptive-example = Beispiel: Irreführende Beschreibung oder Bilder

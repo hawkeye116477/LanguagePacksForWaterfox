@@ -40,7 +40,7 @@ app-basics-service-workers = Service Workers hantumantey
 app-basics-profiles = Alhaaley
 app-basics-multi-process-support = Goyboobo zanfuney
 app-basics-key-google = Google Kufal
-app-basics-key-mozilla = Mozilla gorodoo goy kufal
+app-basics-key-mozilla = Waterfox gorodoo goy kufal
 app-basics-safe-mode = Saajaw alhaali
 show-dir-label =
     { PLATFORM() ->

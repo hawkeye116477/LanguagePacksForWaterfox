@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-sk@firefox.mozilla.org", 
+      "id": "langpack-sk@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Mozilla.sk (contributors: Team Mozilla.sk)", 
-  "description": "Language pack for Firefox for sk"
+  "author": "Waterfox.sk (contributors: Team Waterfox.sk)", 
+  "description": "Language pack for Waterfox Current for sk"
 }

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -26,8 +26,8 @@ policy-DisableBuiltinPDFViewer = Disattiva PDF.js, il lettore PDF integrato in {
 policy-DisableDeveloperTools = Blocca accesso agli strumenti di sviluppo.
 policy-DisableFeedbackCommands = Disattiva i comandi per inviare feedback dal menu Aiuto (“Invia feedback…” e “Segnala un sito ingannevole…”).
 policy-DisableFirefoxAccounts = Disattiva i servizi basati sugli { -fxaccount-brand-name }, incluso Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Disattiva Firefox Screenshots.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Disattiva Waterfox Screenshots.
 policy-DisableFirefoxStudies = Impedisci a { -brand-short-name } di condurre studi.
 policy-DisableForgetButton = Impedisci accesso al pulsante “Dimentica”.
 policy-DisableFormHistory = Non conservare la cronologia delle ricerche e dei moduli.
@@ -50,7 +50,7 @@ policy-EnableTrackingProtection = Attiva o disattiva il blocco contenuti ed even
 policy-Extensions = Installa, disinstalla o blocca estensioni. L’opzione per installare richiede URL o percorsi come parametri. L’opzione per disinstallare o bloccare richiede gli ID delle estensioni.
 policy-ExtensionSettings = Gestisci tutti gli aspetti connessi all’installazione di estensioni.
 policy-ExtensionUpdate = Attiva o disattiva l’aggiornamento automatico delle estensioni.
-policy-FirefoxHome = Configura Firefox Home.
+policy-FirefoxHome = Configura Waterfox Home.
 policy-FlashPlugin = Consenti o nega l’utilizzo del plugin Flash.
 policy-HardwareAcceleration = Se “false”, disattiva l’accelerazione hardware.
 policy-Homepage = Imposta la pagina iniziale ed eventualmente impedisci modifiche all’opzione.

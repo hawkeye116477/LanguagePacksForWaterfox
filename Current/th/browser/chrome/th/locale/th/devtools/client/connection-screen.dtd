@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "เครื่องมือนักพัฒนา Firefox สามารถดีบั๊กอุปกรณ์ระยะไกล (ตัวอย่างเช่น Firefox สำหรับ Android และ Firefox OS) ตรวจสอบให้แน่ใจว่าคุณได้เปิดตัวเลือก ‘การดีบั๊กระยะไกล’ ในอุปกรณ์ระยะไกล ดูเพิ่มเติมที่ ">
+<!ENTITY remoteHelp "เครื่องมือนักพัฒนา Waterfox สามารถดีบั๊กอุปกรณ์ระยะไกล (ตัวอย่างเช่น Waterfox สำหรับ Android และ Waterfox OS) ตรวจสอบให้แน่ใจว่าคุณได้เปิดตัวเลือก ‘การดีบั๊กระยะไกล’ ในอุปกรณ์ระยะไกล ดูเพิ่มเติมที่ ">
 <!ENTITY remoteDocumentation "เอกสารประกอบ">
 <!ENTITY remoteHelpSuffix "">
 

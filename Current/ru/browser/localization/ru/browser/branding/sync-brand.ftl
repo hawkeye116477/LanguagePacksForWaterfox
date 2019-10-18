@@ -8,19 +8,19 @@
         [genitive] Синхронизации
         [accusative] Синхронизацию
     }
-# “Sync” can be localized, “Firefox” must be treated as a brand,
+# “Sync” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name =
     { $case ->
-        [nominative] Синхронизация Firefox
-        [genitive] Синхронизации Firefox
-       *[accusative] Синхронизацию Firefox
+        [nominative] Синхронизация Waterfox
+        [genitive] Синхронизации Waterfox
+       *[accusative] Синхронизацию Waterfox
     }
-# “Account” can be localized, “Firefox” must be treated as a brand,
+# “Account” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
-       *[nominative] Аккаунт Firefox
-        [instrumental] Аккаунтом Firefox
-        [prepositional] Аккаунте Firefox
+       *[nominative] Аккаунт Waterfox
+        [instrumental] Аккаунтом Waterfox
+        [prepositional] Аккаунте Waterfox
     }

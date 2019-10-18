@@ -11,7 +11,7 @@ process-type-privileged = Priviligert innhald
 process-type-privilegedabout = Priviligerte About-sider
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Privilegert Mozilla-innhald
+process-type-privilegedmozilla = Privilegert Waterfox-innhald
 process-type-extension = Utviding
 # process used to open file:// URLs
 process-type-file = Lokal fil

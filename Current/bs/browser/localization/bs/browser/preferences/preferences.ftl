@@ -43,8 +43,8 @@ category-search =
 pane-privacy-title = Privatnost & sigurnost
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox račun
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Waterfox račun
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } podrška
@@ -110,10 +110,10 @@ search-results-help-link = Trebate pomoć? Posjetite <a data-l10n-name="url">{ -
 ## General Section
 
 startup-header = Pokretanje
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Dozvoli da se { -brand-short-name } i Firefox pokreću u isto vrijeme
+    .label = Dozvoli da se { -brand-short-name } i Waterfox pokreću u isto vrijeme
 use-firefox-sync = Savjet: Ovo koristi odvojene profile. Koristite { -sync-brand-short-name } za dijeljenje podataka između njih.
 get-started-not-logged-in = Prijava u { -sync-brand-short-name }…
 get-started-configured = Otvori { -sync-brand-short-name } postavke
@@ -327,10 +327,10 @@ home-new-windows-tabs-description2 = Izaberite šta želite vidjeti kada otvorit
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Početna stranica i novi prozori
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox Home (Izvorno)
+    .label = Waterfox Home (Izvorno)
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -420,7 +420,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Preuzmi Firefox za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ili <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> za sinhronizaciju sa vašim mobilnim uređajem.
+sync-mobile-promo = Preuzmi Waterfox za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ili <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> za sinhronizaciju sa vašim mobilnim uređajem.
 
 ## Sync Section - Signed in
 
@@ -468,7 +468,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Add-oni
-    .tooltiptext = Ekstenzije i teme za Firefox desktop
+    .tooltiptext = Ekstenzije i teme za Waterfox desktop
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -522,12 +522,12 @@ history-header = Historija
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } će
     .accesskey = e
 history-remember-option-all =

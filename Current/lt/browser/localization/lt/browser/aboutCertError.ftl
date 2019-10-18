@@ -6,7 +6,7 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } naudoja negaliojantį tapatumo liudijimą.
 cert-error-mitm-intro = Svetainės įrodo savo tapatumą pateikdamos liudijimus, išduotus liudijimo įstaigų.
-cert-error-mitm-mozilla = „{ -brand-short-name }“ palaiko ne pelno siekianti organizacija „Mozilla“, prižiūrinti visiškai atvirą liudijimų įstaigos (CA) saugyklą. CA saugykla padeda užtikrinti, kad liudijimų įstaigos laikosi geriausių vartotojo saugumo praktikų.
+cert-error-mitm-mozilla = „{ -brand-short-name }“ palaiko ne pelno siekianti organizacija „Waterfox“, prižiūrinti visiškai atvirą liudijimų įstaigos (CA) saugyklą. CA saugykla padeda užtikrinti, kad liudijimų įstaigos laikosi geriausių vartotojo saugumo praktikų.
 cert-error-mitm-connection = Kai reikia patvirtinti ryšio saugumą, „{ -brand-short-name }“ naudoja „Mozillos“ CA saugyklą, o ne vartotojo operacinės sistemos pateiktus liudijimus. Tad jeigu antivirusinė programa arba tinklas perima susijungimą su liudijimu, išduotu įmonės, nesančios „Mozillos“ CA saugykloje, ryšys laikomas nesaugiu.
 cert-error-trust-unknown-issuer-intro = Kažkas galimai bando apsimesti svetaine, tad jums patartume ja nesinaudoti.
 # Variables:

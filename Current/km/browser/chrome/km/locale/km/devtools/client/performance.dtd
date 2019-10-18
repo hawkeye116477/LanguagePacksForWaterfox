@@ -18,12 +18,12 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "បានបិទទិន្នន័យដែលថតក្នុងពេលជាក់ស្តែង នៅលើ Firefox ដែលគ្មានដំណើរការច្រើន">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "បានបិទទិន្នន័យដែលថតក្នុងពេលជាក់ស្តែង នៅលើ Waterfox ដែលគ្មានដំណើរការច្រើន">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
-<!ENTITY performanceUI.disabledRealTime.disabledE10S "បើកFirefox មានដំណើរការច្រើននៅក្នុងចំណូលចិត្តសម្រាប់សម្រួលទិន្នន័យដែលថតក្នុងពេលជាក់ស្តែង">
+  -  when running on a build that can run multiprocess Waterfox, but just is not enabled. -->
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "បើកWaterfox មានដំណើរការច្រើននៅក្នុងចំណូលចិត្តសម្រាប់សម្រួលទិន្នន័យដែលថតក្នុងពេលជាក់ស្តែង">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->

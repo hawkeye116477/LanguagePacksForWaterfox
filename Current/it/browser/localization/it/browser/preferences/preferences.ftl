@@ -47,7 +47,7 @@ category-search =
 pane-privacy-title = Privacy e sicurezza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -117,10 +117,10 @@ search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">
 ## General Section
 
 startup-header = Avvio
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Consenti l’esecuzione in contemporanea di { -brand-short-name } e Firefox
+    .label = Consenti l’esecuzione in contemporanea di { -brand-short-name } e Waterfox
 use-firefox-sync = Consiglio: questo comporta l’utilizzo di profili diversi. È possibile appoggiarsi a { -sync-brand-short-name } per la sincronizzazione dei dati.
 get-started-not-logged-in = Accedi a { -sync-brand-short-name }…
 get-started-configured = Apri preferenze di { -sync-brand-short-name }
@@ -367,10 +367,10 @@ home-newtabs-mode-label = Nuove schede
 home-restore-defaults =
     .label = Ripristina predefiniti
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Pagina iniziale di Firefox (predefinita)
+    .label = Pagina iniziale di Waterfox (predefinita)
 home-mode-choice-custom =
     .label = Indirizzi personalizzati…
 home-mode-choice-blank =
@@ -466,7 +466,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Scarica Firefox per <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronizzare con cellulari e tablet.
+sync-mobile-promo = Scarica Waterfox per <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronizzare con cellulari e tablet.
 
 ## Sync Section - Signed in
 
@@ -514,7 +514,7 @@ sync-engine-creditcards =
     .accesskey = r
 sync-engine-addons =
     .label = Componenti aggiuntivi
-    .tooltiptext = Estensioni e temi per Firefox desktop
+    .tooltiptext = Estensioni e temi per Waterfox desktop
     .accesskey = o
 sync-engine-prefs =
     .label =
@@ -572,12 +572,12 @@ history-header = Cronologia
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = Impostazioni cronologia:
     .accesskey = m
 history-remember-option-all =

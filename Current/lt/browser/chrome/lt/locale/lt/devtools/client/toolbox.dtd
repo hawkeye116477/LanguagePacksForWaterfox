@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Įgalinti nuotolinį derinimą">
-<!ENTITY options.enableRemote.tooltip2  "Įjungę šią nuostatą, galėsite užsiimti nutolusios „Firefox“ versijos (pavyzdžiui, „Firefox OS“) derinimu">
+<!ENTITY options.enableRemote.tooltip2  "Įjungę šią nuostatą, galėsite užsiimti nutolusios „Waterfox“ versijos (pavyzdžiui, „Waterfox OS“) derinimu">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

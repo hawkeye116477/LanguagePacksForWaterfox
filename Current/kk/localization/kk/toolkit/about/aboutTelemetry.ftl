@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Телеметрия мәліметтері
 about-telemetry-current-store = Ағымдағы қойма:
 about-telemetry-more-information = Көбірек ақпарат керек пе?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox деректер құжаттамасында</a> біздің деректер құралдарымен қалай жұмыс жасау керектігі туралы нұсқаулықтар бар.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox телеметрия клиентінің құжаттамасында</a> концепттер үшін анықтамалар, API құжаттамасы және деректерге сілтемелер бар.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Телеметрия панелінде</a> Mozilla телеметрия арқылы алған деректерді графикалық түрде қарауға болады.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox деректер құжаттамасында</a> біздің деректер құралдарымен қалай жұмыс жасау керектігі туралы нұсқаулықтар бар.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox телеметрия клиентінің құжаттамасында</a> концепттер үшін анықтамалар, API құжаттамасы және деректерге сілтемелер бар.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Телеметрия панелінде</a> Waterfox телеметрия арқылы алған деректерді графикалық түрде қарауға болады.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Зондтар сөздігі</a> Телеметрия жинаған зондтар ақпаратын және сипаттамасын сақтайды.
 about-telemetry-show-in-Firefox-json-viewer = JSON көрсетушісінде ашу
 about-telemetry-home-section = Үй
@@ -67,7 +67,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } үлгі, орташасы = { $prettyAverage }, сомасы = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Бұл парақта телеметриямен жиналған өнімділік, құрылғылар, қолданылу мен баптаулар туралы ақпаратты көрсетеді. Бұл ақпарат { $telemetryServerOwner } адресіне, { -brand-full-name } жақсартуға көмектесу үшін жіберіледі.
 about-telemetry-settings-explanation = Телеметрия { about-telemetry-data-type } жинайды, деректерді жүктеу <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -139,8 +139,8 @@ about-telemetry-origin-section = Қайнар көздер телеметрия�
 about-telemetry-origin-origin = қайнар көзі
 about-telemetry-origin-count = саны
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox қайнар көзі телеметриясы</a> жіберуге дейін деректерді шифрлейді, осылайша { $telemetryServerOwner } нәрселерді санай алады, бірақ, берілген { -brand-product-name } оған үлесін қосқан ба, соны біле алмайды. (<a data-l10n-name="prio-blog-link">көбірек білу</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfox қайнар көзі телеметриясы</a> жіберуге дейін деректерді шифрлейді, осылайша { $telemetryServerOwner } нәрселерді санай алады, бірақ, берілген { -brand-product-name } оған үлесін қосқан ба, соны біле алмайды. (<a data-l10n-name="prio-blog-link">көбірек білу</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } процес

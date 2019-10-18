@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-pt-PT@firefox.mozilla.org", 
+      "id": "langpack-pt-PT@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Alberto Castro, Artur Araújo, Bruno Duarte, Carlos Rodrigues, Cláudio Esperança, Diogo Santos, Francisco Castanheiro, Gonçalo Matos, João Miguel Neves, Marco Sousa, Pedro Antunes, Pedro Figueira, Rita Farinha, Rodrigo Cunha, Sérgio Marques)", 
-  "description": "Language pack for Firefox for pt-PT"
+  "description": "Language pack for Waterfox Current for pt-PT"
 }

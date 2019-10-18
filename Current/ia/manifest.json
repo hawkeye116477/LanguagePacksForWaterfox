@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ia@firefox.mozilla.org", 
+      "id": "langpack-ia@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Rodrigo Guerra, Carmelo Serraino)", 
-  "description": "Language pack for Firefox for ia"
+  "description": "Language pack for Waterfox Current for ia"
 }

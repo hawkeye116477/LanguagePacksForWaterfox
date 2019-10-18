@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-el@firefox.mozilla.org", 
+      "id": "langpack-el@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Kostas Papadimas", 
-  "description": "Language pack for Firefox for el"
+  "description": "Language pack for Waterfox Current for el"
 }

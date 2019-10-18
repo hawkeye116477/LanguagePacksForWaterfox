@@ -129,7 +129,7 @@
 <!ENTITY fullScreenAutohide.accesskey "N">
 <!ENTITY fullScreenExit.label "Esci da schermo intero">
 <!ENTITY fullScreenExit.accesskey "E">
-<!ENTITY fxa.signin.callout.label "Porta Firefox con te">
+<!ENTITY fxa.signin.callout.label "Porta Waterfox con te">
 <!ENTITY fxa.signin.description.label "Ritrova segnalibri, cronologia, password e altre impostazioni su tutti i tuoi dispositivi.">
 <!ENTITY fxa.signin.button.label "Attiva &syncBrand.shortName.label;…">
 <!ENTITY fxa.unverified.callout.label "Controlla la tua email">
@@ -590,7 +590,7 @@
 <!ENTITY identity.connectionInternal "Questa è una pagina sicura di &brandShortName;.">
 <!ENTITY identity.extensionPage "Questa pagina è caricata da un’estensione.">
 <!ENTITY identity.insecureLoginForms2 "Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.">
-<!ENTITY identity.customRoot "Connessione verificata da un certificato emesso da un’autorità non riconosciuta da Mozilla.">
+<!ENTITY identity.customRoot "Connessione verificata da un certificato emesso da un’autorità non riconosciuta da Waterfox.">
 <!ENTITY identity.activeBlocked "Alcuni elementi non sicuri di questa pagina sono stati bloccati da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Alcuni elementi di questa pagina non sono sicuri (ad esempio immagini).">
 <!ENTITY identity.activeLoaded "La protezione è disattivata per questa pagina.">
@@ -605,7 +605,7 @@
 <!ENTITY identity.description.passiveLoaded3 "Nonostante alcuni elementi siano stati bloccati da &brandShortName;, in questa pagina sono ancora presenti elementi non sicuri (ad esempio immagini).">
 <!ENTITY identity.description.activeLoaded "La connessione con questo sito web non è sicura in quanto presenta contenuti non sicuri (ad esempio script).">
 <!ENTITY identity.description.activeLoaded2 "Le informazioni inviate, come ad esempio password, messaggi, dati delle carte di credito, ecc. potrebbero essere visibili ad altri soggetti.">
-<!ENTITY identity.description.customRoot "Mozilla non riconosce il soggetto che ha emesso questo certificato. Potrebbe essere stato aggiunto dal sistema operativo o da un amministratore.">
+<!ENTITY identity.description.customRoot "Waterfox non riconosce il soggetto che ha emesso questo certificato. Potrebbe essere stato aggiunto dal sistema operativo o da un amministratore.">
 <!ENTITY identity.enableMixedContentBlocking.label "Attiva protezione">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
 <!ENTITY identity.disableMixedContentBlocking.label "Disattiva temporaneamente protezione">
@@ -623,7 +623,7 @@
 <!ENTITY tabsToolbar.label "Schede del browser">
 <!ENTITY syncTabsMenu3.label "Schede sincronizzate">
 <!ENTITY syncedTabs.sidebar.label "Schede sincronizzate">
-<!ENTITY syncedTabs.sidebar.noclients.label "Accedi a Firefox con altri dispositivi per visualizzarne le schede aperte.">
+<!ENTITY syncedTabs.sidebar.noclients.label "Accedi a Waterfox con altri dispositivi per visualizzarne le schede aperte.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Come fare per visualizzare in questa sezione le schede da altri dispositivi?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label "Accedi per visualizzare un elenco delle schede dagli altri dispositivi connessi.">
 <!ENTITY syncedTabs.sidebar.unverified.label "L’account non è ancora stato verificato.">
@@ -706,7 +706,7 @@
 <!ENTITY contentBlocking.fingerprintersView.label "Fingerprinter">
 <!ENTITY contentBlocking.openBreakageReportView2.label "Segnala un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Segnalazione problema">
-<!ENTITY contentBlocking.breakageReportView2.description "Il blocco contenuti può causare problemi in alcuni siti. Segnalando eventuali anomalie contribuisci a migliorare &brandShortName; per tutti gli utenti. Questa operazione invierà l’indirizzo (URL) a Mozilla, insieme a informazioni relative alle attuali impostazioni del browser.">
+<!ENTITY contentBlocking.breakageReportView2.description "Il blocco contenuti può causare problemi in alcuni siti. Segnalando eventuali anomalie contribuisci a migliorare &brandShortName; per tutti gli utenti. Questa operazione invierà l’indirizzo (URL) a Waterfox, insieme a informazioni relative alle attuali impostazioni del browser.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ulteriori informazioni">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Indirizzo">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Che tipo di problema si verifica? (facoltativo)">

@@ -4,16 +4,16 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "Zagnali ste starejšo različico Firefoxa">
+<!ENTITY window.title "Zagnali ste starejšo različico Waterfoxa">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Uporaba starejše različice Firefoxa lahko pokvari zgodovino brskanja in zaznamke, ki so že shranjeni v obstoječem Firefoxovem profilu. Za zaščito svojih podatkov ustvarite nov profil za to namestitev &brandShortName;a.">
-<!ENTITY window.sync "Uporaba starejše različice Firefoxa lahko pokvari zgodovino brskanja in zaznamke, ki so že shranjeni v obstoječem Firefoxovem profilu. Za zaščito svojih podatkov ustvarite nov profil za to namestitev &brandShortName;a. Svoje podatke lahko ohranite usklajene v vseh profilih s pomočjo &syncBrand.fxAccount.label;a.">
+<!ENTITY window.nosync "Uporaba starejše različice Waterfoxa lahko pokvari zgodovino brskanja in zaznamke, ki so že shranjeni v obstoječem Waterfoxovem profilu. Za zaščito svojih podatkov ustvarite nov profil za to namestitev &brandShortName;a.">
+<!ENTITY window.sync "Uporaba starejše različice Waterfoxa lahko pokvari zgodovino brskanja in zaznamke, ki so že shranjeni v obstoječem Waterfoxovem profilu. Za zaščito svojih podatkov ustvarite nov profil za to namestitev &brandShortName;a. Svoje podatke lahko ohranite usklajene v vseh profilih s pomočjo &syncBrand.fxAccount.label;a.">
 
 <!ENTITY window.create "Ustvari nov profil">
 <!ENTITY window.quit-win "Izhod">

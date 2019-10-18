@@ -48,7 +48,7 @@ app-basics-multi-process-support = बहुप्रक्रिया वि�
 app-basics-process-count = वेब सामग्री प्रक्रियाएं
 app-basics-enterprise-policies = एंटरप्राइज नीतियाँ
 app-basics-key-google = गूगल कुंजी
-app-basics-key-mozilla = Mozilla अवस्थिति सेवा कुंजी
+app-basics-key-mozilla = Waterfox अवस्थिति सेवा कुंजी
 app-basics-safe-mode = सेफ मोड
 show-dir-label =
     { PLATFORM() ->

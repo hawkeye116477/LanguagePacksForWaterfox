@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ne-NP@firefox.mozilla.org", 
+      "id": "langpack-ne-NP@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Joe Solon, Suzy Solon)", 
-  "description": "Language pack for Firefox for ne-NP"
+  "description": "Language pack for Waterfox Current for ne-NP"
 }

@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrijne daty
 about-telemetry-current-store = Aktualny wobchod:
 about-telemetry-more-information = Pytaśo dalšne informacije?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Datowa dokumentacija Firefox</a> rozpokazanja wó źěłanju z našymi datowymi rědami wopśimujo.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Klientowa dokumentacija za telemetriju Firefox</a> definicije za koncepty, API-dokumentaciju a datowe reference wopśimujo.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetrijowy pśeglěd</a> wam zmóžnja, daty wizualizěrowaś, kótarež Mozilla pśez telemetriju dostawa.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Datowa dokumentacija Waterfox</a> rozpokazanja wó źěłanju z našymi datowymi rědami wopśimujo.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Klientowa dokumentacija za telemetriju Waterfox</a> definicije za koncepty, API-dokumentaciju a datowe reference wopśimujo.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetrijowy pśeglěd</a> wam zmóžnja, daty wizualizěrowaś, kótarež Waterfox pśez telemetriju dostawa.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> staja drobnostki a wopisanja za proby k dispoziciji, kótarež su se nagromaźili z telemetriju.
 about-telemetry-show-in-Firefox-json-viewer = W JSON-wobglědowaku wócyniś
 about-telemetry-home-section = Startowy bok
@@ -70,7 +70,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } pśikładow, pśerězk = { $prettyAverage }, suma = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Toś ten bok pokazujo informacije wó wugbaśu, hardware, wužyśu a pśiměrjenjach zběrane pśez telemetriju. Toś te informacije budu se do { $telemetryServerOwner } słaś, ab pomagali, { -brand-full-name } pólěpšyś.
 about-telemetry-settings-explanation = Telemetrija { about-telemetry-data-type } zběra a <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> se nagrawaju.
 # Variables:
@@ -142,8 +142,8 @@ about-telemetry-origin-section = Telemetrija Origin
 about-telemetry-origin-origin = póchad
 about-telemetry-origin-count = licba
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Telemetrija Origin Firefox</a> daty koděrujo, nježli až se pósćelu, aby { $telemetryServerOwner } mógał wěcy licyś, ale njewě, lěc daty { -brand-product-name } jo k licbje pśinosował. (<a data-l10n-name="prio-blog-link">dalšne informacije</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Telemetrija Origin Waterfox</a> daty koděrujo, nježli až se pósćelu, aby { $telemetryServerOwner } mógał wěcy licyś, ale njewě, lěc daty { -brand-product-name } jo k licbje pśinosował. (<a data-l10n-name="prio-blog-link">dalšne informacije</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Proces { $process }

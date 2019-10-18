@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = As de website in fernijing befettet, sjogge jo in 
 cfr-doorhanger-pintab-animation-pause = Pausearje
 cfr-doorhanger-pintab-animation-resume = Ferfetsje
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Syngronisearje jo blêdwizers oeral.
 cfr-doorhanger-bookmark-fxa-body = Goed fûn! Soargje der no foar dat jo net sûnder blêdwizers sitte op jo mobile apparaten. Start no mei { -fxaccount-brand-name }.

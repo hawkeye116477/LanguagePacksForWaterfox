@@ -52,7 +52,7 @@ app-basics-remote-processes-count = Processi remoti
 app-basics-enterprise-policies = Criteri a livello aziendale
 app-basics-location-service-key-google = Chiave servizio Google Location
 app-basics-safebrowsing-key-google = Chiave servizio Google Safebrowsing
-app-basics-key-mozilla = Chiave per georilevazione di Mozilla
+app-basics-key-mozilla = Chiave per georilevazione di Waterfox
 app-basics-safe-mode = Modalità provvisoria
 show-dir-label =
     { PLATFORM() ->

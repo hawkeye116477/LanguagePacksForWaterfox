@@ -60,7 +60,7 @@ cfr-doorhanger-pintab-step3 = Ma vez un hizivadenn gant al lec'hienn e welot ur 
 cfr-doorhanger-pintab-animation-pause = Ehaniñ
 cfr-doorhanger-pintab-animation-resume = Kenderc'hel
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Goubredit ho sinedoù e pep lec'h.
 cfr-doorhanger-bookmark-fxa-body = Kavet ho peus ul lec'hienn a-zoare! Bremañ eo dav deoc'h adkavout ar sined-mañ war ho trevnadoù hezoug. Krogit gant : { -fxaccount-brand-name }.

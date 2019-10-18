@@ -54,7 +54,7 @@ about-telemetry-upload-type =
        *[disabled] ਅਸਮਰੱਥ ਹੈ
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = ਇਹ ਸਫ਼ਾ ਟੈਲੀਮੈਂਟਰੀ ਵਲੋਂ ਕਾਰਗੁਜ਼ਾਰੀ, ਹਾਰਡਵੇਅਰ, ਵਰਤੋਂ ਅਤੇ ਪਸੰਦ ਬਾਰੇ ਇੱਕਠੀ ਕੀਤੀ ਜਾਣਕਾਰੀ ਵੇਖਾਉਂਦਾ ਹੈ। ਇਹ ਜਾਣਕਾਰੀ ਨੂੰ { $telemetryServerOwner } ਨੂੰ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ ਤਾਂ ਕਿ { -brand-full-name } ਨੂੰ ਸੁਧਾਰਿਆ ਜਾ ਸਕੇ।
 about-telemetry-settings-explanation = ਟੈਲੀਮੈਂਟਰੀ { about-telemetry-data-type } ਇਕੱਤਰ ਕਰ ਰਿਹਾ ਹੈ ਅਤੇ <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> ਅੱਪਲੋਡ ਕਰਦਾ ਹੈ।
 # string used as a placeholder for the search field

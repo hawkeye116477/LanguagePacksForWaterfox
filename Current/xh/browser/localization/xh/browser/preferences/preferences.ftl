@@ -23,8 +23,8 @@ category-search =
 pane-privacy-title = UbuNgasese noKhuseleko
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = IAkhawunti yeFirefox
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = IAkhawunti yeWaterfox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = INkxaso ye{ -brand-short-name }
@@ -65,10 +65,10 @@ search-results-empty-message =
 ## General Section
 
 startup-header = Qalisa
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Vumela i-{ -brand-short-name } kunye ne-Firefox ukuba zisebenze ngaxeshanye
+    .label = Vumela i-{ -brand-short-name } kunye ne-Waterfox ukuba zisebenze ngaxeshanye
 use-firefox-sync = Ingcebiso: Le isebenzisa iiprofayile eyahlukeneyo. Sebenzisa ungqamaniso ukwabelana ngenkcukacha phakathi kwazo.
 get-started-not-logged-in = Sayina ungene kwi-{ -sync-brand-short-name }…
 get-started-configured = Vula iipriferensi ze-{ -sync-brand-short-name }
@@ -313,7 +313,7 @@ sync-signedout-account-title = Qhagamshela nge{ -fxaccount-brand-name }
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Dawnlowuda iFirefox ye<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">I-Android</a>okanye<img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>ukuze ungqamanise nezixhobo zakho zemobhayili.
+sync-mobile-promo = Dawnlowuda iWaterfox ye<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">I-Android</a>okanye<img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>ukuze ungqamanise nezixhobo zakho zemobhayili.
 
 ## Sync Section - Signed in
 
@@ -373,12 +373,12 @@ history-header = Imbali
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = I-{ -brand-short-name } iya
     .accesskey = i
 history-remember-option-all =

@@ -4,16 +4,16 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "Anda telah meluncurkan versi Firefox yang lebih lama">
+<!ENTITY window.title "Anda telah meluncurkan versi Waterfox yang lebih lama">
 <!ENTITY window.style "width: 490px">
 
-<!ENTITY window.nosync "Menggunakan versi Firefox yang lebih lama dapat merusak markah dan riwayat penjelajahan yang telah disimpan ke profil Firefox yang ada. Untuk melindungi informasi Anda, buat profil baru untuk pemasangan &brandShortName; ini.">
-<!ENTITY window.sync "Menggunakan versi Firefox yang lebih lama dapat merusak markah dan riwayat penjelajahan yang telah disimpan ke profil Firefox yang ada. Untuk melindungi informasi Anda, buat profil baru untuk pemasangan &brandShortName; ini. Anda selalu dapat masuk dengan &syncBrand.fxAccount.label; untuk menyinkronkan markah dan riwayat penjelajahan di antara profil.">
+<!ENTITY window.nosync "Menggunakan versi Waterfox yang lebih lama dapat merusak markah dan riwayat penjelajahan yang telah disimpan ke profil Waterfox yang ada. Untuk melindungi informasi Anda, buat profil baru untuk pemasangan &brandShortName; ini.">
+<!ENTITY window.sync "Menggunakan versi Waterfox yang lebih lama dapat merusak markah dan riwayat penjelajahan yang telah disimpan ke profil Waterfox yang ada. Untuk melindungi informasi Anda, buat profil baru untuk pemasangan &brandShortName; ini. Anda selalu dapat masuk dengan &syncBrand.fxAccount.label; untuk menyinkronkan markah dan riwayat penjelajahan di antara profil.">
 
 <!ENTITY window.create "Buat Profil Baru">
 <!ENTITY window.quit-win "Keluar">

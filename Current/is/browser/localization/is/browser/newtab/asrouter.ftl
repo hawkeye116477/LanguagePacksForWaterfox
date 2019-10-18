@@ -51,7 +51,7 @@ cfr-doorhanger-pintab-step2 = Veldu <b>Festa flipa</ b> í valmyndinni.
 cfr-doorhanger-pintab-animation-pause = Setja í bið
 cfr-doorhanger-pintab-animation-resume = Halda áfram
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Samstilltu bókamerkin þín alls staðar.
 cfr-doorhanger-bookmark-fxa-body = Frábær fundur! Vertu ekki án þessa bókamerkis á farsímum þínum. Byrjaðu á { -fxaccount-brand-name }.

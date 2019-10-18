@@ -108,7 +108,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ավելացնել Բացառություն...">
 
-<!ENTITY errorReporting.automatic2 "Հաղորդեք նման սխալների մասին՝ օգնելու համար Mozilla-ին գտնելու և արգելափակելու վնասակար կայքերը">
+<!ENTITY errorReporting.automatic2 "Հաղորդեք նման սխալների մասին՝ օգնելու համար Waterfox-ին գտնելու և արգելափակելու վնասակար կայքերը">
 <!ENTITY errorReporting.learnMore "Իմանալ ավելին…">
 
 <!ENTITY remoteXUL.title "Հեռադիր XUL">

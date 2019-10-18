@@ -46,8 +46,8 @@ category-search =
 pane-privacy-title = Privacidat & Seguranza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Conto de Firefox
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Conto de Waterfox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Soporte de { -brand-short-name }
@@ -114,10 +114,10 @@ search-results-help-link = Te cal aduya? Vesita <a data-l10n-name="url">Aduya de
 ## General Section
 
 startup-header = Inicio
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Permitir que { -brand-short-name } y Firefox corran de vez
+    .label = Permitir que { -brand-short-name } y Waterfox corran de vez
 use-firefox-sync = Consello: Isto fa servir perfils deseparaus. Faiga servir { -sync-brand-short-name } pa compartir datos entre ells.
 get-started-not-logged-in = Dentrar en { -sync-brand-short-name }…
 get-started-configured = Ubrir las preferencias de { -sync-brand-short-name }
@@ -333,10 +333,10 @@ home-newtabs-mode-label = Nuevas pestanyas
 home-restore-defaults =
     .label = Restaurar valors per defecto
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Inicio de Firefox
+    .label = Inicio de Waterfox
 home-mode-choice-custom =
     .label = URL personalizadas…
 home-mode-choice-blank =
@@ -480,7 +480,7 @@ sync-engine-creditcards =
     .accesskey = c
 sync-engine-addons =
     .label = Complementos
-    .tooltiptext = Extensions y temas pa lo Firefox de sobremesa
+    .tooltiptext = Extensions y temas pa lo Waterfox de sobremesa
     .accesskey = C
 sync-engine-prefs =
     .label =
@@ -534,12 +534,12 @@ history-header = Historial
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = Lo { -brand-short-name }:
     .accesskey = L
 history-remember-option-all =

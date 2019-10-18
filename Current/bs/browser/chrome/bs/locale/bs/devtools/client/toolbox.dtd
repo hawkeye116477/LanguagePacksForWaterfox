@@ -80,7 +80,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Omogući udaljeno debuggiranje">
-<!ENTITY options.enableRemote.tooltip2  "Uključivanje ove opcije će omogućiti razvojnim alatima da debagiraju udaljene instance poput Firefox OS-a">
+<!ENTITY options.enableRemote.tooltip2  "Uključivanje ove opcije će omogućiti razvojnim alatima da debagiraju udaljene instance poput Waterfox OS-a">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

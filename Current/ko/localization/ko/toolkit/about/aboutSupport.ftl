@@ -64,7 +64,7 @@ app-basics-remote-processes-count = 원격 프로세스
 app-basics-enterprise-policies = 엔터프라이즈 정책
 app-basics-location-service-key-google = Google 위치 서비스 키
 app-basics-safebrowsing-key-google = Google 세이프 브라우징 키
-app-basics-key-mozilla = Mozilla 위치 서비스 키
+app-basics-key-mozilla = Waterfox 위치 서비스 키
 app-basics-safe-mode = 안전 모드
 show-dir-label =
     { PLATFORM() ->

@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncBrand.shortName.label  "Đồng bộ hóa">
-<!ENTITY syncBrand.fullName.label   "Đồng bộ hóa Firefox">
-<!ENTITY syncBrand.fxAccount.label  "Tài khoản Firefox">
+<!ENTITY syncBrand.fullName.label   "Đồng bộ hóa Waterfox">
+<!ENTITY syncBrand.fxAccount.label  "Tài khoản Waterfox">

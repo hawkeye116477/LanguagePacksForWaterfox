@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncBrand.shortName.label  "Ribo">
-<!ENTITY syncBrand.fullName.label   "Ribo Firefox">
-<!ENTITY syncBrand.fxAccount.label  "Akaunt me Firefox">
+<!ENTITY syncBrand.fullName.label   "Ribo Waterfox">
+<!ENTITY syncBrand.fxAccount.label  "Akaunt me Waterfox">

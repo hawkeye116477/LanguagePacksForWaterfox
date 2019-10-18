@@ -49,7 +49,7 @@ app-basics-multi-process-support = බහුසැකසුම් කවුළ�
 app-basics-process-count = ජාල අන්තර්ගත සැකසුම්
 app-basics-enterprise-policies = ව්‍යවසාය ප්‍රතිපත්ති
 app-basics-key-google = Google යතුර
-app-basics-key-mozilla = Mozilla ස්ථාන සේවා යතුර
+app-basics-key-mozilla = Waterfox ස්ථාන සේවා යතුර
 app-basics-safe-mode = ආරක්ෂිත ප්‍රකාරය
 show-dir-label =
     { PLATFORM() ->

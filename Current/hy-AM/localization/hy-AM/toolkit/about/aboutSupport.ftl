@@ -47,7 +47,7 @@ app-basics-profiles = Պրոֆիլներ
 app-basics-multi-process-support = Բազմաընթացքային պատուհաններ
 app-basics-process-count = Վեբ բովանդակության ընթացքներ
 app-basics-key-google = Google Key
-app-basics-key-mozilla = Mozilla-ի տեղադրության ծառայության բանալի
+app-basics-key-mozilla = Waterfox-ի տեղադրության ծառայության բանալի
 app-basics-safe-mode = Ապահով կերպ
 show-dir-label =
     { PLATFORM() ->

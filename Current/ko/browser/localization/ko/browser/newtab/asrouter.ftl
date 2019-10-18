@@ -52,7 +52,7 @@ cfr-doorhanger-pintab-step3 = 사이트에 업데이트가 있으면 고정된 �
 cfr-doorhanger-pintab-animation-pause = 일시 중지
 cfr-doorhanger-pintab-animation-resume = 계속
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = 어디서나 북마크 동기화
 cfr-doorhanger-bookmark-fxa-body = 멋진 발견! 이제 다른 휴대 기기에서도 이 북마크를 사용해 보세요. { -fxaccount-brand-name }로 시작해 보세요.

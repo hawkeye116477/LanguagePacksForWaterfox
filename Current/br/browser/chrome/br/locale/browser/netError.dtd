@@ -135,7 +135,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Ouzhpennañ un nemedenn…">
 <!ENTITY securityOverride.exceptionButton1Label "Asantiñ ar riskl ha kenderc'hel">
 
-<!ENTITY errorReporting.automatic2 "Danevellit kudennoù evel-se evit sikour Mozilla da naoudiañ ha stankañ al lec'hiennoù droukrañsus">
+<!ENTITY errorReporting.automatic2 "Danevellit kudennoù evel-se evit sikour Waterfox da naoudiañ ha stankañ al lec'hiennoù droukrañsus">
 <!ENTITY errorReporting.learnMore "Gouzout hiroc'h…">
 
 <!ENTITY remoteXUL.title "XUL a-bell">

@@ -52,7 +52,7 @@ cfr-doorhanger-pintab-step3 = หากเว็บไซต์มีการ�
 cfr-doorhanger-pintab-animation-pause = หยุดชั่วคราว
 cfr-doorhanger-pintab-animation-resume = ทำต่อ
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = ซิงค์ที่คั่นหน้าของคุณได้ทุกที่
 cfr-doorhanger-bookmark-fxa-body = เยี่ยมมาก! ตอนนี้อย่าออกไปโดยไม่มีที่คั่นหน้านี้บนอุปกรณ์มือถือของคุณ เริ่มต้นกับ { -fxaccount-brand-name }

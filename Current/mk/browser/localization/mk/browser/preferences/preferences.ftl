@@ -16,8 +16,8 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Сметка за Firefox
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Сметка за Waterfox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Поддршка за { -brand-short-name }
@@ -50,10 +50,10 @@ cancel-no-restart-button = Откажи
 ## General Section
 
 startup-header = Стартување
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Дозволи { -brand-short-name } и Firefox да работат во исто време
+    .label = Дозволи { -brand-short-name } и Waterfox да работат во исто време
 is-default = { -brand-short-name } е вашиот основен прелистувач
 is-not-default = { -brand-short-name } не е вашиот основен прелистувач
 tabs-group-header = Јазичиња

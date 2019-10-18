@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ar@firefox.mozilla.org", 
+      "id": "langpack-ar@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: أيمن حورية, جهاد عفيفي, خالد حسني, سبأ برتو, عبد الرحمن حسني, علاء كساب, أنس الحسيني)", 
-  "description": "Language pack for Firefox for ar"
+  "description": "Language pack for Waterfox Current for ar"
 }

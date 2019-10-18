@@ -40,7 +40,7 @@ app-basics-service-workers = စာရင်းပြုထားသည့် Se
 app-basics-profiles = ပရိုဖိုင်များ
 app-basics-multi-process-support = တစ်ပြိုင်နက်လုပ်ဆောင်ချက် ဝင်းဒိုးများ
 app-basics-key-google = Google Key
-app-basics-key-mozilla = Mozilla Location Service Key
+app-basics-key-mozilla = Waterfox Location Service Key
 app-basics-safe-mode = အန္တရာယ်ကင်း စနစ်
 show-dir-label =
     { PLATFORM() ->

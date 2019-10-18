@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } uzas nevalidan sekurecan atestilon.
 cert-error-mitm-intro = Retejoj legitimas sin per atestiloj, kiuj estas eldonitaj de atestilaj aŭtoritatoj.
-cert-error-mitm-mozilla = { -brand-short-name } estas apogata de la neprofitcela organizo Mozilla, kiu administras tute malfermitan magazenon de atestilaj aŭtoritatoj (CA). Tiu magazeno de CA-j helpas garantii ke la atestilaj aŭtoritatoj plenumos la sekurecajn praktikojn, por protekti la uzantojn.
-cert-error-mitm-connection = { -brand-short-name } uzas la magazenon de CA de Mozilla por kontroli ĉu konektoj estas sekuraj, anstataŭ uzi la atestilojn provizitajn de la mastruma sistemo de la uzanto. Se kontraŭvirusa programo, aŭ reto, interkaptas la konekton per sekureca atestilo eldonita de CA, kiu ne estas en la magazeno de CA de Mozilla, do la konekto estos konsiderita nesekura.
+cert-error-mitm-mozilla = { -brand-short-name } estas apogata de la neprofitcela organizo Waterfox, kiu administras tute malfermitan magazenon de atestilaj aŭtoritatoj (CA). Tiu magazeno de CA-j helpas garantii ke la atestilaj aŭtoritatoj plenumos la sekurecajn praktikojn, por protekti la uzantojn.
+cert-error-mitm-connection = { -brand-short-name } uzas la magazenon de CA de Waterfox por kontroli ĉu konektoj estas sekuraj, anstataŭ uzi la atestilojn provizitajn de la mastruma sistemo de la uzanto. Se kontraŭvirusa programo, aŭ reto, interkaptas la konekton per sekureca atestilo eldonita de CA, kiu ne estas en la magazeno de CA de Waterfox, do la konekto estos konsiderita nesekura.
 cert-error-trust-unknown-issuer-intro = Eble iu klopodas uzurpi la retejon kaj pro tio vi ne devus daŭrigi.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

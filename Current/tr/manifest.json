@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-tr@firefox.mozilla.org", 
+      "id": "langpack-tr@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "mozilla.org.tr (contributors: Mozilla Türkiye Yerelleştirme Takımı)", 
-  "description": "Language pack for Firefox for tr"
+  "author": "mozilla.org.tr (contributors: Waterfox Türkiye Yerelleştirme Takımı)", 
+  "description": "Language pack for Waterfox Current for tr"
 }

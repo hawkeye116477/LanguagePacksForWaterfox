@@ -118,10 +118,10 @@ search-results-help-link = Behöver du hjälp? Besök <a data-l10n-name="url">{ 
 ## General Section
 
 startup-header = Vid start
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Tillåt { -brand-short-name } och Firefox att köra samtidigt
+    .label = Tillåt { -brand-short-name } och Waterfox att köra samtidigt
 use-firefox-sync = Tips: Detta använder separata profiler. Använd { -sync-brand-short-name } för att dela data mellan dem.
 get-started-not-logged-in = Logga in till { -sync-brand-short-name }…
 get-started-configured = Öppna inställningar för { -sync-brand-short-name }
@@ -373,10 +373,10 @@ home-newtabs-mode-label = Nya flikar
 home-restore-defaults =
     .label = Återställ standard
     .accesskey = t
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox startsida (standard)
+    .label = Waterfox startsida (standard)
 home-mode-choice-custom =
     .label = Anpassade webbadresser...
 home-mode-choice-blank =
@@ -472,7 +472,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Hämta Firefox för <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eller <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> för att synkronisera med din mobila enhet.
+sync-mobile-promo = Hämta Waterfox för <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eller <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> för att synkronisera med din mobila enhet.
 
 ## Sync Section - Signed in
 
@@ -520,7 +520,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Tillägg
-    .tooltiptext = Tillägg och teman för Firefox skrivbord
+    .tooltiptext = Tillägg och teman för Waterfox skrivbord
     .accesskey = T
 sync-engine-prefs =
     .label =
@@ -578,12 +578,12 @@ history-header = Historik
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } kommer att
     .accesskey = m
 history-remember-option-all =

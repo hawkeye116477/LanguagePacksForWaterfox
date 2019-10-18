@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Aktivizoni diagnostikim të largët">
-<!ENTITY options.enableRemote.tooltip2  "Aktivizimi i kësaj mundësie do t&apos;u lejojë mjeteve të zhvilluesit të diagnostikojnë një instancë të largët, fjala vjen Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Aktivizimi i kësaj mundësie do t&apos;u lejojë mjeteve të zhvilluesit të diagnostikojnë një instancë të largët, fjala vjen Waterfox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

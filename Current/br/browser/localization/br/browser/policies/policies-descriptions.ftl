@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,7 +27,7 @@ policy-DisableBuiltinPDFViewer = Diweredekaat PDF.js, gweler PDF enkorfet { -bra
 policy-DisableDeveloperTools = Stankañ an ostilhoù diorroer.
 policy-DisableFeedbackCommands = Diweredekaat arc'hadoù evit kas evezhiadennoù adalek al lañser skoazell (Reiñ ho meno ha Danevelliñ ul lec'hienn dagus).
 policy-DisableFirefoxAccounts = Diweredekaat gwazerezhioù diazezet war { -fxaccount-brand-name }, Sync en o zouez.
-# Firefox Screenshots is the name of the feature, and should not be translated.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Diweredekaat ar c'heweriuster Tapadennoù skramm.
 policy-DisableFirefoxStudies = Mirout { -brand-short-name } da lañsañ studiadennoù.
 policy-DisableForgetButton = Diweredekaat an afell evit dilemel ar roadennoù.
@@ -64,7 +64,7 @@ policy-InstallAddonsPermission = Aotren lec'hiennoù 'zo da staliañ askouezhio�
 policy-LocalFileLinks = Aotren lec'hiennoù 'zo da liammañ restroù lec'hel.
 policy-NetworkPrediction = (Di)weredekaat an diougan rouedad (rakkerc'hat DNS)
 policy-NewTabPage = (Di)weredekaat ar bajenn ivinell nevez.
-policy-NoDefaultBookmarks = Diweredekaat krouidigezh ar sinedoù dre ziouer roet gant { -brand-short-name }, hag ar sinedoù speredek (Gweladennet ar muiañ, ivinelloù nevesañ). Evezh: ar reolenn-mañ a zo efedus ar wech kentañ vez loc'het Firefox hepken.
+policy-NoDefaultBookmarks = Diweredekaat krouidigezh ar sinedoù dre ziouer roet gant { -brand-short-name }, hag ar sinedoù speredek (Gweladennet ar muiañ, ivinelloù nevesañ). Evezh: ar reolenn-mañ a zo efedus ar wech kentañ vez loc'het Waterfox hepken.
 policy-OfferToSaveLogins = Rediañ an arventenn evit aotren { -brand-short-name } da ginnig enrollañ an titouroù kennaskañ. Ar gwerzhioù Gwir ha Gaou a zo asantet.
 policy-OverrideFirstRunPage = Merañ ar bajenn loc'hadur kentañ. Laoskit ar reolenn-mañ goullo ma fell deoc'h diweredekaat ar bajenn loc'hadur kentañ.
 policy-OverridePostUpdatePage = Merañ ar pajenn "Petra nevez?" goude un hizivadenn. Laoskit ar reolenn-mañ goullo ma fell deoc'h diweredekaat ar bajenn goude un hizivadenn.

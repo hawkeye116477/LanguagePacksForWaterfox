@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = Jos sivustolla on tapahtunut päivitys, näet sini
 cfr-doorhanger-pintab-animation-pause = Tauko
 cfr-doorhanger-pintab-animation-resume = Jatka
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synkronoi kirjanmerkkisi kaikkialla.
 cfr-doorhanger-bookmark-fxa-body = Hyvä löytö! Älä jää ilman tätä kirjanmerkkiä mobiililaitteillasi. Aloita { -fxaccount-brand-name(case: "genitive") } käyttö.

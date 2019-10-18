@@ -117,7 +117,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Med ma Kikwanyo…">
 
-<!ENTITY errorReporting.automatic2 "Mi ripot me bal calo man me konyo Mozilla nongo ki gengo kakube ma raco">
+<!ENTITY errorReporting.automatic2 "Mi ripot me bal calo man me konyo Waterfox nongo ki gengo kakube ma raco">
 <!ENTITY errorReporting.learnMore "Nong ngec mapol…">
 
 <!ENTITY remoteXUL.title "XUL ma tye wa kama bor">

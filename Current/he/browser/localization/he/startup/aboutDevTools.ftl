@@ -3,27 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = על אודות כלי פיתוח
-enable-title = הפעלת כלי הפיתוח של Firefox
-enable-inspect-element-title = יש להפעיל את כלי הפיתוח של Firefox כדי להשתמש בחוקר הרכיבים
+enable-title = הפעלת כלי הפיתוח של Waterfox
+enable-inspect-element-title = יש להפעיל את כלי הפיתוח של Waterfox כדי להשתמש בחוקר הרכיבים
 enable-inspect-element-message = ניתוח ועריכת HTML ו־CSS עם המפקח כחלק מכלי הפיתוח.
-enable-about-debugging-message = פיתוח וניפוי שגיאות WebExtensions, ‏web workers, ‏service workers ועוד באמצעות כלי הפיתוח של Firefox.
+enable-about-debugging-message = פיתוח וניפוי שגיאות WebExtensions, ‏web workers, ‏service workers ועוד באמצעות כלי הפיתוח של Waterfox.
 enable-key-shortcut-message = הפעלת את קיצור הדרך אל כלי הפיתוח. אם שגית, ניתן לסגור לשונית זו.
 enable-menu-message = ניתן להביא את ה־HTML, ה־CSS וה־JavaScript שלך לידי שלמות עם כלים כמו המפקח ומנפה השגיאות.
-enable-common-message = כלי הפיתוח של Firefox מנוטרלים כברירת מחדל כדי לתת לך יותר שליטה על הדפדפן שלך.
+enable-common-message = כלי הפיתוח של Waterfox מנוטרלים כברירת מחדל כדי לתת לך יותר שליטה על הדפדפן שלך.
 enable-learn-more-link = מידע נוסף על כלי הפיתוח
 enable-enable-button = הפעלת כלי פיתוח
 enable-close-button = סגירת לשונית זו
-welcome-title = ברוכים הבאים לכלי הפיתוח של Firefox!
-newsletter-title = Mozilla Developer Newsletter
+welcome-title = ברוכים הבאים לכלי הפיתוח של Waterfox!
+newsletter-title = Waterfox Developer Newsletter
 newsletter-message = קבלת חדשות, טריקים ומשאבים ישירות לתיבת הדואר הנכנס שלך.
 newsletter-email-placeholder =
     .placeholder = דוא״ל
-newsletter-privacy-label = מקובל עליי שצוות Mozilla יטפל במידע שלי כפי שמפורט ב<a data-l10n-name="privacy-policy">מדיניות הפרטיות</a>.
+newsletter-privacy-label = מקובל עליי שצוות Waterfox יטפל במידע שלי כפי שמפורט ב<a data-l10n-name="privacy-policy">מדיניות הפרטיות</a>.
 newsletter-subscribe-button = הרשמה
 newsletter-thanks-title = תודה!
-newsletter-thanks-message = אם טרם אישרת מינוי לקבוצת דיוור בנושאי Mozilla יתכן שיהיה עליך לעשות זאת. נא לחפש בתיבת הדואר הנכנס או הספאם שלך אם הגיעה הודעה מאתנו.
-footer-title = Firefox Developer Edition
-footer-message = מעניין אותך לחקור לא רק את כלי הפיתוח? ניתן לבחון את דפדפן ה־Firefox שנבנה במיוחד למפתחים ולצורות עבודה מודרניות.
+newsletter-thanks-message = אם טרם אישרת מינוי לקבוצת דיוור בנושאי Waterfox יתכן שיהיה עליך לעשות זאת. נא לחפש בתיבת הדואר הנכנס או הספאם שלך אם הגיעה הודעה מאתנו.
+footer-title = Waterfox Developer Edition
+footer-message = מעניין אותך לחקור לא רק את כלי הפיתוח? ניתן לבחון את דפדפן ה־Waterfox שנבנה במיוחד למפתחים ולצורות עבודה מודרניות.
 footer-learn-more-link = מידע נוסף
 features-learn-more = מידע נוסף
 features-inspector-title = מפקח

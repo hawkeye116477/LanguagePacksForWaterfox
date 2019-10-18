@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Zdalene pytanje za zmylkami">
-<!ENTITY options.enableRemote.tooltip2  "Zmóžnjenje tutoho nastajenja dowoli wuwiwarskim nastrojam, zdalenu instancu Firefox kaž Firefox OS za zmylkami přepytać">
+<!ENTITY options.enableRemote.tooltip2  "Zmóžnjenje tutoho nastajenja dowoli wuwiwarskim nastrojam, zdalenu instancu Waterfox kaž Waterfox OS za zmylkami přepytać">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

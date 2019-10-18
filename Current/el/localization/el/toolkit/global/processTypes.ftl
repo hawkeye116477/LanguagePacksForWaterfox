@@ -11,7 +11,7 @@ process-type-privileged = Προνομιακό περιεχόμενο
 process-type-privilegedabout = Προνομιακή σελίδα About
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Προνομιακό περιεχόμενο Mozilla
+process-type-privilegedmozilla = Προνομιακό περιεχόμενο Waterfox
 process-type-extension = Επέκταση
 # process used to open file:// URLs
 process-type-file = Τοπικό αρχείο

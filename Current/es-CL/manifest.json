@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-es-CL@firefox.mozilla.org", 
+      "id": "langpack-es-CL@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Richard von Moltke, Vedran Tomicic, Carlos Riveros, Joaquín Haeussler, Emilio Sepúlveda, Pablo Olmos De Aguilera, Eduardo Escárez, Ricardo Varas)", 
-  "description": "Language pack for Firefox for es-CL"
+  "description": "Language pack for Waterfox Current for es-CL"
 }

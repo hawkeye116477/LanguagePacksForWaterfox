@@ -118,10 +118,10 @@ search-results-help-link = 需要幫忙嗎？請到 <a data-l10n-name="url">{ -b
 ## General Section
 
 startup-header = 啟動
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = 允許 { -brand-short-name } 與 Firefox 同時執行
+    .label = 允許 { -brand-short-name } 與 Waterfox 同時執行
 use-firefox-sync = 小秘訣: 這樣會使用不同設定檔，可使用 { -sync-brand-short-name } 在兩套瀏覽器間同步資料。
 get-started-not-logged-in = 登入 { -sync-brand-short-name }…
 get-started-configured = 開啟 { -sync-brand-short-name } 偏好設定
@@ -361,10 +361,10 @@ home-newtabs-mode-label = 新分頁
 home-restore-defaults =
     .label = 回復為預設值
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox 首頁（預設值）
+    .label = Waterfox 首頁（預設值）
 home-mode-choice-custom =
     .label = 自訂網址…
 home-mode-choice-blank =
@@ -460,7 +460,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = 下載 Firefox for<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a>或<img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>以與您的行動裝置同步。
+sync-mobile-promo = 下載 Waterfox for<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a>或<img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>以與您的行動裝置同步。
 
 ## Sync Section - Signed in
 
@@ -508,7 +508,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = 附加元件
-    .tooltiptext = Firefox 桌機版的擴充套件與佈景主題
+    .tooltiptext = Waterfox 桌機版的擴充套件與佈景主題
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -566,12 +566,12 @@ history-header = 瀏覽紀錄
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } 將
     .accesskey = w
 history-remember-option-all =

@@ -118,10 +118,10 @@ search-results-help-link = Potřebujete pomoc? Navštivte <a data-l10n-name="url
 ## General Section
 
 startup-header = Spuštění
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Povolit současné spuštění aplikace { -brand-short-name } a Firefox
+    .label = Povolit současné spuštění aplikace { -brand-short-name } a Waterfox
 use-firefox-sync = Tip: Budou použity oddělené uživatelské profily. Pro sdílení dat mezi nimi můžete použít { -sync-brand-short-name(case: "acc") }.
 get-started-not-logged-in = Přihlášení k { -sync-brand-short-name(case: "dat") }…
 get-started-configured = Otevřít nastavení { -sync-brand-short-name(case: "gen") }
@@ -357,7 +357,7 @@ browsing-cfr-recommendations =
     .label = Doporučovat vhodná rozšíření pro navštívené stránky
     .accesskey = r
 browsing-cfr-features =
-    .label = Doporučovat funkce Firefoxu během prohlížení
+    .label = Doporučovat funkce Waterfoxu během prohlížení
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Zjistit více
 
@@ -382,10 +382,10 @@ home-newtabs-mode-label = V novém panelu
 home-restore-defaults =
     .label = Obnovit výchozí
     .accesskey = O
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Výchozí domovskou stránku Firefoxu
+    .label = Výchozí domovskou stránku Waterfoxu
 home-mode-choice-custom =
     .label = Vlastní adresy…
 home-mode-choice-blank =
@@ -467,7 +467,7 @@ containers-remove-button =
 
 sync-signedout-caption = Vezměte si web s sebou
 sync-signedout-description = Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.
-sync-signedout-account-title = Propojit s účtem Firefoxu
+sync-signedout-account-title = Propojit s účtem Waterfoxu
 sync-signedout-account-create = Nemáte účet? Začněte tady
     .accesskey = t
 sync-signedout-account-signin =
@@ -481,7 +481,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Stáhněte si Firefox pro <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> nebo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> a synchronizujte svá data se svým mobilním zařízením.
+sync-mobile-promo = Stáhněte si Waterfox pro <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> nebo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> a synchronizujte svá data se svým mobilním zařízením.
 
 ## Sync Section - Signed in
 
@@ -529,7 +529,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Doplňky
-    .tooltiptext = Rozšíření a motivy vzhledu ve Firefoxu pro počítač
+    .tooltiptext = Rozšíření a motivy vzhledu ve Waterfoxu pro počítač
     .accesskey = D
 sync-engine-prefs =
     .label =
@@ -591,12 +591,12 @@ history-header = Historie prohlížení
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = Historii prohlížených stránek
     .accesskey = i
 history-remember-option-all =

@@ -64,7 +64,7 @@ app-basics-remote-processes-count = Адлеглыя працэсы
 app-basics-enterprise-policies = Карпаратыўная палітыка
 app-basics-location-service-key-google = Ключ Службы вызначэння месцазнаходжання ад Google
 app-basics-safebrowsing-key-google = Ключ бяспечнага аглядання ад Google
-app-basics-key-mozilla = Ключ Службы вызначэння месцазнаходжання ад Mozilla
+app-basics-key-mozilla = Ключ Службы вызначэння месцазнаходжання ад Waterfox
 app-basics-safe-mode = Абаронены рэжым
 show-dir-label =
     { PLATFORM() ->

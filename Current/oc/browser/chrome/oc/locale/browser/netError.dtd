@@ -123,7 +123,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Apondre une excepcion…">
 <!ENTITY securityOverride.exceptionButton1Label "Acceptar lo risc e contunhar">
 
-<!ENTITY errorReporting.automatic2 "Senhalar de talas errors ajuda Mozilla a identificar e blocar de sites malvolents">
+<!ENTITY errorReporting.automatic2 "Senhalar de talas errors ajuda Waterfox a identificar e blocar de sites malvolents">
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
 
 <!ENTITY remoteXUL.title "XUL distant">

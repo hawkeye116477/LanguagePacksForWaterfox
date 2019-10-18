@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-bn@firefox.mozilla.org", 
+      "id": "langpack-bn@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Zobayer Ahmed Khan, Mahay Alam Khan)", 
-  "description": "Language pack for Firefox for bn"
+  "description": "Language pack for Waterfox Current for bn"
 }

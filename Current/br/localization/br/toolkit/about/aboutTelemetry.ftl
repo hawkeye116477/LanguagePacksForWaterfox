@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Roadennoù Telemetry
 about-telemetry-more-information = O klask muioc'h a ditouroù?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Teuliadur roadennoù Firefox</a> a ginnig sturlevrioù evit kompren penaos implij hor ostilhoù roadennoù.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Teuliadur arval pellventerezh Firefox</a> a enkorf despizadurioù evit meizadoù, teuliadurioù API ha daveennoù roadennoù.
-about-telemetry-telemetry-dashboard = Gant an <a data-l10n-name="dashboard-link">daolenn bellventerezh</a> e c'hallit gwelet ar roadennoù resevet gant Mozilla dre ar pellventerezh.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Teuliadur roadennoù Waterfox</a> a ginnig sturlevrioù evit kompren penaos implij hor ostilhoù roadennoù.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Teuliadur arval pellventerezh Waterfox</a> a enkorf despizadurioù evit meizadoù, teuliadurioù API ha daveennoù roadennoù.
+about-telemetry-telemetry-dashboard = Gant an <a data-l10n-name="dashboard-link">daolenn bellventerezh</a> e c'hallit gwelet ar roadennoù resevet gant Waterfox dre ar pellventerezh.
 about-telemetry-telemetry-probe-dictionary = Ar <a data-l10n-name="probe-dictionary-link">geriadur standilhonoù</a> a ro munudoù ha deskrivadurioù evit ar standilhonoù dastumet gant Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Digeriñ er gweler JSON
 about-telemetry-home-section = Degemer
@@ -70,7 +70,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } standilhon, keidenn = { $prettyAverage }, sammad = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Ar bajenn-mañ a ziskouez ar roadennoù a-fet digonusted, periant, arver ha personelaat dastumet gant Telemetry. Kaset eo an titouroù-mañ da { $telemetryServerOwner } evit skoazellañ gwellaat { -brand-full-name }.
 about-telemetry-settings-explanation = Ar pellventerezh a zo o tastum { about-telemetry-data-type } ha <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> eo ar pellgas.
 # Variables:
@@ -142,5 +142,5 @@ about-telemetry-origin-section = Origin Telemetry
 about-telemetry-origin-origin = orin
 about-telemetry-origin-count = niver
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> a enboneg ar roadennoù a-raok kas anezho evit ma c'hallfe { $telemetryServerOwner } kontañ an traoù met n'hallfe ket gouzout m'eo enkorfet { -brand-product-name } en niver hollek. (<a data-l10n-name="prio-blog-link">Gouzout hiroc'h</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfox Origin Telemetry</a> a enboneg ar roadennoù a-raok kas anezho evit ma c'hallfe { $telemetryServerOwner } kontañ an traoù met n'hallfe ket gouzout m'eo enkorfet { -brand-product-name } en niver hollek. (<a data-l10n-name="prio-blog-link">Gouzout hiroc'h</a>)

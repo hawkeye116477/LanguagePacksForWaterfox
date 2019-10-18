@@ -3,27 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = Sobre o Developer Tools
-enable-title = Ativar o Firefox Developer Tools
-enable-inspect-element-title = Ative o Firefox Developer Tools para usar o Inspect Element
+enable-title = Ativar o Waterfox Developer Tools
+enable-inspect-element-title = Ative o Waterfox Developer Tools para usar o Inspect Element
 enable-inspect-element-message = Examine and edit HTML and CSS with the Developer Tools’ Inspector.
-enable-about-debugging-message = Develop and debug WebExtensions, web workers, service workers and more with Firefox Developer Tools.
+enable-about-debugging-message = Develop and debug WebExtensions, web workers, service workers and more with Waterfox Developer Tools.
 enable-key-shortcut-message = You activated a Developer Tools shortcut. If that was a mistake, you can close this Tab.
 enable-menu-message = Perfect your website’s HTML, CSS, and JavaScript with tools like Inspector and Debugger.
-enable-common-message = Firefox Developer Tools are disabled by default to give you more control over your browser.
+enable-common-message = Waterfox Developer Tools are disabled by default to give you more control over your browser.
 enable-learn-more-link = Saiba mais sobre o Developer Tools
 enable-enable-button = Ativar Developer Tools
 enable-close-button = Fechar esta aba
-welcome-title = Boas-vindas ao Firefox Developer Tools!
-newsletter-title = Mozilla Developer Newsletter
+welcome-title = Boas-vindas ao Waterfox Developer Tools!
+newsletter-title = Waterfox Developer Newsletter
 newsletter-message = Get developer news, tricks and resources sent straight to your inbox.
 newsletter-email-placeholder =
     .placeholder = E-mail
-newsletter-privacy-label = I’m okay with Mozilla handling my info as explained in this <a data-l10n-name="privacy-policy">Privacy Policy</a>.
+newsletter-privacy-label = I’m okay with Waterfox handling my info as explained in this <a data-l10n-name="privacy-policy">Privacy Policy</a>.
 newsletter-subscribe-button = Subscribe
 newsletter-thanks-title = Obrigado!
-newsletter-thanks-message = If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-footer-title = Firefox Developer Edition
-footer-message = Procurando mais do que uma ferramenta de desenvolvimento? Confira o navegador Firefox que é construído especificamente para desenvolvedores e fluxos de trabalho modernos.
+newsletter-thanks-message = If you haven’t previously confirmed a subscription to a Waterfox-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+footer-title = Waterfox Developer Edition
+footer-message = Procurando mais do que uma ferramenta de desenvolvimento? Confira o navegador Waterfox que é construído especificamente para desenvolvedores e fluxos de trabalho modernos.
 footer-learn-more-link = Learn more
 features-learn-more = Learn more
 features-inspector-title = Inspector

@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-rm@firefox.mozilla.org", 
+      "id": "langpack-rm@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Martin Cantieni, Gion-Andri Cantieni, Sara Hermann, cordial sustegn da la Lia Rumantscha)", 
-  "description": "Language pack for Firefox for rm"
+  "description": "Language pack for Waterfox Current for rm"
 }

@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } utilitza un certificat de seguretat que no és vàlid.
 cert-error-mitm-intro = Els llocs web demostren la seva identitat mitjançant certificats emesos per entitats certificadores.
-cert-error-mitm-mozilla = El { -brand-short-name } té el suport de l'organització sense ànim de lucre Mozilla, que gestiona un magatzem d'entitat certificadora (CA) completament obert. El magatzem de CA us garanteix que les entitats certificadores segueixen les millors pràctiques per a la seguretat dels usuaris.
-cert-error-mitm-connection = El { -brand-short-name } utilitza el magatzem de CA de Mozilla per verificar que una connexió és segura, en lloc d'utilitzar certificats subministrats pel sistema operatiu de l'usuari. Per tant, si un programa antivirus o una xarxa intercepten una connexió amb un certificat de seguretat emès per una CA que no es troba al magatzem de CA de Mozilla, la connexió es considera insegura.
+cert-error-mitm-mozilla = El { -brand-short-name } té el suport de l'organització sense ànim de lucre Waterfox, que gestiona un magatzem d'entitat certificadora (CA) completament obert. El magatzem de CA us garanteix que les entitats certificadores segueixen les millors pràctiques per a la seguretat dels usuaris.
+cert-error-mitm-connection = El { -brand-short-name } utilitza el magatzem de CA de Waterfox per verificar que una connexió és segura, en lloc d'utilitzar certificats subministrats pel sistema operatiu de l'usuari. Per tant, si un programa antivirus o una xarxa intercepten una connexió amb un certificat de seguretat emès per una CA que no es troba al magatzem de CA de Waterfox, la connexió es considera insegura.
 cert-error-trust-unknown-issuer-intro = És possible que algú estigui intentant suplantar el lloc i no hauríeu de continuar.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

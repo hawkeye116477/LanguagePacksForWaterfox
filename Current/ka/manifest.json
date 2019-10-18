@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ka@firefox.mozilla.org", 
+      "id": "langpack-ka@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Beqa Arabuli, Giorgi Maghlakelidze)", 
-  "description": "Language pack for Firefox for ka"
+  "description": "Language pack for Waterfox Current for ka"
 }

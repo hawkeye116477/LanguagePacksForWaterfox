@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Uzaktan hata ayıklamayı etkinleştir">
-<!ENTITY options.enableRemote.tooltip2  "Bu seçeneği açmak, geliştirici araçlarının Firefox OS gibi uzaktaki bir ortamda hata ayıklamasına olanak tanır">
+<!ENTITY options.enableRemote.tooltip2  "Bu seçeneği açmak, geliştirici araçlarının Waterfox OS gibi uzaktaki bir ortamda hata ayıklamasına olanak tanır">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

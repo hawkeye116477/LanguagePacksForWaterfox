@@ -39,8 +39,8 @@ category-search =
 pane-privacy-title = ឯកជន​ភាព & សុវត្ថិភាព
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = គណនី Firefox
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = គណនី Waterfox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } ជំនួយ
@@ -98,10 +98,10 @@ search-results-help-link = ត្រូវការជំនួយទេ? មើ
 ## General Section
 
 startup-header = ចាប់ផ្ដើម​ឡើង
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = អនុញ្ញាត​ឲ្យ { -brand-short-name } និង Firefox ដំណើរការ​ក្នុង​ពេល​ដូចគ្នា
+    .label = អនុញ្ញាត​ឲ្យ { -brand-short-name } និង Waterfox ដំណើរការ​ក្នុង​ពេល​ដូចគ្នា
 use-firefox-sync = ព័ត៌មាន​ជំនួយ៖ វា​ប្រើ​ប្រាស់​​កម្រង​ព័ត៌មាន​​ដោយឡែក។ ប្រើប្រាស់ { -sync-brand-short-name } ដើម្បី​ចែករំលែក​ទិន្នន័យ​រវាង​​កម្រងព័ត៌មាន​ទាំងនេះ។
 get-started-not-logged-in = ចូល { -sync-brand-short-name } ...
 get-started-configured = បើក​ចំណូលចិត្ត { -sync-brand-short-name }
@@ -309,10 +309,10 @@ home-newtabs-mode-label = ផ្ទាំងថ្មី
 home-restore-defaults =
     .label = ស្ដារ​លំនាំ​ដើម
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = ទំព័រដើម Firefox (លំនាំដើម)
+    .label = ទំព័រដើម Waterfox (លំនាំដើម)
 home-mode-choice-custom =
     .label = URL ផ្ទាល់ខ្លួន…
 home-mode-choice-blank =
@@ -408,7 +408,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = ទាញ​យក​ Firefox សម្រាប់​<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ឬ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>ធ្វើ​សម​កាល​កម្ម​​ឧបករណ៍​ចល័ត​របស់​អ្នក។
+sync-mobile-promo = ទាញ​យក​ Waterfox សម្រាប់​<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ឬ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>ធ្វើ​សម​កាល​កម្ម​​ឧបករណ៍​ចល័ត​របស់​អ្នក។
 
 ## Sync Section - Signed in
 
@@ -475,12 +475,12 @@ history-header = ប្រវត្តិ
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } នឹង
     .accesskey = w
 history-remember-option-all =

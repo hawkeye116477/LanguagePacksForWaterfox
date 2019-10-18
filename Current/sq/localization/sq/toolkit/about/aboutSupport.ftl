@@ -64,7 +64,7 @@ app-basics-remote-processes-count = Procese të Largët
 app-basics-enterprise-policies = Rregulla të Ndërmarrjes
 app-basics-location-service-key-google = Ky Shërbimi Vendndodhjesh Google
 app-basics-safebrowsing-key-google = Kyç Google Safebrowsing
-app-basics-key-mozilla = Kyç Mozilla Location Service
+app-basics-key-mozilla = Kyç Waterfox Location Service
 app-basics-safe-mode = Mënyrë e Sigurt
 show-dir-label =
     { PLATFORM() ->

@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Isefka n tilisɣelt
 about-telemetry-more-information = Tettnadiḍ ugar n telγut?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Tisemlit n isefka Firefox</a> tegber imniren γef amek ad nseqdec s ifecka n isefka.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Tisemlit n isefka Waterfox</a> tegber imniren γef amek ad nseqdec s ifecka n isefka.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Tisemlit n umsaγ tilisγelt</a>tegber tabadut yef tiktiwin, API tisemlit akked isefka ittwamlen.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Tafelwit n tilisγelt</a> ad k-tsireg akken ad twaliḍ isefka ittwaznen i Mozilla s ttawil n tilispyelt.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Tafelwit n tilisγelt</a> ad k-tsireg akken ad twaliḍ isefka ittwaznen i Waterfox s ttawil n tilispyelt.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Amawal n usenqed</a> ittmuddu-d talqayt akked uglam i isenqaden id-telqeḍ tilisɣelt.
 about-telemetry-show-in-Firefox-json-viewer = Ldi deg umeskan JSON
 about-telemetry-home-section = Agejdan
@@ -57,7 +57,7 @@ about-telemetry-upload-type =
        *[disabled] yensa
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Asebter-agi iskan-d talɣut n tmellit, arrum, aseqdec d waggan id d-lqeḍ tilisɣelt. Talɣut-agi tettwazen i { $telemetryServerOwner } i wusnerni n { -brand-full-name }.
 about-telemetry-settings-explanation = Tilisγelt tettalqqaḍ { about-telemetry-data-type } sakin tuzna d <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

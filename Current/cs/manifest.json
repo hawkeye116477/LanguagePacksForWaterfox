@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-cs@firefox.mozilla.org", 
+      "id": "langpack-cs@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Mozilla.cz (contributors: Pavel Cvrček, Pavel Franc, Jan Havlena, Filip Hruška, Michal Stanke, Michal Vašíček, Tomáš Zelina)", 
-  "description": "Language pack for Firefox for cs"
+  "author": "Waterfox.cz (contributors: Pavel Cvrček, Pavel Franc, Jan Havlena, Filip Hruška, Michal Stanke, Michal Vašíček, Tomáš Zelina)", 
+  "description": "Language pack for Waterfox Current for cs"
 }

@@ -3,27 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = Mboguatahára rembipuru rehegua
-enable-title = Embojuruja Firefox mboguatahára rembipuru
-enable-inspect-element-title = Embojuruja Firefox mboguatahára rembipuru eipuru hag̃ua moambuekuaaha mba'epurúpe
+enable-title = Embojuruja Waterfox mboguatahára rembipuru
+enable-inspect-element-title = Embojuruja Waterfox mboguatahára rembipuru eipuru hag̃ua moambuekuaaha mba'epurúpe
 enable-inspect-element-message = Ehechakatu ha embosako'i HTML ha CSS mboguatahára rembipuru mbohekohápe.
-enable-about-debugging-message = Emboguata ha emopitĩ WebExtensions, web workers, service workers ha hetave Firefox mboguatahára rembipuru ndive.
+enable-about-debugging-message = Emboguata ha emopitĩ WebExtensions, web workers, service workers ha hetave Waterfox mboguatahára rembipuru ndive.
 enable-key-shortcut-message = Emyendy jeike pya'eha mboguataha rembipurúpe. Ojavy mba'éramo, ikatu emboty ko tendayke.
 enable-menu-message = Emoañete HTML, CSS ha JavaScript ne ñanduti rendápe tembipuru mbohekoha ha mopotĩháramo.
-enable-common-message = Firefox mboguatahára rembipuru oñembotýma ojipykue rupi oma'ẽag̃uive hag̃ua ne kundahára rehe.
+enable-common-message = Waterfox mboguatahára rembipuru oñembotýma ojipykue rupi oma'ẽag̃uive hag̃ua ne kundahára rehe.
 enable-learn-more-link = Eikuaave mboguatahára rembipuru rehegua
 enable-enable-button = Embojuruja mboguatahára rembipuru
 enable-close-button = Emboty ko tendayke
-welcome-title = ¡Tereg̃uahẽporãite Firefox mboguatahára rembipurúpe!
-newsletter-title = Mozilla Mboguatahára kuatiahai
+welcome-title = ¡Tereg̃uahẽporãite Waterfox mboguatahára rembipurúpe!
+newsletter-title = Waterfox Mboguatahára kuatiahai
 newsletter-message = Embyaty marandu,ñembosarái ha opa mba'e mboguatahára rehegua neñe'ë vevetépe
 newsletter-email-placeholder =
     .placeholder = Ñanduti veve
-newsletter-privacy-label = Amoneĩ Mozilla-pe ohechávo che mba'ekuarã omyesakãháicha <a data-l10n-name="privacy-policy">Temiñemi purureko</a>.
+newsletter-privacy-label = Amoneĩ Waterfox-pe ohechávo che mba'ekuarã omyesakãháicha <a data-l10n-name="privacy-policy">Temiñemi purureko</a>.
 newsletter-subscribe-button = Eñemboheraguapy
 newsletter-thanks-title = ¡Aguyje!
-newsletter-thanks-message = Neremoneĩramo gueteri ñemboheraguapy Mozilla reheguáva, ikatu hína ejapova'erã katuete péva. Ikatú piko ehchajey oúmapa ñanduti veve g̃uahẽháme térãpa oĩ ñanduti veve ytyguáva mboguahápe.
-footer-title = Firefox Developer Edition
-footer-message = ¿Ehekave mboguatahára rembipuru? Ehechajey Firefox kundahára ojejapoha mboguatahárape g̃uarã añoite ha umi mba'eapo tembiapo ag̃aguáva rehegua.
+newsletter-thanks-message = Neremoneĩramo gueteri ñemboheraguapy Waterfox reheguáva, ikatu hína ejapova'erã katuete péva. Ikatú piko ehchajey oúmapa ñanduti veve g̃uahẽháme térãpa oĩ ñanduti veve ytyguáva mboguahápe.
+footer-title = Waterfox Developer Edition
+footer-message = ¿Ehekave mboguatahára rembipuru? Ehechajey Waterfox kundahára ojejapoha mboguatahárape g̃uarã añoite ha umi mba'eapo tembiapo ag̃aguáva rehegua.
 footer-learn-more-link = Eikuaave
 features-learn-more = Kuaave
 features-inspector-title = Moambuekuaaha

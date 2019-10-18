@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ru@firefox.mozilla.org", 
+      "id": "langpack-ru@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Mozilla Russia (contributors: Александр Словесник)", 
-  "description": "Language pack for Firefox for ru"
+  "author": "Waterfox Russia (contributors: Александр Словесник)", 
+  "description": "Language pack for Waterfox Current for ru"
 }

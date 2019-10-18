@@ -40,7 +40,7 @@ onboarding-benefit-knowledge-text = Aprende todo lo que necesitas saber para man
 onboarding-benefit-privacy-title = Privacidad de verdad
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
+# Waterfox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Todo lo que hacemos honra nuestra promesa de datos personales: Tomar menos. Mantenerlo seguro. Sin secretos.
@@ -96,7 +96,7 @@ onboarding-lockwise-passwords-title = Lleva tus contraseñas a todas partes
 onboarding-lockwise-passwords-text2 = Mantén las contraseñas que guardas de forma segura y conéctate fácilmente a tus cuentas con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Conseguir la aplicación
 onboarding-facebook-container-title = Establece la frontera con Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantiene tu perfil separado de todo lo demás, haciendo más difícil para Firefox el entregarte publicidad personalizada.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantiene tu perfil separado de todo lo demás, haciendo más difícil para Waterfox el entregarte publicidad personalizada.
 onboarding-facebook-container-button = Añadir la extensión
 
 ## Message strings belonging to the Return to AMO flow

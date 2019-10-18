@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = ટેલીમેટ્રી માહિતી
 about-telemetry-more-information = વધુ માહિતી જોઈએ છે?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox ડેટા દસ્તાવેજીકરણ</a> માં અમારા ડેટા સાધનો સાથે કેવી રીતે કામ કરવું તે વિશેની માર્ગદર્શિકાઓ છે.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox ટેલિમેટ્રી ક્લાયંટ દસ્તાવેજીકરણ</a> વિભાવનાઓ, API દસ્તાવેજીકરણ અને ડેટા સંદર્ભો માટેની વ્યાખ્યાઓનો સમાવેશ કરે છે.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">ટેલીમેટ્રી ડેશબોર્ડ્સ</a> તમને Mozilla ડેટા મારફતે વિઝ્યુઅલાઈઝ કરવા માટે પરવાનગી આપે છે જે ટેલીમેટ્રી મારફતે મેળવે છે.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox ડેટા દસ્તાવેજીકરણ</a> માં અમારા ડેટા સાધનો સાથે કેવી રીતે કામ કરવું તે વિશેની માર્ગદર્શિકાઓ છે.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox ટેલિમેટ્રી ક્લાયંટ દસ્તાવેજીકરણ</a> વિભાવનાઓ, API દસ્તાવેજીકરણ અને ડેટા સંદર્ભો માટેની વ્યાખ્યાઓનો સમાવેશ કરે છે.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">ટેલીમેટ્રી ડેશબોર્ડ્સ</a> તમને Waterfox ડેટા મારફતે વિઝ્યુઅલાઈઝ કરવા માટે પરવાનગી આપે છે જે ટેલીમેટ્રી મારફતે મેળવે છે.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> એ ટેલિમેટ્રી દ્વારા એકત્રિત કરેલી ચકાસણીઓ માટેની વિગતો અને વર્ણનો પ્રદાન કરે છે.
 about-telemetry-show-in-Firefox-json-viewer = JSON દર્શકમાં ખોલો
 about-telemetry-home-section = મુખ્ય પાનું
@@ -67,7 +67,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } નમૂનાઓ, સરેરાશ = { $prettyAverage }, સરવાળો = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = This page shows the information about performance, hardware, usage and customizations collected by Telemetry. This information is submitted to { $telemetryServerOwner } to help improve { -brand-full-name }.
 about-telemetry-settings-explanation = ટેલીમેટ્રી { about-telemetry-data-type } એકત્રિત કરી રહ્યું છે અને અપલોડ <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> છે.
 # Variables:

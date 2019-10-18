@@ -56,7 +56,7 @@ cfr-doorhanger-pintab-animation-pause = 停止
 cfr-doorhanger-pintab-animation-resume = 再生
 
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 cfr-doorhanger-bookmark-fxa-header = どこからでもブックマークを同期します。
 cfr-doorhanger-bookmark-fxa-body = 見つかっちゃった。ブックマークをこの端末だけに残しておかないで同期して。{ -fxaccount-brand-name } を始めましょう。
 cfr-doorhanger-bookmark-fxa-link-text = ブックマークを今すぐ同期...

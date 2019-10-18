@@ -201,7 +201,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 <!ENTITY securityOverride.exceptionButton1Label "Terima Risiko dan Teruskan">
 
-<!ENTITY errorReporting.automatic2 "Laporkan ralat seperti ini untuk membantu Mozilla mengenal pasti dan menyekat laman berbahaya">
+<!ENTITY errorReporting.automatic2 "Laporkan ralat seperti ini untuk membantu Waterfox mengenal pasti dan menyekat laman berbahaya">
 <!ENTITY errorReporting.learnMore "Ketahui selanjutnya…">
 
 <!ENTITY remoteXUL.title "XUL jauh">

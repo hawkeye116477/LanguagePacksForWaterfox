@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Gaitu urruneko arazketa">
-<!ENTITY options.enableRemote.tooltip2  "Ezarrita badago, garatzaile-tresnekin urruneko instantziak araztu ahal izango dira, adibidez Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Ezarrita badago, garatzaile-tresnekin urruneko instantziak araztu ahal izango dira, adibidez Waterfox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

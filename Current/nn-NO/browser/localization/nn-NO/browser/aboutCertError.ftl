@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } brukar eit ugyldig sikkerheitssertifikat.
 cert-error-mitm-intro = Nettstadar beviser identiteten sin via sertifikat, som vert skrivne ut av sertifikatstyremakter.
-cert-error-mitm-mozilla = { -brand-short-name } er støtta av den ideelle organisasjonen Mozilla, som driv ein heilt open database for sertifiseringsstyremakter (CA Store). Denne databasen hjelper til med å sikre at sertifiseringssstyremaktene følgjer beste praksis for brukarsikkerheit.
-cert-error-mitm-connection = { -brand-short-name } brukar CA-butikken til Mozilla for å stadfeste om eit samband er trygt, heller enn sertifikat som kjem frå operativsystemet til brukaren. Så om eit anti-virusprogram eller eit nettverk avlyttar ei tilkopling med eit stryggingssertifikat skrive ut av ein CA som ikkje finst i Mozillas CA-butikk, vert tilkoplinga sett på som utrygg.
+cert-error-mitm-mozilla = { -brand-short-name } er støtta av den ideelle organisasjonen Waterfox, som driv ein heilt open database for sertifiseringsstyremakter (CA Store). Denne databasen hjelper til med å sikre at sertifiseringssstyremaktene følgjer beste praksis for brukarsikkerheit.
+cert-error-mitm-connection = { -brand-short-name } brukar CA-butikken til Waterfox for å stadfeste om eit samband er trygt, heller enn sertifikat som kjem frå operativsystemet til brukaren. Så om eit anti-virusprogram eller eit nettverk avlyttar ei tilkopling med eit stryggingssertifikat skrive ut av ein CA som ikkje finst i Waterfoxs CA-butikk, vert tilkoplinga sett på som utrygg.
 cert-error-trust-unknown-issuer-intro = Nokon prøver å etterlikne nettsida, og du bør ikkje fortsetje.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

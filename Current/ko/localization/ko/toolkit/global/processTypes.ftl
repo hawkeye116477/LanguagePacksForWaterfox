@@ -11,7 +11,7 @@ process-type-privileged = 권한 있는 콘텐츠
 process-type-privilegedabout = 권한 있는 About
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = 권한 있는 Mozilla 콘텐츠
+process-type-privilegedmozilla = 권한 있는 Waterfox 콘텐츠
 process-type-extension = 확장
 # process used to open file:// URLs
 process-type-file = 로컬 파일

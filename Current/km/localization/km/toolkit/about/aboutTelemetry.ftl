@@ -19,7 +19,7 @@ about-telemetry-addon-details-section = សេចក្ដី​លម្អិ�
 about-telemetry-late-writes-section = សរសេរ​យឺត
 about-telemetry-full-sql-warning =    ចំណាំ ៖ ការ​បំបាត់​កំហុស SQL ត្រូវ​បាន​បើក ។ ឃ្លា SQL ពេញ​លេញ​អាច​ត្រូវ​បាន​បង្ហាញ​ខាងក្រោម ប៉ុន្តែ​វា​នឹង​មិន​ត្រូវ​បាន​ដាក់​ស្នើ​ចំពោះ Telemetry ឡើយ ។
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = ទំព័រ​នេះ​បង្ហាញ​ព័ត៌មាន​អំពី​ដំណើរការ ផ្នែក​រឹង ការ​ប្រើប្រាស់ និង​ការ​កំណត់​ផ្ទាល់ខ្លួន​ដែល​បាន​ប្រមូល​ដោយ​ទូរមាត្រ​វិធី ។ ព័ត៌មាន​នេះ​ត្រូវ​បាន​ដាក់​ស្នើ​ទៅ { $telemetryServerOwner } ដើម្បី​ធ្វើឲ្យ { -brand-full-name } ប្រសើរ​ឡើង ។
 # button label to copy the histogram
 about-telemetry-histogram-copy = ​ចម្លង

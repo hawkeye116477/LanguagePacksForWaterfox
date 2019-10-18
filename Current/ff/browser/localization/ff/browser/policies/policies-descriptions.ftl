@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -25,8 +25,8 @@ policy-DisableBuiltinPDFViewer = Ñif PDF.js, kollitoowel PDF mahdangel e { -bra
 policy-DisableDeveloperTools = Haɗ jettagol kuutorɗe topotooɓe.
 policy-DisableFeedbackCommands = Ñif jamirooje neldgol jowe ummoraade e cuɓirgol Ballal (Hollit jowe, tintinaa lowe fuunti).
 policy-DisableFirefoxAccounts = Ñif { -fxaccount-brand-name }tuugiiɗe e sarwiis, hay Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Ñif ƴettirgal natte yaynirde e Firefox.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Ñif ƴettirgal natte yaynirde e Waterfox.
 policy-DisableFirefoxStudies = Haɗ { -brand-short-name } waɗde wiɗtooji.
 policy-DisableForgetButton = Haɗ jettagol butoŋ Forget
 policy-DisableFormHistory = Hoto tesko kewol njiylawu kam e ɗaɓɓirɗe.

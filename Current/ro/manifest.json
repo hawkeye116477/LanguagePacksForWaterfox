@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ro@firefox.mozilla.org", 
+      "id": "langpack-ro@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Alexandru Szasz, Raul Nicolae Malea, Cristian Silaghi, Jobava, Cosmin Bașoldea)", 
-  "description": "Language pack for Firefox for ro"
+  "description": "Language pack for Waterfox Current for ro"
 }

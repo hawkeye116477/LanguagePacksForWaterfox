@@ -140,7 +140,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "ยอมรับความเสี่ยงและดำเนินการต่อ">
 
-<!ENTITY errorReporting.automatic2 "รายงานข้อผิดพลาดเช่นนี้เพื่อช่วย Mozilla ระบุและปิดกั้นไซต์ที่ประสงค์ร้าย">
+<!ENTITY errorReporting.automatic2 "รายงานข้อผิดพลาดเช่นนี้เพื่อช่วย Waterfox ระบุและปิดกั้นไซต์ที่ประสงค์ร้าย">
 <!ENTITY errorReporting.learnMore "เรียนรู้เพิ่มเติม…">
 
 <!ENTITY remoteXUL.title "XUL ระยะไกล">

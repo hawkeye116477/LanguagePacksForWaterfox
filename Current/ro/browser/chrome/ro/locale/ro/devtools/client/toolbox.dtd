@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Activează depanarea la distanță">
-<!ENTITY options.enableRemote.tooltip2  "Activarea opțiunii va permite uneltelor pentru dezvoltatori să depaneze o instanță la distanță, cum ar fi Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Activarea opțiunii va permite uneltelor pentru dezvoltatori să depaneze o instanță la distanță, cum ar fi Waterfox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -125,7 +125,7 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 <!ENTITY options.usedeveditiontheme.label   "Folosește tema de browser din Developer Edition">
-<!ENTITY options.usedeveditiontheme.tooltip "Comută tema browserului în Firefox Developer Edition.">
+<!ENTITY options.usedeveditiontheme.tooltip "Comută tema browserului în Waterfox Developer Edition.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->

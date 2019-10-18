@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Datas da telemetria
 about-telemetry-more-information = Tschertgas ti ulteriuras infurmaziuns?
-about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">Documentaziun datas da Firefox</a> cuntegna manuals davart la lavur cun noss utensils da datas.
-about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentaziun client da telemetria da Firefox</a> includa definiziuns per concepts, documentaziuns dad API e referenzas a datas.
-about-telemetry-telemetry-dashboard = Las <a data-l10n-name="dashboard-link">panelas da telemetria</a> ta permettan da visualisar las datas che Mozilla retschaiva via telemetria.
+about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">Documentaziun datas da Waterfox</a> cuntegna manuals davart la lavur cun noss utensils da datas.
+about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentaziun client da telemetria da Waterfox</a> includa definiziuns per concepts, documentaziuns dad API e referenzas a datas.
+about-telemetry-telemetry-dashboard = Las <a data-l10n-name="dashboard-link">panelas da telemetria</a> ta permettan da visualisar las datas che Waterfox retschaiva via telemetria.
 about-telemetry-telemetry-probe-dictionary = Il <a data-l10n-name="probe-dictionary-link">dicziunari da provas</a> cuntegna detagls e descripziuns per las provas rimnadas via telemetria.
 about-telemetry-show-in-Firefox-json-viewer = Avrir en il visualisader da JSON
 about-telemetry-home-section = Pagina da partenza
@@ -67,7 +67,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } provas statisticas, media = { $prettyAverage }, summa = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Questa pagina mussa datas davart la prestaziun, la hardware, l'utilisaziun ed la persunalisaziun rimnadas da la telemetria. Questa infurmaziun vegn tramessa a { $telemetryServerOwner } per meglierar { -brand-full-name }.
 about-telemetry-settings-explanation = La telemetria rimna las { about-telemetry-data-type } e la transmissiun è <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -139,5 +139,5 @@ about-telemetry-origin-section = Telemetria da origin
 about-telemetry-origin-origin = origin
 about-telemetry-origin-count = dumber
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">La telemetria da origin da Firefox</a> codescha las datas avant da las trametter per che { $telemetryServerOwner } possia calcular summas senza savair sche ina instanza specifica da { -brand-product-name } haja contribuì u betg contribuì a questa summa. (<a data-l10n-name="prio-blog-link">Ulteriuras infurmaziuns</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">La telemetria da origin da Waterfox</a> codescha las datas avant da las trametter per che { $telemetryServerOwner } possia calcular summas senza savair sche ina instanza specifica da { -brand-product-name } haja contribuì u betg contribuì a questa summa. (<a data-l10n-name="prio-blog-link">Ulteriuras infurmaziuns</a>)

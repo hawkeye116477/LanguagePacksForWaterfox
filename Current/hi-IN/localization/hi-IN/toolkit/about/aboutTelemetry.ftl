@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = दूरमापी आंकड़ा
 about-telemetry-more-information = और अधिक जानकारी खोज रहे हैं?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox डेटा दस्तावेज़ीकरण</a> में हमारे डेटा उपकरणों के साथ काम करने के तरीक़े हैं.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox दूरमापी ग्राहक प्रलेखन</a> में संकल्पनाओं, API प्रलेखन और आँकड़ों के संदर्भ के लिए परिभाषाएँ शामिल हैं.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">दूरमापी नियंत्रण-पट्ट</a> आपको दूरमापी के माध्यम से Mozilla को प्राप्त होने वाले आँकड़ों को देखने का अवसर देता है.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox डेटा दस्तावेज़ीकरण</a> में हमारे डेटा उपकरणों के साथ काम करने के तरीक़े हैं.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox दूरमापी ग्राहक प्रलेखन</a> में संकल्पनाओं, API प्रलेखन और आँकड़ों के संदर्भ के लिए परिभाषाएँ शामिल हैं.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">दूरमापी नियंत्रण-पट्ट</a> आपको दूरमापी के माध्यम से Waterfox को प्राप्त होने वाले आँकड़ों को देखने का अवसर देता है.
 about-telemetry-show-in-Firefox-json-viewer = JSON दर्शक में खोलें
 about-telemetry-home-section = मुख पृष्ठ
 about-telemetry-general-data-section =         सामान्य आंकड़ा
@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] अक्षम किया गया
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = यह पृष्ठ प्रदर्शन, हार्डवेयर, उपयोग और मनपसंदीकरण के बारे मे दिखाता है  जो दूरमापी द्वारा एकत्रित है . यह  जानकारी { $telemetryServerOwner } में जमा है { -brand-full-name } में सुधार करने के लिए
 about-telemetry-settings-explanation = दूरमापी { about-telemetry-data-type } एकत्रण है और अपलोड <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> है.
 # Variables:

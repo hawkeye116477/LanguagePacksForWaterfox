@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-fi@firefox.mozilla.org", 
+      "id": "langpack-fi@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Lasse Liehu, Ville Pohjanheimo)", 
-  "description": "Language pack for Firefox for fi"
+  "description": "Language pack for Waterfox Current for fi"
 }

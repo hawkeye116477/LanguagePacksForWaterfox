@@ -72,7 +72,7 @@ can reach it easily. -->
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
+when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "Abrir allugamientu…">
 <!ENTITY openFileCmd.label "Abrir ficheru…">
 <!ENTITY openFileCmd.accesskey "A">
@@ -107,7 +107,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+Source" on macOS. pageSourceCmd.commandkey above is Waterfox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
@@ -369,7 +369,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activa la sincronización de llingüetes pa ver un llistáu d'elles dende los tos otros preseos.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
+     the account. We also show links to download Waterfox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quies ver equí les tos llingüetes d'otros preseos?">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Anicia sesión pa ver un llistáu de llingüetes de los tos otros preseos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aniciar sesión en Sync">
@@ -777,7 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Llingüetes sincronizaes">
 
 <!ENTITY syncedTabs.sidebar.label              "Llingüetes sincronizaes">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Anicia sesión en Firefox dende otros preseos pa ver les llingüetes equí.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Anicia sesión en Waterfox dende otros preseos pa ver les llingüetes equí.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quies ver equí les tos llingüetes d'otros preseos?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Anicia sesión pa ver un llistáu de llingüetes de los otros preseos de to.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nun hai llingüetes abiertes">
@@ -1006,24 +1006,24 @@ in "Search through tabs". -->
 <!ENTITY taskManagerCmd.label "Task Manager">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+Source" on macOS. pageSourceCmd.commandkey above is Waterfox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 <!ENTITY ldbCmd.label "Layout Debugger">
 <!ENTITY ldbCmd.accesskey "L">
 <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Take Firefox with You">
+     for the Waterfox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Take Waterfox with You">
 <!ENTITY fxa.signin.description.label "Get your bookmarks, history, passwords and other settings on all your devices.">
 <!ENTITY fxa.signin.button.label "Turn on &syncBrand.shortName.label;…">
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
+     for the Waterfox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Check Your Email">
 <!ENTITY fxa.unverified.description.label "You’ll need to verify your account before you can sync.">
 <!ENTITY fxa.unverified.button.label "Open &syncBrand.shortName.label; Settings…">
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Waterfox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Signed in as">
 <!ENTITY fxa.menu.manageAccount.label "Manage Account…">
@@ -1071,7 +1071,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY customizeMenu.removeExtension.label "Remove Extension">
 <!ENTITY customizeMenu.removeExtension.accesskey "v">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     toolbar buttons context menus, a user can use this command to submit to Waterfox
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Report Extension">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
@@ -1096,8 +1096,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Site Security">
 <!ENTITY identity.connection "Connection">
-<!ENTITY identity.customRoot "Connection verified by a certificate issuer that is not recognized by Mozilla.">
-<!ENTITY identity.description.customRoot "Mozilla does not recognize this certificate issuer. It may have been added from your operating system or by an administrator.">
+<!ENTITY identity.customRoot "Connection verified by a certificate issuer that is not recognized by Waterfox.">
+<!ENTITY identity.description.customRoot "Waterfox does not recognize this certificate issuer. It may have been added from your operating system or by an administrator.">
 <!ENTITY identity.clearSiteData "Clear Cookies and Site Data…">
 <!ENTITY identity.permissionsPreferences.tooltip "Open Permissions Preferences">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Open Content Blocking Preferences">
@@ -1118,7 +1118,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
 <!ENTITY contentBlocking.openBreakageReportView2.label "Report a problem">
 <!ENTITY contentBlocking.breakageReportView.label "Report Problems">
-<!ENTITY contentBlocking.breakageReportView2.description "Content blocking can cause problems with some websites. When you report problems, you’ll help make &brandShortName; better for everyone. (This will send a URL as well as information about your browser settings to Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Content blocking can cause problems with some websites. When you report problems, you’ll help make &brandShortName; better for everyone. (This will send a URL as well as information about your browser settings to Waterfox.)">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "What problems did you have? (Optional)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Send Report">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):

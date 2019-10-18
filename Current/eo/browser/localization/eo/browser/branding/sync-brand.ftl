@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 -sync-brand-short-name = Spegulado
-# “Sync” can be localized, “Firefox” must be treated as a brand,
+# “Sync” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = Spegulado de Firefox
-# “Account” can be localized, “Firefox” must be treated as a brand,
+-sync-brand-name = Spegulado de Waterfox
+# “Account” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = Konto de Firefox
+-fxaccount-brand-name = Konto de Waterfox

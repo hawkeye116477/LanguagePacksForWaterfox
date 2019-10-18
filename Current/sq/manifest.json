@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-sq@firefox.mozilla.org", 
+      "id": "langpack-sq@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Besnik Bleta (contributors: Besnik Bleta)", 
-  "description": "Language pack for Firefox for sq"
+  "description": "Language pack for Waterfox Current for sq"
 }

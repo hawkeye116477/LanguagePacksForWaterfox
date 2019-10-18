@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-lt@firefox.mozilla.org", 
+      "id": "langpack-lt@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Mozilla Lietuvoje (contributors: Gintautas Grigas, Tatjana Jevsikova, Rimas Kudelis, Sigita Pedzevičienė, Paulius Andriekus)", 
-  "description": "Language pack for Firefox for lt"
+  "author": "Waterfox Lietuvoje (contributors: Gintautas Grigas, Tatjana Jevsikova, Rimas Kudelis, Sigita Pedzevičienė, Paulius Andriekus)", 
+  "description": "Language pack for Waterfox Current for lt"
 }

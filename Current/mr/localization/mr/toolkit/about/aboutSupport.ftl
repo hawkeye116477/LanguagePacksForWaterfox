@@ -47,7 +47,7 @@ app-basics-service-workers = नोंदणीकृत Service Workers
 app-basics-profiles = प्रोफाइल
 app-basics-multi-process-support = मल्टिप्रोसेस पटल
 app-basics-process-count = वेब मजकूर प्रक्रिया
-app-basics-key-mozilla = Mozilla स्थान सेवा की
+app-basics-key-mozilla = Waterfox स्थान सेवा की
 app-basics-safe-mode = सुरक्षित मोड
 show-dir-label =
     { PLATFORM() ->

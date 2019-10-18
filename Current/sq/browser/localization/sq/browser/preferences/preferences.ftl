@@ -118,10 +118,10 @@ search-results-help-link = Ju duhet ndihmë? Vizitoni <a data-l10n-name="url">As
 ## General Section
 
 startup-header = Nisje
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Lejojeni { -brand-short-name }-in dhe Firefox-in të xhirojnë në të njëjtën kohë
+    .label = Lejojeni { -brand-short-name }-in dhe Waterfox-in të xhirojnë në të njëjtën kohë
 use-firefox-sync = Ndihmëz: Kjo përdor profile ndaras. Për ndarje të dhënash mes tyre përdorni { -sync-brand-short-name }-n.
 get-started-not-logged-in = Hyni te { -sync-brand-short-name }…
 get-started-configured = Hap parapëlqimet mbi { -sync-brand-short-name }
@@ -373,10 +373,10 @@ home-newtabs-mode-label = Skeda të reja
 home-restore-defaults =
     .label = Rikthe Parazgjedhjet
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Kreu i Firefox-it (Parazgjedhje)
+    .label = Kreu i Waterfox-it (Parazgjedhje)
 home-mode-choice-custom =
     .label = URL Vetjake…
 home-mode-choice-blank =
@@ -472,7 +472,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Shkarkoni Firefox-in për <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ose <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> që të kryeni njëkohësim te pajisja juaj celulare.
+sync-mobile-promo = Shkarkoni Waterfox-in për <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ose <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> që të kryeni njëkohësim te pajisja juaj celulare.
 
 ## Sync Section - Signed in
 
@@ -520,7 +520,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Shtesat e Mia
-    .tooltiptext = Zgjerime dhe tema për Firefox Desktop
+    .tooltiptext = Zgjerime dhe tema për Waterfox Desktop
     .accesskey = t
 sync-engine-prefs =
     .label =
@@ -578,12 +578,12 @@ history-header = Historik
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name }-i
     .accesskey = d
 history-remember-option-all =

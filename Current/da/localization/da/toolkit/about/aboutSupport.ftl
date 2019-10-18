@@ -66,7 +66,7 @@ app-basics-enterprise-policies = Virksomheds-politikker
 app-basics-location-service-key-google = Google Location Service-nøgle
 app-basics-safebrowsing-key-google = Google Safebrowsing-nøgle
 app-basics-key-google = Google-nøgle
-app-basics-key-mozilla = Mozilla Location Service-nøgle
+app-basics-key-mozilla = Waterfox Location Service-nøgle
 app-basics-safe-mode = Fejlsikret tilstand
 show-dir-label =
     { PLATFORM() ->

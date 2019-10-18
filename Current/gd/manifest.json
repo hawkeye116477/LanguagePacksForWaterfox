@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-gd@firefox.mozilla.org", 
+      "id": "langpack-gd@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Sgioba Ionadaileadh Mozilla na Gàidhlig (contributors: Michael &apos;Akerbeltz&apos; Bauer, Kevin Scannell)", 
-  "description": "Language pack for Firefox for gd"
+  "author": "Sgioba Ionadaileadh Waterfox na Gàidhlig (contributors: Michael &apos;Akerbeltz&apos; Bauer, Kevin Scannell)", 
+  "description": "Language pack for Waterfox Current for gd"
 }

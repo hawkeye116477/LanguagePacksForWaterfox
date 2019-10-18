@@ -3,7 +3,7 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY refreshProfile.dialog.title         "&brandShortName; – შეკეთება">
-<!ENTITY refreshProfile.dialog.description1  "გაუშვით Firefox პირვანდელი მდგომარეობით, გაუმართაობების გასწორებისა და წარმადობის აღსადგენად.">
+<!ENTITY refreshProfile.dialog.description1  "გაუშვით Waterfox პირვანდელი მდგომარეობით, გაუმართაობების გასწორებისა და წარმადობის აღსადგენად.">
 <!ENTITY refreshProfile.dialog.description2  "ეს გამოიწვევს:">
 <!ENTITY refreshProfile.dialog.items.label1  "დამატებებისა და მორგებული პარამეტრების მოცილებას">
 <!ENTITY refreshProfile.dialog.items.label2  "ბრაუზერის ნაგულისხმევ პარამეტრებზე დაბრუნებას">

@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-pa-IN@firefox.mozilla.org", 
+      "id": "langpack-pa-IN@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Amanpreet Singh Brar, Punjabi Open Source Team, with Jaswiner Singh Phulewala's continue support and efforts)", 
-  "description": "Language pack for Firefox for pa-IN"
+  "description": "Language pack for Waterfox Current for pa-IN"
 }

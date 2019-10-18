@@ -4,16 +4,16 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "Heu iniciat una versió antiga del Firefox.">
+<!ENTITY window.title "Heu iniciat una versió antiga del Waterfox.">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "L'ús d'una versió antiga del Firefox pot malmetre les adreces d'interès i l'historial de navegació que ja estiguin desats en un perfil del Firefox existent. Per protegir la vostra informació, creeu un perfil nou per a aquesta instal·lació del &brandShortName;.">
-<!ENTITY window.sync "L'ús d'una versió antiga del Firefox pot malmetre les adreces d'interès i l'historial de navegació que ja estiguin desats en un perfil del Firefox existent. Per protegir la vostra informació, creeu un perfil nou per a aquesta instal·lació del &brandShortName;. Sempre podeu iniciar la sessió amb un &syncBrand.fxAccount.label; per sincronitzar les adreces d'interès i l'historial de navegació entre perfils.">
+<!ENTITY window.nosync "L'ús d'una versió antiga del Waterfox pot malmetre les adreces d'interès i l'historial de navegació que ja estiguin desats en un perfil del Waterfox existent. Per protegir la vostra informació, creeu un perfil nou per a aquesta instal·lació del &brandShortName;.">
+<!ENTITY window.sync "L'ús d'una versió antiga del Waterfox pot malmetre les adreces d'interès i l'historial de navegació que ja estiguin desats en un perfil del Waterfox existent. Per protegir la vostra informació, creeu un perfil nou per a aquesta instal·lació del &brandShortName;. Sempre podeu iniciar la sessió amb un &syncBrand.fxAccount.label; per sincronitzar les adreces d'interès i l'historial de navegació entre perfils.">
 
 <!ENTITY window.create "Crea un perfil nou">
 <!ENTITY window.quit-win "Surt">

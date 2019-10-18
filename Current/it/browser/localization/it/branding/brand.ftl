@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Firefox Brand
+## Waterfox Brand
 ##
-## Firefox must be treated as a brand, and kept in English.
+## Waterfox must be treated as a brand, and kept in English.
 ## It cannot be:
 ## - Declined to adapt to grammatical case.
 ## - Transliterated.
@@ -13,9 +13,9 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-shorter-name = Firefox
--brand-short-name = Firefox
--brand-full-name = Mozilla Firefox
--brand-product-name = Firefox
--vendor-short-name = Mozilla
-trademarkInfo = Firefox e i logo di Firefox sono marchi registrati di Mozilla Foundation.
+-brand-shorter-name = Waterfox
+-brand-short-name = Waterfox
+-brand-full-name = Waterfox Current
+-brand-product-name = Waterfox
+-vendor-short-name = Waterfox
+trademarkInfo = Waterfox e i logo di Waterfox sono marchi registrati di Waterfox Ltd.

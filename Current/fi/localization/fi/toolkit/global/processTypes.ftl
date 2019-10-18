@@ -11,7 +11,7 @@ process-type-privileged = Etuoikeutettu sisältö
 process-type-privilegedabout = Etuoikeutettu about-sivu
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Etuoikeutettu Mozilla-sisältö
+process-type-privilegedmozilla = Etuoikeutettu Waterfox-sisältö
 process-type-extension = Laajennus
 # process used to open file:// URLs
 process-type-file = Paikallinen tiedosto

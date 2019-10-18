@@ -11,7 +11,7 @@
 
 # Sidebar strings
 
-# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Display name of the runtime for the currently running instance of Waterfox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = ਇਹ { -brand-shorter-name }
 # Sidebar heading for connecting to some remote source
@@ -39,8 +39,8 @@ about-debugging-sidebar-item-connect-button-connection-failed = ਕਨੈਕਸ�
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = ਕਨੈਕਟ ਹੈ
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
-# Firefox) has not been detected yet. Typically, Android phones connected via USB with
-# USB debugging enabled, but where Firefox is not started.
+# Waterfox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Waterfox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = …ਬਰਾਊਜ਼ਰ ਦੀ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
@@ -88,7 +88,7 @@ about-debugging-network-locations-remove-button = ਹਟਾਓ
 
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
-# Title of the temporary extensions category (only available for "This Firefox" runtime).
+# Title of the temporary extensions category (only available for "This Waterfox" runtime).
 about-debugging-runtime-temporary-extensions =
     .name = ਆਰਜ਼ੀ ਇਕਸਟੈਨਸ਼ਨਾਂ
 # Title of the extensions category.
@@ -101,7 +101,7 @@ about-debugging-runtime-tabs =
 about-debugging-runtime-service-workers =
     .name = ਸਰਵਿਸ ਵਰਕਰ
 # Displayed for runtime info in runtime pages.
-# { $name } is brand name such as "Firefox Nightly"
+# { $name } is brand name such as "Waterfox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
 

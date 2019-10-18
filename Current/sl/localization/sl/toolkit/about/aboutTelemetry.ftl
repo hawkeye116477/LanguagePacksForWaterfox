@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrija
 about-telemetry-current-store = Trenutna shramba:
 about-telemetry-more-information = Iščete več informacij?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Dokumentacija o Firefoxovih podatkih</a> vsebuje vodnike o tem, kako uporabljati naša podatkovna orodja.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Dokumentacija o Firefoxovem odjemalcu za telemetrijo</a> vsebuje definicije konceptov, dokumentacijo API in sklice podatkov.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Pregledne plošče telemetrije</a> omogočajo predstavitev podatkov, ki jih Mozilla prejme preko telemetrije.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Dokumentacija o Waterfoxovih podatkih</a> vsebuje vodnike o tem, kako uporabljati naša podatkovna orodja.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Dokumentacija o Waterfoxovem odjemalcu za telemetrijo</a> vsebuje definicije konceptov, dokumentacijo API in sklice podatkov.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Pregledne plošče telemetrije</a> omogočajo predstavitev podatkov, ki jih Waterfox prejme preko telemetrije.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Slovar sond</a> vsebuje podrobnosti in opise sond, ki jih zbira telemetrija.
 about-telemetry-show-in-Firefox-json-viewer = Odpri v pregledovalniku JSON
 about-telemetry-home-section = Domov
@@ -70,7 +70,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } vzorcev, povprečno = { $prettyAverage }, skupno = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Ta stran prikazuje podatke o učinkovitosti in uporabi funkcij, ki jih zbira telemetrija. Podatki se anonimno pošiljajo organizaciji { $telemetryServerOwner }, da bi lahko izboljšala { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetrija zbira { about-telemetry-data-type } in nalaganje je <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -142,8 +142,8 @@ about-telemetry-origin-section = Telemetrija izvora
 about-telemetry-origin-origin = izvor
 about-telemetry-origin-count = število
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefoxova telemetrija izvora</a> šifrira podatke pred pošiljanjem, tako da { $telemetryServerOwner } lahko šteje, ne more pa vedeti, ali je kateri { -brand-product-name } prispeval k številu. (<a data-l10n-name="prio-blog-link">več o tem</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfoxova telemetrija izvora</a> šifrira podatke pred pošiljanjem, tako da { $telemetryServerOwner } lahko šteje, ne more pa vedeti, ali je kateri { -brand-product-name } prispeval k številu. (<a data-l10n-name="prio-blog-link">več o tem</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Proces { $process }

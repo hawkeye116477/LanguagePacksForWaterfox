@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-gu-IN@firefox.mozilla.org", 
+      "id": "langpack-gu-IN@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Ankit Patel (www.indianoss.org), Utkarsh Team (www.utkarsh.org))", 
-  "description": "Language pack for Firefox for gu-IN"
+  "description": "Language pack for Waterfox Current for gu-IN"
 }

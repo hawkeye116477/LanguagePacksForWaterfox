@@ -118,10 +118,10 @@ search-results-help-link = Potrebujete pomoc? Navštívte <a data-l10n-name="url
 ## General Section
 
 startup-header = Spustenie
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Umožniť, aby { -brand-short-name } a Firefox mohli byť spustené v rovnakom čase
+    .label = Umožniť, aby { -brand-short-name } a Waterfox mohli byť spustené v rovnakom čase
 use-firefox-sync = Tip: použijú sa oddelené používateľské profily. Ak chcete medzi nimi zdieľať údaje, môžete využiť službu { -sync-brand-short-name }.
 get-started-not-logged-in = Prihlásiť sa do služby { -sync-brand-short-name }…
 get-started-configured = Otvoriť nastavenia služby { -sync-brand-short-name }
@@ -368,10 +368,10 @@ home-newtabs-mode-label = Nové karty
 home-restore-defaults =
     .label = Obnoviť predvolené
     .accesskey = r
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Predvolená domovská stránka Firefoxu
+    .label = Predvolená domovská stránka Waterfoxu
 home-mode-choice-custom =
     .label = Vlastné URL adresy…
 home-mode-choice-blank =
@@ -467,7 +467,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Prevezmite si Firefox pre <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> alebo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pre synchronizáciu s vaším mobilným zariadením.
+sync-mobile-promo = Prevezmite si Waterfox pre <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> alebo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pre synchronizáciu s vaším mobilným zariadením.
 
 ## Sync Section - Signed in
 
@@ -515,7 +515,7 @@ sync-engine-creditcards =
     .accesskey = k
 sync-engine-addons =
     .label = Doplnky
-    .tooltiptext = Rozšírenia a témy vzhľadu pre Firefox pre počítače
+    .tooltiptext = Rozšírenia a témy vzhľadu pre Waterfox pre počítače
     .accesskey = D
 sync-engine-prefs =
     .label =
@@ -570,12 +570,12 @@ history-header = História
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = Uchovávanie histórie:
     .accesskey = h
 history-remember-option-all =

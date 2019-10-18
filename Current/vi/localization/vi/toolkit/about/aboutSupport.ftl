@@ -61,7 +61,7 @@ app-basics-remote-processes-count = Tiến trình từ xa
 app-basics-enterprise-policies = Chính sách doanh nghiệp
 app-basics-location-service-key-google = Khóa dịch vụ định vị Google
 app-basics-safebrowsing-key-google = Khóa Google Safebrowsing
-app-basics-key-mozilla = Khóa dịch vụ định vị Mozilla
+app-basics-key-mozilla = Khóa dịch vụ định vị Waterfox
 app-basics-safe-mode = Chế độ an toàn
 show-dir-label =
     { PLATFORM() ->

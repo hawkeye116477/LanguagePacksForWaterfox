@@ -17,8 +17,8 @@ category-search =
 pane-privacy-title = Sutura nda saajaw
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox kontu
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Waterfox kontu
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } faaba
@@ -53,10 +53,10 @@ search-results-header = Ceeci duurawey
 ## General Section
 
 startup-header = Tunandi
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Naŋ { -brand-short-name } nda Firefox ma dira cere bande
+    .label = Naŋ { -brand-short-name } nda Waterfox ma dira cere bande
 use-firefox-sync = Dabari: Woo ga goy nda alhaali fayanteyaŋ. Goy nda { -sync-brand-short-name } ka bayhayey žemni gamey ra.
 get-started-not-logged-in = Huru { -sync-brand-short-name } ra…
 get-started-configured = { -sync-brand-short-name } ibaayey feeri
@@ -284,7 +284,7 @@ sync-signedout-account-title = Ciya nda { -fxaccount-brand-name } foo
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox zumandi <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> wala <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ka hangandi nda war kanbe jinaa.
+sync-mobile-promo = Waterfox zumandi <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> wala <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ka hangandi nda war kanbe jinaa.
 
 ## Sync Section - Signed in
 
@@ -344,12 +344,12 @@ history-header = Taariki
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } ga
     .accesskey = g
 history-remember-option-all =

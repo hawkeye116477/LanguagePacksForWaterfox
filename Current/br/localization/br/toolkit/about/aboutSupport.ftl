@@ -54,7 +54,7 @@ app-basics-remote-processes-count = Araezadoù a-bell
 app-basics-enterprise-policies = Reolennoù embregerezh
 app-basics-location-service-key-google = Alc'hwez gwazerezh Google Loation
 app-basics-safebrowsing-key-google = Alc'hwez Google Safebrowsing
-app-basics-key-mozilla = Alc'hwez Gwazerezh Lec'hiadur Mozilla
+app-basics-key-mozilla = Alc'hwez Gwazerezh Lec'hiadur Waterfox
 app-basics-safe-mode = Mod diarvar
 show-dir-label =
     { PLATFORM() ->

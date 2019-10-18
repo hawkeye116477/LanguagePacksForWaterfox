@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-en-GB@firefox.mozilla.org", 
+      "id": "langpack-en-GB@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Mark Tyndall (contributors: David Bartlett, Constantine Murenin, Ian Neal)", 
-  "description": "Language pack for Firefox for en-GB"
+  "description": "Language pack for Waterfox Current for en-GB"
 }

@@ -42,7 +42,7 @@ about-telemetry-upload-type =
        *[disabled] անջատված
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Այս էջում ցուցադրվում են տեղեկություններ արտադրողականության, սարքակազմի ծրագրի օգտագործման և կարգավորումների մասին, որոնք հավաքվում են Telemetry-ի միջոցով։ Այս տեղեկությունները կուղարկվեն { $telemetryServerOwner }-ին՝ լավարկելու համար { -brand-full-name }-ը։
 about-telemetry-settings-explanation = Telemetry-ին հավաքում է { about-telemetry-data-type } և վերբեռնումը <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> է:
 # button label to copy the histogram

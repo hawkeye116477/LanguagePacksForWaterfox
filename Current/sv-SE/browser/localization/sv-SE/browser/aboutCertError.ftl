@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } använder ett ogiltigt säkerhetscertifikat.
 cert-error-mitm-intro = Webbplatser bevisar sin identitet via certifikat, som utfärdas av certifikatutfärdare.
-cert-error-mitm-mozilla = { -brand-short-name } stöds av den icke-kommersiella Mozilla, som administrerar en helt öppen CA-butik. CA-butiken hjälper till att säkerställa att certifikatutfärdare följer bästa praxis för användarsäkerhet.
-cert-error-mitm-connection = { -brand-short-name } använder Mozillas CA-butik för att verifiera att en anslutning är säker, snarare än certifikat som tillhandahålls av användarens operativsystem. Så om ett antivirusprogram eller ett nätverk avlyssnar en anslutning med ett säkerhetscertifikat utfärdat av en CA som inte finns i Mozilla CA-butik, anses anslutningen vara osäker.
+cert-error-mitm-mozilla = { -brand-short-name } stöds av den icke-kommersiella Waterfox, som administrerar en helt öppen CA-butik. CA-butiken hjälper till att säkerställa att certifikatutfärdare följer bästa praxis för användarsäkerhet.
+cert-error-mitm-connection = { -brand-short-name } använder Waterfoxs CA-butik för att verifiera att en anslutning är säker, snarare än certifikat som tillhandahålls av användarens operativsystem. Så om ett antivirusprogram eller ett nätverk avlyssnar en anslutning med ett säkerhetscertifikat utfärdat av en CA som inte finns i Waterfox CA-butik, anses anslutningen vara osäker.
 cert-error-trust-unknown-issuer-intro = Någon försöker att efterlikna webbplatsen och du borde inte fortsätta.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

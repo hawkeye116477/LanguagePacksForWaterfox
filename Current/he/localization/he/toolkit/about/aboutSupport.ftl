@@ -51,7 +51,7 @@ app-basics-multi-process-support = חלונות מרובי תהליכים
 app-basics-process-count = תהליכי תוכן רשת
 app-basics-enterprise-policies = ערכות מדיניות ארגוניות
 app-basics-key-google = מפתח עבור שירותי Google
-app-basics-key-mozilla = מפתח עבור שירותי המיקום של Mozilla
+app-basics-key-mozilla = מפתח עבור שירותי המיקום של Waterfox
 app-basics-safe-mode = מצב בטוח
 show-dir-label =
     { PLATFORM() ->

@@ -47,5 +47,5 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-animation-pause = توقف کریں
 cfr-doorhanger-pintab-animation-resume = پھر جاری کریں
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 

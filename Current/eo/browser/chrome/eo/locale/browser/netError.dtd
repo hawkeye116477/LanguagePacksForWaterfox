@@ -171,7 +171,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Aldoni escepton…">
 <!ENTITY securityOverride.exceptionButton1Label "Akcepti la riskon kaj daŭrigi">
 
-<!ENTITY errorReporting.automatic2 "Raporti erarojn kiel tiu ĉi por helpi Mozillan identigi kaj bloki malicajn retejojn">
+<!ENTITY errorReporting.automatic2 "Raporti erarojn kiel tiu ĉi por helpi Waterfoxn identigi kaj bloki malicajn retejojn">
 <!ENTITY errorReporting.learnMore "Pli da informo…">
 
 <!ENTITY remoteXUL.title "Fora XUL">

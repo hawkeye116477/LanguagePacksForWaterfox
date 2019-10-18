@@ -56,7 +56,7 @@
 <!ENTITY projectButton_label "بازکردن برنامه">
 <!ENTITY runtimeButton_label "انتخاب زمان اجرا">
 
-<!-- We try to repicate Firefox' bindings: -->
+<!-- We try to repicate Waterfox' bindings: -->
 <!-- quit app -->
 <!ENTITY key_quit "W">
 <!-- open menu -->

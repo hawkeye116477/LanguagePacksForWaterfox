@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Debugowanie zdalne">
-<!ENTITY options.enableRemote.tooltip2  "Włączenie tej opcji pozwoli na debugowanie zdalnych instancji, takich jak Firefox OS, z poziomu narzędzi dla programistów">
+<!ENTITY options.enableRemote.tooltip2  "Włączenie tej opcji pozwoli na debugowanie zdalnych instancji, takich jak Waterfox OS, z poziomu narzędzi dla programistów">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -124,8 +124,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
-<!ENTITY options.usedeveditiontheme.label   "Motyw Firefox Developer Edition">
-<!ENTITY options.usedeveditiontheme.tooltip "Przełącza motyw Firefox Developer Edition przeglądarki">
+<!ENTITY options.usedeveditiontheme.label   "Motyw Waterfox Developer Edition">
+<!ENTITY options.usedeveditiontheme.tooltip "Przełącza motyw Waterfox Developer Edition przeglądarki">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->

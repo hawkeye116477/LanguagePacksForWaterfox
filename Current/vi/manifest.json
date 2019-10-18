@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-vi@firefox.mozilla.org", 
+      "id": "langpack-vi@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Cộng đồng bản địa hóa Mozilla (contributors: Nguyễn Mạnh Hùng, Nguyễn Xuân Minh, Huỳnh Hải Đăng, Bùi Việt Khoa, Trần Nguyễn Sơn, Ngô Đức Trung, Nguyễn Hà Dương, Nguyễn Phan Hải, Đặng Duy Thanh)", 
-  "description": "Language pack for Firefox for vi"
+  "author": "Cộng đồng bản địa hóa Waterfox (contributors: Nguyễn Mạnh Hùng, Nguyễn Xuân Minh, Huỳnh Hải Đăng, Bùi Việt Khoa, Trần Nguyễn Sơn, Ngô Đức Trung, Nguyễn Hà Dương, Nguyễn Phan Hải, Đặng Duy Thanh)", 
+  "description": "Language pack for Waterfox Current for vi"
 }

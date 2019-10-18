@@ -4,16 +4,16 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "Tu ha lanceate un version plus vetere de Firefox">
+<!ENTITY window.title "Tu ha lanceate un version plus vetere de Waterfox">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Usar un plus vetere version de Firefox pote corrumper marcapaginas e chronologia de exploration jam salvate in un profilo de Firefox existente. Pro proteger tu informationes, crea un nove profilo pro iste installation de &brandShortName;.">
-<!ENTITY window.sync "Usar un version de Firefox plus vetere pote corrumper marcapaginas e chronologia de exploration jam salvate in un profilo de Firefox existente. Pro proteger tu informationes, crea un nove profilo pro iste installation de &brandShortName;. Tu pote sempre acceder con un &syncBrand.fxAccount.label; pro synchronisar tu marcapaginas e chronologia de exploration inter le profilos.">
+<!ENTITY window.nosync "Usar un plus vetere version de Waterfox pote corrumper marcapaginas e chronologia de exploration jam salvate in un profilo de Waterfox existente. Pro proteger tu informationes, crea un nove profilo pro iste installation de &brandShortName;.">
+<!ENTITY window.sync "Usar un version de Waterfox plus vetere pote corrumper marcapaginas e chronologia de exploration jam salvate in un profilo de Waterfox existente. Pro proteger tu informationes, crea un nove profilo pro iste installation de &brandShortName;. Tu pote sempre acceder con un &syncBrand.fxAccount.label; pro synchronisar tu marcapaginas e chronologia de exploration inter le profilos.">
 
 <!ENTITY window.create "Crear nove profilo">
 <!ENTITY window.quit-win "Exir">

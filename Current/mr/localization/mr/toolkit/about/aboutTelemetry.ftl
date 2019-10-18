@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetry माहिती
 about-telemetry-more-information = अधिक माहिती शोधत आहात?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox डेटा डॉक्युमेंटेशन</a> मध्ये डेटा टूल्ससह कार्य कसे करावे त्याविषयी मार्गदर्शिका आहेत.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry क्लायंट दस्तऐवजीकरण</a> मध्ये संकल्पना, API दस्तऐवजीकरण आणि डेटा संदर्भांची परिभाषा समाविष्ट आहे.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry डॅशबोर्ड</a> आपल्याला Mozilla ला Telemetry द्वारे प्राप्त डेटाची कल्पना करण्यास अनुमती देतात.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox डेटा डॉक्युमेंटेशन</a> मध्ये डेटा टूल्ससह कार्य कसे करावे त्याविषयी मार्गदर्शिका आहेत.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox Telemetry क्लायंट दस्तऐवजीकरण</a> मध्ये संकल्पना, API दस्तऐवजीकरण आणि डेटा संदर्भांची परिभाषा समाविष्ट आहे.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry डॅशबोर्ड</a> आपल्याला Waterfox ला Telemetry द्वारे प्राप्त डेटाची कल्पना करण्यास अनुमती देतात.
 about-telemetry-show-in-Firefox-json-viewer = JSON दर्शकामध्ये उघडा
 about-telemetry-home-section = मुख्य पटल
 about-telemetry-general-data-section = सामान्य माहिती
@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] असमर्थ केलेले
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = हे पृष्ठ Telemetry द्वारा एकत्रीत केलेली कामगिरी, हार्डवेअर, वापर, आणि स्वपसंतीकरणाबद्दल माहिती पुरवते. { $telemetryServerOwner } कडे ही माहिती सुपूर्द केली जाते, { -brand-full-name } ला सुधारण्यासाठी.
 about-telemetry-settings-explanation = Telemetry { about-telemetry-data-type } गोळा करत आहे आणि अपलोड <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> आहे.
 # Variables:

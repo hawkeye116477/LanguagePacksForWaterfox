@@ -57,7 +57,7 @@ app-basics-remote-processes-count = Vzdialené procesy
 app-basics-enterprise-policies = Podnikové pravidlá
 app-basics-location-service-key-google = Kľúč služby Google Location Service
 app-basics-safebrowsing-key-google = Kľúč služby Google Safebrowsing
-app-basics-key-mozilla = Kľúč Mozilla Location Service
+app-basics-key-mozilla = Kľúč Waterfox Location Service
 app-basics-safe-mode = Núdzový režim
 show-dir-label =
     { PLATFORM() ->

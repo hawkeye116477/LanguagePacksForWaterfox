@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = Kui saidil on uuendus, siis antakse sellest märku
 cfr-doorhanger-pintab-animation-pause = Paus
 cfr-doorhanger-pintab-animation-resume = Jätka
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Järjehoidjate sünkroonimine kõikjal.
 cfr-doorhanger-bookmark-fxa-body = Hea leid! Ära jää nüüd sellest järjehoidjast ilma oma mobiilsel seadmel. Tee algust { -fxaccount-brand-name }ga.

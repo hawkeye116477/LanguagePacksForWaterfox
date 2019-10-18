@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ach@firefox.mozilla.org", 
+      "id": "langpack-ach@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: San James, War Child Holland-Uganda, Acuma George Patrick, Keneth Ogwal, Dan Jasper Okello, Opio June Brian, Kaloba Haron, Komakech S. B. Ford, Akena David Akeni, Acire Samuel, Ojara David Prince)", 
-  "description": "Language pack for Firefox for ach"
+  "description": "Language pack for Waterfox Current for ach"
 }

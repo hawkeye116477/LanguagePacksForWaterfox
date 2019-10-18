@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = PDF.js, { -brand-short-name } құрамынд�
 policy-DisableDeveloperTools = Әзірлеуші құралдарына қатынауды бұғаттау.
 policy-DisableFeedbackCommands = Көмек мәзірінен кері байланысты жіберу командаларын сөндіру (Кері байланыс хабарламасын жіберу және Фишингті сайт туралы хабарлау).
 policy-DisableFirefoxAccounts = { -fxaccount-brand-name } негізіндегі қызметтерді, Синхрондауды қоса, сөндіру.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Firefox скриншоттары мүмкіндігін сөндіру.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Waterfox скриншоттары мүмкіндігін сөндіру.
 policy-DisableFirefoxStudies = { -brand-short-name } үшін зерттеулерді орындауға тыйым салу.
 policy-DisableForgetButton = Ұмыту батырмасына рұқсатты жабу.
 policy-DisableFormHistory = Іздеу және формалар тарихын сақтамау.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Құраманы бұғаттауды іске
 policy-Extensions = Кеңейтулерді орнату, өшіру немесе бекіту. Орнату опциясы параметрлер ретінде URL-дер немесе орналасуларды қабылдайды. Өшіру және Бекіту опциялары кеңейтулер ID-ін қабылдайды.
 policy-ExtensionSettings = Кеңейту орнатылуының барлық жақтарын басқару.
 policy-ExtensionUpdate = Кеңейтулерді автожаңартуды іске қосу немесе сөндіру.
-policy-FirefoxHome = Firefox үй парағын баптау.
+policy-FirefoxHome = Waterfox үй парағын баптау.
 policy-FlashPlugin = Flash плагинін қолдануды рұқсат ету немесе бұғаттау.
 policy-HardwareAcceleration = Мәні false болса, құрылғылық үдетуді сөндіру.
 # “lock” means that the user won’t be able to change this setting

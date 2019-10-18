@@ -55,7 +55,7 @@
 <!ENTITY projectButton_label "செயலியை திற">
 <!ENTITY runtimeButton_label "இயக்க நேரத்தைத் தேர்">
 
-<!-- We try to repicate Firefox' bindings: -->
+<!-- We try to repicate Waterfox' bindings: -->
 <!-- quit app -->
 <!ENTITY key_quit "W">
 <!-- open menu -->

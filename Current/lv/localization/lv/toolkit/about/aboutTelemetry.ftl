@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrijas dati
 about-telemetry-more-information = Meklējat papildu informāciju?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox datu dokumentācijā</a> ir norādes par to kā strādāt ar mūsu datu rīkiem.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox telemetrijas klienta dokumentācijā</a> ir konceptu definīcijas, API dokumentācija un datu atsauces.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetrijas paneļi</a> ļauj vizualizēt Mozilla saņemtos telemetrijas datus.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox datu dokumentācijā</a> ir norādes par to kā strādāt ar mūsu datu rīkiem.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox telemetrijas klienta dokumentācijā</a> ir konceptu definīcijas, API dokumentācija un datu atsauces.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetrijas paneļi</a> ļauj vizualizēt Waterfox saņemtos telemetrijas datus.
 about-telemetry-show-in-Firefox-json-viewer = Atvērt ar JSON pārlūku
 about-telemetry-home-section = Sākums
 about-telemetry-general-data-section = Vispārējie dati
@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] deaktivēta
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Šī lapa attēlo veiktspējas un funkciju izmantojuma statistiku, kas apkopota ar Telemetry moduļa palīdzību. Šī informācija tiek anonīmi nosūtīta { $telemetryServerOwner }, lai palīdzētu uzlabot { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetrija vāc { about-telemetry-data-type } un augšupielāde ir <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

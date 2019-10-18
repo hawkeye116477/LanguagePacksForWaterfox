@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ms@firefox.mozilla.org", 
+      "id": "langpack-ms@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Mahrazi Mohd Kamal, Syafiq Mazli, Haryati Salehin, Fahmi Fisal, Muhammad Hafiz Hidzir, Syakir Sudar, Adnan Shukor, Timothy, Amirol Ahmad, Amin Abdullah, M Ilham Ramadhan, Ahmad Noor Kader Mustajir, Muazam Hadi, Mohd Fadzil, Amin Abdullah, Paie)", 
-  "description": "Language pack for Firefox for ms"
+  "description": "Language pack for Waterfox Current for ms"
 }

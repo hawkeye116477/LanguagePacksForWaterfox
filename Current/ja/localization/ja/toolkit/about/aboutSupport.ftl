@@ -62,7 +62,7 @@ app-basics-remote-processes-count = リモートプロセス
 app-basics-enterprise-policies = エンタープライズポリシー
 app-basics-location-service-key-google = Google Location Service キー
 app-basics-safebrowsing-key-google = Google Safebrowsing キー
-app-basics-key-mozilla = Mozilla Location Service キー
+app-basics-key-mozilla = Waterfox Location Service キー
 app-basics-safe-mode = セーフモード
 show-dir-label =
     { PLATFORM() ->

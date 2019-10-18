@@ -16,10 +16,10 @@ about-debugging-page-title-runtime-page = Dadfygio - Amser Rhedeg/ { $selectedRu
 
 # Sidebar strings
 
-# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Display name of the runtime for the currently running instance of Waterfox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = Y { -brand-shorter-name } hwn
-# Sidebar heading for selecting the currently running instance of Firefox
+# Sidebar heading for selecting the currently running instance of Waterfox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
@@ -52,8 +52,8 @@ about-debugging-sidebar-item-connect-button-connection-timeout = Cysylltiad wedi
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Wedi cysylltu
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
-# Firefox) has not been detected yet. Typically, Android phones connected via USB with
-# USB debugging enabled, but where Firefox is not started.
+# Waterfox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Waterfox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Aros am borwr...
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
@@ -82,9 +82,9 @@ about-debugging-refresh-usb-devices-button = Adnewyddu dyfeisiau
 about-debugging-setup-title = Gosod
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Ffurfweddwch y dull cysylltu rydych chi eisiau dadfygio eich dyfais o bell gydag ef.
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
+# Explanatory text in the Setup page about what the 'This Waterfox' page is for
 about-debugging-setup-this-firefox = Defnyddiwch <a>{ about-debugging-this-firefox-runtime-name }</a> i ddadfygio tabiau, estyniadau a gweithwyr gwasanaeth ar y fersiwn hon o { -brand-shorter-name }.
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
+# Explanatory text in the Setup page about what the 'This Waterfox' page is for
 about-debugging-setup-this-firefox2 = Defnyddiwch { about-debugging-this-firefox-runtime-name }</a> i ddadfygio tabiau, estyniadau a gweithwyr gwasanaeth ar y fersiwn hon o { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Cysylltu Dyfais
@@ -109,7 +109,7 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Galluogi dewislen datblygwyr a
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Galluogi Dadfygio USB yn Newislen Datblygwr Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Galluogi Dadfygio USB yn Firefox ar y ddyfais Android.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Galluogi Dadfygio USB yn Waterfox ar y ddyfais Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Cysylltu'r ddyfais Android i'ch cyfrifiadur.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
@@ -146,7 +146,7 @@ about-debugging-network-location-form-duplicate = Mae'r gwestai “{ $host-value
 
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
-# Title of the temporary extensions category (only available for "This Firefox" runtime).
+# Title of the temporary extensions category (only available for "This Waterfox" runtime).
 about-debugging-runtime-temporary-extensions =
     .name = Estyniadau Dros Dro
 # Title of the extensions category.
@@ -177,7 +177,7 @@ about-debugging-runtime-service-workers-not-compatible = Nid yw ffurfweddiad eic
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+# { $minVersion } is the minimum version that is compatible with the current Waterfox instance (same format)
 about-debugging-browser-version-too-old = Mae gan y porwr cysylltiedig hen fersiwn ({ $runtimeVersion }). Y fersiwn lleiaf sy'n cael ei gynnal yw ({ $minVersion }). Mae hwn yn osodiad sydd dim yn cael ei gynnal a gall achosi i DevTools fethu. Diweddarwch y porwr cysylltiedig. <a>Datrys problemau</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
@@ -185,16 +185,16 @@ about-debugging-browser-version-too-old = Mae gan y porwr cysylltiedig hen fersi
 # Those are normally in range for DevTools compatibility policy, but specific non
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-about-debugging-browser-version-too-old-67-debugger = Efallai na fydd panel y Dafygiwr yn gweithio gyda'r porwr cysylltiedig. Defnyddiwch Firefox { $runtimeVersion } os oes angen i chi ddefnyddio'r Dadfygiwr gyda'r porwr hwn.
+about-debugging-browser-version-too-old-67-debugger = Efallai na fydd panel y Dafygiwr yn gweithio gyda'r porwr cysylltiedig. Defnyddiwch Waterfox { $runtimeVersion } os oes angen i chi ddefnyddio'r Dadfygiwr gyda'r porwr hwn.
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
-# { $localID } is the build ID of the current Firefox instance (same format)
+# { $localID } is the build ID of the current Waterfox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Mae'r porwr cysylltiedig yn fwy diweddar ( { $runtimeVersion }, buildID { $runtimeID }) na'ch { -brand-shorter-name } ({ $localVersion }, BuildID{ $localID }). Mae hwn yn osodiad heb gefnogaeth ac fe all beri i DevTools fethu. Diweddarwch Firefox. <a>Datrys Problemau</a>
+about-debugging-browser-version-too-recent = Mae'r porwr cysylltiedig yn fwy diweddar ( { $runtimeVersion }, buildID { $runtimeID }) na'ch { -brand-shorter-name } ({ $localVersion }, BuildID{ $localID }). Mae hwn yn osodiad heb gefnogaeth ac fe all beri i DevTools fethu. Diweddarwch Waterfox. <a>Datrys Problemau</a>
 # Displayed for runtime info in runtime pages.
-# { $name } is brand name such as "Firefox Nightly"
+# { $name } is brand name such as "Waterfox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
@@ -222,15 +222,15 @@ about-debugging-debug-target-list-empty = Dim byd eto.
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = Archwilio
-# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# Text of a button displayed in the "This Waterfox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Llwytho Ychwanegyn Dros Dro…
-# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+# Text displayed when trying to install a temporary extension in the "This Waterfox" page.
 about-debugging-tmp-extension-install-error = Digwyddodd gwall wrth osod ychwanegyn dros dro
-# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Text of a button displayed for a temporary extension loaded in the "This Waterfox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Ail-lwytho
-# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Text of a button displayed for a temporary extension loaded in the "This Waterfox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Tynnu
 # Message displayed in the file picker that opens to select a temporary extension to load

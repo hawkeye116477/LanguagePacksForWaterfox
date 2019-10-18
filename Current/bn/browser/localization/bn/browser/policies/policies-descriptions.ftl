@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -24,8 +24,8 @@ policy-DisableBuiltinPDFViewer = { -brand-short-name } এর ডিফল্ট
 policy-DisableDeveloperTools = ডেভেলপার টুলের জন্য নিয়ন্ত্রন বন্ধ করুন।
 policy-DisableFeedbackCommands = সাহায্য মেনু থেকে প্রতিক্রিয়া পাঠানোর জন্য নির্দেশ নিস্ক্রিয় করুন (প্রতিক্রিয়া জমা দিন এবং প্রতারক সাইট রিপোর্ট করুন)।
 policy-DisableFirefoxAccounts = সিঙ্ক সহ { -fxaccount-brand-name } ভিত্তিক পরিষেবাদি নিস্ক্রিয় করুন।
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Firefox Screenshots এর ফিচার নিস্ক্রিয় করুন।
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Waterfox Screenshots এর ফিচার নিস্ক্রিয় করুন।
 policy-DisableFirefoxStudies = চলমান গবেষণা থেকে { -brand-short-name } বিরত রাখুন।
 policy-DisableForgetButton = Forget বাটন ব্যবহারে বিরত রাখুন।
 policy-DisableFormHistory = অনুসন্ধান ও ফরম ইতিহাস মনে রাখবে না।

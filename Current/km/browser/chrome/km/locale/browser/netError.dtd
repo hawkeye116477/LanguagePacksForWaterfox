@@ -100,7 +100,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "បន្ថែម​ករណី​លើកលែង…">
 
 
-<!ENTITY errorReporting.automatic2 "សូម​រាយការណ៍​កំហុស​បែប​នេះ​ដើម្បី​ជួយ​ដល់ Mozilla ក្នុង​ការ​កំណត់ និង​ទប់​ស្កាត់​វេបសាយ​ដែល​មាន​បំណង​អាក្រក់">
+<!ENTITY errorReporting.automatic2 "សូម​រាយការណ៍​កំហុស​បែប​នេះ​ដើម្បី​ជួយ​ដល់ Waterfox ក្នុង​ការ​កំណត់ និង​ទប់​ស្កាត់​វេបសាយ​ដែល​មាន​បំណង​អាក្រក់">
 <!ENTITY errorReporting.learnMore "ស្វែងយល់​បន្ថែម...">
 
 <!ENTITY remoteXUL.title "XUL ពី​ចម្ងាយ">

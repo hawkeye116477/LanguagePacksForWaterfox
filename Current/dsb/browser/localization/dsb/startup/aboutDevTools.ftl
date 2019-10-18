@@ -3,27 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = Wó wuwijarskich rědach
-enable-title = Wuwijarske rědy Firefox zmóžniś
-enable-inspect-element-title = Wuwijarske rědy Firefox zmóžniś, aby se Element pśepytowaś wužywało
+enable-title = Wuwijarske rědy Waterfox zmóžniś
+enable-inspect-element-title = Wuwijarske rědy Waterfox zmóžniś, aby se Element pśepytowaś wužywało
 enable-inspect-element-message = Pśepytajśo a wobźěłajśo HTML a CSS z Inspektora wuwijarskich rědow.
-enable-about-debugging-message = Wuwijajśo a testujśo WebExtensions, webworkery, service workery a wěcej z wuwijarskimi rědami Firefox.
+enable-about-debugging-message = Wuwijajśo a testujśo WebExtensions, webworkery, service workery a wěcej z wuwijarskimi rědami Waterfox.
 enable-key-shortcut-message = Sćo tastowu skrotconku wuwijarskich rědow aktiwěrował. Joli jo to zmólka była, móžośo toś ten rejtark zacyniś.
 enable-menu-message = Wudopołniśo HTML, CSS a JavaScript swójogo websedła z rědami ako Inspektor a pytanje za zmólkami.
-enable-common-message = Wuwijarske rědy Firefox su znjemóžnjone pó standarźe, aby wy wěcej kontrole nad swójim wobglědowakom měł.
+enable-common-message = Wuwijarske rědy Waterfox su znjemóžnjone pó standarźe, aby wy wěcej kontrole nad swójim wobglědowakom měł.
 enable-learn-more-link = Zgóńśo wěcej wó wuwijarskich rědach
 enable-enable-button = Wuwijarske rědy zmóžniś
 enable-close-button = Toś ten rejtark zacyniś
-welcome-title = Witajśo k wuwijarskim rědam Firefox!
-newsletter-title = Wuwijarski powěsćowy list Mozilla
+welcome-title = Witajśo k wuwijarskim rědam Waterfox!
+newsletter-title = Wuwijarski powěsćowy list Waterfox
 newsletter-message = Wobstarajśo se nowosći wuwijarjow, pokaze a resurse, kótarež se direktnje na was sćelu.
 newsletter-email-placeholder =
     .placeholder = E-mail
-newsletter-privacy-label = Som wobjadny, až Mozilla wobchada pó <a data-l10n-name="privacy-policy">tós tych pšawidłach priwatnosći</a> z mójimi informacijami.
+newsletter-privacy-label = Som wobjadny, až Waterfox wobchada pó <a data-l10n-name="privacy-policy">tós tych pšawidłach priwatnosći</a> z mójimi informacijami.
 newsletter-subscribe-button = Aboněrowaś
 newsletter-thanks-title = Wjeliki źěk!
-newsletter-thanks-message = Jolic hyšći njejsćo abonement powěsćowego lista Mozilla wobkšuśił, musyśo to něnto cyniś. Pšosym glědajśo do dochada posta abo papjernika za mejlku wót nas.
-footer-title = Firefox Developer Edition
-footer-message = Pytaśo wěcej ako jano wuwijarske rědy? Wuslěźćo wobglědowak Firefox, kótaryž jo se specielnje za wuwijarje a moderne źěłowe wótběgi wuwił.
+newsletter-thanks-message = Jolic hyšći njejsćo abonement powěsćowego lista Waterfox wobkšuśił, musyśo to něnto cyniś. Pšosym glědajśo do dochada posta abo papjernika za mejlku wót nas.
+footer-title = Waterfox Developer Edition
+footer-message = Pytaśo wěcej ako jano wuwijarske rědy? Wuslěźćo wobglědowak Waterfox, kótaryž jo se specielnje za wuwijarje a moderne źěłowe wótběgi wuwił.
 footer-learn-more-link = Dalšne informacije
 features-learn-more = Dalšne informacije
 features-inspector-title = Inspektor

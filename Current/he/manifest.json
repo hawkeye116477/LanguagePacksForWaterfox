@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-he@firefox.mozilla.org", 
+      "id": "langpack-he@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Reuven Gonen, Tsahi Asher, Tomer Cohen)", 
-  "description": "Language pack for Firefox for he"
+  "description": "Language pack for Waterfox Current for he"
 }

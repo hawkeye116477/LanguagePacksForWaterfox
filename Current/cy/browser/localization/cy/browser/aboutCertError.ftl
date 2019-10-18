@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = Mae { $hostname } yn defnyddio tystysgrif diogelwch annilys.
 cert-error-mitm-intro = Mae gwefannau'n profi eu hunaniaeth drwy dystysgrifau, sy'n cael eu cyhoeddi gan awdurdodau tystysgrifau.
-cert-error-mitm-mozilla = Mae { -brand-short-name } yn cael ei gefnogi gan Mozilla y corff dim-er-elw, sy'n gweinyddu storfa awdurdod tystysgrifau (CA) cwbl agored. Mae'r storfa'n cynorthwyo i sicrhau fod awdurdodau tystysgrif yn dilyn ymarfer gorau ar gyfer diogelwch defnyddwyr.
-cert-error-mitm-connection = Mae { -brand-short-name } yn defnyddio storfa CA Mozilla i wirio bod cysylltiad yn ddiogel, yn hytrach na thystysgrifau wedi eu cyflenwi gan system weithredu'r defnyddiwr. Felly, os yw rhaglen gwrth-firws neu rwydwaith yn rhyng-gipio cysylltiad â thystysgrif diogelwch a gyhoeddwyd gan CA nad yw yn storfa CA Mozilla, mae'n ystyried bod y cysylltiad yn anniogel.
+cert-error-mitm-mozilla = Mae { -brand-short-name } yn cael ei gefnogi gan Waterfox y corff dim-er-elw, sy'n gweinyddu storfa awdurdod tystysgrifau (CA) cwbl agored. Mae'r storfa'n cynorthwyo i sicrhau fod awdurdodau tystysgrif yn dilyn ymarfer gorau ar gyfer diogelwch defnyddwyr.
+cert-error-mitm-connection = Mae { -brand-short-name } yn defnyddio storfa CA Waterfox i wirio bod cysylltiad yn ddiogel, yn hytrach na thystysgrifau wedi eu cyflenwi gan system weithredu'r defnyddiwr. Felly, os yw rhaglen gwrth-firws neu rwydwaith yn rhyng-gipio cysylltiad â thystysgrif diogelwch a gyhoeddwyd gan CA nad yw yn storfa CA Waterfox, mae'n ystyried bod y cysylltiad yn anniogel.
 cert-error-trust-unknown-issuer-intro = Gall fod rhywun yn ceisio efelychu'r wefan a pheidiwch â mynd yn eich blaen.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

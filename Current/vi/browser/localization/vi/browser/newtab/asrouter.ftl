@@ -52,7 +52,7 @@ cfr-doorhanger-pintab-step3 = Nếu trang web có bản cập nhật, bạn sẽ
 cfr-doorhanger-pintab-animation-pause = Tạm dừng
 cfr-doorhanger-pintab-animation-resume = Tiếp tục
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Đồng bộ trang đánh dấu của bạn ở mọi nơi.
 cfr-doorhanger-bookmark-fxa-body = Đã tìm thấy tuyệt vời! Bây giờ hãy đồng bộ các dấu trang này với thiết bị di động của bạn. Bắt đầu với một { -fxaccount-brand-name }.

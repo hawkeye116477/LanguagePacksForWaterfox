@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-da@firefox.mozilla.org", 
+      "id": "langpack-da@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilladanmark.dk (contributors: Jesper Kristensen, Søren Lønbæk Nygaard Christensen, Søren Munk Skrøder)", 
-  "description": "Language pack for Firefox for da"
+  "description": "Language pack for Waterfox Current for da"
 }

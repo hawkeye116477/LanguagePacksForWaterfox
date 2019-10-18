@@ -11,7 +11,7 @@ process-type-privileged = Contenido privilegiado
 process-type-privilegedabout = Acerca de - privilegiado
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Contenido de Mozilla - privilegiado
+process-type-privilegedmozilla = Contenido de Waterfox - privilegiado
 process-type-extension = Extensión
 # process used to open file:// URLs
 process-type-file = Archivo local

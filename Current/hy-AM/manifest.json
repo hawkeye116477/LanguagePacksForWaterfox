@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-hy-AM@firefox.mozilla.org", 
+      "id": "langpack-hy-AM@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.am (contributors: Hrant Ohanyan, Robert Sargsyan, Armen Zambrano Gasparnian, Vahe Khachikyan, Mamikon Nikoghosyan)", 
-  "description": "Language pack for Firefox for hy-AM"
+  "description": "Language pack for Waterfox Current for hy-AM"
 }

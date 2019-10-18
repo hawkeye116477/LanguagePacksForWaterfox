@@ -44,7 +44,7 @@ app-basics-profiles = ਪਰੋਫਾਈਲ
 app-basics-multi-process-support = ਬਹੁ-ਕਾਰਜ ਵਿੰਡੋਜ਼
 app-basics-process-count = ਵੈੱਬ ਸਮੱਗਰੀ ਕਾਰਵਾਈ
 app-basics-key-google = Google Key
-app-basics-key-mozilla = Mozilla Location Service Key
+app-basics-key-mozilla = Waterfox Location Service Key
 app-basics-safe-mode = ਸੁਰੱਖਿਅਤ ਮੋਡ
 show-dir-label =
     { PLATFORM() ->

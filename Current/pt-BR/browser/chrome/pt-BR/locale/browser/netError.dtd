@@ -180,7 +180,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 
 <!ENTITY securityOverride.exceptionButton1Label "Aceitar o risco e continuar">
 
-<!ENTITY errorReporting.automatic2 "Relatar erros como este para ajudar a Mozilla a identificar e bloquear sites maliciosos">
+<!ENTITY errorReporting.automatic2 "Relatar erros como este para ajudar a Waterfox a identificar e bloquear sites maliciosos">
 <!ENTITY errorReporting.learnMore "Saiba mais…">
 
 <!ENTITY remoteXUL.title "XUL remoto">

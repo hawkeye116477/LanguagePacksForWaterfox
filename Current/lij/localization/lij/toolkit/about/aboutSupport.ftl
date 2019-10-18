@@ -49,7 +49,7 @@ app-basics-multi-process-support = Barcoin moltiprocesso
 app-basics-process-count = Processi di contegnui web
 app-basics-enterprise-policies = Critei aziendali
 app-basics-location-service-key-google = Ciave do serviçio de localizaçion de Google
-app-basics-key-mozilla = Ciave do Serviçio de Localizaçion de Mozilla
+app-basics-key-mozilla = Ciave do Serviçio de Localizaçion de Waterfox
 app-basics-safe-mode = Mòddo seguo
 show-dir-label =
     { PLATFORM() ->

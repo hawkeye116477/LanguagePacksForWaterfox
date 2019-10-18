@@ -40,7 +40,7 @@ app-basics-service-workers = ನೊಂದಾಯಿಸಿಕೊಂಡ ಸೇವ�
 app-basics-profiles = ಪ್ರೊಫೈಲ್‌ಗಳು
 app-basics-multi-process-support = ಬಹುಪ್ರಕ್ರಿಯೆ ಕಿಟಕಿಗಳು
 app-basics-key-google = ಗೂಗಲ್ ಕೀ
-app-basics-key-mozilla = Mozilla ಸ್ಥಳ ಸೇವೆ ಕೀ
+app-basics-key-mozilla = Waterfox ಸ್ಥಳ ಸೇವೆ ಕೀ
 app-basics-safe-mode = ಸುರಕ್ಷಾ ಸ್ಥಿತಿ
 show-dir-label =
     { PLATFORM() ->

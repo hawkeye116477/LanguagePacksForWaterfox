@@ -160,7 +160,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "నష్టభయాన్ని అంగీకరించి ముందుకు కొనసాగండి">
 
-<!ENTITY errorReporting.automatic2 "హానికరమైన సైట్లను గుర్తించి నిరోధించడంలో సహాయపడేందుకు ఇలాంటి తప్పిదాలను Mozillaకు నివేదించండి">
+<!ENTITY errorReporting.automatic2 "హానికరమైన సైట్లను గుర్తించి నిరోధించడంలో సహాయపడేందుకు ఇలాంటి తప్పిదాలను Waterfoxకు నివేదించండి">
 <!ENTITY errorReporting.learnMore "ఇంకా తెలుసుకోండి…">
 
 <!ENTITY remoteXUL.title "రిమోట్ XUL">

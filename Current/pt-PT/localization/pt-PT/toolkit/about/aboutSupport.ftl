@@ -64,7 +64,7 @@ app-basics-remote-processes-count = Processos remotos
 app-basics-enterprise-policies = Políticas empresariais
 app-basics-location-service-key-google = Chave do serviço de localização da Google
 app-basics-safebrowsing-key-google = Chave do Google Safebrowsing
-app-basics-key-mozilla = Chave do serviço de localização da Mozilla
+app-basics-key-mozilla = Chave do serviço de localização da Waterfox
 app-basics-safe-mode = Modo de segurança
 show-dir-label =
     { PLATFORM() ->

@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Date de telemetrie
 about-telemetry-current-store = Magazin curent:
 about-telemetry-more-information = Cauți mai multe informații?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Documentația de date Firefox</a> conține ghiduri despre cum să lucrezi cu uneltele noastre de date.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Documentația privind clientul de telemetrie Firefox</a> include definiții de concepte, documentație API și referințe de date.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Tabloul de bord pentru telemetrie</a> îți permite să vizualizezi datele pe care Mozilla le primește prin intermediul telemetriei.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Documentația de date Waterfox</a> conține ghiduri despre cum să lucrezi cu uneltele noastre de date.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Documentația privind clientul de telemetrie Waterfox</a> include definiții de concepte, documentație API și referințe de date.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Tabloul de bord pentru telemetrie</a> îți permite să vizualizezi datele pe care Waterfox le primește prin intermediul telemetriei.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Dicționarul de sonde</a> furnizează detalii și descrieri ale sondelor gestionate de telemetrie.
 about-telemetry-show-in-Firefox-json-viewer = Deschide în vizualizatorul JSON
 about-telemetry-home-section = Pagină de start
@@ -69,7 +69,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } de mostre, media = { $prettyAverage }, suma = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Această pagină afișează informațiile colectate prin telemetrie despre performanță, hardware, utilizare și personalizări. Aceste informații sunt trimise la { $telemetryServerOwner } pentru a ajuta la îmbunătățirea { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetria colectează { about-telemetry-data-type } și încărcarea este <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -141,8 +141,8 @@ about-telemetry-origin-section = Telemetrie de origine
 about-telemetry-origin-origin = origine
 about-telemetry-origin-count = număr
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> codifică datele înainte de transmitere astfel încât { $telemetryServerOwner } poate număra, dar nu știe dacă orice { -brand-product-name } dat a contribuit sau nu la numărătoarea respectivă. (<a data-l10n-name="prio-blog-link">learn more</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Waterfox Origin Telemetry</a> codifică datele înainte de transmitere astfel încât { $telemetryServerOwner } poate număra, dar nu știe dacă orice { -brand-product-name } dat a contribuit sau nu la numărătoarea respectivă. (<a data-l10n-name="prio-blog-link">learn more</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Proces { $process }

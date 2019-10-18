@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-xh@firefox.mozilla.org", 
+      "id": "langpack-xh@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "Translate.org.za (contributors: Rubric, Translate.org.za)", 
-  "description": "Language pack for Firefox for xh"
+  "description": "Language pack for Waterfox Current for xh"
 }

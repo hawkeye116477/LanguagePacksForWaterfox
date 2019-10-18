@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-nb-NO@firefox.mozilla.org", 
+      "id": "langpack-nb-NO@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "firefox.no (contributors: Pascual Strømsnæs, Vidar Braut Haarr, Håvar Henriksen, Reidar Djupvik, Jan-Espen Pettersen, Håvard Mork, Lasse Marøen, Martin Joné, Morten Liljegren, Karol Ptasinski)", 
-  "description": "Language pack for Firefox for nb-NO"
+  "description": "Language pack for Waterfox Current for nb-NO"
 }

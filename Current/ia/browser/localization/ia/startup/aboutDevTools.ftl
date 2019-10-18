@@ -3,27 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = Circa le utensiles de disveloppamento
-enable-title = Activar le Utensiles de disveloppamento de Firefox
-enable-inspect-element-title = Activar le Utensiles de disveloppamento de Firefox pro usar Inspicer elemento
+enable-title = Activar le Utensiles de disveloppamento de Waterfox
+enable-inspect-element-title = Activar le Utensiles de disveloppamento de Waterfox pro usar Inspicer elemento
 enable-inspect-element-message = Examina e redige HTML e CSS le Inspector del utensiles de disveloppamento.
-enable-about-debugging-message = Disveloppa e depura WebExtensions, web workers, service workers e plus per le Utensiles de disveloppamento de Firefox.
+enable-about-debugging-message = Disveloppa e depura WebExtensions, web workers, service workers e plus per le Utensiles de disveloppamento de Waterfox.
 enable-key-shortcut-message = Tu ha activate un accesso directe al instrumentos de developpator. Si isto esseva un error, tu pote clauder iste scheda.
 enable-menu-message = Perfectiona le HTML, CSS, e JavaScript de tu sito web per utensiles como Inspector e Depurator.
-enable-common-message = Le Utensiles de disveloppamento de Firefox es disactivate normalmente pro dar te major controlo de tu navigator.
+enable-common-message = Le Utensiles de disveloppamento de Waterfox es disactivate normalmente pro dar te major controlo de tu navigator.
 enable-learn-more-link = Apprende plus re le Utensiles del disveloppamento
 enable-enable-button = Activar le Utensiles de disveloppamento
 enable-close-button = Clauder iste scheda
-welcome-title = Benvenite al Utensiles de disveloppamento de Firefox!
-newsletter-title = Littera del novas de disveloppamento de Mozilla
+welcome-title = Benvenite al Utensiles de disveloppamento de Waterfox!
+newsletter-title = Littera del novas de disveloppamento de Waterfox
 newsletter-message = Recipe novas, artificios e ressources de disveloppamento inviate directemente a tu cassa de entrata.
 newsletter-email-placeholder =
     .placeholder = Email
-newsletter-privacy-label = Io consenti con le tractamento per Mozilla de mi informationes como explicate in iste <a data-l10n-name="privacy-policy">Politica de confidentialitate</a>.
+newsletter-privacy-label = Io consenti con le tractamento per Waterfox de mi informationes como explicate in iste <a data-l10n-name="privacy-policy">Politica de confidentialitate</a>.
 newsletter-subscribe-button = Subscriber
 newsletter-thanks-title = Gratias!
-newsletter-thanks-message = Si tu non habeva antea confirmate un subscription a un newsletter re Mozilla tu pote facer lo. Per favor controla tu cassa de entrata o tu filtro del spam pro un e-posta ab nos.
-footer-title = Firefox Developer Edition
-footer-message = Cerca tu plus que justo Utensiles de disveloppamento? Controla le navigator Firefox create specificamente pro le disveloppatores e le fluxos de labor moderne.
+newsletter-thanks-message = Si tu non habeva antea confirmate un subscription a un newsletter re Waterfox tu pote facer lo. Per favor controla tu cassa de entrata o tu filtro del spam pro un e-posta ab nos.
+footer-title = Waterfox Developer Edition
+footer-message = Cerca tu plus que justo Utensiles de disveloppamento? Controla le navigator Waterfox create specificamente pro le disveloppatores e le fluxos de labor moderne.
 footer-learn-more-link = Saper plus
 features-learn-more = Saper plus
 features-inspector-title = Inspector

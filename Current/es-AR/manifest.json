@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-es-AR@firefox.mozilla.org", 
+      "id": "langpack-es-AR@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Marcelo Poli, Pablo Lillia, Sergio Celani, Ariel Burone, Mariano Cuenze, Ramón Retamar, Pamela Gulijczuk, Guillermo Movia)", 
-  "description": "Language pack for Firefox for es-AR"
+  "description": "Language pack for Waterfox Current for es-AR"
 }

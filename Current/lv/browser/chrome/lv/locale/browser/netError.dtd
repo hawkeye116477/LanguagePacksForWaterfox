@@ -132,7 +132,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Pieļaut izņēmumu...">
 <!ENTITY securityOverride.exceptionButton1Label "Pieņemt risku un turpināt">
 
-<!ENTITY errorReporting.automatic2 "Ziņojiet par šādām kļūdām Mozilla, lai varētu identificēt un bloķēt kaitnieciskas lapas">
+<!ENTITY errorReporting.automatic2 "Ziņojiet par šādām kļūdām Waterfox, lai varētu identificēt un bloķēt kaitnieciskas lapas">
 <!ENTITY errorReporting.learnMore "Uzzināt vairāk…">
 
 <!ENTITY remoteXUL.title "Attālināts XUL">

@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = თუ საიტზე რამე გან�
 cfr-doorhanger-pintab-animation-pause = შეჩერება
 cfr-doorhanger-pintab-animation-resume = გაგრძელება
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = დაასინქრონეთ სანიშნები ყველგან.
 cfr-doorhanger-bookmark-fxa-body = რაც მთავარია! ახლა უკვე არ დარჩებით სანიშნის გარეშე თქვენს მობილურ მოწყობილობებზე. გამოიყენეთ { -fxaccount-brand-name }.

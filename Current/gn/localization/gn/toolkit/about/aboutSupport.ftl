@@ -61,7 +61,7 @@ app-basics-remote-processes-count = Tapereko okayguáva
 app-basics-enterprise-policies = Purureko mba'apoha rehegua
 app-basics-location-service-key-google = Google ñemoñe’ẽasa ñe’ẽñemi
 app-basics-safebrowsing-key-google = Google Safebrowsing Key
-app-basics-key-mozilla = Mozilla mba'epytyvõrã rendaite rehegua
+app-basics-key-mozilla = Waterfox mba'epytyvõrã rendaite rehegua
 app-basics-safe-mode = Teko jerovia
 show-dir-label =
     { PLATFORM() ->

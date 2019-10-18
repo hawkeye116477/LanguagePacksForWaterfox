@@ -22,8 +22,8 @@ category-search =
 pane-privacy-title = පුද්ගලිකත්වය සහ ආරක්ෂාව
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox ගිනුම
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Waterfox ගිනුම
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } සහය
@@ -94,10 +94,10 @@ search-results-help-link = උදව් ඇවැසිද? <a data-l10n-name="u
 ## General Section
 
 startup-header = ආරම්භය
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name } හා Firefox එකම මොහොතේ ධාවනය වීමට ඉඩ දෙන්න
+    .label = { -brand-short-name } හා Waterfox එකම මොහොතේ ධාවනය වීමට ඉඩ දෙන්න
 use-firefox-sync = ඉඟිය: මෙය වෙන් වූ පැතිකඩ භාවිත කරයි. ඒවා අතර දත්ත බෙදාගැනීමට { -sync-brand-short-name } භාවිත කරන්න.
 get-started-not-logged-in = { -sync-brand-short-name } වෙත පිවිසෙන්න…
 get-started-configured = { -sync-brand-short-name } අභිප්‍රේත විවෘත කරන්න
@@ -285,10 +285,10 @@ home-newtabs-mode-label = නව ටැබ්
 home-restore-defaults =
     .label = පෙරනිමි නැවත පිහිටුවන්න
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox මුල් පිටුව (පෙරනිමි)
+    .label = Waterfox මුල් පිටුව (පෙරනිමි)
 home-mode-choice-blank =
     .label = හිස් පිටුව
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -367,7 +367,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = මෙය සඳහා Firefox බාගත කරන්න <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ඔබගේ ජංගම උපාංගය සමඟ සමමුහුර්ත කිරීමට.
+sync-mobile-promo = මෙය සඳහා Waterfox බාගත කරන්න <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ඔබගේ ජංගම උපාංගය සමඟ සමමුහුර්ත කිරීමට.
 
 ## Sync Section - Signed in
 

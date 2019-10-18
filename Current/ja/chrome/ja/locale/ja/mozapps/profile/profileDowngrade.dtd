@@ -4,16 +4,16 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title	"古いバージョンの Firefox を起動しています">
+<!ENTITY window.title	"古いバージョンの Waterfox を起動しています">
 <!ENTITY window.style	"width: 490px;">
 
-<!ENTITY window.nosync	"古いバージョンの Firefox を使用すると既存のプロファイルに保存されたブックマークやブラウジング履歴が壊れる可能性があります。これらの情報を保護するため、この &brandShortName; 用に新しいプロファイルを作成してください。">
-<!ENTITY window.sync	"古いバージョンの Firefox を使用すると既存のプロファイルに保存されたブックマークやブラウジング履歴が壊れる可能性があります。これらの情報を保護するため、この &brandShortName; 用に新しいプロファイルを作成してください。&syncBrand.fxAccount.label;にログインして、いつでもブックマークとブラウジング履歴をプロファイル間で同期できます。">
+<!ENTITY window.nosync	"古いバージョンの Waterfox を使用すると既存のプロファイルに保存されたブックマークやブラウジング履歴が壊れる可能性があります。これらの情報を保護するため、この &brandShortName; 用に新しいプロファイルを作成してください。">
+<!ENTITY window.sync	"古いバージョンの Waterfox を使用すると既存のプロファイルに保存されたブックマークやブラウジング履歴が壊れる可能性があります。これらの情報を保護するため、この &brandShortName; 用に新しいプロファイルを作成してください。&syncBrand.fxAccount.label;にログインして、いつでもブックマークとブラウジング履歴をプロファイル間で同期できます。">
 
 <!ENTITY window.create	"新しいプロファイルを作成">
 <!ENTITY window.quit-win	"終了">

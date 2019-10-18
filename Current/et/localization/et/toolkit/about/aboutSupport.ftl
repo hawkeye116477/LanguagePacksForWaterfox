@@ -51,7 +51,7 @@ app-basics-multi-process-support = Mitme protsessiga aknad
 app-basics-process-count = Veebisisu protsessid
 app-basics-enterprise-policies = Rühmapoliitikad
 app-basics-key-google = Google võti
-app-basics-key-mozilla = Mozilla asukohateenuse võti
+app-basics-key-mozilla = Waterfox asukohateenuse võti
 app-basics-safe-mode = Ohutu režiim
 show-dir-label =
     { PLATFORM() ->

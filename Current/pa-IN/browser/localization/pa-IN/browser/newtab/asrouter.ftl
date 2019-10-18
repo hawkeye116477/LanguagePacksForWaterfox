@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = ਜੇ ਸਾਈਟ ਨੂੰ ਅੱਪਡੇਟ �
 cfr-doorhanger-pintab-animation-pause = ਵਿਰਾਮ
 cfr-doorhanger-pintab-animation-resume = ਮੁੜ-ਪ੍ਰਾਪਤ
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਹਰ ਥਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰੋ।
 cfr-doorhanger-bookmark-fxa-link-text = …ਬੁੱਕਮਾਰਕ ਹੁਣੇ ਸਿੰਕ ਕਰੋ

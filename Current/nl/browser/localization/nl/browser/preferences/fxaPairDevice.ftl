@@ -6,7 +6,7 @@ fxa-pair-device-dialog =
     .title = Een ander apparaat verbinden
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Installeer <a data-l10n-name="connect-another-device">Firefox op uw mobiele apparaat</a> als u dat nog niet hebt gedaan.
+fxa-qrcode-heading-phase1 = 1. Installeer <a data-l10n-name="connect-another-device">Waterfox op uw mobiele apparaat</a> als u dat nog niet hebt gedaan.
 
 fxa-qrcode-heading-phase2 = 2. Meld u aan bij { -sync-brand-short-name }, of scan in Android de koppelingscode vanuit de instellingen van { -sync-brand-short-name }.
 

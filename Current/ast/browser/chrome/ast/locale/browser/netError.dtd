@@ -171,7 +171,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
 
-<!ENTITY errorReporting.automatic2 "Informa de fallos como esti p'ayudar a Mozilla a identificar y bloquiar sitios maliciosos">
+<!ENTITY errorReporting.automatic2 "Informa de fallos como esti p'ayudar a Waterfox a identificar y bloquiar sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Deprendi más…">
 
 <!ENTITY remoteXUL.title "XUL Remotu">

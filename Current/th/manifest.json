@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-th@firefox.mozilla.org", 
+      "id": "langpack-th@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Nattapong Ekudomsuk, Patipat Susumpow, Pittaya Sroilong, Teerapat Taechaiya, Vee Satayamas, Wichai Termwuttipreecha)", 
-  "description": "Language pack for Firefox for th"
+  "description": "Language pack for Waterfox Current for th"
 }

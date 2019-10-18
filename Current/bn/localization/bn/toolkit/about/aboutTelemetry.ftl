@@ -53,7 +53,7 @@ about-telemetry-upload-type =
        *[disabled] নিষ্ক্রিয়
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = এই পাতাটি টেলিমেট্রি কতৃক সংগৃহীত কার্যকারিতা,ব্যবহার,স্বনির্বাচনসমূহের তথ্য প্রদর্শন করে। এই তথ্য { $telemetryServerOwner } এর নিকট { -brand-full-name } এর উন্নতিতে সাহায্যের জন্য উপস্থাপিত হয়েছে।
 # Variables:
 #   $name (String): ping name, e.g. “saved-session”

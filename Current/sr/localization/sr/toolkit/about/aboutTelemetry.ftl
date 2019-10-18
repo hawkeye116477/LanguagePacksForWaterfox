@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Подаци телеметрије
 about-telemetry-more-information = Тражите више података?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox документација података</a> садржи водиче о томе како радити са нашим алатима за податке.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox документација телеметрије клијента</a> укључује дефиниције концепта, API документацију и референце података.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Командна табла телеметрије</a> вам дозвољава да визуелно прикажете податке које Mozilla прима путем телеметрије.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox документација података</a> садржи водиче о томе како радити са нашим алатима за податке.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox документација телеметрије клијента</a> укључује дефиниције концепта, API документацију и референце података.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Командна табла телеметрије</a> вам дозвољава да визуелно прикажете податке које Waterfox прима путем телеметрије.
 about-telemetry-show-in-Firefox-json-viewer = Отвори у JSON приказивачу
 about-telemetry-home-section = Почетна
 about-telemetry-general-data-section = Општи подаци
@@ -56,7 +56,7 @@ about-telemetry-upload-type =
        *[disabled] онемогућено
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Ова страница ће приказати информације о перфомансама, хардверу, потрошњи и прилагођењу које је прикупила телеметрија. Ове информације ће бити послате { $telemetryServerOwner }-и да би се побољшао { -brand-full-name }.
 about-telemetry-settings-explanation = Телеметрија сакупља { about-telemetry-data-type } и отпремање је <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

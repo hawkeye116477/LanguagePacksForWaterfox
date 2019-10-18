@@ -35,7 +35,7 @@ about-telemetry-upload-type =
        *[disabled] අක්‍රීයයි
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = මෙම පිටුව දූරාමිතිය මගින් එක්රැස් කරන කාර්ය්‍යක්ෂමතාව, දෘඩාංග, භාවිතය හා රුචිකරණ තොරතුරු පෙන්වයි. මෙම තොරතුරු { -brand-full-name } වැඩිදියුණු කිරීමට සහයවීම සඳහා { $telemetryServerOwner } වෙත පළ කෙරේ.
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = සියල්ල

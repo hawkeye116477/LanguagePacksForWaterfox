@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Data Telemetreg
 about-telemetry-current-store = Storfa Gyfredol:
 about-telemetry-more-information = Chwilio am ragor o wybodaeth?
-about-telemetry-firefox-data-doc = Mae'r <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> yn cynnwys canllawiau ar sut i weithio gyda'n offer data.
-about-telemetry-telemetry-client-doc = Mae <a data-l10n-name="client-doc-link">dogfennaeth cleient Firefox Telemetry</a> yn cynnwys diffiniadau o gysyniadau, dogfennaeth API a chyfeiriadau data.
-about-telemetry-telemetry-dashboard = Mae <a data-l10n-name="dashboard-link">byrddau gwaith Telemetreg</a> yn caniatáu i chi weld y data mae Mozilla yn ei dderbyn drwy'r Delemetreg.
+about-telemetry-firefox-data-doc = Mae'r <a data-l10n-name="data-doc-link">Waterfox Data Documentation</a> yn cynnwys canllawiau ar sut i weithio gyda'n offer data.
+about-telemetry-telemetry-client-doc = Mae <a data-l10n-name="client-doc-link">dogfennaeth cleient Waterfox Telemetry</a> yn cynnwys diffiniadau o gysyniadau, dogfennaeth API a chyfeiriadau data.
+about-telemetry-telemetry-dashboard = Mae <a data-l10n-name="dashboard-link">byrddau gwaith Telemetreg</a> yn caniatáu i chi weld y data mae Waterfox yn ei dderbyn drwy'r Delemetreg.
 about-telemetry-telemetry-probe-dictionary = Mae'r <a data-l10n-name="probe-dictionary-link">Geiriadur Archwilio</a> yn darparu manylion a disgrifiadau ar gyfer y chwilio gasglwyd gan Delemetreg.
 about-telemetry-show-in-Firefox-json-viewer = Agor yn y darllenydd JSON
 about-telemetry-home-section = Cartref
@@ -72,7 +72,7 @@ about-telemetry-histogram-stats =
        *[other] { $sampleCount } sampl, cyfartaledd= { $prettyAverage }, swm = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Mae'r dudalen hon yn dangos gwybodaeth am berfformiad, caledwedd, defnydd a chyfaddasiadau a gasglwyd gan y Delemetreg. Mae'r wybodaeth yn cael ei gyflwyno i { $telemetryServerOwner } er mwyn gwella { -brand-full-name }.
 about-telemetry-settings-explanation = Mae telemetreg yn casglu { about-telemetry-data-type } a'r llwyth yw <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
@@ -144,8 +144,8 @@ about-telemetry-origin-section = Telemetreg y Tarddiad
 about-telemetry-origin-origin = tarddiad
 about-telemetry-origin-count = cyfrif
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = Mae <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> yn amgodio data cyn iddo gael ei anfon fel bod { $telemetryServerOwner } yn gallu cyfrif pethau, ond heb wybod a yw { -brand-product-name } wedi cyfrannu i'r cyfrif hwnnw. (<a data-l10n-name="prio-blog-link">Dysgu rhagor</a>)
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
+about-telemetry-origins-explanation = Mae <a data-l10n-name="origin-doc-link">Waterfox Origin Telemetry</a> yn amgodio data cyn iddo gael ei anfon fel bod { $telemetryServerOwner } yn gallu cyfrif pethau, ond heb wybod a yw { -brand-product-name } wedi cyfrannu i'r cyfrif hwnnw. (<a data-l10n-name="prio-blog-link">Dysgu rhagor</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Proses { $process }

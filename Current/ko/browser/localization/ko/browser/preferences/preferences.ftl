@@ -118,10 +118,10 @@ search-results-help-link = 도움이 필요하세요? <a data-l10n-name="url">{ 
 ## General Section
 
 startup-header = 시작 페이지
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name }과 Firefox 같이 돌리기
+    .label = { -brand-short-name }과 Waterfox 같이 돌리기
 use-firefox-sync = 팁: 이렇게 하면 프로필을 따로 쓰게 됩니다. { -sync-brand-short-name }를 써서 데이터를 공유하십시오.
 get-started-not-logged-in = { -sync-brand-short-name }에 로그인…
 get-started-configured = { -sync-brand-short-name } 설정 열기
@@ -361,10 +361,10 @@ home-newtabs-mode-label = 새 탭
 home-restore-defaults =
     .label = 기본값으로 복원
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox 홈페이지(기본값)
+    .label = Waterfox 홈페이지(기본값)
 home-mode-choice-custom =
     .label = 사용자 지정 URL…
 home-mode-choice-blank =
@@ -460,7 +460,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = 모바일 기기와 동기화하기 위해서 Firefox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> 또는 <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>를 다운로드 합니다.
+sync-mobile-promo = 모바일 기기와 동기화하기 위해서 Waterfox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> 또는 <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>를 다운로드 합니다.
 
 ## Sync Section - Signed in
 
@@ -508,7 +508,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = 부가 기능
-    .tooltiptext = 데스크톱용 Firefox를 위한 확장 프로그램과 테마
+    .tooltiptext = 데스크톱용 Waterfox를 위한 확장 프로그램과 테마
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -566,12 +566,12 @@ history-header = 방문 기록
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name }의 방문 기록을
     .accesskey = w
 history-remember-option-all =

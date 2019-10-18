@@ -203,7 +203,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Принять риск и продолжить">
 
-<!ENTITY errorReporting.automatic2 "Отправка сообщений о подобных ошибках поможет Mozilla обнаружить и заблокировать вредоносные сайты">
+<!ENTITY errorReporting.automatic2 "Отправка сообщений о подобных ошибках поможет Waterfox обнаружить и заблокировать вредоносные сайты">
 <!ENTITY errorReporting.learnMore "Подробнее…">
 
 <!ENTITY remoteXUL.title "Удалённый XUL">

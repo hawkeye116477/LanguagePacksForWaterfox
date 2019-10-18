@@ -60,7 +60,7 @@ app-basics-remote-processes-count = Etäprosessit
 app-basics-enterprise-policies = Yrityskäytännöt
 app-basics-location-service-key-google = Google Location Service -avain
 app-basics-safebrowsing-key-google = Google Safebrowsing -avain
-app-basics-key-mozilla = Mozilla Location Service -avain
+app-basics-key-mozilla = Waterfox Location Service -avain
 app-basics-safe-mode = Vikasietotila
 show-dir-label =
     { PLATFORM() ->

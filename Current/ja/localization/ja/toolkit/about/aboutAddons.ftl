@@ -353,7 +353,7 @@ go-back-button =
 discopane-intro =
     拡張機能とテーマは、ブラウザー用のアプリのようなものです。
     パスワードの保護や動画のダウンロード、商品の検索、迷惑な広告のブロック、ブラウザーの外観の変更など、様々な機能を追加できます。
-    これらの小さなソフトウェアプログラムの多くは、Mozilla 以外の第三者により開発されています。
+    これらの小さなソフトウェアプログラムの多くは、Waterfox 以外の第三者により開発されています。
     ここでは、{ -brand-product-name } が選ぶセキュリティ、パフォーマンス、機能性に優れた <a data-l10n-name="learn-more-trigger">おすすめのアドオン</a> を紹介します。
 
 # Notice to make user aware that the recommendations are personalized.

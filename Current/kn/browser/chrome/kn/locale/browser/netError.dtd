@@ -103,7 +103,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸು…">
 
-<!ENTITY errorReporting.automatic2 "ಈ ತರಹದ ದೋಷಗಳನ್ನು ವರದಿ ಮಾಡಿ Mozillaಗೆ ಅಪಾಯಕಾರಿ ತಾಣಗಳನ್ನು ಗುರುತು ಹಿಡಿಯಲು ಮತ್ತು ತಡೆಹಿಡಿಯಲು ಸಹಾಯ ಮಾಡಿ">
+<!ENTITY errorReporting.automatic2 "ಈ ತರಹದ ದೋಷಗಳನ್ನು ವರದಿ ಮಾಡಿ Waterfoxಗೆ ಅಪಾಯಕಾರಿ ತಾಣಗಳನ್ನು ಗುರುತು ಹಿಡಿಯಲು ಮತ್ತು ತಡೆಹಿಡಿಯಲು ಸಹಾಯ ಮಾಡಿ">
 <!ENTITY errorReporting.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ...">
 
 <!ENTITY remoteXUL.title "ದೂರಸ್ಥ XUL">

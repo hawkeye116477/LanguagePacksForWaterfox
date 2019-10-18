@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Távoli hibakeresés be/ki">
-<!ENTITY options.enableRemote.tooltip2  "Ennek bekapcsolásával távoli példányok, mint például a Firefox OS hibakeresése végezhető el">
+<!ENTITY options.enableRemote.tooltip2  "Ennek bekapcsolásával távoli példányok, mint például a Waterfox OS hibakeresése végezhető el">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and

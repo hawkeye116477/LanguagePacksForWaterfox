@@ -136,7 +136,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Tuigidh mi an cunnart, air adhart leam">
 
-<!ENTITY errorReporting.automatic2 "Nach cuir thu aithisg mu mhearachdan d’ a leithid dha Mozilla ach an urrainn dhuinn làraichean droch-rùnach mar seo a bhacadh?">
+<!ENTITY errorReporting.automatic2 "Nach cuir thu aithisg mu mhearachdan d’ a leithid dha Waterfox ach an urrainn dhuinn làraichean droch-rùnach mar seo a bhacadh?">
 <!ENTITY errorReporting.learnMore "Barrachd fiosrachaidh…">
 
 <!ENTITY remoteXUL.title "XUL cèin">

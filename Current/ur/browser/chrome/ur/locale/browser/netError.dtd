@@ -102,7 +102,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "اکسیپشن اضافہ کریں">
 <!ENTITY securityOverride.exceptionButton1Label "خطرے کو قبول کریں اور جاری رکھیں">
 
-<!ENTITY errorReporting.automatic2 "Mozilla کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے">
+<!ENTITY errorReporting.automatic2 "Waterfox کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے">
 <!ENTITY errorReporting.learnMore "مزید سیکھیں…">
 
 <!ENTITY remoteXUL.title "بعید XUL">

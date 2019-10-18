@@ -4,15 +4,15 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "שימוש בגרסה ישנה של Firefox עלול לפגוע בסימניות ובהיסטוריית הגלישה שכבר שמורים בפרופיל קיים ב־Firefox. כדי להגן על המידע שלך, יש ליצור פרופיל חדש עבור התקנה זו של &brandShortName;.">
-<!ENTITY window.sync "שימוש בגרסה ישנה של Firefox עלול לפגוע בסימניות ובהיסטוריית הגלישה שכבר שמורים בפרופיל קיים ב־Firefox. כדי להגן על המידע שלך, יש ליצור פרופיל חדש עבור התקנה זו של &brandShortName;. תמיד ניתן להיכנס באמצעות &syncBrand.fxAccount.label; כדי לסנכרן את הסימניות והיסטוריית הגלישה שלך בין פרופילים.">
+<!ENTITY window.nosync "שימוש בגרסה ישנה של Waterfox עלול לפגוע בסימניות ובהיסטוריית הגלישה שכבר שמורים בפרופיל קיים ב־Waterfox. כדי להגן על המידע שלך, יש ליצור פרופיל חדש עבור התקנה זו של &brandShortName;.">
+<!ENTITY window.sync "שימוש בגרסה ישנה של Waterfox עלול לפגוע בסימניות ובהיסטוריית הגלישה שכבר שמורים בפרופיל קיים ב־Waterfox. כדי להגן על המידע שלך, יש ליצור פרופיל חדש עבור התקנה זו של &brandShortName;. תמיד ניתן להיכנס באמצעות &syncBrand.fxAccount.label; כדי לסנכרן את הסימניות והיסטוריית הגלישה שלך בין פרופילים.">
 
 <!ENTITY window.create "יצירת פרופיל חדש">
 <!ENTITY window.quit-win "יציאה">
@@ -20,9 +20,9 @@
 
 <!-- LOCALIZATION NOTE:
  This UI can be most easily shown by modifying the version in compatibility.ini
- to a newer version and then starting Firefox.
+ to a newer version and then starting Waterfox.
  For this feature, "installation" is used to mean "this discrete download of
- Firefox" and "version" is used to mean "the specific revision number of a
- given Firefox channel". These terms are not synonymous.
+ Waterfox" and "version" is used to mean "the specific revision number of a
+ given Waterfox channel". These terms are not synonymous.
 -->
-<!ENTITY window.title "You’ve launched an older version of Firefox">
+<!ENTITY window.title "You’ve launched an older version of Waterfox">

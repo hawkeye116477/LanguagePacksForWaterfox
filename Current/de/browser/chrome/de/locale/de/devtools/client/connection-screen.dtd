@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Firefox-Entwicklerwerkzeuge können andere Geräte über das Netzwerk debuggen (zum Beispiel Firefox für Android und Firefox OS). Überprüfen Sie, dass Sie die Einstellung 'Externes Debugging' auf dem anderen Gerät aktiviert haben. Weitere Informationen dazu in der ">
+<!ENTITY remoteHelp "Waterfox-Entwicklerwerkzeuge können andere Geräte über das Netzwerk debuggen (zum Beispiel Waterfox für Android und Waterfox OS). Überprüfen Sie, dass Sie die Einstellung 'Externes Debugging' auf dem anderen Gerät aktiviert haben. Weitere Informationen dazu in der ">
 <!ENTITY remoteDocumentation "Dokumentation">
 <!ENTITY remoteHelpSuffix ".">
 

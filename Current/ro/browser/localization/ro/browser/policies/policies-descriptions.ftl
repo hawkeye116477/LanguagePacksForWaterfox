@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = Dezactivează PDF.js, vizualizatorul de fișier
 policy-DisableDeveloperTools = Blochează accesul la uneltele de dezvoltare.
 policy-DisableFeedbackCommands = Dezactivează comenzile de trimis feedback în meniul de Ajutor (Trimite feedback și Raportează site-uri înșelătoare).
 policy-DisableFirefoxAccounts = Dezactivează serviciile pe bază necesare pentru { -fxaccount-brand-name }, inclusiv Sync
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Dezactivează funcționalitatea de capturi de ecran din Firefox.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Dezactivează funcționalitatea de capturi de ecran din Waterfox.
 policy-DisableFirefoxStudies = Împiedică efectuarea de studii de către { -brand-short-name }.
 policy-DisableForgetButton = Împiedică accesul la butonul de uitare.
 policy-DisableFormHistory = Nu memora istoricul căutărilor și al formularelor.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Activează sau dezactivează blocarea conținu
 policy-Extensions = Instalează, dezinstalează sau blochează extensii. Opțiunea de instalare ia URL-urile sau căile drept parametri. Opțiunile Dezinstalează și Blocată iau ID-uri de extensii.
 policy-ExtensionSettings = Gestionează toate aspectele de instalare a extensiilor.
 policy-ExtensionUpdate = Activează sau dezactivează actualizările automate de extensii.
-policy-FirefoxHome = Configurează pagina de start Firefox.
+policy-FirefoxHome = Configurează pagina de start Waterfox.
 policy-FlashPlugin = Permite sau respinge utilizarea pluginului Flash.
 policy-HardwareAcceleration = Dacă este dezactivat, oprește accelerarea hardware.
 # “lock” means that the user won’t be able to change this setting

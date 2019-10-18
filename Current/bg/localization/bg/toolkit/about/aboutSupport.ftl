@@ -48,7 +48,7 @@ app-basics-multi-process-support = Многопроцесни прозорци
 app-basics-process-count = Процеси за уеб съдържание
 app-basics-enterprise-policies = Ведомствени ограничения
 app-basics-key-google = Google Key
-app-basics-key-mozilla = Mozilla Location Service Key
+app-basics-key-mozilla = Waterfox Location Service Key
 app-basics-safe-mode = Надежден режим
 show-dir-label =
     { PLATFORM() ->

@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-nl@firefox.mozilla.org", 
+      "id": "langpack-nl@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Mozilla-NL (contributors: Gert-Paul van der Beek, Tim Maks van den Broek, Laurens Holst, Ton Kensen, Anne van Kesteren, Hendrik Maryns, Martijn Ras, leden MozBrowser-forum)", 
-  "description": "Language pack for Firefox for nl"
+  "author": "Waterfox-NL (contributors: Gert-Paul van der Beek, Tim Maks van den Broek, Laurens Holst, Ton Kensen, Anne van Kesteren, Hendrik Maryns, Martijn Ras, leden MozBrowser-forum)", 
+  "description": "Language pack for Waterfox Current for nl"
 }

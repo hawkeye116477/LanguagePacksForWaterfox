@@ -9,7 +9,7 @@ about-telemetry-slow-sql-section = Бавни SQL изјави
 about-telemetry-late-writes-section = Задоцнети запишувања
 about-telemetry-full-sql-warning = ЗАБЕЛЕШКА: Овозможено е бавно дебагирање на SQL. Подолу ќе се прикажуваат целосни стрингови од SQL, но нема да бидат испраќани до Telemetry.
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Оваа страница прикажува информации за перфомансите, хардверот, употребата и прилагодувањаата собрани од Telemetry. Овие информации се испраќаат до { $telemetryServerOwner } за да се подобри { -brand-full-name }.
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Бавни SQL изјави на главната нишка

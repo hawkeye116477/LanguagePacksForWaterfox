@@ -147,7 +147,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
 <!ENTITY securityOverride.exceptionButton1Label "Aceitar o risco e continuar">
 
-<!ENTITY errorReporting.automatic2 "Comunicar erros como este para ajudar a Mozilla a identificar e bloquear sites maliciosos">
+<!ENTITY errorReporting.automatic2 "Comunicar erros como este para ajudar a Waterfox a identificar e bloquear sites maliciosos">
 <!ENTITY errorReporting.learnMore "Saber mais…">
 
 <!ENTITY remoteXUL.title "XUL remoto">

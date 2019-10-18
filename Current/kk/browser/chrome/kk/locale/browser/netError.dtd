@@ -135,7 +135,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Ерекше ережені қосу…">
 <!ENTITY securityOverride.exceptionButton1Label "Тәуекелді қабылдап, жалғастыру">
 
-<!ENTITY errorReporting.automatic2 "Осындай қателер туралы хабарлап, Mozilla-ға зиянды сайттарды анықтауға және блоктауға көмектесу">
+<!ENTITY errorReporting.automatic2 "Осындай қателер туралы хабарлап, Waterfox-ға зиянды сайттарды анықтауға және блоктауға көмектесу">
 <!ENTITY errorReporting.learnMore "Көбірек білу…">
 
 <!ENTITY remoteXUL.title "Қашықтағы XUL">

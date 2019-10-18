@@ -53,7 +53,7 @@
 <!ENTITY projectButton_label "افتح تطبيقا">
 <!ENTITY runtimeButton_label "اختر بيئة تشغيل">
 
-<!-- We try to repicate Firefox' bindings: -->
+<!-- We try to repicate Waterfox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
 <!-- reload app -->

@@ -119,7 +119,7 @@ in "Search through tabs". -->
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
-when there are no windows but Firefox is still running. -->
+when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "Otvoriť umiestnenie…">
 <!ENTITY openFileCmd.label "Otvoriť súbor…">
 <!ENTITY openFileCmd.accesskey "s">
@@ -176,7 +176,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
-Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+Source" on macOS. pageSourceCmd.commandkey above is Waterfox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
@@ -217,19 +217,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.accesskey "U">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
-     for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "Vezmite si Firefox so sebou">
+     for the Waterfox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Vezmite si Waterfox so sebou">
 <!ENTITY fxa.signin.description.label "Majte svoje záložky, históriu, heslá a ostatné nastavenia na všetkých vašich zariadeniach.">
 <!ENTITY fxa.signin.button.label "Zapnúť službu &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
-     for the Firefox Account toolbar unverified menu screen. -->
+     for the Waterfox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Skontrolujte svoju e-mailovú schránku">
 <!ENTITY fxa.unverified.description.label "Pred začatím synchronizácie musíte overiť svoj účet.">
 <!ENTITY fxa.unverified.button.label "Nastavenia služby &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Waterfox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prihlásený ako">
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
@@ -283,7 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Zobraziť všetky záložky">
 <!ENTITY recentBookmarks.label "Nedávno pridané medzi záložky">
 <!ENTITY otherBookmarksCmd.label "Ostatné záložky">
-<!ENTITY mobileBookmarksCmd.label "Záložky mobilného Firefoxu">
+<!ENTITY mobileBookmarksCmd.label "Záložky mobilného Waterfoxu">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
 
 <!ENTITY backCmd.label                "Naspäť">
@@ -357,7 +357,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksSubview.label             "Záložky">
 <!ENTITY bookmarksMenuButton2.label         "Ponuka záložiek">
 <!ENTITY bookmarksMenuButton.other.label    "Ostatné záložky">
-<!ENTITY bookmarksMenuButton.mobile.label   "Záložky mobilného Firefoxu">
+<!ENTITY bookmarksMenuButton.mobile.label   "Záložky mobilného Waterfoxu">
 <!ENTITY viewBookmarksSidebar2.label        "Zobraziť bočný panel Záložky">
 <!ENTITY hideBookmarksSidebar.label         "Skryť bočný panel Záložky">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
@@ -492,7 +492,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
+     the account. We also show links to download Waterfox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otvoriť nastavenia synchronizácie">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
@@ -532,7 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeExtension.accesskey "r">
 
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     toolbar buttons context menus, a user can use this command to submit to Waterfox
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Nahlásiť rozšírenie">
 <!ENTITY customizeMenu.reportExtension.accesskey "r">
@@ -886,7 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Táto stránka je načítaná z doplnku.">
 <!ENTITY identity.insecureLoginForms2 "Prihlasovacie údaje zadané na tejto stránke by mohli byť ohrozené.">
 
-<!ENTITY identity.customRoot "Pripojenie je overené vydavateľom certifikátov, ktorého Mozilla nepozná.">
+<!ENTITY identity.customRoot "Pripojenie je overené vydavateľom certifikátov, ktorého Waterfox nepozná.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokoval nezabezpečené časti tejto stránky.">
@@ -906,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Táto stránka obsahuje súčasti, ktoré nie sú bezpečné (ako napr. skripty) a vaše pripojenie k nej nie je súkromné.">
 <!ENTITY identity.description.activeLoaded2 "Informácie zadané na tejto stránke (ako heslá, správy, informácie o platobných kartách, atď.) môžu byť viditeľné pre iných ľudí.">
 
-<!ENTITY identity.description.customRoot "Mozilla tohto vydavateľa certifikátov nepozná. Mohol byť pridaný operačným systémom alebo správcom vášho počítača.">
+<!ENTITY identity.description.customRoot "Waterfox tohto vydavateľa certifikátov nepozná. Mohol byť pridaný operačným systémom alebo správcom vášho počítača.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Povoliť ochranu">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "P">
@@ -936,7 +936,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synchronizované karty">
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronizované karty">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Prihláste sa do Firefoxu na vašich ostatných zariadeniach, ak tu chcete vidieť karty z týchto zariadení.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Prihláste sa do Waterfoxu na vašich ostatných zariadeniach, ak tu chcete vidieť karty z týchto zariadení.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Váš účet musí byť overený.">

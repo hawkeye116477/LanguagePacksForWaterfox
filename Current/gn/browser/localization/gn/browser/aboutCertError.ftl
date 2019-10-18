@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } oipuru peteĩ mboajepyre rekorosã oiko'ỹva.
 cert-error-mitm-intro = Ko’ã ñanduti renda ohechauka heratee mboajepyre rupive oguenohẽva mboajepyre mburuvichakuéra.
-cert-error-mitm-mozilla = { -brand-short-name } oykeko Mozilla, atyguasu viru’ỹguáva oñangarekóva peteĩ tendaguasu mboajepyre myakãhára ijurujáva. Ko mboajepyre myakãhára oipytyvõ oñemoañete hag̃ua mboajepyre myakãhára rembiapo potĩ puruhára rekorosãrã rekávo.
-cert-error-mitm-connection = { -brand-short-name } oipuru Mozilla ñemuha CA ohecha hag̃ua hekorosãpa jeike, mboajepyre ome’ẽva puruhára apopyvusu rendaguépe. Upéicha rupi, pe tembiaporape mba'echu'i jukaha térã ñanduti ohapejokórõ jeike mboajepyre hekorosãva ndive ome’ẽva peteĩ CA oĩ’ỹva Mozilla ñemuhápe, pe jeike nahekorosãmo’ãi.
+cert-error-mitm-mozilla = { -brand-short-name } oykeko Waterfox, atyguasu viru’ỹguáva oñangarekóva peteĩ tendaguasu mboajepyre myakãhára ijurujáva. Ko mboajepyre myakãhára oipytyvõ oñemoañete hag̃ua mboajepyre myakãhára rembiapo potĩ puruhára rekorosãrã rekávo.
+cert-error-mitm-connection = { -brand-short-name } oipuru Waterfox ñemuha CA ohecha hag̃ua hekorosãpa jeike, mboajepyre ome’ẽva puruhára apopyvusu rendaguépe. Upéicha rupi, pe tembiaporape mba'echu'i jukaha térã ñanduti ohapejokórõ jeike mboajepyre hekorosãva ndive ome’ẽva peteĩ CA oĩ’ỹva Waterfox ñemuhápe, pe jeike nahekorosãmo’ãi.
 cert-error-trust-unknown-issuer-intro = Ikatu hína peteĩva oha’anga tendápe ha nde repytamava’erã.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

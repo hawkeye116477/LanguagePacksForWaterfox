@@ -46,8 +46,8 @@ category-search =
 pane-privacy-title = Prìobhaideachd ⁊ tèarainteachd
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Cunntas Firefox
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Cunntas Waterfox
 category-sync =
     .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
@@ -121,10 +121,10 @@ search-results-help-link = A bheil cobhair a dhìth ort. Tadhail air <a data-l10
 ## General Section
 
 startup-header = Aig an toiseach
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Leig le { -brand-short-name } agus Firefox ruith aig an aon àm
+    .label = Leig le { -brand-short-name } agus Waterfox ruith aig an aon àm
 use-firefox-sync = Gliocas: Cleachdaidh seo pròifilean eadar-dhealaichte. Cleachd { -sync-brand-short-name } gus dàta a ghluasad eadar an dà dhiubh.
 get-started-not-logged-in = Clàraich a-steach gu { -sync-brand-short-name }...
 get-started-configured = Fosgail roghainnean { -sync-brand-short-name }
@@ -367,10 +367,10 @@ home-newtabs-mode-label = Tabaichean ùra
 home-restore-defaults =
     .label = Aisig na bun-roghainnean
     .accesskey = r
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Dachaidh Firefox (bun-roghainn)
+    .label = Dachaidh Waterfox (bun-roghainn)
 home-mode-choice-custom =
     .label = URLaichean gnàthaichte...
 home-mode-choice-blank =
@@ -466,7 +466,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Luchdaich a-nuas Firefox airson <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> no <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> gus sioncronachadh a dhèanamh leis an uidheam mobile agad.
+sync-mobile-promo = Luchdaich a-nuas Waterfox airson <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> no <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> gus sioncronachadh a dhèanamh leis an uidheam mobile agad.
 
 ## Sync Section - Signed in
 
@@ -514,7 +514,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = na tuilleadain
-    .tooltiptext = Leudachain is ùrlaran airson Firefox desktop
+    .tooltiptext = Leudachain is ùrlaran airson Waterfox desktop
     .accesskey = a
 sync-engine-prefs =
     .label =
@@ -571,12 +571,12 @@ history-header = Eachdraidh
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = Nì { -brand-short-name } na leanas:
     .accesskey = N
 history-remember-option-all =

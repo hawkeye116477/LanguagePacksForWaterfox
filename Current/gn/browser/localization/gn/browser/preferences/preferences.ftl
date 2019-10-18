@@ -118,10 +118,10 @@ search-results-help-link = ¿Eokitevẽpa pytyvõ? Eoke <a data-l10n-name="url">
 ## General Section
 
 startup-header = Ñepyrũha
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = Emoneĩ { -brand-short-name } ha Firefox-pe ojepurúvo oñondivete
+    .label = Emoneĩ { -brand-short-name } ha Waterfox-pe ojepurúvo oñondivete
 use-firefox-sync = Ñe'ẽkuaa: Kóva oipuru rechaukaha ipa'ũva. Oipuru { -sync-brand-short-name } omoherakuã hag̃ua mba'ekuaarã oñondivekuéra.
 get-started-not-logged-in = Eñemboheguapy { -sync-brand-short-name }…
 get-started-configured = Eike { -sync-brand-short-name } eguerohoryvévape
@@ -373,10 +373,10 @@ home-newtabs-mode-label = tendayke pyahu
 home-restore-defaults =
     .label = mbopyahujey techa mboyvegua
     .accesskey = m
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox ñepyrũ (Ypykuegua)
+    .label = Waterfox ñepyrũ (Ypykuegua)
 home-mode-choice-custom =
     .label = URLs ñemomba'e...
 home-mode-choice-blank =
@@ -520,7 +520,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = Moĩmbaha
-    .tooltiptext = Firefox mohendahápe g̃uarã Moĩmbaha ha Jeguaha
+    .tooltiptext = Waterfox mohendahápe g̃uarã Moĩmbaha ha Jeguaha
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -578,12 +578,12 @@ history-header = Tembiasakue
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } ikatútapa
     .accesskey = w
 history-remember-option-all =

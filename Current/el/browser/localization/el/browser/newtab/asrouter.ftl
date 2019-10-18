@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-step3 = Αν αυτή η ιστοσελίδα ενημερ
 cfr-doorhanger-pintab-animation-pause = Παύση
 cfr-doorhanger-pintab-animation-resume = Συνέχιση
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Συγχρονίστε παντού τους σελιδοδείκτες σας.
 cfr-doorhanger-bookmark-fxa-body = Εξαιρετική ανακάλυψη! Μην ξεχάσετε να αποθηκεύσετε αυτό το σελιδοδείκτη στις κινητές συσκευές σας. Ξεκινήστε με ένα { -fxaccount-brand-name }.

@@ -128,7 +128,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Ychwanegu Eithriad…">
 <!ENTITY securityOverride.exceptionButton1Label "Derbyn y Bygythiad a Pharhau">
 
-<!ENTITY errorReporting.automatic2 "Mae adroddiadau gwall fel hyn y cynorthwyo Mozilla i adnabod a rhwystro gwefannau maleisus">
+<!ENTITY errorReporting.automatic2 "Mae adroddiadau gwall fel hyn y cynorthwyo Waterfox i adnabod a rhwystro gwefannau maleisus">
 <!ENTITY errorReporting.learnMore "Dysgu rhagor…">
 
 <!ENTITY remoteXUL.title "XUL pell">

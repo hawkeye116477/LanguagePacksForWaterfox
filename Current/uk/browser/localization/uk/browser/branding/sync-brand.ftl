@@ -25,53 +25,53 @@
             [lower] синхронізацією
         }
     }
-# “Sync” can be localized, “Firefox” must be treated as a brand,
+# “Sync” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name =
     { $case ->
         *[nom] { $capitalization ->
-           *[upper] Синхронізація Firefox
-            [lower] синхронізація Firefox
+           *[upper] Синхронізація Waterfox
+            [lower] синхронізація Waterfox
         }
         [gen] { $capitalization ->
-           *[upper] Синхронізації Firefox
-            [lower] синхронізації Firefox
+           *[upper] Синхронізації Waterfox
+            [lower] синхронізації Waterfox
         }
         [dat] { $capitalization ->
-           *[upper] Синхронізації Firefox
-            [lower] синхронізації Firefox
+           *[upper] Синхронізації Waterfox
+            [lower] синхронізації Waterfox
         }
         [acc] { $capitalization ->
-           *[upper] Синхронізацію Firefox
-            [lower] синхронізацію Firefox
+           *[upper] Синхронізацію Waterfox
+            [lower] синхронізацію Waterfox
         }
         [abl] { $capitalization ->
-           *[upper] Синхронізацією Firefox
-            [lower] синхронізацією Firefox
+           *[upper] Синхронізацією Waterfox
+            [lower] синхронізацією Waterfox
         }
     }
-# “Account” can be localized, “Firefox” must be treated as a brand,
+# “Account” can be localized, “Waterfox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name =
     { $case ->
         *[nom] { $capitalization ->
-           *[upper] Обліковий запис Firefox
-            [lower] обліковий запис Firefox
+           *[upper] Обліковий запис Waterfox
+            [lower] обліковий запис Waterfox
         }
         [gen] { $capitalization ->
-           *[upper] Облікового запису Firefox
-            [lower] облікового запису Firefox
+           *[upper] Облікового запису Waterfox
+            [lower] облікового запису Waterfox
         }
         [dat] { $capitalization ->
-           *[upper] Обліковому записі Firefox
-            [lower] обліковому записі Firefox
+           *[upper] Обліковому записі Waterfox
+            [lower] обліковому записі Waterfox
         }
         [acc] { $capitalization ->
-           *[upper] Обліковий запис Firefox
-            [lower] обліковий запис Firefox
+           *[upper] Обліковий запис Waterfox
+            [lower] обліковий запис Waterfox
         }
         [abl] { $capitalization ->
-           *[upper] Обліковим записом Firefox
-            [lower] обліковим записом Firefox
+           *[upper] Обліковим записом Waterfox
+            [lower] обліковим записом Waterfox
         }
     }

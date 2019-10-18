@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = PDF.js útskeakelje, de ynboude PDF-viewer yn {
 policy-DisableDeveloperTools = Tagong ta de ûntwikkelershelpmiddelen blokkearje.
 policy-DisableFeedbackCommands = Opdrachten foar it ferstjoeren fan kommentaar fan it menu Help út útskeakelje (Kommentaar ferstjoere en Misliedende website rapportearje).
 policy-DisableFirefoxAccounts = Op { -fxaccount-brand-name } basearre tsjinsten útskeakelje, wêrûnder Sync.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = De Firefox Screenshots-funksje útskeakelje.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = De Waterfox Screenshots-funksje útskeakelje.
 policy-DisableFirefoxStudies = Foarkomme dat { -brand-short-name } ûndersiken útfiert.
 policy-DisableForgetButton = Tagong ta de knop Ferjitte foarkomme.
 policy-DisableFormHistory = Gjin syk- en formulierskiednis ûnthâlde.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Ynhâldsblokkearring ynskeakelje of útskeakel
 policy-Extensions = Utwreidingen ynstallearje, fuortsmite of beskoattelje. De opsje foar ynstallearjen brûkt URL’s of paden as parameters. De opsjes foar fuortsmiten en beskoatteljen brûke útwreiding-ID’s.
 policy-ExtensionSettings = Alle aspekten fan ynstallaasje fan útwreidingen beheare.
 policy-ExtensionUpdate = Automatyske útwreiding-fernijingen ynskeakelje of útskeakelje.
-policy-FirefoxHome = De startside fan Firefox ynstelle.
+policy-FirefoxHome = De startside fan Waterfox ynstelle.
 policy-FlashPlugin = Gebrûk fan de Flash-ynstekker tastean of wegerje.
 policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 # “lock” means that the user won’t be able to change this setting

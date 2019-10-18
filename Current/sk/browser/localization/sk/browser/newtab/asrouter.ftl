@@ -56,7 +56,7 @@ cfr-doorhanger-pintab-step3 = Ak sa na stránke objaví niečo nové, uvidíte p
 cfr-doorhanger-pintab-animation-pause = Pozastaviť
 cfr-doorhanger-pintab-animation-resume = Pokračovať
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Majte svoje záložky všade so sebou.
 cfr-doorhanger-bookmark-fxa-body = Skvelý nález! Chcete mať túto záložku aj vo svojom mobilnom zariadení? Použite { -fxaccount-brand-name }.

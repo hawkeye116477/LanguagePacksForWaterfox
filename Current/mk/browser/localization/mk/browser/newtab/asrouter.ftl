@@ -41,7 +41,7 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-animation-pause = Паузирај
 cfr-doorhanger-pintab-animation-resume = Продолжи
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Синхронизирајте ги вашите обележувачи насекаде.
 cfr-doorhanger-bookmark-fxa-link-text = Синхронизирај обележувачи сега...

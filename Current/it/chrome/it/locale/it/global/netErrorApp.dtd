@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Un esempio (da Firefox):
+<!-- Un esempio (da Waterfox):
 
 <!ENTITY securityOverride.linkText "Oppure è possibile aggiungere un’eccezione…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Allontanarsi da questo sito">

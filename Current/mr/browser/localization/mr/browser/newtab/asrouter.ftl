@@ -49,7 +49,7 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-animation-pause = स्तब्ध करा
 cfr-doorhanger-pintab-animation-resume = पुन्हा सुरू करा
 
-## Firefox Accounts Message
+## Waterfox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = बंद करा बटण

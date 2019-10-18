@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-ja@firefox.mozilla.org", 
+      "id": "langpack-ja@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -49,6 +49,6 @@
       "base_path": "browser/"
     }
   }, 
-  "author": "Mozilla Japanese L10N Community (contributors: Hiroki Abe, Makoto Arai, Tomoya Asai, Hideyuki EMURA, Shaw Hosaka, Joji Ikeda, Masahiko Imanaka, Kosuke Kaizuka, Hidehiro Kozawa, Teiji Matsuba, Shigeki Narisawa, Takeshi Nishimura, Toshiyuki Oka, Atsushi Sakai, Hiroshi Sekiya, Youhei Tooyama, Satoru Yamaguchi)", 
-  "description": "Language pack for Firefox for ja"
+  "author": "Waterfox Japanese L10N Community (contributors: Hiroki Abe, Makoto Arai, Tomoya Asai, Hideyuki EMURA, Shaw Hosaka, Joji Ikeda, Masahiko Imanaka, Kosuke Kaizuka, Hidehiro Kozawa, Teiji Matsuba, Shigeki Narisawa, Takeshi Nishimura, Toshiyuki Oka, Atsushi Sakai, Hiroshi Sekiya, Youhei Tooyama, Satoru Yamaguchi)", 
+  "description": "Language pack for Waterfox Current for ja"
 }

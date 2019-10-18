@@ -78,7 +78,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Ye nongo bal ki kama bor">
-<!ENTITY options.enableRemote.tooltip2  "Cako gin ayera man bi weko gitic pa ludiro nongo bal i gin ma tye katime ki kama bor calo Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Cako gin ayera man bi weko gitic pa ludiro nongo bal i gin ma tye katime ki kama bor calo Waterfox OS">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->

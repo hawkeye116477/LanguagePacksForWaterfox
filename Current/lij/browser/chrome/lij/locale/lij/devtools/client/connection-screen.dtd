@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "I Strumenti do svilupatô de Firefox te permetan de fâ o debug in sci dispoxitivi remòtti (prezenpio Firefox pe Android ò Firefox OS). Aseguase de avei ativou l'opçion 'Debug remòtto' in sciô dispoxitivo remòtto. Pe atre informaçioin vanni a vedde a ">
+<!ENTITY remoteHelp "I Strumenti do svilupatô de Waterfox te permetan de fâ o debug in sci dispoxitivi remòtti (prezenpio Waterfox pe Android ò Waterfox OS). Aseguase de avei ativou l'opçion 'Debug remòtto' in sciô dispoxitivo remòtto. Pe atre informaçioin vanni a vedde a ">
 <!ENTITY remoteDocumentation "documentaçion">
 <!ENTITY remoteHelpSuffix ".">
 

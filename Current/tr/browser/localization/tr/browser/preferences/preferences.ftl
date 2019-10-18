@@ -118,10 +118,10 @@ search-results-help-link = Yardım mı gerekiyor? <a data-l10n-name="url">{ -bra
 ## General Section
 
 startup-header = Başlangıç
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name } ve Firefox’un aynı anda çalışmasına izin ver
+    .label = { -brand-short-name } ve Waterfox’un aynı anda çalışmasına izin ver
 use-firefox-sync = İpucu: Bu ayarda farklı profiller kullanılır. Tarayıcılar arasında veri paylaşmak için { -sync-brand-short-name }’i kullanın.
 get-started-not-logged-in = { -sync-brand-short-name }’e giriş yap…
 get-started-configured = { -sync-brand-short-name } tercihlerini aç
@@ -373,10 +373,10 @@ home-newtabs-mode-label = Yeni sekmeler
 home-restore-defaults =
     .label = Varsayılanları geri yükle
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox giriş sayfası (varsayılan)
+    .label = Waterfox giriş sayfası (varsayılan)
 home-mode-choice-custom =
     .label = Özel adresler…
 home-mode-choice-blank =
@@ -472,7 +472,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Mobil cihazınızla eşitleme yapmak isterseniz <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> veya <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> için Firefox’u indirin.
+sync-mobile-promo = Mobil cihazınızla eşitleme yapmak isterseniz <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> veya <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> için Waterfox’u indirin.
 
 ## Sync Section - Signed in
 
@@ -520,7 +520,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Eklentiler
-    .tooltiptext = Masaüstü Firefox eklentileri ve temaları
+    .tooltiptext = Masaüstü Waterfox eklentileri ve temaları
     .accesskey = t
 sync-engine-prefs =
     .label =
@@ -578,12 +578,12 @@ history-header = Geçmiş
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = i
 history-remember-option-all =

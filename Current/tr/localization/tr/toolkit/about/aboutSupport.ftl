@@ -61,7 +61,7 @@ app-basics-remote-processes-count = Uzak işlemler
 app-basics-enterprise-policies = Kurumsal ilkeler
 app-basics-location-service-key-google = Google Konum Hizmeti anahtarı
 app-basics-safebrowsing-key-google = Google Safebrowsing anahtarı
-app-basics-key-mozilla = Mozilla Konum Hizmeti anahtarı
+app-basics-key-mozilla = Waterfox Konum Hizmeti anahtarı
 app-basics-safe-mode = Güvenli kip
 show-dir-label =
     { PLATFORM() ->

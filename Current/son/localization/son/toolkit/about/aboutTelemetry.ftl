@@ -25,7 +25,7 @@ about-telemetry-late-writes-section = Hantum kokorantey
 about-telemetry-raw = JSON gani
 about-telemetry-full-sql-warning = HAWGAY: SQL hasaraw kayyan n' k atunandi. SQL tenjiri timmantey ši hin ka cebande ganda amma i ga sanbandi mooru-neešiyan bande.
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Moɲoo woo ga cebe alhabar cebe goysahã, jinay šenda, goymee nda boŋše hanseyan kaŋ mooru-neeši n'i marga. Alhabaroo woo ga sanbandi { $telemetryServerOwner } do ka faaba ka { -brand-full-name } hennandi.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Berandi

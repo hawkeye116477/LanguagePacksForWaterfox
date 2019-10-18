@@ -6,8 +6,8 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = O servidor { $hostname } usa um certificado de segurança inválido.
 cert-error-mitm-intro = Sites comprovam a própria identidade através de certificados, que são emitidos por autoridades certificadoras.
-cert-error-mitm-mozilla = O { -brand-short-name } é respaldado pela Mozilla, entidade sem fins lucrativos, que administra um armazenamento de autoridades certificadoras (CA) completamente aberto. O armazenamento de autoridades certificadoras ajuda a garantir que elas estão seguindo as melhores práticas para segurança dos usuários.
-cert-error-mitm-connection = O { -brand-short-name } usa o armazenamento de autoridades certificadoras da Mozilla para verificar se uma conexão é segura, em vez de certificados fornecidos pelo sistema operacional do usuário. Portanto, se um programa antivírus ou uma rede estiver interceptando uma conexão com um certificado de segurança emitido por uma autoridade certificadora que não esteja no armazenamento da Mozilla, a conexão será considerada insegura.
+cert-error-mitm-mozilla = O { -brand-short-name } é respaldado pela Waterfox, entidade sem fins lucrativos, que administra um armazenamento de autoridades certificadoras (CA) completamente aberto. O armazenamento de autoridades certificadoras ajuda a garantir que elas estão seguindo as melhores práticas para segurança dos usuários.
+cert-error-mitm-connection = O { -brand-short-name } usa o armazenamento de autoridades certificadoras da Waterfox para verificar se uma conexão é segura, em vez de certificados fornecidos pelo sistema operacional do usuário. Portanto, se um programa antivírus ou uma rede estiver interceptando uma conexão com um certificado de segurança emitido por uma autoridade certificadora que não esteja no armazenamento da Waterfox, a conexão será considerada insegura.
 cert-error-trust-unknown-issuer-intro = Alguém pode estar tentando imitar o site, você não deve continuar.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.

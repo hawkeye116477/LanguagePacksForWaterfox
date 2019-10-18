@@ -48,7 +48,7 @@ app-basics-multi-process-support = ملٹی عمل ونڈوں
 app-basics-process-count = ویب مواد پروسیسنگ
 app-basics-enterprise-policies = انٹرپرائز کی پالیسیوں
 app-basics-key-google = Google کلید
-app-basics-key-mozilla = ٘Mozilla مقام سروس کلی
+app-basics-key-mozilla = ٘Waterfox مقام سروس کلی
 app-basics-safe-mode = محفوظ موڈ
 show-dir-label =
     { PLATFORM() ->

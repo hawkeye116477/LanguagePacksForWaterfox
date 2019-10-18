@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "С помощью инструментов разработчика в Firefox можно отлаживать удалённые устройства (например, Firefox для Android и Firefox OS). Убедитесь, что вы включили на удалённом устройстве параметр «Remote debugging». Для получения большей информации прочтите ">
+<!ENTITY remoteHelp "С помощью инструментов разработчика в Waterfox можно отлаживать удалённые устройства (например, Waterfox для Android и Waterfox OS). Убедитесь, что вы включили на удалённом устройстве параметр «Remote debugging». Для получения большей информации прочтите ">
 <!ENTITY remoteDocumentation "документацию">
 <!ENTITY remoteHelpSuffix ".">
 

@@ -11,7 +11,7 @@ process-type-privileged = Cynnwys Breintiedig
 process-type-privilegedabout = About Breintiedig
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Cynnwys Mozilla Breintiedig
+process-type-privilegedmozilla = Cynnwys Waterfox Breintiedig
 process-type-extension = Estyniad
 # process used to open file:// URLs
 process-type-file = Ffeil Leol

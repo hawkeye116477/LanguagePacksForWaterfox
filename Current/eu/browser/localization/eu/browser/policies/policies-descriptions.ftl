@@ -4,7 +4,7 @@
 
 
 ## The Enterprise Policies feature is aimed at system administrators
-## who want to deploy these settings across several Firefox installations
+## who want to deploy these settings across several Waterfox installations
 ## all at once. This is traditionally done through the Windows Group Policy
 ## feature, but the system also supports other forms of deployment.
 ## These are short descriptions for individual policies, to be displayed
@@ -27,8 +27,8 @@ policy-DisableBuiltinPDFViewer = Desgaitu PDF.js, { -brand-short-name }(r)en int
 policy-DisableDeveloperTools = Blokeatu garatzaile-tresnetarako sarbidea.
 policy-DisableFeedbackCommands = Desgaitu iritzia bidaltzeko komandoak 'Laguntza' menutik ('Bidali iritzia' eta 'Eman gune iruzurtiaren berri').
 policy-DisableFirefoxAccounts = Desgaitu { -fxaccount-brand-name }(r)en oinarritutako zerbitzuak, Sync barne.
-# Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Desgaitu Firefoxen pantaila-argazkien eginbidea.
+# Waterfox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Desgaitu Waterfoxen pantaila-argazkien eginbidea.
 policy-DisableFirefoxStudies = Eragotzi { -brand-short-name }(r)i esperimentuak exekutatzea.
 policy-DisableForgetButton = Eragotzi 'Ahaztu' botoirako sarbidea.
 policy-DisableFormHistory = Ez gogoratu bilaketa- eta inprimaki-historia.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Gaitu edo desgaitu edukia blokeatzea eta bloke
 policy-Extensions = Instalatu, desinstalatu edo blokeatu hedapenak. Instalatzeko aukerak URLak edo bide-izenak hartzen ditu parametro gisa. Desinstalatzeko eta blokeatzeko aukerek, berriz, hedapen-IDak.
 policy-ExtensionSettings = Kudeatu hedapenen instalazioko arlo guztiak.
 policy-ExtensionUpdate = Gaitu edo desgaitu hedapenen eguneraketa automatikoa.
-policy-FirefoxHome = Konfiguratu Firefox Home.
+policy-FirefoxHome = Konfiguratu Waterfox Home.
 policy-FlashPlugin = Baimendu edo ukatu Flash plugina erabiltzea.
 policy-HardwareAcceleration = Ez badago ezarrita, hardware-azelerazioa desgaituko da.
 # “lock” means that the user won’t be able to change this setting

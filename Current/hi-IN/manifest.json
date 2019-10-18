@@ -36,7 +36,7 @@
   "applications": {
     "gecko": {
       "strict_min_version": "68.0", 
-      "id": "langpack-hi-IN@firefox.mozilla.org", 
+      "id": "langpack-hi-IN@waterfox-current", 
       "strict_max_version": "68.*"
     }
   }, 
@@ -50,5 +50,5 @@
     }
   }, 
   "author": "mozilla.org (contributors: Rajesh Ranjan, Vaibhav Agarwal)", 
-  "description": "Language pack for Firefox for hi-IN"
+  "description": "Language pack for Waterfox Current for hi-IN"
 }

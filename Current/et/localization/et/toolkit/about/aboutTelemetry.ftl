@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemeetriaandmed
 about-telemetry-more-information = Soovid näha rohkem teavet?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefoxi andmete dokumentatsioon</a> sisaldab juhendeid selle kohta, kuidas meie andmetööriistu kasutada.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefoxi telemeetriaandmete kliendidokumentatsioon</a> sisaldab definitsioone mõistete, API dokumentatsiooni ja andmespetsifikatsioonide kohta.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemeetria koondpaneelid</a> võimaldavad sul visualiseerida neid andmeid, mida Mozilla telemeetria kaudu vastu võtab.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfoxi andmete dokumentatsioon</a> sisaldab juhendeid selle kohta, kuidas meie andmetööriistu kasutada.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfoxi telemeetriaandmete kliendidokumentatsioon</a> sisaldab definitsioone mõistete, API dokumentatsiooni ja andmespetsifikatsioonide kohta.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemeetria koondpaneelid</a> võimaldavad sul visualiseerida neid andmeid, mida Waterfox telemeetria kaudu vastu võtab.
 about-telemetry-telemetry-probe-dictionary = The <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> provides details and descriptions for the probes collected by Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Ava JSONi vaatajas
 about-telemetry-home-section = Avaleht
@@ -57,7 +57,7 @@ about-telemetry-upload-type =
        *[disabled] keelatud
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = See leht näitab Telemetry kogutud jõudluse, riistvara, funktsionaalsuse kasutamise ja kohandamiste andmeid. See teave saadetakse { $telemetryServerOwner }le, et aidata kaasa { -brand-full-name }i edasiarendamisele.
 about-telemetry-settings-explanation = Telemetry kogub { about-telemetry-data-type } ja üleslaadimine on <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

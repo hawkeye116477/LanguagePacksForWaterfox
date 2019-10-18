@@ -16,9 +16,9 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetriya Məlumatları
 about-telemetry-more-information = Ətraflı məlumat üçün baxırsınız?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Məlumat Sənədləri</a> məlumat alətlərimizlə necə işləmək lazım olduğu haqqında yol göstərir.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetriya klient sənədlərinə</a> konsept tərifləri, API sənədləri və məlumat istinadları daxildir.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetriya idarə lövhələri</a> Mozillanın Telemetriya ilə aldığı məlumatları vizuallaşdırmağınıza imkan verir.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Waterfox Məlumat Sənədləri</a> məlumat alətlərimizlə necə işləmək lazım olduğu haqqında yol göstərir.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Waterfox Telemetriya klient sənədlərinə</a> konsept tərifləri, API sənədləri və məlumat istinadları daxildir.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetriya idarə lövhələri</a> Waterfoxnın Telemetriya ilə aldığı məlumatları vizuallaşdırmağınıza imkan verir.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Zond Lüğəti</a> Telemetriya tərəfindən toplanmış zondlarla əlaqədar məlumat və açıqlamaları təchiz edir.
 about-telemetry-show-in-Firefox-json-viewer = JSON göstəricidə aç
 about-telemetry-home-section = Ev
@@ -57,7 +57,7 @@ about-telemetry-upload-type =
        *[disabled] sönülüdür
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = Bu səhifə Telemetry tərəfindən toplanan məhsuldarlıq, avadanlıq, istifadə və fərdiləşdirmə məlumatlarını göstərir. Bu məlumatlar { -brand-full-name } səyyahını yaxşılaşdırmaq üçün { $telemetryServerOwner } serverlərinə göndərilir.
 about-telemetry-settings-explanation = Telemetry { about-telemetry-data-type } yığır və yükləmə <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:

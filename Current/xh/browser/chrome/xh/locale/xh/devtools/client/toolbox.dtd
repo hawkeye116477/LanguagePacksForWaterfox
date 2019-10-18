@@ -80,7 +80,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Vumela ukususa ibhagi kwerimoti">
-<!ENTITY options.enableRemote.tooltip2  "Ukuvulela olu khetho kuya kwenza izixhobo zokukhupha ibhagi zibe kude njengeFirefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Ukuvulela olu khetho kuya kwenza izixhobo zokukhupha ibhagi zibe kude njengeWaterfox OS">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->

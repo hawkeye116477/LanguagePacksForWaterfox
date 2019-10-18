@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "WebIDE на Firefox">
+<!ENTITY windowTitle "WebIDE на Waterfox">
 
 <!ENTITY projectMenu_label "Проект">
 <!ENTITY projectMenu_accesskey "П">
@@ -55,7 +55,7 @@
 <!ENTITY projectButton_label "Отваряне на приложение">
 <!ENTITY runtimeButton_label "Избиране на среда за приложения">
 
-<!-- We try to repicate Firefox' bindings: -->
+<!-- We try to repicate Waterfox' bindings: -->
 <!-- quit app -->
 <!ENTITY key_quit "W">
 <!-- open menu -->

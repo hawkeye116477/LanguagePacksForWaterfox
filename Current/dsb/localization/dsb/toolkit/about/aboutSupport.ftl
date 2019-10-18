@@ -61,7 +61,7 @@ app-basics-remote-processes-count = Zdalone procese
 app-basics-enterprise-policies = Pśedewześowe pšawidła
 app-basics-location-service-key-google = Kluc stojnišćoweje słužby Google
 app-basics-safebrowsing-key-google = Kluc Safebrowsing Google
-app-basics-key-mozilla = Kluc słužby póstajenja městna Mozilla
+app-basics-key-mozilla = Kluc słužby póstajenja městna Waterfox
 app-basics-safe-mode = Wěsty modus
 show-dir-label =
     { PLATFORM() ->

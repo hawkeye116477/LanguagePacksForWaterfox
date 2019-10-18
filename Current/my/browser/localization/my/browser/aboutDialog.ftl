@@ -32,12 +32,12 @@ bottomLinks-rights = သုံးစွဲသူ၏ အခွင့်အရေ�
 bottomLinks-privacy = ကိုယ်ရေးအချက်အလက်ကာကွယ်မှုမူဝါဒ
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
-#   $version (String): version of Firefox, e.g. 66.0.1
+#   $version (String): version of Waterfox, e.g. 66.0.1
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version = { $version }({ $bits } -bit)
 # Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
 # Variables:
-#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $version (String): version of Waterfox for Nightly builds, e.g. 66.0a1
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version }{ $isodate } ({ $bits }-bit)

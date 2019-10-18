@@ -118,10 +118,10 @@ search-results-help-link = გესაჭიროებათ დახმა�
 ## General Section
 
 startup-header = ჩართვისას
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = ნებართვა, რომ { -brand-short-name } და Firefox გაეშვას ერთდროულად
+    .label = ნებართვა, რომ { -brand-short-name } და Waterfox გაეშვას ერთდროულად
 use-firefox-sync = რჩევა: ეს სხვადასხვა პროფილებს იყენებს. მათ შორის მონაცემების გასაზიარებლად { -sync-brand-short-name } გამოიყენეთ.
 get-started-not-logged-in = { -sync-brand-short-name }-ში შესვლა…
 get-started-configured = { -sync-brand-short-name }-პარამეტრების გახსნა
@@ -373,10 +373,10 @@ home-newtabs-mode-label = ახალი ჩანართები
 home-restore-defaults =
     .label = ნაგულისხმევის აღდგენა
     .accesskey = ნ
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox საწყისი გვერდი (ნაგულისხმევი)
+    .label = Waterfox საწყისი გვერდი (ნაგულისხმევი)
 home-mode-choice-custom =
     .label = მითითებული URL-მისამართები...
 home-mode-choice-blank =
@@ -472,7 +472,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = ჩამოტვირთეთ Firefox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android-ისთვის</a> ან <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS-ისთვის</a> თქვენს მობილურ მოწყობილობასთან სინქრონიზაციისთვის.
+sync-mobile-promo = ჩამოტვირთეთ Waterfox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android-ისთვის</a> ან <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS-ისთვის</a> თქვენს მობილურ მოწყობილობასთან სინქრონიზაციისთვის.
 
 ## Sync Section - Signed in
 
@@ -520,7 +520,7 @@ sync-engine-creditcards =
     .accesskey = კ
 sync-engine-addons =
     .label = დამატებები
-    .tooltiptext = Firefox სამაგიდო ვერსიის გაფართოებები და თემები
+    .tooltiptext = Waterfox სამაგიდო ვერსიის გაფართოებები და თემები
     .accesskey = დ
 sync-engine-prefs =
     .label =
@@ -578,12 +578,12 @@ history-header = ისტორია
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } მონაცემებს
     .accesskey = მ
 history-remember-option-all =

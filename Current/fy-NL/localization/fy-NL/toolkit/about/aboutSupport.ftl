@@ -64,7 +64,7 @@ app-basics-remote-processes-count = Eksterne prosessen
 app-basics-enterprise-policies = Bedriuwsbelied
 app-basics-location-service-key-google = Google-lokaasjetsjinstkaai
 app-basics-safebrowsing-key-google = Google Safe Browsing-kaai
-app-basics-key-mozilla = Mozilla-lokaasjetsjinstkaai
+app-basics-key-mozilla = Waterfox-lokaasjetsjinstkaai
 app-basics-safe-mode = Feilige modus
 show-dir-label =
     { PLATFORM() ->

@@ -125,7 +125,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Wuwześe pśidaś…">
 <!ENTITY securityOverride.exceptionButton1Label "Riziko akceptěrowaś a pókšacowaś">
 
-<!ENTITY errorReporting.automatic2 "Dajśo zmólki ako toś te k wěsći, aby Mozilla pomagał, złosne sedła identificěrował a blokěrował">
+<!ENTITY errorReporting.automatic2 "Dajśo zmólki ako toś te k wěsći, aby Waterfox pomagał, złosne sedła identificěrował a blokěrował">
 <!ENTITY errorReporting.learnMore "Dalšne informacije…">
 
 <!ENTITY remoteXUL.title "Daloki XUL">

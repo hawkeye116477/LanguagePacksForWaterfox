@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "Firefox 웹IDE">
+<!ENTITY windowTitle "Waterfox 웹IDE">
 
 <!ENTITY projectMenu_label "프로젝트">
 <!ENTITY projectMenu_accesskey "P">
@@ -56,7 +56,7 @@
 <!ENTITY projectButton_label "앱 열기">
 <!ENTITY runtimeButton_label "런타임 선택">
 
-<!-- We try to repicate Firefox' bindings: -->
+<!-- We try to repicate Waterfox' bindings: -->
 <!-- quit app -->
 <!ENTITY key_quit "W">
 <!-- open menu -->

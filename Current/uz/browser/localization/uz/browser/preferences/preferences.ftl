@@ -46,8 +46,8 @@ category-search =
 pane-privacy-title = Maxfiylik va xavfsizlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox hisobi
+# The word "account" can be translated, do not translate or transliterate "Waterfox".
+pane-sync-title = Waterfox hisobi
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } yordami
@@ -90,10 +90,10 @@ search-results-help-link = Yordam kerakmi? <a data-l10n-name="url">{ -brand-shor
 ## General Section
 
 startup-header = Ishga tushirish
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
-    .label = { -brand-short-name } Firefox’ni bir vaqtda ishga tushirishga ruxsat berish
+    .label = { -brand-short-name } Waterfox’ni bir vaqtda ishga tushirishga ruxsat berish
 use-firefox-sync = Maslahat: U alohida profillardan foydalandi. Ular o‘rtasida ma’lumotlarni almashish uchum sinxronlashdan foydalaning.
 get-started-not-logged-in = { -sync-brand-short-name } hisobiga kirish…
 get-started-configured = { -sync-brand-short-name } parametrlarini ochish
@@ -304,10 +304,10 @@ home-newtabs-mode-label = Yangi ichki oynalar
 home-restore-defaults =
     .label = Asliga tiklash
     .accesskey = t
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox bosh sahifasi (standart)
+    .label = Waterfox bosh sahifasi (standart)
 home-mode-choice-custom =
     .label = Boshqa URL manzillar
 home-mode-choice-blank =
@@ -403,7 +403,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox brauzerini mobil qurilmangiz bilan sinxronlash uchun <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> yoki <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> uchun versiyalarini yuklab oling.
+sync-mobile-promo = Waterfox brauzerini mobil qurilmangiz bilan sinxronlash uchun <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> yoki <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> uchun versiyalarini yuklab oling.
 
 ## Sync Section - Signed in
 
@@ -451,7 +451,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Qo‘shimcha dasturlar
-    .tooltiptext = Kompyuter uchun Firefox kengaytma va mavzulari
+    .tooltiptext = Kompyuter uchun Waterfox kengaytma va mavzulari
     .accesskey = Q
 sync-engine-prefs =
     .label =
@@ -505,12 +505,12 @@ history-header = Tarix
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =

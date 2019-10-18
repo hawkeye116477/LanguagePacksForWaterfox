@@ -50,7 +50,7 @@ app-basics-multi-process-support = Isfuyla agetakala
 app-basics-process-count = Ikalan n ugbur web
 app-basics-enterprise-policies = Tasertit n tkebbanit
 app-basics-location-service-key-google = Tasarutt n umeẓlu n wadi Google
-app-basics-key-mozilla = Tasarutt n umeẓlu n wadi Mozilla
+app-basics-key-mozilla = Tasarutt n umeẓlu n wadi Waterfox
 app-basics-safe-mode = Askar aɣelsan
 show-dir-label =
     { PLATFORM() ->

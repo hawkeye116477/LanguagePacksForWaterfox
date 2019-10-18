@@ -39,7 +39,7 @@ about-telemetry-upload-type =
        *[disabled] نااہل کردہ
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Waterfox"
 about-telemetry-page-subtitle = یہ صفحہ کارکردگی، ہارڈ ہئر اور تخصیص کاری کی معلومات دکھا رہا ہے جو کہ ٹیلیمیٹری سے جمع کیا گیا ہے۔ یہ معلومات { -brand-full-name } بہتر کرنے کے لیے { $telemetryServerOwner } میں جمع کی گئ ہے۔
 # string used as a placeholder for the search field
 # More info about it can be found here:

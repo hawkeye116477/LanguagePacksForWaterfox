@@ -175,7 +175,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun…">
 <!ENTITY securityOverride.exceptionButton1Label "Acceptar la ristga e cuntinuar">
 
-<!ENTITY errorReporting.automatic2 "Rapportar talas errurs per gidar a Mozilla dad identifitgar e bloccar paginas che pon donnegiar tes computer">
+<!ENTITY errorReporting.automatic2 "Rapportar talas errurs per gidar a Waterfox dad identifitgar e bloccar paginas che pon donnegiar tes computer">
 <!ENTITY errorReporting.learnMore "Ulteriuras infurmaziuns…">
 
 <!ENTITY remoteXUL.title "Remote-XUL">

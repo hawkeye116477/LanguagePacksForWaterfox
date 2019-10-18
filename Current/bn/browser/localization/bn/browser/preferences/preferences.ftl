@@ -118,8 +118,8 @@ search-results-help-link = সাহায্য প্রয়োজন? <a data-
 ## General Section
 
 startup-header = শুরুতে
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
+# { -brand-short-name } will be 'Waterfox Developer Edition',
+# since this setting is only exposed in Waterfox Developer Edition
 separate-profile-mode =
     .label = অনুমতি দিন { -brand-short-name } এবং ফায়ারফক্স একই সময়ে চালানোর জন্য
 use-firefox-sync = টিপ: এটি পৃথক প্রোফাইল ব্যাবহার করে। তাদের মধ্যে তথ্য শেয়ার করার জন্য { -sync-brand-short-name } ব্যবহার করুন।
@@ -356,10 +356,10 @@ home-newtabs-mode-label = নতুন ট্যাবগুলি
 home-restore-defaults =
     .label = ডিফল্ট মান পুনরায় স্থাপন
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Waterfox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox Home (ডিফল্ট)
+    .label = Waterfox Home (ডিফল্ট)
 home-mode-choice-custom =
     .label = কাস্টম URLs…
 home-mode-choice-blank =
@@ -455,7 +455,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Firefox ডাউনলোড <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> অথবা <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> আপনার মোবাইল ডিভাইসের সাথে সিঙ্ক করতে।
+sync-mobile-promo = Waterfox ডাউনলোড <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> অথবা <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> আপনার মোবাইল ডিভাইসের সাথে সিঙ্ক করতে।
 
 ## Sync Section - Signed in
 
@@ -503,7 +503,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = অ্যাড-অন
-    .tooltiptext = Firefox ডেস্কটপের জন্য এক্সটেনশন ও থিম
+    .tooltiptext = Waterfox ডেস্কটপের জন্য এক্সটেনশন ও থিম
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -558,12 +558,12 @@ history-header = ইতিহাস
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
+# "Waterfox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
+#   - Simply as "Waterfox", moving the verb into each option.
+#     This will result in "Waterfox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Waterfox history settings:".
 history-remember-label = { -brand-short-name } হবে
     .accesskey = w
 history-remember-option-all =

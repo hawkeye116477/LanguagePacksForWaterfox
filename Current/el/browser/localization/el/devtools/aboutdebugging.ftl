@@ -16,10 +16,10 @@ about-debugging-page-title-runtime-page = Αποσφαλμάτωση - Εκτέ�
 
 # Sidebar strings
 
-# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Display name of the runtime for the currently running instance of Waterfox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = Αυτό το { -brand-shorter-name }
-# Sidebar heading for selecting the currently running instance of Firefox
+# Sidebar heading for selecting the currently running instance of Waterfox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
@@ -52,8 +52,8 @@ about-debugging-sidebar-item-connect-button-connection-timeout = Το χρονι
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Συνδέθηκε
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
-# Firefox) has not been detected yet. Typically, Android phones connected via USB with
-# USB debugging enabled, but where Firefox is not started.
+# Waterfox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Waterfox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = Αναμονή για το πρόγραμμα περιήγησης…
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
@@ -82,9 +82,9 @@ about-debugging-refresh-usb-devices-button = Ανανέωση συσκευών
 about-debugging-setup-title = Ρύθμιση
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Ρυθμίστε τη μέθοδο σύνδεσης με την οποία επιθυμείτε να αποσφαλματώσετε απομακρυσμένα τη συσκευή σας.
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
+# Explanatory text in the Setup page about what the 'This Waterfox' page is for
 about-debugging-setup-this-firefox = Χρησιμοποιήστε το <a>{ about-debugging-this-firefox-runtime-name }</a> για αποσφαλμάτωση καρτελών, επεκτάσεων και service workers σε αυτή την έκδοση του { -brand-shorter-name }.
-# Explanatory text in the Setup page about what the 'This Firefox' page is for
+# Explanatory text in the Setup page about what the 'This Waterfox' page is for
 about-debugging-setup-this-firefox2 = Χρησιμοποιήστε το <a>{ about-debugging-this-firefox-runtime-name }</a> για να αποσφαλματώσετε τις επεκτάσεις και τα service workers σε αυτή την έκδοση του { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Σύνδεση συσκευής
@@ -109,7 +109,7 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Ενεργοποιήστε τ�
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Ενεργοποιήστε την αποσφαλμάτωση μέσω USB στο μενού προγραμματιστών Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Ενεργοποιήστε την αποσφαλμάτωση μέσω USB στο Firefox της Android συσκευής σας.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Ενεργοποιήστε την αποσφαλμάτωση μέσω USB στο Waterfox της Android συσκευής σας.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Συνδέστε τη συσκευή Android στον υπολογιστή σας.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
@@ -146,7 +146,7 @@ about-debugging-network-location-form-duplicate = Το host “{ $host-value }�
 
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
-# Title of the temporary extensions category (only available for "This Firefox" runtime).
+# Title of the temporary extensions category (only available for "This Waterfox" runtime).
 about-debugging-runtime-temporary-extensions =
     .name = Προσωρινές επεκτάσεις
 # Title of the extensions category.
@@ -177,7 +177,7 @@ about-debugging-runtime-service-workers-not-compatible = Οι ρυθμίσεις
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+# { $minVersion } is the minimum version that is compatible with the current Waterfox instance (same format)
 about-debugging-browser-version-too-old = Το συνδεδεμένο πρόγραμμα περιήγησης έχει παλιά έκδοση ({ $runtimeVersion }). Η ελάχιστη υποστηριζόμενη έκδοση είναι ({ $minVersion }).  Πρόκειται για μη υποστηριζόμενη ρύθμιση και ενδέχεται να προκαλέσει αποτυχία του DevTools. Παρακαλούμε ενημερώστε το συνδεδεμένο πρόγραμμα περιήγησης. <a>Αντιμετώπιση προβλημάτων</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
@@ -185,16 +185,16 @@ about-debugging-browser-version-too-old = Το συνδεδεμένο πρόγρ
 # Those are normally in range for DevTools compatibility policy, but specific non
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-about-debugging-browser-version-too-old-67-debugger = Η καρτέλα "Αποσφαλμάτωση" ενδέχεται να μην λειτουργεί με το συνδεδεμένο πρόγραμμα περιήγησης. Παρακαλούμε χρησιμοποιήστε το Firefox { $runtimeVersion } αν πρέπει να χρησιμοποιήσετε την αποσφαλμάτωση με αυτό το πρόγραμμα περιήγησης.
+about-debugging-browser-version-too-old-67-debugger = Η καρτέλα "Αποσφαλμάτωση" ενδέχεται να μην λειτουργεί με το συνδεδεμένο πρόγραμμα περιήγησης. Παρακαλούμε χρησιμοποιήστε το Waterfox { $runtimeVersion } αν πρέπει να χρησιμοποιήσετε την αποσφαλμάτωση με αυτό το πρόγραμμα περιήγησης.
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
-# { $localID } is the build ID of the current Firefox instance (same format)
+# { $localID } is the build ID of the current Waterfox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Το συνδεδεμένο πρόγραμμα περιήγησης είναι πιο πρόσφατο ({ $runtimeVersion }, buildID { $runtimeID }) από το { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) σας. Πρόκειται για μη υποστηριζόμενη ρύθμιση και ενδέχεται να προκαλέσει αποτυχία του DevTools. Παρακαλούμε ενημερώστε το Firefox. <a>Αντιμετώπιση προβλημάτων</a>
+about-debugging-browser-version-too-recent = Το συνδεδεμένο πρόγραμμα περιήγησης είναι πιο πρόσφατο ({ $runtimeVersion }, buildID { $runtimeID }) από το { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) σας. Πρόκειται για μη υποστηριζόμενη ρύθμιση και ενδέχεται να προκαλέσει αποτυχία του DevTools. Παρακαλούμε ενημερώστε το Waterfox. <a>Αντιμετώπιση προβλημάτων</a>
 # Displayed for runtime info in runtime pages.
-# { $name } is brand name such as "Firefox Nightly"
+# { $name } is brand name such as "Waterfox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
@@ -222,15 +222,15 @@ about-debugging-debug-target-list-empty = Τίποτα ακόμα.
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = Επιθεώρηση
-# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# Text of a button displayed in the "This Waterfox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Φόρτωση προσωρινού προσθέτου…
-# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+# Text displayed when trying to install a temporary extension in the "This Waterfox" page.
 about-debugging-tmp-extension-install-error = Προέκυψε σφάλμα κατά την εγκατάσταση προσωρινού προσθέτου.
-# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Text of a button displayed for a temporary extension loaded in the "This Waterfox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Ανανέωση
-# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Text of a button displayed for a temporary extension loaded in the "This Waterfox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Αφαίρεση
 # Message displayed in the file picker that opens to select a temporary extension to load
