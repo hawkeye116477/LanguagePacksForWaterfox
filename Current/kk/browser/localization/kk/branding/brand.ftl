@@ -14,7 +14,7 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -brand-shorter-name = Waterfox
--brand-short-name = Waterfox
+-brand-short-name = Waterfox Current
 -brand-full-name = Waterfox Current
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).

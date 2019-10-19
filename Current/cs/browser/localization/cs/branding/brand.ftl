@@ -15,7 +15,7 @@
 
 -brand-shorter-name = Waterfox
     .gender = masculine
--brand-short-name = Waterfox
+-brand-short-name = Waterfox Current
     .gender = masculine
 -brand-full-name = Waterfox Current
 # This brand name can be used in messages where the product name needs to

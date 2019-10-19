@@ -14,7 +14,7 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -brand-shorter-name = Waterfox
--brand-short-name = Waterfox
+-brand-short-name = Waterfox Current
 -brand-full-name = Waterfox Current
 -brand-product-name = Waterfox
 -vendor-short-name = Waterfox

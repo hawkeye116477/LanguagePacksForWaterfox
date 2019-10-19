@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  brandShorterName      "Waterfox">
-<!ENTITY  brandShortName        "Waterfox">
+<!ENTITY  brandShortName        "Waterfox Current">
 <!ENTITY  brandFullName         "Waterfox Current">
 <!ENTITY  vendorShortName       "Waterfox">
 <!ENTITY  trademarkInfo.part1   "I-Waterfox neelogo ze-Waterfox ziimpawu ze-Waterfox Ltd.">
