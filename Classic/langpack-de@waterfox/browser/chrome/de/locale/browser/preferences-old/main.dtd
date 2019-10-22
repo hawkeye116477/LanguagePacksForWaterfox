@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label;-Einstellungen öffnen">
 
 <!ENTITY e10sEnabled.label                "&brandShortName; mit mehreren Prozessen ausführen">
+
+<!ENTITY localeSelect.label               "Locale Select">

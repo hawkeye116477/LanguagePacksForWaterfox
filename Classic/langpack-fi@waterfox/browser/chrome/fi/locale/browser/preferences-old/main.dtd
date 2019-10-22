@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Avaa &syncBrand.shortName.label;-asetukset">
 
 <!ENTITY e10sEnabled.label                "&brandShortName; hyödyntää useaa prosessia">
+
+<!ENTITY localeSelect.label               "Locale Select">

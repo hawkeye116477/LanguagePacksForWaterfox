@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Ireki &syncBrand.shortName.label; hobespenak">
 
 <!ENTITY e10sEnabled.label                "Gaitu multiprozesu moduko &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

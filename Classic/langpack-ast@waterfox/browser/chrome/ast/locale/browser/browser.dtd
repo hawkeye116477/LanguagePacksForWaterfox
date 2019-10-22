@@ -998,3 +998,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Get help finding things! Look for the &#x1F50E; next to search suggestions.">
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
+
+<!ENTITY restartBrowser.label "Restart &brandShorterName;">
+
+<!ENTITY duplicateTab.label "Duplicate Tab">
+<!ENTITY copyTabURL.label "Copy Tab URL">
+<!ENTITY copyAllTabURLs.label "Copy All Tab URLs">
+
+<!ENTITY openNewNone10sWindow.label "Open in new non-e10s window">

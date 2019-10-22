@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Адкрыць налады &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Уключыць шматпрацэсны &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

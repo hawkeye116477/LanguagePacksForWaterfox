@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label "Otwórz ustawienia synchronizacji">
 
 <!ENTITY e10sEnabled.label "&brandShortName; w wielu procesach">
+
+<!ENTITY localeSelect.label               "Język interfejsu Waterfoksa">

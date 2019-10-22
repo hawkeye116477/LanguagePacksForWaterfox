@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Ava &syncBrand.shortName.label;i sätted">
 
 <!ENTITY e10sEnabled.label                "Lubatakse mitme protsessiga &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

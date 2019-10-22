@@ -49,3 +49,5 @@
 <!ENTITY startupPrevSession.label  "Show your windows and tabs from last time">
 
 <!ENTITY startupUserHomePage.label "Show your home page">
+
+<!ENTITY localeSelect.label               "Locale Select">

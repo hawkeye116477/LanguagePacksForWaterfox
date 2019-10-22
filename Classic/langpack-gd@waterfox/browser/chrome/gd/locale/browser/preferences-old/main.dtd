@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Fosgail roghainnean &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Cuir an comas multi-process &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Deschide preferințele &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Activează funcționalitatea de multiprocese a &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; tercihlerini aç">
 
 <!ENTITY e10sEnabled.label                "Çok işlemli &brandShortName; tarayıcısını etkinleştir">
+
+<!ENTITY localeSelect.label               "Locale Select">

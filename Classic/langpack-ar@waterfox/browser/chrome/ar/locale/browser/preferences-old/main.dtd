@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "افتح تفضيلات &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "فعل &brandShortName; متعدد السيرورات">
+
+<!ENTITY localeSelect.label               "Locale Select">

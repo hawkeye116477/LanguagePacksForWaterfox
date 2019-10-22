@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label;-foarkarren iepenje">
 
 <!ENTITY e10sEnabled.label                "Multiprocess yn &brandShortName; ynskeakelje">
+
+<!ENTITY localeSelect.label               "Locale Select">

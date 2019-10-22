@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Άνοιγμα προτιμήσεων του &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Ενεργοποίηση πολυδιεργασίας του &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

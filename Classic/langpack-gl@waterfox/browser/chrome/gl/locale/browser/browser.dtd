@@ -1015,3 +1015,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Manage sharing your microphone with the site">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Manage sharing your windows or screen with the site">
 
+
+<!ENTITY restartBrowser.label "Restart &brandShorterName;">
+
+<!ENTITY duplicateTab.label "Duplicate Tab">
+<!ENTITY copyTabURL.label "Copy Tab URL">
+<!ENTITY copyAllTabURLs.label "Copy All Tab URLs">
+
+<!ENTITY openNewNone10sWindow.label "Open in new non-e10s window">

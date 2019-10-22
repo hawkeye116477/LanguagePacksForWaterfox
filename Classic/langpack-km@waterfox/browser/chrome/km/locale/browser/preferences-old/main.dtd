@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "បើក​ចំណូលចិត្ត &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "អនុញ្ញាត​ &brandShortName; ដំណើរការ​ច្រើន​ប្រភេទ​​">
+
+<!ENTITY localeSelect.label               "Locale Select">

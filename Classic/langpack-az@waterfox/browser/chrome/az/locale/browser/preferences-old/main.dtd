@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; nizamlamalarını aç">
 
 <!ENTITY e10sEnabled.label                "Çox əməliyyatlı &brandShortName; səyyahını aktiv et">
+
+<!ENTITY localeSelect.label               "Locale Select">

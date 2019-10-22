@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Arvi e inpostaçioin de &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Deuvia &brandShortName; in modalitæ moltiprocesso">
+
+<!ENTITY localeSelect.label               "Locale Select">

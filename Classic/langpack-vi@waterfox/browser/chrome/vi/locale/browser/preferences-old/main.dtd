@@ -46,3 +46,5 @@
 <!ENTITY getStarted.configured.label      "Open &syncBrand.shortName.label; preferences">
 
 <!ENTITY getStarted.notloggedin.label     "Sign in to &syncBrand.shortName.label;…">
+
+<!ENTITY localeSelect.label               "Locale Select">

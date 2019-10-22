@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "打开&syncBrand.shortName.label;服务首选项">
 
 <!ENTITY e10sEnabled.label                "启用多进程的 &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

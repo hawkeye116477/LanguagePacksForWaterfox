@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "باز کردن ترجیحات &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "فعال کردن چند-پردازشی &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

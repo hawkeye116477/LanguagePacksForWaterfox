@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "פתיחת ההעדפות של &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "הפעלת &brandShortName; במצב ריבוי תהליכים">
+
+<!ENTITY localeSelect.label               "Locale Select">

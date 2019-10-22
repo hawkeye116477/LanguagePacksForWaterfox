@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Atvērt &syncBrand.shortName.label; iestatījumus">
 
 <!ENTITY e10sEnabled.label                "Aktivizēt vairāku procesu &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

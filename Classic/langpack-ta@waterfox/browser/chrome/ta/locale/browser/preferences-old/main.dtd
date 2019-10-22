@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
 
 <!ENTITY e10sEnabled.label                "பற்செயல்பாடுகளை &brandShortName; செயல்படுத்து">
+
+<!ENTITY localeSelect.label               "Locale Select">

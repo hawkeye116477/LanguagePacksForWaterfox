@@ -799,3 +799,11 @@
 
 <!ENTITY sendToDevice.label2 "Wyślij na urządzenie">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizowanie urządzeń…">
+
+<!ENTITY restartBrowser.label "Zrestartuj program &brandShorterName;">
+
+<!ENTITY duplicateTab.label "Duplikuj kartę">
+<!ENTITY copyTabURL.label "Kopiuj adres URL karty">
+<!ENTITY copyAllTabURLs.label "Kopiuj adresy URL wszystkich kart">
+
+<!ENTITY openNewNone10sWindow.label "Otwórz w nowym oknie z pojedynczym procesem">

@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "เปิดค่ากำหนด &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "เปิดใช้งาน &brandShortName; แบบหลายโปรเซส">
+
+<!ENTITY localeSelect.label               "Locale Select">

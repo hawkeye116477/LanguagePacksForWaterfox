@@ -148,3 +148,13 @@ available. -->
                                          "Сазнајте како да проверите да ли су мултипроцеси омогућени">
 <!ENTITY allowHWAccel.label              "Користи хардверско убрзање, кад је доступно">
 <!ENTITY allowHWAccel.accesskey          "х">
+
+<!ENTITY featuresTab.label               "Features">
+<!ENTITY cleanFastRestartCache.label     "Clear fast restart cache on browser restart">
+<!ENTITY restartOptions.label            "Restart">
+<!ENTITY restart_reqconfirmation.label   "Require restart confirmation">
+<!ENTITY restart_paneluibtn.label        "Show button in PanelUI">
+<!ENTITY tabContextMenu.label            "Tab Context Menu">
+<!ENTITY copyTabURLOptions.label         "Show copy tab url menu item">
+<!ENTITY copyAllTabURLsOptions.label     "Show copy all tab urls menu item">
+<!ENTITY duplicateTabOptions.label       "Show duplicate tab menu item">

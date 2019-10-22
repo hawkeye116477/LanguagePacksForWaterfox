@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label	"&syncBrand.shortName.label; 設定を開く">
 
 <!ENTITY e10sEnabled.label		"マルチプロセス &brandShortName; を有効にする">
+
+<!ENTITY localeSelect.label               "Locale Select">

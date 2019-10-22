@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Oscail sainroghanna &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Cumasaigh &brandShortName; ilphróisis">
+
+<!ENTITY localeSelect.label               "Locale Select">

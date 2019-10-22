@@ -104,3 +104,13 @@
 <!ENTITY limitContentProcessOption.disabledDescriptionLink "Scopri come verificare se la modalità multiprocesso è attiva">
 <!ENTITY allowHWAccel.label "Utilizza l’accelerazione hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey "h">
+
+<!ENTITY featuresTab.label               "Features">
+<!ENTITY cleanFastRestartCache.label     "Clear fast restart cache on browser restart">
+<!ENTITY restartOptions.label            "Restart">
+<!ENTITY restart_reqconfirmation.label   "Require restart confirmation">
+<!ENTITY restart_paneluibtn.label        "Show button in PanelUI">
+<!ENTITY tabContextMenu.label            "Tab Context Menu">
+<!ENTITY copyTabURLOptions.label         "Show copy tab url menu item">
+<!ENTITY copyAllTabURLsOptions.label     "Show copy all tab urls menu item">
+<!ENTITY duplicateTabOptions.label       "Show duplicate tab menu item">

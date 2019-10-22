@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Buka preferensi &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Aktifkan &brandShortName; multiproses">
+
+<!ENTITY localeSelect.label               "Locale Select">

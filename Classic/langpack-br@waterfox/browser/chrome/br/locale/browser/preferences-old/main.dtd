@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Digeriñ gwellvezioù &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Gweredekaat lies-araezad &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

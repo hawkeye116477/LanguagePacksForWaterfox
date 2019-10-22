@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "ખોલો &syncBrand.shortName.label; પસંદગીઓ">
 
 <!ENTITY e10sEnabled.label                "મલ્ટી-પ્રક્રિયા સક્ષમ કરો &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

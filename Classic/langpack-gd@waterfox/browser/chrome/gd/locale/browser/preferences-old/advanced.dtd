@@ -141,3 +141,13 @@ available. -->
 <!ENTITY limitContentProcessOption.disabledDescriptionLink "Mar a dh’fhiosraicheas tu a bheil ioma-phròiseasadh an comas">
 <!ENTITY allowHWAccel.label              "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
 <!ENTITY allowHWAccel.accesskey          "m">
+
+<!ENTITY featuresTab.label               "Features">
+<!ENTITY cleanFastRestartCache.label     "Clear fast restart cache on browser restart">
+<!ENTITY restartOptions.label            "Restart">
+<!ENTITY restart_reqconfirmation.label   "Require restart confirmation">
+<!ENTITY restart_paneluibtn.label        "Show button in PanelUI">
+<!ENTITY tabContextMenu.label            "Tab Context Menu">
+<!ENTITY copyTabURLOptions.label         "Show copy tab url menu item">
+<!ENTITY copyAllTabURLsOptions.label     "Show copy all tab urls menu item">
+<!ENTITY duplicateTabOptions.label       "Show duplicate tab menu item">

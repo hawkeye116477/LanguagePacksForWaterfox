@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; баптауларын ашу">
 
 <!ENTITY e10sEnabled.label                "Мультипроцессті &brandShortName; іске қосу">
+
+<!ENTITY localeSelect.label               "Locale Select">

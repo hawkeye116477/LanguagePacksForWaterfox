@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Otevřít předvolby služby &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Povolit aplikaci &brandShortName; používat více procesů">
+
+<!ENTITY localeSelect.label               "Locale Select">

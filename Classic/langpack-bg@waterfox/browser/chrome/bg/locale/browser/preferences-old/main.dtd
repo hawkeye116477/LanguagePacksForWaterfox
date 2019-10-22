@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Настройки на &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Активиране на многопроцесността във &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

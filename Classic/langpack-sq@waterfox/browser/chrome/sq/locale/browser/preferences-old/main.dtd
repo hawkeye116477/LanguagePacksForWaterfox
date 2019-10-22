@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Hapni parapëlqimet për &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Aktivizo multiproces &brandShortName;-i">
+
+<!ENTITY localeSelect.label               "Locale Select">

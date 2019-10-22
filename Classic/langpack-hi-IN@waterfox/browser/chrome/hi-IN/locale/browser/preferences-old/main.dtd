@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; वरीयताएँ खोलें">
 
 <!ENTITY e10sEnabled.label                "बहु-प्रक्रिया को सक्रिय करें &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

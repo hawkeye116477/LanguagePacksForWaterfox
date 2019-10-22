@@ -123,3 +123,13 @@
 <!ENTITY limitContentProcessOption.disabledDescriptionLink "Jak sprawdzić, czy obsługa wielu procesów jest włączona?">
 <!ENTITY allowHWAccel.label "Korzystaj ze sprzętowego przyspieszania, jeśli jest dostępne">
 <!ENTITY allowHWAccel.accesskey "K">
+
+<!ENTITY featuresTab.label               "Funkcje">
+<!ENTITY cleanFastRestartCache.label     "Czyść pamięć podręczną szybkiego restartu podczas restartu przeglądarki">
+<!ENTITY restartOptions.label            "Restart">
+<!ENTITY restart_reqconfirmation.label   "Wymagaj potwierdzenia restartu">
+<!ENTITY restart_paneluibtn.label        "Wyświetlaj przycisk na panelu">
+<!ENTITY tabContextMenu.label            "Menu kontekstowe kart">
+<!ENTITY copyTabURLOptions.label         "Wyświetlaj opcję 'kopiuj adres URL karty'">
+<!ENTITY copyAllTabURLsOptions.label     "Wyświetlaj opcję 'kopiuj adresy URL wszystkich kart'">
+<!ENTITY duplicateTabOptions.label       "Wyświetlaj opcję 'duplikuj kartę'">

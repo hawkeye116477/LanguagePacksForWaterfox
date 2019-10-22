@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "A &syncBrand.shortName.label; beállításainak megnyitása">
 
 <!ENTITY e10sEnabled.label                "Párhuzamosított &brandShortName; engedélyezése">
+
+<!ENTITY localeSelect.label               "Locale Select">

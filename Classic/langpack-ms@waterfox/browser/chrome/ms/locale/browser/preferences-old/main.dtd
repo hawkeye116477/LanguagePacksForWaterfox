@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Buka keutamaan &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Dayakan multi-proses &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

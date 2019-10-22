@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Ouvrir les préférences de &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Activer le mode multiprocessus de &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

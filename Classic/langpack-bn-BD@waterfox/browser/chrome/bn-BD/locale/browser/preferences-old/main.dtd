@@ -47,3 +47,5 @@
 
 <!ENTITY getStarted.configured.label      "Open &syncBrand.shortName.label; preferences">
 
+
+<!ENTITY localeSelect.label               "Locale Select">

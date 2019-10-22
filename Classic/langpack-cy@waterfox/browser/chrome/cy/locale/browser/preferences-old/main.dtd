@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Agor dewisiadau &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Galluogi prosesu lluosog yn &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

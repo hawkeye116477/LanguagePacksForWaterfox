@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Tijaq &syncBrand.shortName.label; taq rajowab'al">
 
 <!ENTITY e10sEnabled.label                "Titzij ri k'ïy tajin richin &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

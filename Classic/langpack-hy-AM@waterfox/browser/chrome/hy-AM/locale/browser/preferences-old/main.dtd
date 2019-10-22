@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
 
 <!ENTITY e10sEnabled.label                "Միացնել բազմընթաց &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

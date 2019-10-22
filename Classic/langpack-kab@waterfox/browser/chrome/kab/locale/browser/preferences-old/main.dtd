@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Ldi ismenyifen n &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Rmed agetakala n &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

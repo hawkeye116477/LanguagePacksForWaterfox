@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Відкрити налаштування Синхронізації">
 
 <!ENTITY e10sEnabled.label                "Увімкнути багатопроцесність &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

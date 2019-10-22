@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Yab ter me &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Cak tic mapol &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

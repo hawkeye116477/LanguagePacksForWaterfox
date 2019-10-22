@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Uddit Cuɓoraaɗe &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Yamir keewal cili &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

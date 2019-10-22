@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Atverti „&syncBrand.shortName.label;“ nuostatas">
 
 <!ENTITY e10sEnabled.label                "Įjungti daugiaprocesę „&brandShortName;“">
+
+<!ENTITY localeSelect.label               "Locale Select">

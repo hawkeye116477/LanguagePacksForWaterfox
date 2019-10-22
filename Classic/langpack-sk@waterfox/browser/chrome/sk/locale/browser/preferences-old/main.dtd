@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Otvoriť nastavenia služby &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Zapnúť režim viacerých procesov prehliadača &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; प्राधान्यता उघडा">
 
 <!ENTITY e10sEnabled.label                "बहु-प्रक्रिया &brandShortName; सक्षम करा">
+
+<!ENTITY localeSelect.label               "Locale Select">

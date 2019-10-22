@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "Opna &syncBrand.shortName.label; stillingar">
 
 <!ENTITY e10sEnabled.label                "Virkja fjölþráða &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

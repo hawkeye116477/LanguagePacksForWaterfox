@@ -44,3 +44,5 @@
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label;-ის პარამეტრების გახსნა">
 
 <!ENTITY e10sEnabled.label                "მრავალპროცესიანი &brandShortName;">
+
+<!ENTITY localeSelect.label               "Locale Select">

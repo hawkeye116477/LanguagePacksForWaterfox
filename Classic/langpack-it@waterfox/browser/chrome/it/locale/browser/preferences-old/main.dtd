@@ -37,3 +37,5 @@
 <!ENTITY getStarted.notloggedin.label "Accedi a &syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label "Apri preferenze di &syncBrand.shortName.label;">
 <!ENTITY e10sEnabled.label "Utilizza &brandShortName; in modalità multiprocesso">
+
+<!ENTITY localeSelect.label               "Locale Select">
