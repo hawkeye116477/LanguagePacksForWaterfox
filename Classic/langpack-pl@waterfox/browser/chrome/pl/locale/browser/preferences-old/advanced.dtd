@@ -133,3 +133,4 @@
 <!ENTITY copyTabURLOptions.label         "Wyświetlaj opcję 'kopiuj adres URL karty'">
 <!ENTITY copyAllTabURLsOptions.label     "Wyświetlaj opcję 'kopiuj adresy URL wszystkich kart'">
 <!ENTITY duplicateTabOptions.label       "Wyświetlaj opcję 'duplikuj kartę'">
+<!ENTITY copyActiveTabURL.label          "Kopiuj adres URL jedynie z aktywnej karty">
