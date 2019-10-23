@@ -1,0 +1,27 @@
+files:
+  - source: /Classic/langpack-en-US@waterfox/browser/chrome/en-US/**/*.dtd
+    ignore:
+      - >-
+        /Classic/langpack-en-US@waterfox/browser/chrome/en-US/locale/en-US/**/*.dtd
+    translation: >-
+      /Classic/langpack-%two_letters_code%@waterfox/browser/chrome/%two_letters_code%/**/%original_file_name%
+  - source: /Classic/langpack-en-US@waterfox/browser/chrome/en-US/**/*.properties
+    ignore:
+      - >-
+        /Classic/langpack-en-US@waterfox/browser/chrome/en-US/locale/en-US/**/*.properties
+    translation: >-
+      /Classic/langpack-%two_letters_code%@waterfox/browser/chrome/%two_letters_code%/**/%original_file_name%
+  - source: >-
+      /Classic/langpack-en-US@waterfox/browser/chrome/en-US/locale/en-US/**/*.dtd
+    translation: >-
+      /Classic/langpack-%two_letters_code%@waterfox/browser/chrome/%two_letters_code%/locale/**/%original_file_name%
+  - source: >-
+      /Classic/langpack-en-US@waterfox/browser/chrome/en-US/locale/en-US/**/*.properties
+    translation: >-
+      /Classic/langpack-%two_letters_code%@waterfox/browser/chrome/%two_letters_code%/locale/**/%original_file_name%
+  - source: /Classic/langpack-en-US@waterfox/chrome/en-US/locale/en-US/**/*.dtd
+    translation: >-
+      /Classic/langpack-%two_letters_code%@waterfox/chrome/%two_letters_code%/locale/%two_letters_code%/**/%original_file_name%
+  - source: /Classic/langpack-en-US@waterfox/chrome/en-US/locale/en-US/**/*.properties
+    translation: >-
+      /Classic/langpack-%two_letters_code%@waterfox/chrome/%two_letters_code%/locale/%two_letters_code%/**/%original_file_name%
