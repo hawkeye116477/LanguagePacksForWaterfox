@@ -807,3 +807,5 @@
 <!ENTITY copyAllTabURLs.label "Kopiuj adresy URL wszystkich kart">
 
 <!ENTITY openNewNone10sWindow.label "Otwórz w nowym oknie z pojedynczym procesem">
+
+<!ENTITY menuFileRestart.label "Uruchom ponownie">
