@@ -1174,3 +1174,5 @@ in "Search through tabs". -->
 <!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
 <!ENTITY contentBlocking.breakageReportView2.description "Content blocking can cause problems with some websites. When you report problems, you’ll help make &brandShortName; better for everyone. (This will send a URL as well as information about your browser settings to Waterfox.)">
 <!ENTITY updateUnsupported.panelUI.label "You cannot perform further updates">
+
+<!ENTITY restartMenu.label "Restart">

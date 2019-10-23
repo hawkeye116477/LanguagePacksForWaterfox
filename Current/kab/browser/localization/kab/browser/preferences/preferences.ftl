@@ -875,3 +875,24 @@ choose-download-folder-title = Fren akaram i usnifel:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
     .label = Sekles ifuyla deg { $service-name }
+
+restart-paneluibtn =
+    .label = Show restart button in PanelUI
+
+clean-fast-restart-cache =
+    .label = Clear fast restart cache on browser restart
+
+restart-reqconfirmation =
+    .label = Require restart confirmation
+
+duplicate-tab-options =
+    .label = Show duplicate tab menu item
+
+copy-tab-url-options =
+    .label = Show copy tab url menu item
+
+copy-active-tab-url-options =
+    .label = Copy URL only from active tab
+
+copy-all-tab-urls-options =
+    .label = Show copy all tab urls menu item

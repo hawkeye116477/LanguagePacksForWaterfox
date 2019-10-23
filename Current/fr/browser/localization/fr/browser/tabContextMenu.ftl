@@ -68,3 +68,9 @@ move-tabs =
 move-tab =
     .label = Déplacer l’onglet
     .accesskey = D
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs

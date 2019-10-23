@@ -1192,3 +1192,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.customRoot "Waterfox does not recognize this certificate issuer. It may have been added from your operating system or by an administrator.">
 <!ENTITY contentBlocking.breakageReportView2.description "Content blocking can cause problems with some websites. When you report problems, you’ll help make &brandShortName; better for everyone. (This will send a URL as well as information about your browser settings to Waterfox.)">
 <!ENTITY updateUnsupported.panelUI.label "You cannot perform further updates">
+
+<!ENTITY restartMenu.label "Restart">

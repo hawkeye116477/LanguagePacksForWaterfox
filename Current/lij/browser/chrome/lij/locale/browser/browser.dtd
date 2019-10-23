@@ -1194,3 +1194,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.strictInfo.label "To block all trackers, set content blocking to “Strict”.">
 <!ENTITY contentBlocking.breakageReportView2.description "Content blocking can cause problems with some websites. When you report problems, you’ll help make &brandShortName; better for everyone. (This will send a URL as well as information about your browser settings to Waterfox.)">
 <!ENTITY updateUnsupported.panelUI.label "You cannot perform further updates">
+
+<!ENTITY restartMenu.label "Restart">

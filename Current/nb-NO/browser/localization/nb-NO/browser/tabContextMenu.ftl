@@ -68,3 +68,9 @@ move-tabs =
 move-tab =
     .label = Flytt fane
     .accesskey = y
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs

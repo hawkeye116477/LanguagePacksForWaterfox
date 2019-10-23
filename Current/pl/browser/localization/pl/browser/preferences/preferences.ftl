@@ -300,7 +300,7 @@ update-setting-write-failure-title = Błąd podczas zachowywania preferencji akt
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     W przeglądarce { -brand-short-name } wystąpił błąd i nie zachowano tej zmiany. Zauważ, że ustawienie tej preferencji aktualizacji wymaga uprawnienia do zapisu do poniższego pliku. Ty lub administrator komputera może móc rozwiązać błąd przez udzielenie grupie „Użytkownicy” pełnej kontroli nad tym plikiem.
-    
+
     Nie można zapisać do pliku: { $path }
 update-in-progress-title = Trwa aktualizacja
 update-in-progress-message = Czy { -brand-short-name } ma kontynuować tę aktualizację?
@@ -883,3 +883,24 @@ choose-download-folder-title = Wybór folderu dla pobieranych plików
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
     .label = Wysyłanie plików do usługi „{ $service-name }”
+
+restart-paneluibtn =
+    .label = Wyświetlaj przycisk restartu na panelu
+
+clean-fast-restart-cache =
+    .label = Czyść pamięć podręczną szybkiego restartu podczas restartu przeglądarki
+
+restart-reqconfirmation =
+    .label = Wymagaj potwierdzenia restartu
+
+duplicate-tab-options =
+    .label = Wyświetlaj opcję 'duplikuj kartę'
+
+copy-tab-url-options =
+    .label = Wyświetlaj opcję 'kopiuj adres URL karty'
+
+copy-active-tab-url-options =
+    .label = Kopiuj adres URL jedynie z aktywnej karty
+
+copy-all-tab-urls-options =
+    .label = Wyświetlaj opcję 'kopiuj adresy URL wszystkich kart'

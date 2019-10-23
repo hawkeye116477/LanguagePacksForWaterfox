@@ -1174,3 +1174,5 @@ in "Search through tabs". -->
 <!ENTITY trackingProtection.unblockPrivate5.label "Turn off Blocking Temporarily">
 <!ENTITY trackingProtection.block6.label "Turn on Blocking for This Site">
 <!ENTITY updateUnsupported.panelUI.label "You cannot perform further updates">
+
+<!ENTITY restartMenu.label "Restart">

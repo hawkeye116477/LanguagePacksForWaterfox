@@ -1191,3 +1191,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "я">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Управление расширениями">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "п">
+
+<!ENTITY restartMenu.label "Restart">

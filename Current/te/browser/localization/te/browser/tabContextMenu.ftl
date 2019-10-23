@@ -50,3 +50,9 @@ close-tab =
 close-tabs =
     .label = ట్యాబులను మూసివేయి
     .accesskey = S
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs

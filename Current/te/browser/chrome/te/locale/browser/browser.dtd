@@ -1191,3 +1191,5 @@ in "Search through tabs". -->
 <!ENTITY updateUnsupported.panelUI.label "You cannot perform further updates">
 <!ENTITY homepageControlled.message "An extension has changed what you see as your home page. You can restore your settings if you do not want this change.">
 <!ENTITY tabHideControlled.header.message "Access Your Hidden Tabs">
+
+<!ENTITY restartMenu.label "Restart">

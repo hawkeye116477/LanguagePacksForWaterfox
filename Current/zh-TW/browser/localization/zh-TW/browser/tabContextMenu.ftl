@@ -68,3 +68,9 @@ move-tabs =
 move-tab =
     .label = 移動分頁
     .accesskey = v
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs

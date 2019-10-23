@@ -68,3 +68,9 @@ move-tabs =
 move-tab =
     .label = Mugitu fitxa
     .accesskey = M
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs

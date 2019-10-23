@@ -1222,3 +1222,5 @@ in "Search through tabs". -->
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Accessibility Features Enabled">
+
+<!ENTITY restartMenu.label "Restart">

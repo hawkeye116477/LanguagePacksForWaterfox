@@ -1188,3 +1188,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.customRoot "Waterfox does not recognize this certificate issuer. It may have been added from your operating system or by an administrator.">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Open Content Blocking Preferences">
 <!ENTITY updateUnsupported.panelUI.label "You cannot perform further updates">
+
+<!ENTITY restartMenu.label "Restart">

@@ -56,3 +56,9 @@ move-tabs =
 move-tab =
     .label = ផ្លាស់ទី​ផ្ទាំង
     .accesskey = v
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs

@@ -68,3 +68,9 @@ move-tabs =
 move-tab =
     .label = Movi langeton
     .accesskey = M
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs

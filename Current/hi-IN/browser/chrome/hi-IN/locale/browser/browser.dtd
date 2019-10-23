@@ -1203,3 +1203,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block6.label "Turn on Blocking for This Site">
 <!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY updateUnsupported.panelUI.label "You cannot perform further updates">
+
+<!ENTITY restartMenu.label "Restart">

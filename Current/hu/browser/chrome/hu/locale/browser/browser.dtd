@@ -1191,3 +1191,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "R">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Kiegészítők kezelése">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "K">
+
+<!ENTITY restartMenu.label "Restart">

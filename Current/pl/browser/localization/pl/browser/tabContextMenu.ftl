@@ -68,3 +68,9 @@ move-tabs =
 move-tab =
     .label = Przenieś kartę
     .accesskey = r
+
+copy-tab-url =
+    .label = Kopiuj adres URL karty
+
+copy-all-tab-urls =
+    .label = Kopiuj adresy URL wszystkich kart

@@ -1193,3 +1193,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Kinuk'samajixik taq K'amal">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "K">
+
+<!ENTITY restartMenu.label "Restart">

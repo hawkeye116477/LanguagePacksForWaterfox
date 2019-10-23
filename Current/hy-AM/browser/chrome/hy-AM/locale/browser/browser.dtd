@@ -1174,3 +1174,5 @@ in "Search through tabs". -->
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 <!ENTITY pageAction.shareUrl.label "Share">
 <!ENTITY pageAction.shareMore.label "More…">
+
+<!ENTITY restartMenu.label "Restart">

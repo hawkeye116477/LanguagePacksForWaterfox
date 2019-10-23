@@ -29,3 +29,9 @@ undo-close-tab =
 close-tab =
     .label = ट्याब बन्द गर्नुहोस्
     .accesskey = C
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs

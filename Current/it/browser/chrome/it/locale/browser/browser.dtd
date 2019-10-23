@@ -799,3 +799,5 @@
 <!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
 <!ENTITY addonPrivateBrowsing.manageButton.label "Gestisci estensioni">
 <!ENTITY addonPrivateBrowsing.manageButton.accesskey "G">
+
+<!ENTITY restartMenu.label "Restart">

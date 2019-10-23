@@ -1168,3 +1168,5 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageAction.manageExtension.label "Manage Extension…">
 <!ENTITY pageAction.shareUrl.label "Share">
 <!ENTITY pageAction.shareMore.label "More…">
+
+<!ENTITY restartMenu.label "Restart">

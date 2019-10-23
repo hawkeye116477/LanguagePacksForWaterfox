@@ -26,3 +26,9 @@ undo-close-tab =
 close-tab =
     .label = Dún Cluaisín
     .accesskey = D
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs

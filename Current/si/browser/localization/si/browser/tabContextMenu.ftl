@@ -41,3 +41,9 @@ close-tab =
 close-tabs =
     .label = ටැබ් වසන්න
     .accesskey = S
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs

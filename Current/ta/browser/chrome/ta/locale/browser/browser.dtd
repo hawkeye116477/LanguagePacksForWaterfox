@@ -1155,3 +1155,5 @@ in "Search through tabs". -->
 <!ENTITY trackingProtection.reload2.accesskey "R">
 <!ENTITY updateUnsupported.panelUI.label "You cannot perform further updates">
 <!ENTITY pageAction.shareMore.label "More…">
+
+<!ENTITY restartMenu.label "Restart">

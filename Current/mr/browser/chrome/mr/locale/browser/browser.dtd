@@ -1195,3 +1195,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Content blocking can cause problems with some websites. When you report problems, you’ll help make &brandShortName; better for everyone. (This will send a URL as well as information about your browser settings to Waterfox.)">
 <!ENTITY updateUnsupported.panelUI.label "You cannot perform further updates">
 <!ENTITY homepageControlled.message "An extension has changed what you see as your home page. You can restore your settings if you do not want this change.">
+
+<!ENTITY restartMenu.label "Restart">

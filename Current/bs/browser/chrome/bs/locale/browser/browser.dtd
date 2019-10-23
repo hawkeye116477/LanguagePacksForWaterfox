@@ -1133,3 +1133,5 @@ in "Search through tabs". -->
 <!ENTITY homepageControlled.disableButton.label "Disable Extension">
 <!ENTITY tabHideControlled.keepButton.label "Keep Tabs Hidden">
 <!ENTITY pageAction.shareMore.label "More…">
+
+<!ENTITY restartMenu.label "Restart">

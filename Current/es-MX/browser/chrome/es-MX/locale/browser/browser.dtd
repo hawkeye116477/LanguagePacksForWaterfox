@@ -1188,3 +1188,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
 <!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
 <!ENTITY updateUnsupported.panelUI.label "You cannot perform further updates">
+
+<!ENTITY restartMenu.label "Restart">

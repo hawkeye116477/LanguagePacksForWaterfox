@@ -41,3 +41,9 @@ undo-close-tab =
 close-tab =
     .label = கீற்றை மூடு
     .accesskey = C
+
+copy-tab-url =
+    .label = Copy Tab URL
+
+copy-all-tab-urls =
+    .label = Copy All Tab URLs
