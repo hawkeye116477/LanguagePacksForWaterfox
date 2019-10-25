@@ -126,7 +126,7 @@
 
 <!ENTITY featuresTab.label               "Funkcje">
 <!ENTITY cleanFastRestartCache.label     "Czyść pamięć podręczną szybkiego restartu podczas restartu przeglądarki">
-<!ENTITY restartOptions.label            "Restart">
+<!ENTITY restartOptions.label            "Opcja restart w menu">
 <!ENTITY restart_reqconfirmation.label   "Wymagaj potwierdzenia restartu">
 <!ENTITY restart_paneluibtn.label        "Wyświetlaj przycisk na panelu">
 <!ENTITY tabContextMenu.label            "Menu kontekstowe kart">
