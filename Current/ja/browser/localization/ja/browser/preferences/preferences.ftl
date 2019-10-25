@@ -1113,3 +1113,7 @@ copy-active-tab-url-options =
 
 copy-all-tab-urls-options =
     .label = Show copy all tab urls menu item
+
+restart-header = Restart Menu Item
+
+tabContextMenu-header = Tab Context Menu

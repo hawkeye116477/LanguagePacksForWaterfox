@@ -904,3 +904,7 @@ copy-active-tab-url-options =
 
 copy-all-tab-urls-options =
     .label = Wyświetlaj opcję 'kopiuj adresy URL wszystkich kart'
+
+restart-header = Pozycja restart w menu
+
+tabContextMenu-header = Menu kontekstowe kart
