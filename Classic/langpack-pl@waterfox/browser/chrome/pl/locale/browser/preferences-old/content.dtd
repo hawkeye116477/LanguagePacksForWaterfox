@@ -58,3 +58,5 @@
 <!ENTITY raiseLowerWindows.label "Podnoszenie lub opuszczanie okien">
 <!ENTITY disableContextMenus.label "Wyłączanie lub zamienianie menu kontekstowego">
 <!ENTITY scripts.label "Skrypty">
+
+<!ENTITY enableNotifications.label "Włącz powiadomienia">
