@@ -46,3 +46,15 @@
 <!ENTITY playDRMContent.label "Odtwarzanie treści chronionych przez DRM">
 <!ENTITY playDRMContent.accesskey "O">
 <!ENTITY playDRMContent.learnMore.label "Więcej informacji">
+
+<!ENTITY images.label "Obrazy">
+<!ENTITY loadImages.label "Automatycznie wczytuj obrazy">
+
+<!ENTITY enableJavaScript.label "Włącz obsługę JavaScript">
+
+<!ENTITY advancedJSDialog.title "Zaawansowane ustawienia JavaScript">
+<!ENTITY allowScripts.label             "Pozwól skryptom na:">
+<!ENTITY moveResizePopupWindows.label "Przesuwanie lub zmienianie rozmiaru wyskakujących okien">
+<!ENTITY raiseLowerWindows.label "Podnoszenie lub opuszczanie okien">
+<!ENTITY disableContextMenus.label "Wyłączanie lub zamienianie menu kontekstowego">
+<!ENTITY scripts.label "Skrypty">

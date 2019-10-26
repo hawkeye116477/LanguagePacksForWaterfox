@@ -58,3 +58,15 @@
 <!ENTITY  notificationsPolicyButton.label      "Choose…">
 <!ENTITY  notificationsPolicyDesc4.label       "Choose which websites are allowed to send you notifications">
 <!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
+
+<!ENTITY images.label "Images">
+<!ENTITY loadImages.label "Load images automatically">
+
+<!ENTITY enableJavaScript.label "Enable JavaScript">
+
+<!ENTITY advancedJSDialog.title "Advanced JavaScript Settings">
+<!ENTITY allowScripts.label             "Allow scripts to:">
+<!ENTITY moveResizePopupWindows.label "Move or resize popup windows">
+<!ENTITY raiseLowerWindows.label "Raise or lower windows">
+<!ENTITY disableContextMenus.label "Disable or replace context menus">
+<!ENTITY scripts.label "Scripts">
