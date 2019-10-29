@@ -149,3 +149,34 @@ permissions-site-microphone-desc = Al lec'hiennoù da heul o deus goulennet haez
 permissions-site-microphone-disable-label =
     .label = Stankañ ar goulennoù nevez haeziñ ho mikro
 permissions-site-microphone-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h haeziñ ho mikro. Kement-se a c'hall terriñ keweriusterioù 'zo el lec'hiennoù.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

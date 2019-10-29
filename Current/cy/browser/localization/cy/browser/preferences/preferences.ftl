@@ -917,3 +917,9 @@ copy-all-tab-urls-options =
 restart-header = Restart Menu Item
 
 tabContextMenu-header = Tab Context Menu
+
+loadImages-checkbox =
+    .label = Load images automatically
+
+enableJavaScript-checkbox =
+    .label = Enable JavaScript

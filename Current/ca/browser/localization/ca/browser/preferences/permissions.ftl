@@ -149,3 +149,34 @@ permissions-site-microphone-desc = Els llocs web següents han sol·licitat acc�
 permissions-site-microphone-disable-label =
     .label = Bloca les noves sol·licituds d'accés al micròfon
 permissions-site-microphone-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir al micròfon. Blocar l'accés al micròfon podria fer que algunes funcions dels llocs web no funcionin correctament.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

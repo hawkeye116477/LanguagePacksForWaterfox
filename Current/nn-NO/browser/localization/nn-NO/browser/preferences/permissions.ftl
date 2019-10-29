@@ -149,3 +149,34 @@ permissions-site-microphone-desc = Følgjande nettstadar har bedt om tilgang til
 permissions-site-microphone-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til mikrofonen din
 permissions-site-microphone-disable-desc = Dette hindrar nettstadar som ikkje er førte opp ovanfor, og ber om løyve til å få tilgang til mikrofonen din. Viss du blokkerer tilgang til mikrofonen din, kan det hende at nokre nettstadfunksjonar ikkje vil fungere.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

@@ -135,3 +135,34 @@ permissions-site-microphone-desc = គេហទំព័រ​ខាងក្រ
 permissions-site-microphone-disable-label =
     .label = ទប់ស្កាត់សំណើថ្មីដែលស្នើសុំឲ្យចូលប្រើមីក្រូហ្វូនរបស់អ្នក
 permissions-site-microphone-disable-desc = វា​នឹងរារាំងគេហទំព័រ​ដែលមិនមានក្នុងបញ្ជីខាងលើនេះមិនឲ្យស្នើសុំការអនុញ្ញាតដើម្បីចូលប្រើប្រាស់​មីក្រូហ្វូន​របស់អ្នក។ ការទប់ស្កាត់ការចូលប្រើប្រាស់​​មីក្រូហ្វូន​​របស់អ្នកអាចធ្វើឲ្យ​មុខងារ​​របស់​គេហទំព័រ​មួយចំនួនមិនអាចប្រើប្រាស់​បាន។
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

@@ -149,3 +149,34 @@ permissions-site-microphone-desc = 다음 웹사이트가 마이크 접근 권�
 permissions-site-microphone-disable-label =
     .label = 마이크 접근 요청을 차단함
 permissions-site-microphone-disable-desc = 위 목록에 없는 사이트는 마이크 사용 요청을 할 수 없게 됩니다. 마이크 접근을 차단하면 웹사이트의 일부 기능이 작동하지 않을 수 있습니다.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

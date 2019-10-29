@@ -149,3 +149,34 @@ permissions-site-microphone-desc = Ondorengo webguneek zure mikrofonoa erabiltze
 permissions-site-microphone-disable-label =
     .label = Blokeatu zure mikrofonoa erabiltzeko eskaera berriak
 permissions-site-microphone-disable-desc = Aukera honekin, mikrofonoa erabiltzeko baimenak eskatzea galaraziko zaie goian zerrendatzen ez diren webguneei. Mikrofonorako sarbidea blokeatzeak webguneen zenbait eginbide hauts litzake.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

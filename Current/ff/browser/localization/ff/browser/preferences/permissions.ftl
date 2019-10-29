@@ -141,3 +141,34 @@ permissions-site-microphone-desc = Ɗee lowe ɗaɓɓitii yettaade mikoroo maa. A
 permissions-site-microphone-disable-label =
     .label = Daaƴ ɗaɓɓitte kese naamnotooɗe yettaade mikoroo maa
 permissions-site-microphone-disable-desc = Ɗuum maa haɗ kala lowre nde limtaaka dow ɗoo ɗaɓɓit-de yamiroore yettaade mikoroo maa. Daaƴde jettagol mikoroo maa ina waawi helde won e fannuuji lowre ndee.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

@@ -141,3 +141,34 @@ permissions-site-microphone-desc = Re taq ruxaq ajk'amaya'l re' xkik'utuj q'ij r
 permissions-site-microphone-disable-label =
     .label = Keq'at k'ak'a' taq k'utunïk richin ye'ok pan q'asäy atzij
 permissions-site-microphone-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amaya'l man ejikib'an ta pa cholajem nikik'utuj q'ij richin ye'ok pan elesäy awachib'al. We yeq'at ri taq okem pan elesäy awachib'al nitikïr yerutz'ila' jujun taq kib'anikil ri taq ruxaq ajk'amaya'l.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

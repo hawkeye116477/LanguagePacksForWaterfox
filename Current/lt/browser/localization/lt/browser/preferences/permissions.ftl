@@ -149,3 +149,34 @@ permissions-site-microphone-desc = Šios svetainės prašo leidimo naudoti jūs�
 permissions-site-microphone-disable-label =
     .label = Blokuoti naujus mikrofono naudojimo prašymus
 permissions-site-microphone-disable-desc = Tai neleis svetainėms, neišvardintoms aukščiau, prašyti leidimo naudoti jūsų mikrofoną. Mikrofono naudojimo blokavimas gali sutrikdyti svetainių funkcionalumą.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

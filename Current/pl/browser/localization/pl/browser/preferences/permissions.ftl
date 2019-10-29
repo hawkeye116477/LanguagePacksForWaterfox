@@ -149,3 +149,34 @@ permissions-site-microphone-desc = Następujące strony prosiły o dostęp do m
 permissions-site-microphone-disable-label =
     .label = Blokowanie nowych próśb o dostęp do mikrofonu
 permissions-site-microphone-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o dostęp do mikrofonu. Zablokowanie dostępu do mikrofonu może spowodować, że niektóre funkcje witryny nie będą działać.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Wyjątki - Obrazy
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = Określ, które witryny mogą wczytywać obrazy. Podaj dokładny adres witryny, której uprawnienia chcesz zmodyfikować, a następnie kliknij Blokuj lub Zezwalaj.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Zaawansowane ustawienia JavaScript
+
+allowScripts =
+    .value = Pozwól skryptom na:
+
+moveResizePopupWindows =
+    .label = Przesuwanie lub zmienianie rozmiaru wyskakujących okien
+
+raiseLowerWindows =
+    .label = Podnoszenie lub opuszczanie okien
+
+disableContextMenus =
+    .label = Wyłączanie lub zamienianie menu kontekstowego
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Wyjątki - Skrypty
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = Określ, które witryny mogą wczytywać skrypty. Podaj dokładny adres witryny, której uprawnienia chcesz zmodyfikować, a następnie kliknij Blokuj lub Zezwalaj.

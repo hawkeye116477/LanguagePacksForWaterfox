@@ -141,3 +141,34 @@ permissions-site-microphone-desc = Dh’iarr na làraichean-lìn a leanas cead a
 permissions-site-microphone-disable-label =
     .label = Bac iarrtasan ùra a dh’iarras cead air a’ mhicreofon agad
 permissions-site-microphone-disable-desc = Cumaidh seo làrach-lìn sam bith nach eil air an liosta gu h-àrd o chead iarraidh air a’ mhicreofon agad. Ma bhacas tu cead air a’ mhicreofon agad, dh’fhaoidte nach obraich cuid a ghleusan air làraichean-lìn tuilleadh.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

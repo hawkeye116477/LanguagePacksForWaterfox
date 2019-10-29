@@ -908,3 +908,9 @@ copy-all-tab-urls-options =
 restart-header = Opcja restart w menu
 
 tabContextMenu-header = Menu kontekstowe kart
+
+loadImages-checkbox =
+    .label = Automatycznie wczytuj obrazy
+
+enableJavaScript-checkbox =
+    .label = Włącz obsługę JavaScript

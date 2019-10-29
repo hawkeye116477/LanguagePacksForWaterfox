@@ -149,3 +149,34 @@ permissions-site-microphone-desc = De folgjende websites hawwe om tagong ta jo m
 permissions-site-microphone-disable-label =
     .label = Nije fersiken om tagong ta jo mikrofoan blokkearje
 permissions-site-microphone-disable-desc = Dit soarget derfoar dat websites dy't hjirboppe net fermeld wurde om tastimming foar tagong ta jo mikrofoan freegje. It blokkearjen fan tagong ta jo mikrofoan kin bepaalde funksjes fan websites fersteure.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.

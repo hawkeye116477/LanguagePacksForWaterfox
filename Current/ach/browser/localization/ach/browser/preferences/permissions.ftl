@@ -123,3 +123,34 @@ permissions-site-microphone-desc = Kakube magi okwayo me nongo mikropon mamegi. 
 permissions-site-microphone-disable-label =
     .label = Geng kwac manyen ma penyo pi nongo mikropon mamegi
 permissions-site-microphone-disable-desc = Man bi gengo kakube mo keken ma pe ki coyo malo me penyo pi twero me nongo mikropon mamegi. Gengo nongo mikropon mamegi romo balo jami mogo me kakube.
+
+## Exceptions - Images
+
+permissions-exceptions-image-window =
+    .title = Exceptions - Images
+    .style = { permissions-window.style }
+permissions-exceptions-image-desc = You can specify which websites are allowed to load images. Type the exact address of the site you want to manage and then click Block or Allow.
+
+## Advanced JS Settings
+
+advancedJSDialog =
+    .title = Advanced JavaScript Settings
+
+allowScripts =
+    .value = Allow scripts to:
+
+moveResizePopupWindows =
+    .label = Move or resize popup windows
+
+raiseLowerWindows =
+    .label = Raise or lower windows
+
+disableContextMenus =
+    .label = Disable or replace context menus
+
+## Exceptions - Scripts
+permissions-exceptions-script-window =
+    .title = Exceptions - Scripts
+    .style = { permissions-window.style }
+
+permissions-exceptions-script-desc = You can specify which websites are allowed to load scripts. Type the exact address of the site you want to manage and then click Block or Allow.
