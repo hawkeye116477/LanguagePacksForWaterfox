@@ -46,3 +46,8 @@
 <!ENTITY e10sEnabled.label "&brandShortName; w wielu procesach">
 
 <!ENTITY localeSelect.label               "Język interfejsu Waterfoksa">
+
+<!ENTITY newtabsoptions.label "Nowa karta">
+<!ENTITY newtabenabled.label "Włącz stronę nowej karty">
+<!ENTITY newtabsearch.label "Włącz pasek wyszukiwania na nowej karcie (odśwież stronę)">
+<!ENTITY newtabthumbnail.label "Wyłącz przechwytywanie miniatur na stronie nowej karty">

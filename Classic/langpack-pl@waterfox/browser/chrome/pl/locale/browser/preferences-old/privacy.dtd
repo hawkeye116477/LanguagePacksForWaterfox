@@ -90,3 +90,20 @@
 <!ENTITY browserContainersEnabled.accesskey "K">
 <!ENTITY browserContainersSettings.label "Dostosuj…">
 <!ENTITY browserContainersSettings.accesskey "D">
+
+<!-- Geo Location Via Checkbox Tweak -->
+<!ENTITY  geographicalLocation.label            "Położenie geograficzne">
+<!ENTITY  disableGeolocation.label            "Włącz geolokalizację">
+<!-- End Geo Location Via Checkbox Tweak -->
+
+<!-- Tracking sendRefererHeader Tweak -->
+<!ENTITY  sendRefererHeader.label            "Nagłówek HTTP odsyłający">
+<!ENTITY  sendRefererHeaderopt0.label            "Nigdy nie będzie wysyłał nagłówka odsyłającego">
+<!ENTITY  sendRefererHeaderopt1.label            "Będzie wysyłał nagłówek odsyłający, jedynie podczas klikania na linki i podobne elementy">
+<!ENTITY  sendRefererHeaderopt2.label            "Będzie wysyłał nagłówek odsyłający w przypadku wszystkich żądań (Domyślnie)">
+<!-- End Tracking sendRefererHeader Tweak -->
+
+<!-- Toggle WebRTC P2P Connection (See:#959893) feature -->
+<!ENTITY webrtcp2group.description "Połączenie WebRTC P2P">
+<!ENTITY webrtcp2preference.label "Włącz połączenie WebRTC P2P">
+<!-- End Toggle WebRTC P2P Connection (See:#959893) feature -->

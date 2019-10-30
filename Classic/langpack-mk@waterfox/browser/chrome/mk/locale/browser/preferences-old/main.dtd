@@ -51,3 +51,8 @@
 <!ENTITY useWaterfoxSync.label             "Tip: This uses separate profiles. Use Sync to share data between them.">
 
 <!ENTITY localeSelect.label               "Locale Select">
+
+<!ENTITY newtabsoptions.label "New Tab">
+<!ENTITY newtabenabled.label "Enable new tab page">
+<!ENTITY newtabsearch.label "Enable search bar on New Tab (reload page)">
+<!ENTITY newtabthumbnail.label "Disable thumbnail capturing on new tab page">
