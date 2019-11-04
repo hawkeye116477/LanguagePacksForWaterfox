@@ -22,11 +22,23 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Ping Type
+">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
+<!ENTITY aboutTelemetry.optionGroupToday "
+Today
+">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Yesterday
+">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Older
+">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Datos chenerals">
 
@@ -69,20 +81,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filtrar (cadenas u /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
-
-<!ENTITY aboutTelemetry.archivePingType "
-Ping Type
-">
-
-<!ENTITY aboutTelemetry.optionGroupOlder "
-Older
-">
-
-<!ENTITY aboutTelemetry.optionGroupToday "
-Today
-">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "
-Yesterday
-">
-
