@@ -7,20 +7,20 @@
 <!ENTITY generalTab.label                "Основни">
 
 <!ENTITY useCursorNavigation.label       "Използване на каретка за придвижване в страниците">
-<!ENTITY useCursorNavigation.accesskey   "к">
+<!ENTITY useCursorNavigation.accesskey   "З">
 <!ENTITY searchOnStartTyping.label       "Търсене на текст при започване на въвеждане">
-<!ENTITY searchOnStartTyping.accesskey   "Т">
+<!ENTITY searchOnStartTyping.accesskey   "х">
 <!ENTITY useOnScreenKeyboard.label       "Показване на клавиатура за докосване, при необходимост">
-<!ENTITY useOnScreenKeyboard.accesskey   "д">
+<!ENTITY useOnScreenKeyboard.accesskey   "Р">
 
-<!ENTITY browsing.label                  "Разглеждане">
+<!ENTITY browsing.label                  "Сърфиране">
 
 <!ENTITY useAutoScroll.label             "Автоматично плъзгане">
-<!ENTITY useAutoScroll.accesskey         "А">
+<!ENTITY useAutoScroll.accesskey         "т">
 <!ENTITY useSmoothScrolling.label        "Плавно плъзгане">
-<!ENTITY useSmoothScrolling.accesskey    "л">
+<!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY checkUserSpelling.label         "Проверяване на правописа при въвеждане">
-<!ENTITY checkUserSpelling.accesskey     "в">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Данни">
 
@@ -30,16 +30,16 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "Докладването да данни е изключено за тази конфигурация на изданието">
 
 <!ENTITY enableHealthReport1.label       "Разрешаване на &brandShortName; автоматично да изпраща техническа информация и данни за използването към Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "т">
-<!ENTITY healthReportLearnMore.label     "Научете повече">
+<!ENTITY enableHealthReport1.accesskey   "С">
+<!ENTITY healthReportLearnMore.label     "Learn more">
 
 <!ENTITY dataCollection.label            "Събиране и използване на данни от &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "Стремим се да ви предоставяме възможност и да събираме само толкова, колкото ни е необходимо, за да предоставяме и подобряваме &brandShortName; за всички. Винаги искаме разрешение преди да получим лична информация.">
-<!ENTITY dataCollectionPrivacyNotice.label    "Политика на поверителност">
+<!ENTITY dataCollectionPrivacyNotice.label    "Политика за личните данни">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Разрешаване на &brandShortName; да изпраща доклади за срив към Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "д">
-<!ENTITY crashReporterLearnMore.label    "Научете повече">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "З">
+<!ENTITY crashReporterLearnMore.label    "Learn more">
 
 <!ENTITY networkTab.label                "Мрежа">
 
@@ -47,7 +47,7 @@ available. -->
 
 <!ENTITY connectionDesc.label            "Настройване на начина, по който &brandShortName; достъпва Мрежата">
 <!ENTITY connectionSettings.label        "Настройки…">
-<!ENTITY connectionSettings.accesskey    "Н">
+<!ENTITY connectionSettings.accesskey    "Д">
 
 <!ENTITY httpCache.label                 "Кеширано уеб съдържание">
 
@@ -56,10 +56,10 @@ available. -->
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Данни на сайтове">
 <!ENTITY clearSiteData.label             "Изчистване на всички">
-<!ENTITY clearSiteData.accesskey         "в">
+<!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Настройки…">
-<!ENTITY siteDataSettings.accesskey      "н">
-<!ENTITY siteDataLearnMoreLink.label     "Научете повече">
+<!ENTITY siteDataSettings.accesskey      "д">
+<!ENTITY siteDataLearnMoreLink.label     "Learn more">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -68,14 +68,14 @@ available. -->
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Ограничаване на кеша до">
-<!ENTITY limitCacheSizeBefore.accesskey  "О">
+<!ENTITY limitCacheSizeBefore.accesskey  "Н">
 <!ENTITY limitCacheSizeAfter.label       "МБ пространство">
 <!ENTITY clearCacheNow.label             "Изчистване">
-<!ENTITY clearCacheNow.accesskey         "И">
+<!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "Изчистване">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ч">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Незачитане на автоматичното управление на кеша">
-<!ENTITY overrideSmartCacheSize.accesskey "Н">
+<!ENTITY overrideSmartCacheSize.accesskey "о">
 
 <!ENTITY updateTab.label                 "Обновяване">
 
@@ -96,44 +96,44 @@ available. -->
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Разрешаване на &brandShortName;">
 <!ENTITY updateAuto3.label               "Да инсталира обновяванията автоматично (препоръчва се)">
-<!ENTITY updateAuto3.accesskey           "и">
+<!ENTITY updateAuto3.accesskey           "О">
 <!ENTITY updateCheckChoose2.label        "Да прави проверка за обновяванията, на да дава избор дали да бъдат инсталирани">
-<!ENTITY updateCheckChoose2.accesskey    "п">
+<!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Никога да не прави проверка за обновявания (непрепоръчително)">
-<!ENTITY updateManual2.accesskey         "Н">
+<!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Хронология на обновяванията…">
-<!ENTITY updateHistory2.accesskey        "х">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Използване на услуга на заден план за инсталиране на обновявания">
-<!ENTITY useService.accesskey            "у">
+<!ENTITY useService.accesskey            "П">
 
 <!ENTITY enableSearchUpdate2.label       "Автоматично обновяване на търсещите машини">
-<!ENTITY enableSearchUpdate2.accesskey   "т">
+<!ENTITY enableSearchUpdate2.accesskey   "Д">
 
 <!ENTITY offlineStorageNotify.label               "Предупреждение, при опит на сайт да запазва информация за работа извън мрежата">
-<!ENTITY offlineStorageNotify.accesskey           "П">
+<!ENTITY offlineStorageNotify.accesskey           "И">
 <!ENTITY offlineStorageNotifyExceptions.label     "Изключения…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "з">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "х">
 
 <!ENTITY offlineAppsList2.label          "На следните сайтове е позволено да съхраняват информация за работа извън мрежата:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Изчистване…">
-<!ENTITY offlineAppsListRemove.accesskey "И">
+<!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Изчистване на данните за работа извън мрежата">
 
 <!ENTITY certificateTab.label            "Сертификати">
 <!ENTITY certPersonal2.description       "Когато сървър поиска личния ви сертификат">
 <!ENTITY selectCerts.auto                "Автоматично избиране на някой">
-<!ENTITY selectCerts.auto.accesskey      "а">
+<!ENTITY selectCerts.auto.accesskey      "в">
 <!ENTITY selectCerts.ask                 "Питане всеки път">
-<!ENTITY selectCerts.ask.accesskey       "п">
+<!ENTITY selectCerts.ask.accesskey       "О">
 <!ENTITY enableOCSP.label                "Заявка към сървър OCSP responder за потвърждаване валидността на сертификатите">
-<!ENTITY enableOCSP.accesskey            "З">
+<!ENTITY enableOCSP.accesskey            "И">
 <!ENTITY viewCerts2.label                "Преглед на сертификатите…">
-<!ENTITY viewCerts2.accesskey            "с">
+<!ENTITY viewCerts2.accesskey            "C">
 <!ENTITY viewSecurityDevices2.label      "Устройства по безопасността…">
-<!ENTITY viewSecurityDevices2.accesskey  "у">
+<!ENTITY viewSecurityDevices2.accesskey  "Б">
 
 <!ENTITY performance.label               "Производителност">
 <!ENTITY useRecommendedPerformanceSettings2.label
@@ -141,16 +141,16 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "Тези настройки са съобразени с хардуера и операционната система на компютъра.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
-                                         "п">
+                                         "О">
 <!ENTITY performanceSettingsLearnMore.label
-                                         "Научете повече">
+                                         "Learn more">
 <!ENTITY limitContentProcessOption.label "Процеси за обработка на съдържание">
 <!ENTITY limitContentProcessOption.description
-                                         "Допълнителни процеси за обработка съдържание може да направят &brandShortName; по-отзивчив, при използване на повече раздели за сметка на повече използвана памет.">
-<!ENTITY limitContentProcessOption.accesskey   "с">
+                                         "Допълнителни процеси за обработка съдържание може да направят &amp;brandShortName; по-отзивчив, при използване на повече раздели за сметка на повече използвана памет.">
+<!ENTITY limitContentProcessOption.accesskey   "Н">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "Променянето на броя на процесите за съдържание е възможно само при многопроцесен &brandShortName;.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
                                          "Научете как да проверите дали многопроцесността е включена">
 <!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
-<!ENTITY allowHWAccel.accesskey          "х">
+<!ENTITY allowHWAccel.accesskey          "С">
