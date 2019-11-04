@@ -11,34 +11,34 @@
 <!ENTITY fpDialog.title "Ukládání souboru">
 
 <!ENTITY fileCheck.label "Tisk do souboru">
-<!ENTITY fileCheck.accesskey "i">
+<!ENTITY fileCheck.accesskey "r">
 <!ENTITY propertiesButton.label "Vlastnosti…">
-<!ENTITY propertiesButton.accesskey "V">
+<!ENTITY propertiesButton.accesskey "P">
 <!ENTITY descText.label "Popis tiskárny:">
 <!ENTITY printer.label "Tiskárna">
 <!ENTITY printerInput.label "Tiskárna:">
-<!ENTITY printerInput.accesskey "T">
+<!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Tisknout rozsah">
 <!ENTITY allpagesRadio.label "Všechny stránky">
-<!ENTITY allpagesRadio.accesskey "e">
-<!ENTITY rangeRadio.label "Stránky">
-<!ENTITY rangeRadio.accesskey "S">
-<!ENTITY frompageInput.label "od">
-<!ENTITY frompageInput.accesskey "o">
-<!ENTITY topageInput.label "do">
-<!ENTITY topageInput.accesskey "d">
+<!ENTITY allpagesRadio.accesskey "O">
+<!ENTITY rangeRadio.label  "Stránky">
+<!ENTITY rangeRadio.accesskey  "a">
+<!ENTITY frompageInput.label  "od">
+<!ENTITY frompageInput.accesskey  "S">
+<!ENTITY topageInput.label  "do">
+<!ENTITY topageInput.accesskey  "t">
 <!ENTITY selectionRadio.label "Výběr">
-<!ENTITY selectionRadio.accesskey "b">
+<!ENTITY selectionRadio.accesskey "d">
 
 <!ENTITY copies.label "Kopie">
 <!ENTITY numCopies.label "Počet kopií:">
-<!ENTITY numCopies.accesskey "k">
+<!ENTITY numCopies.accesskey "Z">
 
 <!ENTITY printframeGroup.label "Tisk rámů">
 <!ENTITY aslaidoutRadio.label "Stejně jako na obrazovce">
-<!ENTITY aslaidoutRadio.accesskey "j">
-<!ENTITY selectedframeRadio.label "Vybraný rám">
-<!ENTITY selectedframeRadio.accesskey "r">
-<!ENTITY eachframesepRadio.label "Každý rám zvlášť">
-<!ENTITY eachframesepRadio.accesskey "z">
+<!ENTITY aslaidoutRadio.accesskey "V">
+<!ENTITY selectedframeRadio.label  "Vybraný rám">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Každý rám zvlášť">
+<!ENTITY eachframesepRadio.accesskey  "a">
