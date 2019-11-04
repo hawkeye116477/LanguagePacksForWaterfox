@@ -5,30 +5,30 @@
 <!-- The page shown when logged in... -->
 
 <!ENTITY engine.bookmarks.label     "Záložky">
-<!ENTITY engine.bookmarks.accesskey "Z">
+<!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Otevřené panely">
-<!ENTITY engine.tabs.accesskey      "P">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Historie">
-<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.history.accesskey   "S">
 <!ENTITY engine.logins.label        "Přihlašovací údaje">
-<!ENTITY engine.logins.accesskey    "l">
+<!ENTITY engine.logins.accesskey    "P">
 <!ENTITY engine.prefs.label         "Předvolby">
-<!ENTITY engine.prefs.accesskey     "v">
+<!ENTITY engine.prefs.accesskey     "d">
 <!ENTITY engine.addons.label        "Doplňky">
-<!ENTITY engine.addons.accesskey    "D">
+<!ENTITY engine.addons.accesskey    "O">
 <!ENTITY engine.addresses.label     "Adresy">
-<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.addresses.accesskey "H">
 <!ENTITY engine.creditcards.label   "Kreditní karty">
-<!ENTITY engine.creditcards.accesskey "K">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Název zařízení">
 <!ENTITY changeSyncDeviceName.label "Změnit název zařízení…">
-<!ENTITY changeSyncDeviceName.accesskey "m">
+<!ENTITY changeSyncDeviceName.accesskey "S">
 <!ENTITY cancelChangeSyncDeviceName.label "Zrušit">
-<!ENTITY cancelChangeSyncDeviceName.accesskey "r">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "v">
 <!ENTITY saveChangeSyncDeviceName.label "Uložit">
-<!ENTITY saveChangeSyncDeviceName.accesskey "U">
+<!ENTITY saveChangeSyncDeviceName.accesskey "h">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Podmínky služby">
@@ -39,7 +39,7 @@ signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInUnverified.beforename.label "Účet">
+<!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "není ověřen.">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
@@ -52,24 +52,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Nejste přihlášeni.">
 <!ENTITY signIn.label                "Přihlásit se">
-<!ENTITY signIn.accesskey            "i">
+<!ENTITY signIn.accesskey            "e">
 <!ENTITY profilePicture.tooltip      "Změnit profilový obrázek">
 <!ENTITY verifiedManage.label        "Spravovat účet">
-<!ENTITY verifiedManage.accesskey    "S">
+<!ENTITY verifiedManage.accesskey    "P">
 <!ENTITY disconnect.label            "Odpojit…">
-<!ENTITY disconnect.accesskey        "d">
+<!ENTITY disconnect.accesskey        "N">
 <!ENTITY verify.label                "Ověřit e-mail">
-<!ENTITY verify.accesskey            "t">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Zapomenout tento e-mail">
-<!ENTITY forget.accesskey            "a">
+<!ENTITY forget.accesskey            "r">
 
 <!ENTITY signedOut.caption            "Vezměte si web s sebou">
 <!ENTITY signedOut.description        "Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.">
 <!ENTITY signedOut.accountBox.title   "Propojit s účtem Waterfoxu">
 <!ENTITY signedOut.accountBox.create  "Vytvořit účet">
-<!ENTITY signedOut.accountBox.create.accesskey  "y">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Přihlásit se">
-<!ENTITY signedOut.accountBox.signin.accesskey  "i">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "Synchronizace napříč všemi zařízeními">
 
