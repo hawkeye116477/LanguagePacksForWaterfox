@@ -3,37 +3,37 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY print.label          "Отпечатване…">
-<!ENTITY print.accesskey      "п">
+<!ENTITY print.accesskey      "О">
 <!ENTITY pageSetup.label      "Настройки на отпечатване…">
 <!ENTITY pageSetup.accesskey  "Н">
 <!ENTITY page.label           "Страница:">
-<!ENTITY page.accesskey       "С">
+<!ENTITY page.accesskey       "т">
 <!ENTITY of.label             "от">
 <!ENTITY scale.label          "Мащаб:">
-<!ENTITY scale.accesskey      "М">
+<!ENTITY scale.accesskey      "в">
 <!ENTITY portrait.label       "Портрет">
-<!ENTITY portrait.accesskey   "П">
+<!ENTITY portrait.accesskey   "б">
 <!ENTITY landscape.label      "Пейзаж">
-<!ENTITY landscape.accesskey  "ж">
+<!ENTITY landscape.accesskey  "Н">
 <!ENTITY close.label          "Затваряне">
-<!ENTITY close.accesskey      "З">
-<!ENTITY p30.label            "30&#037;">
-<!ENTITY p40.label            "40&#037;">
-<!ENTITY p50.label            "50&#037;">
-<!ENTITY p60.label            "60&#037;">
-<!ENTITY p70.label            "70&#037;">
-<!ENTITY p80.label            "80&#037;">
-<!ENTITY p90.label            "90&#037;">
-<!ENTITY p100.label           "100&#037;">
-<!ENTITY p125.label           "125&#037;">
-<!ENTITY p150.label           "150&#037;">
-<!ENTITY p175.label           "175&#037;">
-<!ENTITY p200.label           "200&#037;">
+<!ENTITY close.accesskey      "C">
+<!ENTITY p30.label            "30%">
+<!ENTITY p40.label            "40%">
+<!ENTITY p50.label            "50%">
+<!ENTITY p60.label            "60%">
+<!ENTITY p70.label            "70%">
+<!ENTITY p80.label            "80%">
+<!ENTITY p90.label            "90%">
+<!ENTITY p100.label           "100%">
+<!ENTITY p125.label           "125%">
+<!ENTITY p150.label           "150%">
+<!ENTITY p175.label           "175%">
+<!ENTITY p200.label           "200%">
 <!ENTITY Custom.label         "Персонализиране…">
 <!ENTITY ShrinkToFit.label    "Смаляване до прилягане">
 <!ENTITY customPrompt.title   "Друг мащаб…">
 <!ENTITY simplifyPage.label   "Опростяване на страницата">
-<!ENTITY simplifyPage.accesskey "п">
+<!ENTITY simplifyPage.accesskey "д">
 <!ENTITY simplifyPage.enabled.tooltip  "Промяна на изгледа с цел по-лесно четене">
 <!ENTITY simplifyPage.disabled.tooltip "Тази страница не може да бъде автоматично опростена">
 
