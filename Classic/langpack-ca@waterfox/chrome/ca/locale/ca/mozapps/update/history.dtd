@@ -12,5 +12,5 @@
 <!ENTITY  name.header               "Nom de l'actualització">
 <!ENTITY  date.header               "Data de la instal·lació">
 <!ENTITY  type.header               "Tipus">
-<!ENTITY  state.header              "Estat">
+<!ENTITY  state.header              "State">
 
