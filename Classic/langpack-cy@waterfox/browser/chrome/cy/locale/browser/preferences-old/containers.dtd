@@ -3,24 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addButton.label      "Ychwanegu Cynhwysydd Newydd">
-<!ENTITY addButton.accesskey  "Y">
+<!ENTITY addButton.accesskey  "n">
 <!ENTITY preferencesButton.label "Dewisiadau">
 <!ENTITY removeButton.label   "Tynnu">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Nôl i Breifatrwydd">
+<!ENTITY backLink.label       "« Nôl i Breifatrwydd">
 
 <!ENTITY window.title         "Ychwanegu Cynhwysydd Newydd">
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "Enw:">
-<!ENTITY name.accesskey       "E">
+<!ENTITY name.accesskey       "N">
 <!ENTITY name.placeholder     "Rhowch enw cynhwysydd">
 <!ENTITY icon.label           "Eicon:">
-<!ENTITY icon.accesskey       "E">
+<!ENTITY icon.accesskey       "w">
 <!ENTITY color.label          "Lliw:">
-<!ENTITY color.accesskey      "L">
-<!ENTITY windowClose.key      "w">
+<!ENTITY color.accesskey      "C">
+<!ENTITY windowClose.key      "G">
 
 <!ENTITY button.ok.label      "Gorffen">
-<!ENTITY button.ok.accesskey  "G">
+<!ENTITY button.ok.accesskey  "P">
 
