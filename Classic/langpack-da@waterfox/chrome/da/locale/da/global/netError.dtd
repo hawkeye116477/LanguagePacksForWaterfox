@@ -5,7 +5,7 @@
 <!ENTITY loadError.label "Siden kunne ikke hentes">
 <!ENTITY retry.label "Prøv igen">
 
-<!-- Specifikke fejl-beskeder -->
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Kunne ikke skabe forbindelse">
 <!ENTITY connectionFailure.longDesc "<p>Browseren var ikke i stand til at skabe forbindelse til det angivne websted. Dette kan skyldes:</p><ul><li>At webstedet midlertidigt er nede. Prøv igen senere</li><li>At der er problemer med din internetforbindelse. Kontrollèr, om du kan besøge andre websteder.</li><li>At din computer beskyttes af en forkert opsat firewall eller proxy. Kontrollèr dine indstillinger for firewall og proxy.</li></ul>">
@@ -23,7 +23,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Den kan være blevet slettet, flyttet eller tilladelserne for filen kan forhindre adgang.</li></ul>">
 
 <!ENTITY generic.title "Kan ikke færdiggøre forespørgsel">
-<!ENTITY generic.longDesc "<p>Siden kunne ikke vises, måske fordi den ikke eksisterer eller stien er forkert.<br/>Kontrollèr, at navnet og stien er rigtig.</p>">
+<!ENTITY generic.longDesc "<p>Siden kunne ikke vises, måske fordi den ikke eksisterer eller stien er forkert.&lt;br/&gt;Kontrollèr, at navnet og stien er rigtig.</p>">
 
 <!ENTITY malformedURI.title "Ugyldig adresse">
 <!ENTITY malformedURI.longDesc "<p>Adressen er ikke angivet i et genkendt format. Kontrollèr, om der er fejl i adressen, og prøv igen.</p>">
@@ -88,12 +88,12 @@
 <!ENTITY cspBlocked.longDesc "<p>Browseren forhindrede denne side i at blive indlæst, da den har en indholdssikkerhedspolitik, der forbyder det.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Fejlbehæftet indhold">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Siden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul></p>">
 
-<!ENTITY inadequateSecurityError.title "Usikker forbindelse">
+<!ENTITY inadequateSecurityError.title "Din forbindelse er ikke sikker">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber kan derfor nemt få adgang til information, som du troede var sikker. Webstedets administrator er nødt til at løse problemerne på serveren, før du kan besøge webstedet.</p><p>Fejlkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
