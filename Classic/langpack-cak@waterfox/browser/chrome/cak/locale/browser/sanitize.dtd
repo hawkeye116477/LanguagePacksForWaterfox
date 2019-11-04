@@ -22,12 +22,12 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "Taq xtatz'apij &brandShortName;, k'o ta chi ruyonil niyujtäj el:">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Retal q'ijul richin niyuj:">
-<!ENTITY clearTimeDuration.accesskey      "q">
+<!ENTITY clearTimeDuration.accesskey      "E">
 <!ENTITY clearTimeDuration.lastHour       "Ruk'isib'äl ramaj">
 <!ENTITY clearTimeDuration.last2Hours     "Ruk'isib'al ka'i' ramaj">
 <!ENTITY clearTimeDuration.last4Hours     "Ruk'isib'äl kaji' ramaj">
@@ -36,32 +36,32 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Taq rub'anikil">
-<!ENTITY detailsProgressiveDisclosure.accesskey "b">
+<!ENTITY detailsProgressiveDisclosure.accesskey "i">
 
 <!ENTITY historySection.label         "Natab'äl">
 <!ENTITY dataSection.label            "Taq tzij">
 
 <!ENTITY itemHistoryAndDownloads.label     "Kinatab'al ri okem pa k'amaya'l chuqa' taq qasanïk">
-<!ENTITY itemHistoryAndDownloads.accesskey "o">
+<!ENTITY itemHistoryAndDownloads.accesskey "K">
 <!ENTITY itemFormSearchHistory.label       "Kinatab'al Taq nojwuj chuqa' taq kanob'äl">
-<!ENTITY itemFormSearchHistory.accesskey   "n">
+<!ENTITY itemFormSearchHistory.accesskey   "c">
 <!ENTITY itemCookies.label                 "Taq kaxlanwey">
-<!ENTITY itemCookies.accesskey             "k">
+<!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Kache'">
-<!ENTITY itemCache.accesskey               "a">
+<!ENTITY itemCache.accesskey               "C">
 <!ENTITY itemOfflineApps.label             "Taq rutzij ruxaq k'amaya'l majun nok pa k'amaya'l">
-<!ENTITY itemOfflineApps.accesskey         "r">
+<!ENTITY itemOfflineApps.accesskey         "T">
 <!ENTITY itemActiveLogins.label            "Tzijïl taq molojri'ïl">
-<!ENTITY itemActiveLogins.accesskey        "m">
+<!ENTITY itemActiveLogins.accesskey        "O">
 <!ENTITY itemSitePreferences.label         "Taq rajowaxïk ruxaq k'amaya'l">
-<!ENTITY itemSitePreferences.accesskey     "k">
+<!ENTITY itemSitePreferences.accesskey     "K">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
-<!ENTITY sanitizeEverythingUndoWarning     "Man tikirel ta xtitzolïx chi rij re samaj re'.">
+<!ENTITY sanitizeEverythingUndoWarning     "Man tikirel ta xtitzolïx re samaj re'.">
