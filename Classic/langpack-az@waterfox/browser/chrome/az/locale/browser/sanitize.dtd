@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Təmizlənəcək zaman aralığı: ">
-<!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.accesskey      "P">
 <!ENTITY clearTimeDuration.lastHour       "Son bir saat">
 <!ENTITY clearTimeDuration.last2Hours     "Son iki saat">
 <!ENTITY clearTimeDuration.last4Hours     "Son dörd saat">
@@ -35,31 +35,31 @@
 <!ENTITY clearTimeDuration.everything     "Hər şey">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
-<!ENTITY clearTimeDuration.suffix         "Lokalizasiya qeydləri">
+<!ENTITY clearTimeDuration.suffix         "">
 
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Ətraflı məlumat">
-<!ENTITY detailsProgressiveDisclosure.accesskey "a">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 <!ENTITY historySection.label         "Tarixçə">
 <!ENTITY dataSection.label            "Verilən">
 
 <!ENTITY itemHistoryAndDownloads.label     "Səyahət və Endirmə Tarixçəsi">
-<!ENTITY itemHistoryAndDownloads.accesskey "S">
+<!ENTITY itemHistoryAndDownloads.accesskey "Ə">
 <!ENTITY itemFormSearchHistory.label       "Forma və Axtarış Tarixçəsi">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemFormSearchHistory.accesskey   "T">
 <!ENTITY itemCookies.label                 "Çərəzlər">
-<!ENTITY itemCookies.accesskey             "z">
+<!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Önbellek">
-<!ENTITY itemCache.accesskey               "n">
+<!ENTITY itemCache.accesskey               "H">
 <!ENTITY itemOfflineApps.label             "Oflayn Websayt Məlumatları">
-<!ENTITY itemOfflineApps.accesskey         "O">
+<!ENTITY itemOfflineApps.accesskey         "A">
 <!ENTITY itemActiveLogins.label            "Aktiv girişlər">
-<!ENTITY itemActiveLogins.accesskey        "l">
+<!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Sayt seçimləri">
-<!ENTITY itemSitePreferences.accesskey     "e">
+<!ENTITY itemSitePreferences.accesskey     "g">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
