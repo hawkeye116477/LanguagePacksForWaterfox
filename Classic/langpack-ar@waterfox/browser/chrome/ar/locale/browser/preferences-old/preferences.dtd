@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  prefWindow.titleWin     "الخيارات">
+<!ENTITY  prefWindow.titleWin     "خيارات">
 <!ENTITY  prefWindow.title        "التفضيلات">
 <!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "تفضيلات &brandShortName;">
@@ -15,15 +15,15 @@
 
 <!ENTITY  paneGeneral.title       "عام">
 <!ENTITY  paneTabs.title          "الألسنة">
-<!ENTITY  paneSearch.title        "البحث">
+<!ENTITY  paneSearch.title        "ابحث">
 <!ENTITY  paneContent.title       "المحتوى">
 <!ENTITY  paneApplications.title  "التطبيقات">
 <!ENTITY  panePrivacy.title       "الخصوصيّة">
 <!ENTITY  paneContainers.title    "الألسنة الحاوية">
-<!ENTITY  paneSecurity.title      "الأمان">
-<!ENTITY  paneAdvanced.title      "متقدمة">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSecurity.title      "السريّة">
+<!ENTITY  paneAdvanced.title      "متقدم">
 
-<!ENTITY  paneSync.title          "التزامُن">
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "تزامُن">
 
 <!ENTITY  helpButton.label        "مساعدة">
