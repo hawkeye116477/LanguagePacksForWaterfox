@@ -5,36 +5,36 @@
 <!ENTITY startup.label             "Cychwyn">
 
 <!ENTITY startupPage.label         "Pan fydd &brandShortName; yn cychwyn:">
-<!ENTITY startupPage.accesskey     "c">
+<!ENTITY startupPage.accesskey     "R">
 <!ENTITY startupUserHomePage.label "Dangos fy nhudalen cartref">
 <!ENTITY startupBlankPage.label    "Dangos tudalen wag">
 <!ENTITY startupPrevSession.label  "Dangos fy ffenestri a'm tabiau o'r tro diwethaf">
 
 <!ENTITY homepage.label            "Tudalen Cartref:">
-<!ENTITY homepage.accesskey        "T">
+<!ENTITY homepage.accesskey        "F">
 <!ENTITY useCurrentPage.label      "Defnyddio'r Dudalen Bresennol">
-<!ENTITY useCurrentPage.accesskey  "B">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Defnyddio'r Dudalen Bresennol">
 <!ENTITY chooseBookmark.label      "Defnyddio Nod Tudalen…">
 <!ENTITY chooseBookmark.accesskey  "N">
 <!ENTITY restoreDefault.label      "Adfer i'r Rhagosodedig">
 <!ENTITY restoreDefault.accesskey  "R">
 
-<!ENTITY downloads.label     "Llwytho i Lawr">
+<!ENTITY downloads.label     "Llwythi">
 
 <!ENTITY saveTo.label "Cadw ffeiliau yn">
-<!ENTITY saveTo.accesskey "a">
+<!ENTITY saveTo.accesskey "R">
 <!ENTITY chooseFolderWin.label        "Pori…">
-<!ENTITY chooseFolderWin.accesskey    "P">
+<!ENTITY chooseFolderWin.accesskey    "C">
 <!ENTITY chooseFolderMac.label        "Dewis…">
-<!ENTITY chooseFolderMac.accesskey    "D">
+<!ENTITY chooseFolderMac.accesskey    "A">
 <!ENTITY alwaysAskWhere.label         "Gofyn i mi lle i gadw ffeiliau">
-<!ENTITY alwaysAskWhere.accesskey     "G">
+<!ENTITY alwaysAskWhere.accesskey     "n">
 
 <!ENTITY alwaysCheckDefault2.label        "Wrth gychwyn, gwirio ai &brandShortName; yw eich porwr ragosodedig">
-<!ENTITY alwaysCheckDefault2.accesskey    "W">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Gwneud yn Ragosodedig">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "R">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "P">
 <!ENTITY isDefault.label                  "&brandShortName; yw eich porwr rhagosodedig cyfredol">
 <!ENTITY isNotDefault.label               "&brandShortName; yw eich porwr rhagosodedig cyfredol">
 
@@ -47,7 +47,7 @@
 
 <!ENTITY localeSelect.label               "Locale Select">
 
-<!ENTITY newtabsoptions.label "New Tab">
+<!ENTITY newtabsoptions.label "Tab Newydd">
 <!ENTITY newtabenabled.label "Enable new tab page">
 <!ENTITY newtabsearch.label "Enable search bar on New Tab (reload page)">
 <!ENTITY newtabthumbnail.label "Disable thumbnail capturing on new tab page">
