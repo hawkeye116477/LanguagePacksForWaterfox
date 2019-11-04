@@ -27,4 +27,4 @@ their language. -->
 <!ENTITY searchreset.noChangeButton.access "N">
 
 <!ENTITY searchreset.changeEngineButton        "Změnit vyhledávač">
-<!ENTITY searchreset.changeEngineButton.access "Z">
+<!ENTITY searchreset.changeEngineButton.access "C">
