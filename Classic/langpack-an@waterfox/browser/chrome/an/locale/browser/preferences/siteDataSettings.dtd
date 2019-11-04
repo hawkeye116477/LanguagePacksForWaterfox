@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Achustes - Datos d'o puesto">
-<!ENTITY     hostCol.label                 "Puesto">
+<!ENTITY     hostCol.label                 "Puesto web">
 <!ENTITY     statusCol.label               "Estau">
 <!ENTITY     usageCol.label                "Almagazenamiento">
 <!ENTITY     searchTextboxPlaceHolder             "Mirar en puestos web">
-<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "v">
 <!ENTITY     removeSelected.label          "Borrar los seleccionaus">
-<!ENTITY     removeSelected.accesskey      "B">
-<!ENTITY     save.label                    "Alzar los cambios">
-<!ENTITY     save.accesskey                "A">
+<!ENTITY     removeSelected.accesskey      "t">
+<!ENTITY     save.label                    "Alzar os cambios">
+<!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Cancelar">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Borrar los datos d'o puesto">
