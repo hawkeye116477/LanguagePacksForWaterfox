@@ -6,9 +6,9 @@
 <!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "قائمة">
-<!ENTITY windowClose.key              "w">
+<!ENTITY windowClose.key              "خ">
 
-<!ENTITY button.cancel.label          "ألغ">
-<!ENTITY button.cancel.accesskey      "ل">
+<!ENTITY button.cancel.label          "ألغِ">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "احفظ التغييرات">
-<!ENTITY button.ok.accesskey          "ح">
+<!ENTITY button.ok.accesskey          "ر">
