@@ -4,21 +4,21 @@
 
 <!ENTITY window.title                     "Eithriadau - Cyfieithiad">
 <!ENTITY window.width                     "36em">
-<!ENTITY windowClose.key                  "w">
+<!ENTITY windowClose.key                  "G">
 
 <!ENTITY noTranslationForLanguages.label  "Ni fydd cyfieithu'n cael ei gynnig ar gyfer yr ieithoedd canlynol:">
 <!ENTITY treehead.languageName.label      "Iaith">
 <!ENTITY removeLanguage.label             "Tynnu Iaith">
-<!ENTITY removeLanguage.accesskey         "T">
+<!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "Tynnu Pob Iaith">
-<!ENTITY removeAllLanguages.accesskey     "y">
+<!ENTITY removeAllLanguages.accesskey     "A">
 
 <!ENTITY noTranslationForSites.label      "Ni fydd cyfieithiad yn cael ei gynnig o'r gwefannau canlynol:">
 <!ENTITY treehead.siteName2.label         "Gwefannau">
 <!ENTITY removeSite.label                 "Tynnu'r Wefan">
-<!ENTITY removeSite.accesskey             "W">
+<!ENTITY removeSite.accesskey             "A">
 <!ENTITY removeAllSites.label             "Tynnu Pob Gwefan">
-<!ENTITY removeAllSites.accesskey         "G">
+<!ENTITY removeAllSites.accesskey         "D">
 
 <!ENTITY button.close.label               "Cau">
 <!ENTITY button.close.accesskey           "C">
