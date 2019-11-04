@@ -6,5 +6,5 @@
 <!ENTITY window.emHeight "36em">
 <!ENTITY ChooseOtherApp.description "Kies ’n ander toepassing">
 <!ENTITY ChooseApp.label "Kies…">
-<!ENTITY ChooseApp.accessKey "K">
+<!ENTITY ChooseApp.accessKey "C">
 <!ENTITY accept "Open skakel">
