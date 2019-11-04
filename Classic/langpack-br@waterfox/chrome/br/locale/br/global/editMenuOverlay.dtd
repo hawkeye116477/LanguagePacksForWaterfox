@@ -3,33 +3,33 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "Embann">
-<!ENTITY editMenu.accesskey        "a">
+<!ENTITY editMenu.accesskey        "y">
 <!ENTITY undoCmd.label             "Dizober ">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "D">
+<!ENTITY undoCmd.accesskey         "A">
 <!ENTITY redoCmd.label             "Adober">
-<!ENTITY redoCmd.key               "o">
-<!ENTITY redoCmd.accesskey         "o">
+<!ENTITY redoCmd.key               "Y">
+<!ENTITY redoCmd.accesskey         "R">
 <!ENTITY cutCmd.label              "Troc'hañ">
-<!ENTITY cutCmd.key                "t">
-<!ENTITY cutCmd.accesskey          "T">
+<!ENTITY cutCmd.key                "X">
+<!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Eilañ">
-<!ENTITY copyCmd.key               "k">
-<!ENTITY copyCmd.accesskey         "i">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "e">
 <!ENTITY pasteCmd.label            "Pegañ">
-<!ENTITY pasteCmd.key              "p">
-<!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Dilemel">
-<!ENTITY deleteCmd.accesskey       "D">
+<!ENTITY deleteCmd.accesskey       "r">
 <!ENTITY selectAllCmd.label        "Diuz pep tra">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "a">
-<!ENTITY findCmd.label             "Klask">
-<!ENTITY findCmd.key               "f">
-<!ENTITY findCmd.accesskey         "K">
-<!ENTITY findAgainCmd.label        "Klask en-dro">
-<!ENTITY findAgainCmd.key          "t">
+<!ENTITY selectAllCmd.accesskey    "K">
+<!ENTITY findCmd.label             "Find">
+<!ENTITY findCmd.key               "s">
+<!ENTITY findCmd.accesskey         "s">
+<!ENTITY findAgainCmd.label        "Klask c'hoazh">
+<!ENTITY findAgainCmd.key          "L">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "n">
+<!ENTITY findAgainCmd.accesskey    "K">
 <!ENTITY findPreviousCmd.label     "Klask an hini kent">
-<!ENTITY findPreviousCmd.accesskey "K">
+<!ENTITY findPreviousCmd.accesskey "l">
