@@ -17,9 +17,9 @@
 <!ENTITY certmgr.orphans                      "Tyto dostupné certifikáty nepatří do žádné z předchozích skupin:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Obecné">
-<!ENTITY certmgr.detail.general_tab.accesskey "O">
+<!ENTITY certmgr.detail.general_tab.accesskey "Z">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Podrobnosti">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "d">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "N">
 
 <!ENTITY certmgr.pending.label                "Probíhá ověřování certifikátu…">
 <!ENTITY certmgr.subjectinfo.label            "Vydáno pro">
@@ -52,42 +52,42 @@
 <!ENTITY certmgr.serial                       "Sériové číslo">
 
 <!ENTITY certmgr.close.label                  "Zavřít">
-<!ENTITY certmgr.close.accesskey              "Z">
+<!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Zobrazit…">
-<!ENTITY certmgr.view2.accesskey              "b">
+<!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Upravit důvěru…">
 <!ENTITY certmgr.edit3.accesskey              "a">
 <!ENTITY certmgr.export.label                 "Exportovat…">
-<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.export.accesskey             "k">
 <!ENTITY certmgr.delete2.label                "Smazat…">
-<!ENTITY certmgr.delete2.accesskey            "S">
+<!ENTITY certmgr.delete2.accesskey            "N">
 <!ENTITY certmgr.delete_builtin.label         "Smazat nebo nedůvěřovat…">
-<!ENTITY certmgr.delete_builtin.accesskey     "d">
+<!ENTITY certmgr.delete_builtin.accesskey     "N">
 <!ENTITY certmgr.backup2.label                "Zálohovat…">
-<!ENTITY certmgr.backup2.accesskey            "l">
+<!ENTITY certmgr.backup2.accesskey            "z">
 <!ENTITY certmgr.backupall2.label             "Zálohovat vše…">
-<!ENTITY certmgr.backupall2.accesskey         "o">
-<!ENTITY certmgr.restore2.label               "Importovat…">
+<!ENTITY certmgr.backupall2.accesskey         "l">
+<!ENTITY certmgr.restore2.label               "Import…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Položky certifikátu">
-<!ENTITY certmgr.details.accesskey            "c">
+<!ENTITY certmgr.details.accesskey            "r">
 <!ENTITY certmgr.fields.label                 "Hodnota">
-<!ENTITY certmgr.fields.accesskey             "n">
+<!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Hierarchie certifikátu">
-<!ENTITY certmgr.hierarchy.accesskey2         "H">
+<!ENTITY certmgr.hierarchy.accesskey2         "v">
 <!ENTITY certmgr.addException.label           "Přidat výjimku…">
-<!ENTITY certmgr.addException.accesskey       "P">
+<!ENTITY certmgr.addException.accesskey       "k">
 
 <!ENTITY exceptionMgr.title                   "Přidání bezpečnostní výjimky">
 <!ENTITY exceptionMgr.exceptionButton.label   "Schválit bezpečnostní výjimku">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "S">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitimní banky, obchody a ostatní veřejné servery vás o toto žádat nebudou.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresa:">
 <!ENTITY exceptionMgr.certlocation.download   "Získat certifikát">
-<!ENTITY exceptionMgr.certlocation.accesskey  "c">
+<!ENTITY exceptionMgr.certlocation.accesskey  "Z">
 <!ENTITY exceptionMgr.certstatus.caption      "Stav certifikátu">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Zobrazit…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "Z">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Uložit tuto výjimku trvale">
-<!ENTITY exceptionMgr.permanent.accesskey     "U">
+<!ENTITY exceptionMgr.permanent.accesskey     "a">
