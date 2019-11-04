@@ -53,9 +53,9 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "Oversæt aldrig dette websted">
-<!ENTITY translation.options.neverForSite.accesskey "a">
+<!ENTITY translation.options.neverForSite.accesskey "s">
 <!ENTITY translation.options.preferences.label  "Indstillinger for oversættelse">
-<!ENTITY translation.options.preferences.accesskey "I">
+<!ENTITY translation.options.preferences.accesskey "T">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
