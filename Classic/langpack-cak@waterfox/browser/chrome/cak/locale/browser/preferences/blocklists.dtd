@@ -6,9 +6,9 @@
 <!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "Cholajem">
-<!ENTITY windowClose.key              "w">
+<!ENTITY windowClose.key              "c">
 
 <!ENTITY button.cancel.label          "Tiq'at">
-<!ENTITY button.cancel.accesskey      "T">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Keyak taq jaloj">
 <!ENTITY button.ok.accesskey          "K">
