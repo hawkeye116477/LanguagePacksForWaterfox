@@ -10,10 +10,10 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Příští aktualizace">
 <!ENTITY aboutUrlClassifier.providerBackOffTime         "Čas návratu">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stav poslední aktualizace">
-<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizovat">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizace">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Mezipaměť">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Obnovit">
-<!ENTITY aboutUrlClassifier.cacheClearBtn               "Vymazat">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Clear">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Název tabulky">
 <!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Počet záporných položek v mezipaměti">
 <!ENTITY aboutUrlClassifier.cachePCacheEntries          "Počet kladných položek v mezipaměti">
