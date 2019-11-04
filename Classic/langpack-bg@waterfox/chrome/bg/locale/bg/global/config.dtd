@@ -12,8 +12,8 @@
 <!ENTITY aboutWarningCheckbox.label "Показване на предупреждението и следващия път">
 
 <!ENTITY searchPrefs.label "Търсене:">
-<!ENTITY searchPrefs.accesskey "с">
-<!ENTITY focusSearch.key "r">
+<!ENTITY searchPrefs.accesskey "С">
+<!ENTITY focusSearch.key "С">
 <!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
@@ -29,22 +29,22 @@
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Копиране">
-<!ENTITY copyPref.accesskey "К">
+<!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Копиране на името">
-<!ENTITY copyName.accesskey "и">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Копиране на стойността">
-<!ENTITY copyValue.accesskey "с">
+<!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Промяна">
 <!ENTITY modify.accesskey "м">
 <!ENTITY toggle.label "Превключване">
-<!ENTITY toggle.accesskey "П">
+<!ENTITY toggle.accesskey "И">
 <!ENTITY reset.label "Нулиране">
-<!ENTITY reset.accesskey "Н">
-<!ENTITY new.label "Нов">
-<!ENTITY new.accesskey "в">
-<!ENTITY string.label "Низ">
-<!ENTITY string.accesskey "Н">
-<!ENTITY integer.label "Целочислен">
-<!ENTITY integer.accesskey "е">
-<!ENTITY boolean.label "Булев">
-<!ENTITY boolean.accesskey "Б">
+<!ENTITY reset.accesskey "R">
+<!ENTITY new.label "New">
+<!ENTITY new.accesskey "ф">
+<!ENTITY string.label "String">
+<!ENTITY string.accesskey "в">
+<!ENTITY integer.label "Integer">
+<!ENTITY integer.accesskey "И">
+<!ENTITY boolean.label "Boolean">
+<!ENTITY boolean.accesskey "о">
