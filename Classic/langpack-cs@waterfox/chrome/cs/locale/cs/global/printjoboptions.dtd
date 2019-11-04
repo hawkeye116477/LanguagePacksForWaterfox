@@ -7,23 +7,23 @@
 <!ENTITY printJobOptions.title "Vlastnosti tisku">
 
 <!ENTITY paperInput.label "Velikost papíru:">
-<!ENTITY paperInput.accesskey "V">
+<!ENTITY paperInput.accesskey "a">
 
 <!ENTITY jobTitleInput.label "Název">
-<!ENTITY jobTitleInput.accesskey "z">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Barva:">
 <!ENTITY grayRadio.label "Odstín šedi">
-<!ENTITY grayRadio.accesskey "O">
+<!ENTITY grayRadio.accesskey "Z">
 <!ENTITY colorRadio.label "Barva">
-<!ENTITY colorRadio.accesskey "B">
+<!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY edgeMarginInput.label "Mezera mezi hranou papíru a okrajem (v palcích)">
 <!ENTITY topInput.label "Nahoře:">
-<!ENTITY topInput.accesskey "N">
+<!ENTITY topInput.accesskey "T">
 <!ENTITY bottomInput.label "Dole:">
-<!ENTITY bottomInput.accesskey "D">
+<!ENTITY bottomInput.accesskey "z">
 <!ENTITY leftInput.label "Vlevo:">
-<!ENTITY leftInput.accesskey "l">
+<!ENTITY leftInput.accesskey "P">
 <!ENTITY rightInput.label "Vpravo:">
-<!ENTITY rightInput.accesskey "p">
+<!ENTITY rightInput.accesskey "R">
