@@ -6,17 +6,17 @@
 
 <!ENTITY findDialog.title "Find på denne side">
 <!ENTITY findField.label "Find tekst:">
-<!ENTITY findField.accesskey "t">
+<!ENTITY findField.accesskey "I">
 <!ENTITY caseSensitiveCheckbox.label "Forskel på store og små bogstaver">
-<!ENTITY caseSensitiveCheckbox.accesskey "T">
+<!ENTITY caseSensitiveCheckbox.accesskey "u">
 <!ENTITY wrapCheckbox.label "Ombryd linjer">
-<!ENTITY wrapCheckbox.accesskey "m">
+<!ENTITY wrapCheckbox.accesskey "v">
 <!ENTITY findButton.label "Find næste">
 <!ENTITY findButton.accesskey "F">
 <!ENTITY cancelButton.label "Annuller">
 <!ENTITY closeButton.label "Luk">
 <!ENTITY up.label "Op">
-<!ENTITY up.accesskey "O">
+<!ENTITY up.accesskey "l">
 <!ENTITY down.label "Ned">
 <!ENTITY down.accesskey "N">
 <!ENTITY direction.label "Retning">
