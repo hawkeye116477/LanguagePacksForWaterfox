@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "Troc'hañ">
-<!ENTITY cutCmd.accesskey "T">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Eilañ">
-<!ENTITY copyCmd.accesskey "i">
+<!ENTITY copyCmd.accesskey "e">
 <!ENTITY pasteCmd.label "Pegañ">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "Dizober">
-<!ENTITY undoCmd.accesskey "D">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY undoCmd.label "Dizober ">
+<!ENTITY undoCmd.accesskey "A">
 <!ENTITY selectAllCmd.label "Diuz pep tra">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "K">
 <!ENTITY deleteCmd.label "Dilemel">
-<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY deleteCmd.accesskey "r">
 
 <!ENTITY spellAddToDictionary.label "Ouzhpennañ d'ar geriadur">
-<!ENTITY spellAddToDictionary.accesskey "r">
+<!ENTITY spellAddToDictionary.accesskey "G">
 <!ENTITY spellUndoAddToDictionary.label "Nullañ an ouzhpennañ d'ar geriadur">
-<!ENTITY spellUndoAddToDictionary.accesskey "N">
+<!ENTITY spellUndoAddToDictionary.accesskey "l">
 <!ENTITY spellCheckToggle.label "Gwiriañ ar reizhskrivadur">
-<!ENTITY spellCheckToggle.accesskey "s">
+<!ENTITY spellCheckToggle.accesskey "K">
 <!ENTITY spellNoSuggestions.label "(Kinnig reizhskrivañ ebet)">
 <!ENTITY spellDictionaries.label "Yezhoù">
-<!ENTITY spellDictionaries.accesskey "Y">
+<!ENTITY spellDictionaries.accesskey "l">
 
 <!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "Leuniañ an titouroù kennaskañ">
-<!ENTITY fillLoginMenu.accesskey      "L">
+<!ENTITY fillLoginMenu.accesskey      "s">
 <!ENTITY fillPasswordMenu.label       "Leuniañ ar ger-tremen">
-<!ENTITY fillPasswordMenu.accesskey   "L">
+<!ENTITY fillPasswordMenu.accesskey   "s">
 <!ENTITY fillUsernameMenu.label       "Leuniañ an anv arveriad">
-<!ENTITY fillUsernameMenu.accesskey   "L">
+<!ENTITY fillUsernameMenu.accesskey   "s">
 <!ENTITY noLoginSuggestions.label     "(Kinnigoù kennask ebet)">
 <!ENTITY viewSavedLogins.label        "Gwelet an titouroù kennaskañ enrollet">
