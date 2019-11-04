@@ -22,12 +22,12 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "Quan zarre &brandShortName;, s'habría de borrar automaticament:">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Rango temporal a limpiar: ">
-<!ENTITY clearTimeDuration.accesskey      "t">
+<!ENTITY clearTimeDuration.accesskey      "f">
 <!ENTITY clearTimeDuration.lastHour       "A zaguera hora">
 <!ENTITY clearTimeDuration.last2Hours     "As zagueras dos horas">
 <!ENTITY clearTimeDuration.last4Hours     "As zagueras quatro horas">
@@ -36,10 +36,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Detalles">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
@@ -47,21 +47,21 @@ that require it.  -->
 <!ENTITY dataSection.label            "Datos">
 
 <!ENTITY itemHistoryAndDownloads.label     "Historial de navegación y descargas">
-<!ENTITY itemHistoryAndDownloads.accesskey "g">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "Formularios y historial de buscas">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemFormSearchHistory.accesskey   "p">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Caché">
-<!ENTITY itemCache.accesskey               "a">
+<!ENTITY itemCache.accesskey               "d">
 <!ENTITY itemOfflineApps.label             "Datos de puestos web sin connexión">
-<!ENTITY itemOfflineApps.accesskey         "t">
+<!ENTITY itemOfflineApps.accesskey         "U">
 <!ENTITY itemActiveLogins.label            "Sesions activas">
-<!ENTITY itemActiveLogins.accesskey        "S">
+<!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Preferencias d'o puesto">
-<!ENTITY itemSitePreferences.accesskey     "r">
+<!ENTITY itemSitePreferences.accesskey     "v">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
-<!ENTITY sanitizeEverythingUndoWarning     "Ista acción no puede desfer-se.">
+<!ENTITY sanitizeEverythingUndoWarning     "Ista acción no se puet desfer.">
