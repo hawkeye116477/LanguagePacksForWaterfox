@@ -7,10 +7,10 @@
 <!ENTITY chooseYourDefaultSearchEngine2.label   "اختر محرك البحث المبدئي في شريطي العنواوين و البحث.">
 
 <!ENTITY provideSearchSuggestions.label        "اعرض اقتراحات البحث">
-<!ENTITY provideSearchSuggestions.accesskey    "ع">
+<!ENTITY provideSearchSuggestions.accesskey    "ش">
 
 <!ENTITY showURLBarSuggestions2.label           "أظهر اقتراحات البحث في نتائج شريط العناوين">
-<!ENTITY showURLBarSuggestions2.accesskey       "ت">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت &brandShortName; على ألّا يتذكر التأريخ.">
 
 <!ENTITY oneClickSearchEngines.label           "محركات البحث بنقرة واحدة">
@@ -21,9 +21,9 @@
 <!ENTITY engineKeywordColumn.label             "كلمة مفتاحية">
 
 <!ENTITY restoreDefaultSearchEngines.label     "استعد محركات البحث المبدئية">
-<!ENTITY restoreDefaultSearchEngines.accesskey "د">
+<!ENTITY restoreDefaultSearchEngines.accesskey "ن">
 
-<!ENTITY removeEngine.label                    "احذف">
-<!ENTITY removeEngine.accesskey                "ح">
+<!ENTITY removeEngine.label                    "أزِل">
+<!ENTITY removeEngine.accesskey                "ش">
 
 <!ENTITY findMoreSearchEngines.label           "اعثر على المزيد من محركات البحث">
