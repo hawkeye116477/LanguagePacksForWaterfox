@@ -6,17 +6,17 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "Digeriñ un ivinell nevez e-lec'h ur prenestr nevez">
-<!ENTITY newWindowsAsTabs.accesskey   "D">
+<!ENTITY newWindowsAsTabs.accesskey   "d">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Kas keloù din pa vez serret meur a ivinell war un taol">
-<!ENTITY warnOnCloseMultipleTabs.accesskey  "K">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Kas keloù din ma vez gorrekaet &brandShortName; gant digoradur meur a ivinell">
-<!ENTITY warnOnOpenManyTabs.accesskey   "m">
+<!ENTITY warnOnOpenManyTabs.accesskey   "r">
 
 <!ENTITY switchLinksToNewTabs.label        "Pa zigoran un ere a zo e-barzh un ivinell nevez, diskouez anezhi diouzhtu">
-<!ENTITY switchLinksToNewTabs.accesskey    "P">
+<!ENTITY switchLinksToNewTabs.accesskey    "a">
 
 <!ENTITY showTabsInTaskbar.label          "Diskouez alberzioù an ivinelloù e-barzh barrenn an trevelloù">
-<!ENTITY showTabsInTaskbar.accesskey      "i">
+<!ENTITY showTabsInTaskbar.accesskey      "z">
 <!ENTITY tabsGroup.label          "Ivinelloù">
