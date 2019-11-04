@@ -43,7 +43,7 @@
 <!ENTITY certmgr.deletecert.title             "প্ৰমাণপত্ৰ আঁতৰাওক">
 
 <!ENTITY certmgr.certname                     "প্ৰমাণপত্ৰৰ নাম">
-<!ENTITY certmgr.certserver                   "চাৰ্ভাৰ">
+<!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "জীৱনকাল">
 <!ENTITY certmgr.tokenname                    "সুৰক্ষাৰ ডিভাইচ">
 <!ENTITY certmgr.begins                       "আৰম্ভ হয়">
@@ -63,18 +63,18 @@
 <!ENTITY certmgr.delete2.accesskey            "D">
 <!ENTITY certmgr.delete_builtin.label         "মচক অথবা অবিশ্বাস কৰক…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
-<!ENTITY certmgr.backup2.label                "বেকআপ লওক…">
+<!ENTITY certmgr.backup2.label                "বেকআপ কৰক…">
 <!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "সকলো বেকআপ লওক…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "ইমপোৰ্ট কৰক…">
+<!ENTITY certmgr.restore2.label               "Import…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "প্ৰমাণপত্ৰৰ ক্ষেত্ৰবোৰ">
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "ক্ষেত্ৰৰ মান">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "ব্যতিক্ৰম যোগ কৰক…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
@@ -82,8 +82,8 @@
 <!ENTITY exceptionMgr.exceptionButton.label   "সুৰক্ষা ব্যতিক্ৰম সুনিশ্চিত কৰক">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "ন্যায্য বেঙ্ক, ভঁৰাল, আৰু অন্য ৰাজহুৱা ছাইটবোৰে আপোনাক এয়া কৰিবলে নোসোধে।">
-<!ENTITY exceptionMgr.certlocation.caption2   "চাৰ্ভাৰ">
-<!ENTITY exceptionMgr.certlocation.url        "অৱস্থান:">
+<!ENTITY exceptionMgr.certlocation.caption2   "Server">
+<!ENTITY exceptionMgr.certlocation.url        "স্থান:">
 <!ENTITY exceptionMgr.certlocation.download   "প্ৰমাণপত্ৰ লওক">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "প্ৰমাণপত্ৰৰ অৱস্থা">
@@ -91,6 +91,3 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "চিৰস্থায়ীভাৱে এই ব্যতিক্ৰম সঞ্চয় কৰক">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
-
-<!ENTITY certmgr.hierarchy.accesskey2         "H">
-<!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
