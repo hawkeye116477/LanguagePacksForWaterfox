@@ -23,14 +23,14 @@
 <!ENTITY aboutNetworking.sent                  "Anfonwyd">
 <!ENTITY aboutNetworking.received              "Derbyniwyd">
 <!ENTITY aboutNetworking.family                "Teulu">
-<!ENTITY aboutNetworking.addresses             "Cyfeiriad">
+<!ENTITY aboutNetworking.addresses             "Cyfeiriadau">
 <!ENTITY aboutNetworking.expires               "Daw i ben (Eiliadau)">
 <!ENTITY aboutNetworking.messagesSent          "Negeseuon Anfonwyd">
 <!ENTITY aboutNetworking.messagesReceived      "Negeseuon Derbyniwyd">
 <!ENTITY aboutNetworking.bytesSent             "Didau Wedi'u Hanfon">
 <!ENTITY aboutNetworking.bytesReceived         "Didau Wedi'u Derbyn">
-<!ENTITY aboutNetworking.logging               "Cofnodi">
-<!ENTITY aboutNetworking.logTutorial           "Gw <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> am wybodaeth ar sut i ddefnyddio'r teclyn hwn.">
+<!ENTITY aboutNetworking.logging               "Logging">
+<!ENTITY aboutNetworking.logTutorial           "Gw {[=-a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'-=]}HTTP Logging</a> am wybodaeth ar sut i ddefnyddio'r teclyn hwn.">
 <!ENTITY aboutNetworking.currentLogFile        "Ffeil Cofnodi Cyfredol:">
 <!ENTITY aboutNetworking.currentLogModules     "Modiwlau Cofnodi Cyfredol:">
 <!ENTITY aboutNetworking.setLogFile            "Gosod Ffeil Cofnodi">
@@ -47,7 +47,7 @@
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Cyfrif rhwyd wedi ei ennill">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Cyfanswm cyfrif ceisiadau rhwydwaith">
 <!ENTITY aboutNetworking.rcwnOperation         "Gweithred Storfa">
-<!ENTITY aboutNetworking.rcwnPerfOpen          "Ar Agor">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Agor">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Darllen">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Ysgrifennu">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Cofnod Ar Agor">
