@@ -1,32 +1,32 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "Səhifə nizamı">
 
 <!ENTITY basic.tab           "Forma və Seçimlər">
 
-<!ENTITY formatGroup.label   "Forma">
+<!ENTITY formatGroup.label   "Format">
 
 <!ENTITY orientation.label   "Ünvan:">
 <!ENTITY portrait.label      "Şaquli">
-<!ENTITY portrait.accesskey  "Ş">
+<!ENTITY portrait.accesskey  "M">
 <!ENTITY landscape.label     "Üfiqi">
-<!ENTITY landscape.accesskey "Ü">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "Ölçü:">
-<!ENTITY scale.accesskey     "Ö">
-<!ENTITY scalePercent        "&#037;">
+<!ENTITY scale.accesskey     "g">
+<!ENTITY scalePercent        "%">
 
 <!ENTITY shrinkToFit.label   "Səhifə ölçüsünə sığdır">
-<!ENTITY shrinkToFit.accesskey "d">
+<!ENTITY shrinkToFit.accesskey "p">
 
-<!ENTITY optionsGroup.label  "Nizamlar">
+<!ENTITY optionsGroup.label  "Seçimlər">
 
 <!ENTITY printBG.label       "Arxa fonu çap et (rənglər və rəsimlər)">
-<!ENTITY printBG.accesskey   "x">
+<!ENTITY printBG.accesskey   "Ə">
 
 <!ENTITY advanced.tab        "Haşiyələr və Başlıq/Sonluq">
 
@@ -34,13 +34,13 @@
 <!ENTITY marginUnits.inches  "inç">
 <!ENTITY marginUnits.metric  "milimetre">
 <!ENTITY marginTop.label     "Yuxarıdan:">
-<!ENTITY marginTop.accesskey "u">
+<!ENTITY marginTop.accesskey "P">
 <!ENTITY marginBottom.label  "Şaquli">
-<!ENTITY marginBottom.accesskey "a">
+<!ENTITY marginBottom.accesskey "Ə">
 <!ENTITY marginLeft.label    "Sol:">
-<!ENTITY marginLeft.accesskey "l">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "Sağ">
-<!ENTITY marginRight.accesskey "S">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Başlıqlar və Sonluqlar">
 
