@@ -9,5 +9,5 @@
 <!ENTITY later           "Itwero loko tami cawa mo keken jwijwi kun icito i lalo med-ikome.">
 <!ENTITY continue        "Mede">
 <!ENTITY restartMessage  "Myero i cak nitit &brandShortName; i tyeko keto lamed ikom ma eni ni.">
-<!ENTITY restartButton   "Cak nitit &brandShortName;">
+<!ENTITY restartButton   "Cak &brandShortName; odoco">
 <!ENTITY cancelButton    "Juki">
