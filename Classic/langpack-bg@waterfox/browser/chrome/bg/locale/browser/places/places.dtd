@@ -7,74 +7,74 @@
 <!ENTITY places.library.width  "800">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Подреждане">
-<!ENTITY organize.accesskey    "р">
+<!ENTITY organize.accesskey    "о">
 <!ENTITY organize.tooltip      "Подреждане на отметки">
 
 <!ENTITY file.close.label               "Затваряне">
-<!ENTITY file.close.accesskey           "З">
-<!ENTITY cmd.close.key                  "w">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "ф">
 <!ENTITY views.label                    "Изгледи">
-<!ENTITY views.accesskey                "И">
+<!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Промяна на изгледа">
 <!ENTITY view.columns.label             "Показване на колони">
-<!ENTITY view.columns.accesskey         "к">
+<!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "Сортиране по">
-<!ENTITY view.sort.accesskey            "С">
+<!ENTITY view.sort.accesskey            "в">
 <!ENTITY view.unsorted.label            "Без">
-<!ENTITY view.unsorted.accesskey        "Б">
-<!ENTITY view.sortAscending.label       "А > Я">
-<!ENTITY view.sortAscending.accesskey   "А">
-<!ENTITY view.sortDescending.label      "Я > А">
-<!ENTITY view.sortDescending.accesskey  "Я">
+<!ENTITY view.unsorted.accesskey        "О">
+<!ENTITY view.sortAscending.label       "А &gt; Я">
+<!ENTITY view.sortAscending.accesskey   "О">
+<!ENTITY view.sortDescending.label      "Я &gt; А">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "Внасяне на отметки от HTML…">
-<!ENTITY importBookmarksFromHTML.accesskey "В">
+<!ENTITY importBookmarksFromHTML.accesskey "И">
 <!ENTITY exportBookmarksToHTML.label       "Изнасяне на отметки в HTML…">
-<!ENTITY exportBookmarksToHTML.accesskey   "И">
+<!ENTITY exportBookmarksToHTML.accesskey   "Р">
 <!ENTITY importOtherBrowser.label          "Внасяне на данни от друг браузър…">
-<!ENTITY importOtherBrowser.accesskey      "б">
+<!ENTITY importOtherBrowser.accesskey      "О">
 
 <!ENTITY cmd.backup.label               "Резервно копие…">
-<!ENTITY cmd.backup.accesskey           "Р">
+<!ENTITY cmd.backup.accesskey           "о">
 <!ENTITY cmd.restore2.label             "Възстановяване">
-<!ENTITY cmd.restore2.accesskey         "В">
+<!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Избиране на файл…">
-<!ENTITY cmd.restoreFromFile.accesskey  "И">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY cmd.deleteDomainData.label     "Забравяне за този сайт">
-<!ENTITY cmd.deleteDomainData.accesskey "З">
+<!ENTITY cmd.deleteDomainData.accesskey "ц">
 
 <!ENTITY cmd.open.label                  "Отваряне">
-<!ENTITY cmd.open.accesskey              "О">
+<!ENTITY cmd.open.accesskey              "о">
 <!ENTITY cmd.open_window.label           "Отваряне в прозорец">
-<!ENTITY cmd.open_window.accesskey       "п">
+<!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_private_window.label     "Отваряне в поверителен прозорец">
-<!ENTITY cmd.open_private_window.accesskey "п">
+<!ENTITY cmd.open_private_window.accesskey "О">
 <!ENTITY cmd.open_tab.label              "Отваряне в раздел">
-<!ENTITY cmd.open_tab.accesskey          "д">
+<!ENTITY cmd.open_tab.accesskey          "ф">
 <!ENTITY cmd.open_all_in_tabs.label      "Отваряне на всички в раздели">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "в">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "о">
 
 <!ENTITY cmd.properties.label      "Свойства">
-<!ENTITY cmd.properties.accesskey  "С">
+<!ENTITY cmd.properties.accesskey  "д">
 
 <!ENTITY cmd.sortby_name.label              "Сортиране по име">
-<!ENTITY cmd.sortby_name.accesskey          "С">
-<!ENTITY cmd.context_sortby_name.accesskey  "с">
+<!ENTITY cmd.sortby_name.accesskey          "в">
+<!ENTITY cmd.context_sortby_name.accesskey  "С">
 
 <!ENTITY cmd.new_bookmark.label            "Нова отметка…">
 <!ENTITY cmd.new_bookmark.accesskey        "о">
 <!ENTITY cmd.new_folder.label              "Нова папка…">
-<!ENTITY cmd.new_folder.accesskey          "п">
-<!ENTITY cmd.context_new_folder.accesskey  "п">
+<!ENTITY cmd.new_folder.accesskey          "б">
+<!ENTITY cmd.context_new_folder.accesskey  "ц">
 <!ENTITY cmd.new_separator.label           "Нов разделител">
-<!ENTITY cmd.new_separator.accesskey       "р">
+<!ENTITY cmd.new_separator.accesskey       "в">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Презареждане на жива отметка">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "ж">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Преместване…">
-<!ENTITY cmd.moveBookmarks.accesskey              "П">
+<!ENTITY cmd.moveBookmarks.accesskey              "м">
 
 <!ENTITY col.name.label          "Име">
 <!ENTITY col.tags.label          "Етикети">
@@ -90,7 +90,7 @@
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Внасяне и резервно копие">
-<!ENTITY maintenance.accesskey  "В">
+<!ENTITY maintenance.accesskey  "И">
 <!ENTITY maintenance.tooltip    "Внасяне и възстановяване на отметки">
 
 <!ENTITY backButton.tooltip  "Връщане назад">
@@ -98,22 +98,22 @@
 <!ENTITY forwardButton.tooltip  "Отиване напред">
 
 <!ENTITY detailsPane.more.label "Повече">
-<!ENTITY detailsPane.more.accesskey "в">
+<!ENTITY detailsPane.more.accesskey "Д">
 <!ENTITY detailsPane.less.label "По-малко">
-<!ENTITY detailsPane.less.accesskey "м">
+<!ENTITY detailsPane.less.accesskey "Д">
 <!ENTITY detailsPane.selectAnItemText.description "Изберете елемент, който да разгледате и редактирате">
 
 <!ENTITY view.label               "Изглед">
-<!ENTITY view.accesskey           "И">
+<!ENTITY view.accesskey           "ф">
 <!ENTITY byDate.label             "По дата">
-<!ENTITY byDate.accesskey         "д">
+<!ENTITY byDate.accesskey         "Б">
 <!ENTITY bySite.label             "По сайт">
-<!ENTITY bySite.accesskey         "с">
+<!ENTITY bySite.accesskey         "в">
 <!ENTITY byMostVisited.label      "По брой посещения">
-<!ENTITY byMostVisited.accesskey  "б">
+<!ENTITY byMostVisited.accesskey  "V">
 <!ENTITY byLastVisited.label      "По ред на посещение">
-<!ENTITY byLastVisited.accesskey  "р">
+<!ENTITY byLastVisited.accesskey  "Н">
 <!ENTITY byDayAndSite.label       "По дата и сайт">
-<!ENTITY byDayAndSite.accesskey   "а">
+<!ENTITY byDayAndSite.accesskey   "t">
 <!ENTITY col.parentfolder.label  "Parent Folder">
 <!ENTITY col.parentpath.label  "Parent Path">
