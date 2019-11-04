@@ -10,21 +10,21 @@
 <!ENTITY importFromBookmarks.label      "Mewnforio Nodau Tudalen o:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromIE.accesskey         "B">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
-<!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdge.accesskey       "G">
 <!ENTITY importFromNothing.label        "Peidio mewnforio dim">
-<!ENTITY importFromNothing.accesskey    "d">
+<!ENTITY importFromNothing.accesskey    "P">
 <!ENTITY importFromSafari.label         "Safari">
-<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromSafari.accesskey     "A">
 <!ENTITY importFromCanary.label         "Chrome Canary">
-<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromCanary.accesskey     "w">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "Chromium">
-<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromChromium.accesskey   "o">
 <!ENTITY importFromWaterfox.label        "Waterfox">
-<!ENTITY importFromWaterfox.accesskey    "x">
+<!ENTITY importFromWaterfox.accesskey    "X">
 <!ENTITY importFrom360se.label          "360 Porwr Diogel">
 <!ENTITY importFrom360se.accesskey      "3">
 
