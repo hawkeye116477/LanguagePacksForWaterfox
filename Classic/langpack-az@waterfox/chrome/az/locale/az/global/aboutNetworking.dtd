@@ -29,8 +29,8 @@
 <!ENTITY aboutNetworking.messagesReceived      "Alınan mesajlar">
 <!ENTITY aboutNetworking.bytesSent             "Bayt gondərildi">
 <!ENTITY aboutNetworking.bytesReceived         "Bayt qəbul edildi">
-<!ENTITY aboutNetworking.logging               "Qeydiyyat">
-<!ENTITY aboutNetworking.logTutorial           "Bu aləti necə istifadə edəcəyinizi öyrənmək üçün <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Qeyd Aparma</a> səhifəsinə baxın.">
+<!ENTITY aboutNetworking.logging               "Logging">
+<!ENTITY aboutNetworking.logTutorial           "Bu aləti necə istifadə edəcəyinizi öyrənmək üçün {[=-a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'-=]}HTTP Qeyd Aparma</a> səhifəsinə baxın.">
 <!ENTITY aboutNetworking.currentLogFile        "Hazırki Qeydiyyat Faylı:">
 <!ENTITY aboutNetworking.currentLogModules     "Hazırki Qeydiyyat Modulları:">
 <!ENTITY aboutNetworking.setLogFile            "Qeydiyyat Faylını Qur">
@@ -46,14 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Keşin qazanma sayısı">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Şəbəkənin qazanma sayısı">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Toplam şəbəkə istək sayısı">
+<!ENTITY aboutNetworking.rcwnOperation         "Cache Operation">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Aç">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Oxu">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Yaz">
-
-<!ENTITY aboutNetworking.rcwnAvgLong           "Long Average">
-<!ENTITY aboutNetworking.rcwnAvgShort          "Short Average">
-<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cache not slow count">
-<!ENTITY aboutNetworking.rcwnCacheSlow         "Cache slow count">
-<!ENTITY aboutNetworking.rcwnOperation         "Cache Operation">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entry Open">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Short Average">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Long Average">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Long Standard Deviation">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Cache slow count">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cache not slow count">
