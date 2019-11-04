@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (translation.thisPageIsIn.label,
   -                     translation.translateThisPage.label):
   -  These 2 strings are used to construct a sentence that contains a dropdown
@@ -11,13 +12,13 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-
 <!ENTITY translation.thisPageIsIn.label         "Aquesta pàgina està en">
 <!ENTITY translation.translateThisPage.label    "Voleu traduir aquesta pàgina?">
 <!ENTITY translation.translate.button           "Tradueix">
 <!ENTITY translation.notNow.button              "Ara no">
 
 <!ENTITY translation.translatingContent.label   "S'està traduint el contingut de la pàgina…">
+
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -33,7 +34,6 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-
 <!ENTITY translation.translatedFrom.label       "Aquesta pàgina s'ha traduït de">
 <!ENTITY translation.translatedTo.label         "a">
 <!ENTITY translation.translatedToSuffix.label   "">
@@ -55,15 +55,16 @@
 <!ENTITY translation.options.neverForSite.label "No tradueixis mai aquest lloc">
 <!ENTITY translation.options.neverForSite.accesskey "e">
 <!ENTITY translation.options.preferences.label  "Preferències de traducció">
-<!ENTITY translation.options.preferences.accesskey "t">
+<!ENTITY translation.options.preferences.accesskey "r">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Traducció feta per">
 <!ENTITY translation.options.attribution.afterLogo "">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -71,5 +72,4 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
-
 <!ENTITY translation.options.attribution.yandexTranslate "Funciona amb Yandex.Translate">
