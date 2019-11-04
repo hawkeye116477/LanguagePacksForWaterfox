@@ -6,17 +6,17 @@
 
 <!ENTITY findDialog.title "Търсене в страницата">
 <!ENTITY findField.label "Търсене на:">
-<!ENTITY findField.accesskey "Т">
+<!ENTITY findField.accesskey "Н">
 <!ENTITY caseSensitiveCheckbox.label "Чувствителност към регистъра">
-<!ENTITY caseSensitiveCheckbox.accesskey "р">
+<!ENTITY caseSensitiveCheckbox.accesskey "З">
 <!ENTITY wrapCheckbox.label "Пренасяне">
-<!ENTITY wrapCheckbox.accesskey "П">
+<!ENTITY wrapCheckbox.accesskey "н">
 <!ENTITY findButton.label "Търсене следващ">
-<!ENTITY findButton.accesskey "с">
-<!ENTITY cancelButton.label "Отказ">
+<!ENTITY findButton.accesskey "ц">
+<!ENTITY cancelButton.label "Прекъсване">
 <!ENTITY closeButton.label "Затваряне">
 <!ENTITY up.label "Нагоре">
-<!ENTITY up.accesskey "г">
+<!ENTITY up.accesskey "О">
 <!ENTITY down.label "Надолу">
-<!ENTITY down.accesskey "д">
+<!ENTITY down.accesskey "Б">
 <!ENTITY direction.label "Посока">
