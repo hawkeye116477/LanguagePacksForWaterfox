@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "Tip sadržaja">
-<!ENTITY  typeColumn.accesskey    "T">
+<!ENTITY  typeColumn.accesskey    "I">
 
 <!ENTITY  actionColumn2.label     "Akcija">
-<!ENTITY  actionColumn2.accesskey "A">
+<!ENTITY  actionColumn2.accesskey "O">
 
 <!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch2.key        "R">
 
-<!ENTITY  filter.emptytext        "Traži">
+<!ENTITY  filter.emptytext        "Search">
