@@ -5,49 +5,49 @@
 <!ENTITY startup.label             "Inicio">
 
 <!ENTITY startupPage.label         "Quan s'enchegue o &brandShortName;:">
-<!ENTITY startupPage.accesskey     "e">
+<!ENTITY startupPage.accesskey     "t">
 <!ENTITY startupUserHomePage.label "Amostrar la mía pachina d'inicio">
 <!ENTITY startupBlankPage.label    "Amostrar una pachina en blanco">
 <!ENTITY startupPrevSession.label  "Amostrar las finestras y pestanyas d'a zaguer vegada">
 
 <!ENTITY homepage.label            "Pachina d'inicio:">
-<!ENTITY homepage.accesskey        "P">
+<!ENTITY homepage.accesskey        "p">
 <!ENTITY useCurrentPage.label      "Usar pachina actual">
-<!ENTITY useCurrentPage.accesskey  "c">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Usar pachinas actuals">
 <!ENTITY chooseBookmark.label      "Usar o marcapachinas…">
-<!ENTITY chooseBookmark.accesskey  "m">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Restaurar ta la valura por defecto">
-<!ENTITY restoreDefault.accesskey  "v">
+<!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Descargas">
 
 <!ENTITY saveTo.label "Alzar os fichers en">
-<!ENTITY saveTo.accesskey "A">
+<!ENTITY saveTo.accesskey "r">
 <!ENTITY chooseFolderWin.label        "Examinar…">
-<!ENTITY chooseFolderWin.accesskey    "x">
+<!ENTITY chooseFolderWin.accesskey    "s">
 <!ENTITY chooseFolderMac.label        "Trigar…">
-<!ENTITY chooseFolderMac.accesskey    "T">
+<!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAskWhere.label         "Preguntar-me siempre a ón alzar os fichers">
-<!ENTITY alwaysAskWhere.accesskey     "r">
+<!ENTITY alwaysAskWhere.accesskey     "d">
 
 <!ENTITY alwaysCheckDefault2.label        "Comprebar siempre si lo &brandShortName; ye o suyo navegador por defecto">
-<!ENTITY alwaysCheckDefault2.accesskey    "o">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Fer o navegador por defecto">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "N">
 <!ENTITY isDefault.label                  "&brandShortName; ye agora o suyo navegador por defecto">
 <!ENTITY isNotDefault.label               "&brandShortName; no ye o suyo navegador por defecto">
 
 <!ENTITY separateProfileMode.label        "Permitir que &brandShortName; y Waterfox corran de vez">
 <!ENTITY useWaterfoxSync.label             "Consello: Isto fa servir perfils deseparaus. Faiga servir Sync pa compartir datos entre ells.">
 <!ENTITY getStarted.notloggedin.label     "Iniciar la sesión en &syncBrand.shortName.label;…">
-<!ENTITY getStarted.configured.label      "Ubrir las preferencias de &syncBrand.shortName.label;">
+<!ENTITY getStarted.configured.label      "Ubre as preferencias d'o &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Activar &brandShortName;  multiproceso">
 
 <!ENTITY localeSelect.label               "Locale Select">
 
-<!ENTITY newtabsoptions.label "New Tab">
+<!ENTITY newtabsoptions.label "Nueva pestanya">
 <!ENTITY newtabenabled.label "Enable new tab page">
 <!ENTITY newtabsearch.label "Enable search bar on New Tab (reload page)">
 <!ENTITY newtabthumbnail.label "Disable thumbnail capturing on new tab page">
