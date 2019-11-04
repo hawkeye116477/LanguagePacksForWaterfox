@@ -7,10 +7,10 @@
 <!ENTITY chooseYourDefaultSearchEngine.label   "Vyberte si výchozí vyhledávací modul. &brandShortName; ho použije v adresním řádku, poli hledání a na úvodní stránce.">
 
 <!ENTITY provideSearchSuggestions.label        "Povolit našeptávání">
-<!ENTITY provideSearchSuggestions.accesskey    "n">
+<!ENTITY provideSearchSuggestions.accesskey    "S">
 
 <!ENTITY showURLBarSuggestions.label           "Zobrazovat návrhy v našeptávání adresního řádku">
-<!ENTITY showURLBarSuggestions.accesskey       "e">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Návrhy hledání nebudou v našeptávání adresního řádku uvedeny, protože jste nastavili aplikaci &brandShortName;, aby si nikdy nepamatovala historii.">
 
 <!ENTITY oneClickSearchEngines.label           "Vyhledávání jedním klepnutím">
@@ -21,9 +21,9 @@
 <!ENTITY engineKeywordColumn.label             "Klíčové slovo">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Obnovit výchozí vyhledávací moduly">
-<!ENTITY restoreDefaultSearchEngines.accesskey "O">
+<!ENTITY restoreDefaultSearchEngines.accesskey "v">
 
 <!ENTITY removeEngine.label                    "Odebrat">
-<!ENTITY removeEngine.accesskey                "d">
+<!ENTITY removeEngine.accesskey                "S">
 
 <!ENTITY addMoreSearchEngines.label            "Přidat více vyhledávacích modulů…">
