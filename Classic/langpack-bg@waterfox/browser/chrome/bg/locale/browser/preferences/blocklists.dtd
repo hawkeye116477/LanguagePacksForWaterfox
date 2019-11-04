@@ -6,9 +6,9 @@
 <!ENTITY window.width                 "50em">
 
 <!ENTITY treehead.list.label          "Списък">
-<!ENTITY windowClose.key              "w">
+<!ENTITY windowClose.key              "ф">
 
-<!ENTITY button.cancel.label          "Отказ">
-<!ENTITY button.cancel.accesskey      "з">
+<!ENTITY button.cancel.label          "Прекъсване">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Запазване">
-<!ENTITY button.ok.accesskey          "З">
+<!ENTITY button.ok.accesskey          "в">
