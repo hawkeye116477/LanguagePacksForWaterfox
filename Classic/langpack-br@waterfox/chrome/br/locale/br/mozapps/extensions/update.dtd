@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "Emañ &brandShortName; o labourat ezlinenn">
 <!ENTITY  offline.description             "Ret eo da &brandShortName; mont ezlinenn evit kavout m'eo hegerz hizivadurioù evit hoc'h askouezhioù hag evit lakaat anezho keverlec'h gant an handelv-mañ.">
 <!ENTITY  offline.toggleOffline.label     "Mont enlinenn diouzhtu.">
-<!ENTITY  offline.toggleOffline.accesskey "e">
+<!ENTITY  offline.toggleOffline.accesskey "L">
 
 <!ENTITY  mismatch.win.title              " Askouezhioù digeverlec'h">
 <!ENTITY  mismatch.top.label              "An askouezhioù da-heul n'int ket keverlec'h gant an handelv-mañ eus &brandShortName; ha diweredekaet int bet:">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Kudennoù en ur staliañ hizivadurioù">
 <!ENTITY  installerrors.intro.label       "Kudennoù degouezhet gant &brandShortName; en un hizivaat lod eus hoc'h askouezhioù.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Klikit war Echuiñ evit kenderc'hel gant loc'hañ &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Klikañ war Graet evit kenderc'hel gant loc'hañ &brandShortName;.">
 <!ENTITY  enableChecking.label            "Aotren &brandShortName; da wiriañ an hizivadurioù.">
