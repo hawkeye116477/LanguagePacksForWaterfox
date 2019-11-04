@@ -3,26 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addButton.label      "Dodaj novi Container">
-<!ENTITY addButton.accesskey  "a">
+<!ENTITY addButton.accesskey  "O">
 <!ENTITY preferencesButton.label "Postavke">
 <!ENTITY removeButton.label   "Ukloni">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "« Go Back">
 
 <!ENTITY window.title         "Dodaj novi Container">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Ime:">
-<!ENTITY name.accesskey       "I">
+<!ENTITY name.label           "Naziv:">
+<!ENTITY name.accesskey       "N">
 <!ENTITY name.placeholder     "Unesite naziv containera">
 <!ENTITY icon.label           "Ikona:">
-<!ENTITY icon.accesskey       "I">
+<!ENTITY icon.accesskey       "i">
 <!ENTITY color.label          "Boja:">
 <!ENTITY color.accesskey      "o">
-<!ENTITY windowClose.key      "w">
+<!ENTITY windowClose.key      "P">
 
-<!ENTITY button.ok.label      "Gotovo">
-<!ENTITY button.ok.accesskey  "G">
-
-
-<!ENTITY backLink2.label      "&#171; Go Back">
+<!ENTITY button.ok.label      "Done">
+<!ENTITY button.ok.accesskey  "N">
 
