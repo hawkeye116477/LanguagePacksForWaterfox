@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "Vyjmout">
-<!ENTITY cutCmd.accesskey "y">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopírovat">
-<!ENTITY copyCmd.accesskey "K">
+<!ENTITY copyCmd.accesskey "Z">
 <!ENTITY pasteCmd.label "Vložit">
-<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Zpět">
-<!ENTITY undoCmd.accesskey "Z">
+<!ENTITY undoCmd.accesskey "V">
 <!ENTITY selectAllCmd.label "Vybrat vše">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.accesskey "m">
+<!ENTITY deleteCmd.accesskey "v">
 
 <!ENTITY spellAddToDictionary.label "Přidat do slovníku">
 <!ENTITY spellAddToDictionary.accesskey "P">
 <!ENTITY spellUndoAddToDictionary.label "Vrátit přidání do slovníku">
-<!ENTITY spellUndoAddToDictionary.accesskey "p">
+<!ENTITY spellUndoAddToDictionary.accesskey "v">
 <!ENTITY spellCheckToggle.label "Kontrolovat pravopis">
-<!ENTITY spellCheckToggle.accesskey "o">
+<!ENTITY spellCheckToggle.accesskey "e">
 <!ENTITY spellNoSuggestions.label "(Žádné návrhy nenalezeny)">
 <!ENTITY spellDictionaries.label "Jazyky">
-<!ENTITY spellDictionaries.accesskey "J">
+<!ENTITY spellDictionaries.accesskey "l">
 
-<!ENTITY searchTextBox.clear.label "Vymazat">
+<!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "Vyplnit přihlašovací údaje">
-<!ENTITY fillLoginMenu.accesskey      "V">
+<!ENTITY fillLoginMenu.accesskey      "r">
 <!ENTITY fillPasswordMenu.label       "Vyplnit heslo">
-<!ENTITY fillPasswordMenu.accesskey   "V">
+<!ENTITY fillPasswordMenu.accesskey   "r">
 <!ENTITY fillUsernameMenu.label       "Vyplnit uživatelské jméno">
-<!ENTITY fillUsernameMenu.accesskey   "V">
+<!ENTITY fillUsernameMenu.accesskey   "r">
 <!ENTITY noLoginSuggestions.label     "(Žádné návrhy nenalezeny)">
 <!ENTITY viewSavedLogins.label        "Zobrazit uložené přihlašovací údaje">
