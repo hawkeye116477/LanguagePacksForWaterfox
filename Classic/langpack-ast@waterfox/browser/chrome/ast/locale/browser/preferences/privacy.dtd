@@ -2,64 +2,73 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Proteición de rastréu">
+<!ENTITY  trackingProtection2.description      "Tracking is the collection of your browsing data across multiple websites. Tracking can be used to build a profile and display content based on your browsing and personal information.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Use Tracking Protection to block known trackers">
 <!ENTITY  trackingProtectionAlways.label       "Siempres">
-<!ENTITY  trackingProtectionAlways.accesskey   "i">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Namái en ventanes privaes">
-<!ENTITY  trackingProtectionPrivate.accesskey  "m">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Enxamás">
-<!ENTITY  trackingProtectionNever.accesskey    "x">
-<!ENTITY  trackingProtectionLearnMore.label    "Deprender más">
-<!ENTITY  trackingProtectionExceptions.label   "Esceiciones…">
-<!ENTITY  trackingProtectionExceptions.accesskey "s">
+<!ENTITY  trackingProtectionNever.accesskey    "n">
+<!ENTITY  trackingProtectionLearnMore.label    "Learn more">
+<!ENTITY  trackingProtectionExceptions.label   "Exceptions…">
+<!ENTITY  trackingProtectionExceptions.accesskey "c">
 
-<!ENTITY tracking.label                 "Siguir">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Usar proteición de rastrexu en Ventanes Privaes">
-<!ENTITY trackingProtectionPBM5.accesskey     "r">
-<!ENTITY trackingProtectionPBMLearnMore.label "Deprender más">
-<!ENTITY changeBlockList.label          "Camudar llista de bloquéu">
-<!ENTITY changeBlockList.accesskey      "C">
+<!ENTITY trackingProtectionPBM5.accesskey     "P">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Use Tracking Protection in Private Browsing to block known trackers">
+<!ENTITY trackingProtectionPBM6.accesskey     "P">
+<!ENTITY trackingProtectionPBMLearnMore.label "Learn more">
+<!ENTITY changeBlockList2.label               "Change Block List…">
+<!ENTITY changeBlockList2.accesskey           "C">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "Tamién pues ">
-<!ENTITY  doNotTrack.settings.label     "remanar los axustes de Nun rastrexar">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.description        "Send websites a “Do Not Track” signal that you don’t want to be tracked">
+<!ENTITY  doNotTrack.learnMore.label    "Learn more">
+<!ENTITY  doNotTrack.default.label      "Only when using Tracking Protection">
+<!ENTITY  doNotTrack.always.label       "Siempres">
 
 <!ENTITY  history.label                 "Historial">
+<!ENTITY  permissions.label             "Permisos">
 
-<!ENTITY  locationBar.label             "Barra de direiciones">
-
-<!ENTITY  locbar.history.label          "Historial">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  addressBar.label              "Address Bar">
+<!ENTITY  addressBar.suggest.label      "When using the address bar, suggest">
+<!ENTITY  locbar.history2.label         "Browsing history">
+<!ENTITY  locbar.history2.accesskey     "A">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
-<!ENTITY  locbar.bookmarks.accesskey    "M">
+<!ENTITY  locbar.bookmarks.accesskey    "y">
 <!ENTITY  locbar.openpage.label         "Abrir llingüetes">
 <!ENTITY  locbar.openpage.accesskey     "A">
 <!ENTITY  locbar.searches.label         "Guetes rellacionaes dende'l guetador por defeutu">
-<!ENTITY  locbar.searches.accesskey     "s">
+<!ENTITY  locbar.searches.accesskey     "v">
 
+<!ENTITY  suggestionSettings2.label     "Change preferences for search engine suggestions">
 
-<!ENTITY  acceptCookies.label           "Aceutar cookies de les webs">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies2.label          "Accept cookies from websites">
+<!ENTITY  acceptCookies2.accesskey      "T">
 
 <!ENTITY  acceptThirdParty.pre.label      "Aceutar les cookies de terceres partes:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Siempre">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+<!ENTITY  acceptThirdParty.always.label   "Siempres">
 <!ENTITY  acceptThirdParty.never.label    "Enxamás">
 <!ENTITY  acceptThirdParty.visited.label  "De los visitaos">
 
 <!ENTITY  keepUntil.label               "Caltener hasta que:">
-<!ENTITY  keepUntil.accesskey           "h">
+<!ENTITY  keepUntil.accesskey           "C">
 
 <!ENTITY  expire.label                  "caduquen">
 <!ENTITY  close.label                   "zarre &brandShortName;">
 
-<!ENTITY  cookieExceptions.label        "Esceiciones…">
+<!ENTITY  cookieExceptions.label        "Exceptions…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "Amosar cookies…">
-<!ENTITY  showCookies.accesskey         "s">
+<!ENTITY  showCookies.accesskey         "U">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; will">
+<!ENTITY  historyHeader2.pre.accesskey     "f">
 <!ENTITY  historyHeader.remember.label     "Recordar l'historial">
 <!ENTITY  historyHeader.dontremember.label "Nun recordar historial">
 <!ENTITY  historyHeader.custom.label       "Usar una configuración personalizada pal historial">
@@ -85,50 +94,22 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Usar siempres el mou Restolar en privao">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.accesskey "i">
 
 <!ENTITY  rememberHistory2.label      "Recordar el mio historial de descargues y navegación">
-<!ENTITY  rememberHistory2.accesskey  "o">
+<!ENTITY  rememberHistory2.accesskey  "x">
 
 <!ENTITY  rememberSearchForm.label       "Recordar l'historial de formularios y guetes">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "c">
 
 <!ENTITY  clearOnClose.label             "Llimpiar l'historial cuando &brandShortName; se zarre">
-<!ENTITY  clearOnClose.accesskey         "r">
+<!ENTITY  clearOnClose.accesskey         "m">
 
-<!ENTITY  clearOnCloseSettings.label     "Axustes…">
-<!ENTITY  clearOnCloseSettings.accesskey "C">
+<!ENTITY  clearOnCloseSettings.label     "Configuración…">
+<!ENTITY  clearOnCloseSettings.accesskey "l">
 
-<!ENTITY  browserContainersHeader.label         "Llingüetes contenedores">
-<!ENTITY  browserContainersLearnMore.label      "Deprendi más">
+<!ENTITY  browserContainersLearnMore.label      "Learn more">
 <!ENTITY  browserContainersEnabled.label        "Habilitar llingüetes contenedores">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-<!ENTITY  browserContainersSettings.label        "Axustes…">
-<!ENTITY  browserContainersSettings.accesskey    "u">
-
-<!ENTITY  acceptCookies2.accesskey      "A">
-
-<!ENTITY  acceptCookies2.label          "Accept cookies from websites">
-<!ENTITY  addressBar.label              "Address Bar">
-<!ENTITY  addressBar.suggest.label      "When using the address bar, suggest">
-<!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY changeBlockList2.label               "Change Block List…">
-<!ENTITY  doNotTrack.always.label       "Always">
-
-<!ENTITY  doNotTrack.default.label      "Only when using Tracking Protection">
-<!ENTITY  doNotTrack.description        "Send websites a “Do Not Track” signal that you don’t want to be tracked">
-<!ENTITY  doNotTrack.learnMore.label    "Learn more">
-<!ENTITY  historyHeader2.pre.accesskey     "w">
-<!ENTITY  historyHeader2.pre.label         "&brandShortName; will">
-<!ENTITY  locbar.history2.accesskey     "H">
-<!ENTITY  locbar.history2.label         "Browsing history">
-<!ENTITY  permissions.label             "Permissions">
-
-<!ENTITY  suggestionSettings2.label     "Change preferences for search engine suggestions">
-
-<!ENTITY  trackingProtection2.description      "Tracking is the collection of your browsing data across multiple websites. Tracking can be used to build a profile and display content based on your browsing and personal information.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Use Tracking Protection to block known trackers">
-<!ENTITY  trackingProtectionHeader2.label      "Tracking Protection">
-<!ENTITY trackingProtectionPBM6.accesskey     "v">
-<!ENTITY trackingProtectionPBM6.label         "Use Tracking Protection in Private Browsing to block known trackers">
+<!ENTITY  browserContainersSettings.label        "Configuración…">
+<!ENTITY  browserContainersSettings.accesskey    "e">
