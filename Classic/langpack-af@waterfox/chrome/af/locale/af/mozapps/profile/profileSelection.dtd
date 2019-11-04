@@ -15,17 +15,17 @@
 <!ENTITY            availprofiles.label    "Beskikbare profiele">
 
 <!ENTITY            newButton.label        "Skep profiel…">
-<!ENTITY            newButton.accesskey    "S">
+<!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "Hernoem profiel…">
-<!ENTITY            renameButton.accesskey "H">
+<!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "Skrap profiel…">
-<!ENTITY            deleteButton.accesskey "S">
-<!-- manager entities -->
+<!ENTITY            deleteButton.accesskey "M">
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; stoor inligting oor u opstelling, voorkeure, en ander gebruikeritems in u gebruikerprofiel.">
 
 <!ENTITY            offlineState.label    "Werk vanlyn">
-<!ENTITY            offlineState.accesskey "e">
+<!ENTITY            offlineState.accesskey "o">
 
 <!ENTITY            useSelected.label       "Gebruik die gekose profiel sonder om te vra by aanvang">
-<!ENTITY            useSelected.accesskey   "s">
+<!ENTITY            useSelected.accesskey   "D">
