@@ -41,12 +41,12 @@
 
 <!ENTITY  versioninfo.wizard.title        "এড-অ'ন সুসঙ্গত হোৱা পৰীক্ষা কৰা হৈছে">
 <!ENTITY  versioninfo.top.label           "&brandShortName; ৰ এই সংস্কৰণৰ সৈতে এড-অ'ন সুসঙ্গত হোৱা পৰীক্ষা কৰা হৈছে।">
-<!ENTITY  versioninfo.waiting             "কিছু সময়ৰ প্ৰয়োজন হ'ব পাৰে...">
+<!ENTITY  versioninfo.waiting             "কিছু সময়ৰ প্ৰয়োজন হ'ব...">
 
 <!ENTITY  installerrors.wizard.title      "আপডেইট ইনস্টল কৰিবলৈ সমস্যা">
 <!ENTITY  installerrors.intro.label       "আপোনাৰ কিছুমান এড-অ'ন আপডেইট কৰোঁতে &brandShortName; এ কিছুমান সমস্যা পাইছে।">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "&brandShortName; আৰম্ভ কৰা কাৰ্য্যত আগবাঢ়িবলৈ সমাপ্ত টিপক।">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; আৰম্ভ কৰা কাৰ্য্যত আগবাঢ়িবলৈ হৈ গ'ল টিপক।">
 <!ENTITY  enableChecking.label            "&brandShortName; ক আপডেইট পৰীক্ষা কৰিব দিব।">
