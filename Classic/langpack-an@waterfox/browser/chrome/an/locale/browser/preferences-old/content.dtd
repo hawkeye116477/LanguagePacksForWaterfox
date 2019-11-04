@@ -8,12 +8,12 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "Notificacions">
-<!ENTITY  notificationsPolicyLearnMore.label   "Mas información">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "T">
+<!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
+<!ENTITY  notificationsPolicyDesc4.label       "Choose which websites are allowed to send you notifications">
+<!ENTITY  notificationsPolicyButton.accesskey  "l">
 <!ENTITY  notificationsPolicyButton.label      "Trigar…">
 <!ENTITY  notificationsDoNotDisturb.label      "No molestar">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "No s'amostrará garra notificación mas dica que reinicies lo &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Excepcions…">
@@ -22,12 +22,12 @@
 <!ENTITY  fontsAndColors.label        "Fuents y Colors">
 
 <!ENTITY  defaultFont.label           "Tipografía por defecto:">
-<!ENTITY  defaultFont.accesskey       "d">
+<!ENTITY  defaultFont.accesskey       "N">
 <!ENTITY  defaultSize.label           "Mida:">
-<!ENTITY  defaultSize.accesskey       "M">
+<!ENTITY  defaultSize.accesskey       "v">
 
 <!ENTITY  advancedFonts.label         "Abanzadas…">
-<!ENTITY  advancedFonts.accesskey     "A">
+<!ENTITY  advancedFonts.accesskey     "d">
 
 <!ENTITY  colors.label                "Colors…">
 <!ENTITY  colors.accesskey            "C">
@@ -36,12 +36,13 @@
 <!ENTITY languages.label              "Luengas">
 <!ENTITY chooseLanguage.label         "Trigar l'idioma preferiu ta amostrar as pachinas web">
 <!ENTITY chooseButton.label           "Trigar…">
-<!ENTITY chooseButton.accesskey       "T">
+<!ENTITY chooseButton.accesskey       "s">
 
 <!ENTITY translateWebPages.label      "Traducir o conteniu web">
-<!ENTITY translateWebPages.accesskey  "T">
+<!ENTITY translateWebPages.accesskey  "f">
 <!ENTITY translateExceptions.label    "Excepcions…">
-<!ENTITY translateExceptions.accesskey "x">
+<!ENTITY translateExceptions.accesskey "S">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -49,7 +50,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Traduccions de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
@@ -57,9 +57,7 @@
 
 <!ENTITY  playDRMContent.label         "Reproducir conteniu DRM">
 <!ENTITY  playDRMContent.accesskey     "p">
-<!ENTITY  playDRMContent.learnMore.label "Mas información">
-
-<!ENTITY  notificationsPolicyDesc4.label       "Choose which websites are allowed to send you notifications">
+<!ENTITY  playDRMContent.learnMore.label "Learn more">
 
 <!ENTITY images.label "Images">
 <!ENTITY loadImages.label "Load images automatically">
