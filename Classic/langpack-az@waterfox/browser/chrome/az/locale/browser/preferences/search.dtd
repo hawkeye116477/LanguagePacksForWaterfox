@@ -7,7 +7,7 @@
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Ünvan və axtarış sətrində işlətmək üçün əsas axtarış mühərriyini seçin.">
 
 <!ENTITY provideSearchSuggestions.label        "Axtarış təkliflərini göstər">
-<!ENTITY provideSearchSuggestions.accesskey    "t">
+<!ENTITY provideSearchSuggestions.accesskey    "B">
 
 <!ENTITY showURLBarSuggestions2.label           "Ünvan sətri nəticələrində axtarış təkliflərini göstər">
 <!ENTITY showURLBarSuggestions2.accesskey       "l">
@@ -21,9 +21,9 @@
 <!ENTITY engineKeywordColumn.label             "Açar söz">
 
 <!ENTITY restoreDefaultSearchEngines.label     "İlkin axtarış nizamlarını bərpa et">
-<!ENTITY restoreDefaultSearchEngines.accesskey "D">
+<!ENTITY restoreDefaultSearchEngines.accesskey "r">
 
 <!ENTITY removeEngine.label                    "Sil">
-<!ENTITY removeEngine.accesskey                "S">
+<!ENTITY removeEngine.accesskey                "y">
 
 <!ENTITY findMoreSearchEngines.label           "Daha çox axtarış mühərriyi tap">
