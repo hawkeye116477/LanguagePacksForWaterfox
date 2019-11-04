@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "Indholdstype">
-<!ENTITY  typeColumn.accesskey    "I">
+<!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "Handling">
-<!ENTITY  actionColumn2.accesskey "H">
+<!ENTITY  actionColumn2.accesskey "O">
 
 <!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch2.key        "o">
 
-<!ENTITY  filter.emptytext        "Søg">
+<!ENTITY  filter.emptytext        "Søgefelt">
