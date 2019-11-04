@@ -7,24 +7,24 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors.label        "Kejalwachïx ri taq b'onil ya'on rutzijol richin re ruxaq rik'in ri nucha'oj nib'anon chik:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "K">
+<!ENTITY  overrideDefaultPageColors.accesskey    "T">
 
-<!ENTITY  overrideDefaultPageColors.always.label "Jantape'">
+<!ENTITY  overrideDefaultPageColors.always.label "Junelïk">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Xa xe q'equ'm taq chumal kichin taq ruwachinel">
 <!ENTITY  overrideDefaultPageColors.never.label  "Majub'ey">
 
 <!ENTITY  color                           "Rucholajem tzij chuqa' rupam">
 <!ENTITY  textColor.label                 "Rucholajem tzij:">
-<!ENTITY  textColor.accesskey             "R">
+<!ENTITY  textColor.accesskey             "E">
 <!ENTITY  backgroundColor.label           "Rupam:">
-<!ENTITY  backgroundColor.accesskey       "R">
+<!ENTITY  backgroundColor.accesskey       "K">
 <!ENTITY  useSystemColors.label           "Ke'okisäx ri taq rub'onil q'inoj">
-<!ENTITY  useSystemColors.accesskey       "a">
+<!ENTITY  useSystemColors.accesskey       "e">
 
 <!ENTITY  underlineLinks.label            "Tijux kixe' ri ximonela'">
 <!ENTITY  underlineLinks.accesskey        "T">
 <!ENTITY  links                           "Kib'onil ri taq ximonel">
 <!ENTITY  linkColor.label                 "Manjun etz'eton ri taq ximöy:">
-<!ENTITY  linkColor.accesskey             "x">
+<!ENTITY  linkColor.accesskey             "O">
 <!ENTITY  visitedLinkColor.label          "Taq ximonel etz'eton:">
-<!ENTITY  visitedLinkColor.accesskey      "e">
+<!ENTITY  visitedLinkColor.accesskey      "V">
