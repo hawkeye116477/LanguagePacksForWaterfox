@@ -8,6 +8,6 @@
 <!ENTITY editfield1.label "Ger-tremen :"> 
 <!ENTITY checkbox.label   "kevaskañ">
 <!ENTITY copyCmd.label    "Eilañ">
-<!ENTITY copyCmd.accesskey "i">
-<!ENTITY selectAllCmd.label "Diuzañ an holl anezho">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Diuz pep tra">
+<!ENTITY selectAllCmd.accesskey "A">
