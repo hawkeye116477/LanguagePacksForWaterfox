@@ -9,7 +9,7 @@
 <!ENTITY fill.label                 "ملء">
 <!ENTITY fit.label                  "ملائمة">
 <!ENTITY preview.label              "معاينة">
-<!ENTITY color.label                "اللّون:">
+<!ENTITY color.label                "اللون:">
 <!ENTITY setDesktopBackground.title "اجعلها خلفيّة سطح المكتب">
 <!ENTITY openDesktopPrefs.label     "افتح تفضيلات سطح المكتب">
-<!ENTITY closeWindow.key            "w">
+<!ENTITY closeWindow.key            "خ">
