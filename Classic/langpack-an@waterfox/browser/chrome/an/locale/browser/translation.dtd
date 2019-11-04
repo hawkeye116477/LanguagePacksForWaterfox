@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (translation.thisPageIsIn.label,
   -                     translation.translateThisPage.label):
   -  These 2 strings are used to construct a sentence that contains a dropdown
@@ -11,13 +12,13 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-
 <!ENTITY translation.thisPageIsIn.label         "Ista pachina ye en">
 <!ENTITY translation.translateThisPage.label    "Quiere traducir ista pachina?">
 <!ENTITY translation.translate.button           "Traducir">
 <!ENTITY translation.notNow.button              "No pas agora">
 
 <!ENTITY translation.translatingContent.label   "Se ye traducindo o conteniu d'a pachina…">
+
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -33,7 +34,6 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-
 <!ENTITY translation.translatedFrom.label       "Ista pachina s'ha traduciu d'o">
 <!ENTITY translation.translatedTo.label         "enta o">
 <!ENTITY translation.translatedToSuffix.label   "">
@@ -42,7 +42,7 @@
 <!ENTITY translation.showTranslation.button     "Amostrar a traducción">
 
 <!ENTITY translation.errorTranslating.label     "S'ha produciu una error en traducir ista pachina.">
-<!ENTITY translation.tryAgain.button            "Tornar-lo a aprebar">
+<!ENTITY translation.tryAgain.button            "Torna-lo a probar">
 
 <!ENTITY translation.serviceUnavailable.label   "A traducción no ye disponible. Mire d'intentar-lo mas t'adebant.">
 
@@ -55,15 +55,16 @@
 <!ENTITY translation.options.neverForSite.label "No traducir Nunca iste puesto">
 <!ENTITY translation.options.neverForSite.accesskey "e">
 <!ENTITY translation.options.preferences.label  "Preferencias de traducción">
-<!ENTITY translation.options.preferences.accesskey "t">
+<!ENTITY translation.options.preferences.accesskey "f">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Traduccions de">
 <!ENTITY translation.options.attribution.afterLogo "">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -71,5 +72,4 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
-
 <!ENTITY translation.options.attribution.yandexTranslate "Funciona con Yandex. Translate">
