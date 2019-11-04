@@ -29,8 +29,8 @@
 <!ENTITY aboutNetworking.messagesReceived      "Missatges rebuts">
 <!ENTITY aboutNetworking.bytesSent             "Bytes enviats">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes rebuts">
-<!ENTITY aboutNetworking.logging               "Registre">
-<!ENTITY aboutNetworking.logTutorial           "Vegeu <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> per obtenir instruccions sobre com utilitzar aquesta eina.">
+<!ENTITY aboutNetworking.logging               "Logging">
+<!ENTITY aboutNetworking.logTutorial           "Vegeu {[=-a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'-=]}HTTP Logging</a> per obtenir instruccions sobre com utilitzar aquesta eina.">
 <!ENTITY aboutNetworking.currentLogFile        "Fitxer de registre actual:">
 <!ENTITY aboutNetworking.currentLogModules     "Mòduls de registre actuals:">
 <!ENTITY aboutNetworking.setLogFile            "Defineix el fitxer de registre">
@@ -41,34 +41,18 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Resol">
 <!ENTITY aboutNetworking.dnsDomain             "Domini">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY aboutNetworking.rcwn                  "RCWN Stats">
-<!ENTITY aboutNetworking.rcwnAvgLong           "Long Average">
-<!ENTITY aboutNetworking.rcwnAvgShort          "Short Average">
-<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cache not slow count">
-<!ENTITY aboutNetworking.rcwnCacheSlow         "Cache slow count">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN Status">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache won count">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Net won count">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Total network request count">
 <!ENTITY aboutNetworking.rcwnOperation         "Cache Operation">
-<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entry Open">
-<!ENTITY aboutNetworking.rcwnPerfOpen          "Open">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Obre">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Read">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Write">
-<!ENTITY aboutNetworking.rcwnStatus            "RCWN Status">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entry Open">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Short Average">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Long Average">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Long Standard Deviation">
-<!ENTITY aboutNetworking.totalNetworkRequests  "Total network request count">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Cache slow count">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cache not slow count">
