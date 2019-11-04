@@ -6,7 +6,7 @@
 <!ENTITY pluginActivationWarning                             "Sayt &brandShortName; səyyahını yavaşlada biləcək qoşma işlədir.">
 <!ENTITY tapToPlayPlugin                                     "Qoşmanı aktivləşdirmək üçün bura toxunun.">
 <!ENTITY clickToActivatePlugin                               "Qoşmanı aktivləşdir.">
-<!ENTITY checkForUpdates                                     "Yeniləmələr üçün yoxla…">
+<!ENTITY checkForUpdates                                     "Yeniləmələri yoxla…">
 <!ENTITY blockedPlugin.label                                 "Bu qoşma sizi qorumaq üçün bloklandı.">
 <!ENTITY hidePluginBtn.label                                 "Qoşmanı gizlə">
 <!ENTITY managePlugins                                       "Qoşmaları idarə et…">
