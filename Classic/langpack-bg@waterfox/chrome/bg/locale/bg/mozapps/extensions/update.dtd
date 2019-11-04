@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "&brandShortName; работи извън мрежата">
 <!ENTITY  offline.description             "&brandShortName; се нуждае от достъп до интернет, за да направи проверка за обновявания за съвместимост на добавките с тази версия.">
 <!ENTITY  offline.toggleOffline.label     "Работа в мрежа.">
-<!ENTITY  offline.toggleOffline.accesskey "м">
+<!ENTITY  offline.toggleOffline.accesskey "т">
 
 <!ENTITY  mismatch.win.title              "Несъвместими добавки">
 <!ENTITY  mismatch.top.label              "Следните добавки не са съвместими с тази версия на &brandShortName; и бяха изключени:">
@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "Изберете добавките, които искате да инсталирате:">
 <!ENTITY  found.disabledXPinstall.label   "Тези обновявания не могат да бъдат инсталирани, защото в момента инсталирането на софтуер е изключено. По-долу може да промените това.">
 <!ENTITY  found.enableXPInstall.label     "Разрешаване на сайтове да инсталират софтуер">
-<!ENTITY  found.enableXPInstall.accesskey "Р">
+<!ENTITY  found.enableXPInstall.accesskey "О">
 
 <!ENTITY  installing.wizard.title         "Инсталиране на съвместими добавки">
 <!ENTITY  installing.top.label            "Изтегляне и инсталиране обновяванията на добавките…">
