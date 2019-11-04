@@ -7,17 +7,17 @@
 <!ENTITY searchreset.pageTitle      "أترغب في استعادة إعدادات البحث؟">
 
 <!ENTITY searchreset.pageInfo1      "قد تكون إعدادات البحث عندك قديمة. يستطيع &brandShortName; مساعدتك لاستعادة إعدادات البحث المبدئية.">
+
+
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
-
-
 <!ENTITY searchreset.selector.label "سيغيّر هذا محرك البحث المبدئي ليكون">
+
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
-
 <!ENTITY searchreset.beforelink.pageInfo2 "يمكنك تغيير هذه الإعدادات في أي وقت من ">
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
@@ -27,4 +27,4 @@ their language. -->
 <!ENTITY searchreset.noChangeButton.access "ت">
 
 <!ENTITY searchreset.changeEngineButton        "غيّر محرك البحث">
-<!ENTITY searchreset.changeEngineButton.access "غ">
+<!ENTITY searchreset.changeEngineButton.access "C">
