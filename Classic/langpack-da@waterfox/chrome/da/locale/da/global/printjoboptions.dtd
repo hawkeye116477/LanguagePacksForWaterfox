@@ -7,23 +7,23 @@
 <!ENTITY printJobOptions.title "Egenskaber for printer">
 
 <!ENTITY paperInput.label "Papirstørrelse:">
-<!ENTITY paperInput.accesskey "P">
+<!ENTITY paperInput.accesskey "p">
 
 <!ENTITY jobTitleInput.label "Jobtitel:">
 <!ENTITY jobTitleInput.accesskey "J">
 
-<!ENTITY colorGroup.label "Farver:">
+<!ENTITY colorGroup.label "Farve:">
 <!ENTITY grayRadio.label "Gråtoner">
-<!ENTITY grayRadio.accesskey "G">
+<!ENTITY grayRadio.accesskey "e">
 <!ENTITY colorRadio.label "Farver">
-<!ENTITY colorRadio.accesskey "F">
+<!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY edgeMarginInput.label "Mellemrum fra kant af papir til margen (millimeter/tommer)">
-<!ENTITY topInput.label "Top:">
+<!ENTITY topInput.label "Top">
 <!ENTITY topInput.accesskey "T">
-<!ENTITY bottomInput.label "Bund:">
+<!ENTITY bottomInput.label "Bund">
 <!ENTITY bottomInput.accesskey "B">
-<!ENTITY leftInput.label "Venstre:">
-<!ENTITY leftInput.accesskey "V">
-<!ENTITY rightInput.label "Højre:">
-<!ENTITY rightInput.accesskey "H">
+<!ENTITY leftInput.label "Venstre">
+<!ENTITY leftInput.accesskey "L">
+<!ENTITY rightInput.label "Højre">
+<!ENTITY rightInput.accesskey "R">
