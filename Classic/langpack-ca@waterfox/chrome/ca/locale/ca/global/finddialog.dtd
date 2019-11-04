@@ -1,22 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from finddialog.xul -->
 
+<!-- extracted from finddialog.xul -->
 
 <!ENTITY findDialog.title "Cerca en aquesta pàgina">
 <!ENTITY findField.label "Cerca el text:">
-<!ENTITY findField.accesskey "C">
+<!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Distingeix entre majúscules i minúscules">
-<!ENTITY caseSensitiveCheckbox.accesskey "m">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Ajusta">
-<!ENTITY wrapCheckbox.accesskey "j">
+<!ENTITY wrapCheckbox.accesskey "v">
 <!ENTITY findButton.label "Cerca el següent">
-<!ENTITY findButton.accesskey "e">
+<!ENTITY findButton.accesskey "p">
 <!ENTITY cancelButton.label "Cancel·la">
 <!ENTITY closeButton.label "Tanca">
 <!ENTITY up.label "Amunt">
-<!ENTITY up.accesskey "u">
+<!ENTITY up.accesskey "D">
 <!ENTITY down.label "Avall">
-<!ENTITY down.accesskey "v">
+<!ENTITY down.accesskey "N">
 <!ENTITY direction.label "Direcció">
