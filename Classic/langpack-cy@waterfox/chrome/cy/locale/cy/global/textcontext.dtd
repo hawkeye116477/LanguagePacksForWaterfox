@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "Torri">
-<!ENTITY cutCmd.accesskey "T">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copïo">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Gludo">
-<!ENTITY pasteCmd.accesskey "G">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Dadwneud">
-<!ENTITY undoCmd.accesskey "w">
+<!ENTITY undoCmd.accesskey "o">
 <!ENTITY selectAllCmd.label "Dewis Popeth">
-<!ENTITY selectAllCmd.accesskey "P">
+<!ENTITY selectAllCmd.accesskey "F">
 <!ENTITY deleteCmd.label "Dileu">
-<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY deleteCmd.accesskey "F">
 
 <!ENTITY spellAddToDictionary.label "Ychwanegu at y Geiriadur">
-<!ENTITY spellAddToDictionary.accesskey "Y">
+<!ENTITY spellAddToDictionary.accesskey "C">
 <!ENTITY spellUndoAddToDictionary.label "Dadwneud Ychwanegu at y Geiriadur">
-<!ENTITY spellUndoAddToDictionary.accesskey "D">
+<!ENTITY spellUndoAddToDictionary.accesskey "w">
 <!ENTITY spellCheckToggle.label "Gwirio Sillafu">
-<!ENTITY spellCheckToggle.accesskey "G">
+<!ENTITY spellCheckToggle.accesskey "D">
 <!ENTITY spellNoSuggestions.label "(Dim Awgrymiadau Sillafu)">
-<!ENTITY spellDictionaries.label "Ieithoedd">
+<!ENTITY spellDictionaries.label "Iaith">
 <!ENTITY spellDictionaries.accesskey "I">
 
-<!ENTITY searchTextBox.clear.label "Clirio">
+<!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "Llanw'r Mewngofnodi">
-<!ENTITY fillLoginMenu.accesskey      "L">
+<!ENTITY fillLoginMenu.accesskey      "S">
 <!ENTITY fillPasswordMenu.label       "Llanw'r Cyfrinair">
-<!ENTITY fillPasswordMenu.accesskey   "L">
+<!ENTITY fillPasswordMenu.accesskey   "S">
 <!ENTITY fillUsernameMenu.label       "Llanw'r Enw Defnyddiwr">
-<!ENTITY fillUsernameMenu.accesskey   "L">
+<!ENTITY fillUsernameMenu.accesskey   "S">
 <!ENTITY noLoginSuggestions.label     "(Dim Awgrymiadau Mewngofnodi)">
 <!ENTITY viewSavedLogins.label        "Gweld y Mewngofnodi Lanwyd">
