@@ -17,9 +17,9 @@
 <!ENTITY certmgr.orphans                      "U het sertifikate op rekord wat nie by enige van die ander kategorieë pas nie:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Algemeen">
-<!ENTITY certmgr.detail.general_tab.accesskey "A">
+<!ENTITY certmgr.detail.general_tab.accesskey "K">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Besonderhede">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "B">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "M">
 
 <!ENTITY certmgr.pending.label                "Verifieer tans sertifikaat…">
 <!ENTITY certmgr.subjectinfo.label            "Uitgereik aan">
@@ -43,7 +43,7 @@
 <!ENTITY certmgr.deletecert.title             "Skrap sertifikaat">
 
 <!ENTITY certmgr.certname                     "Naam van sertifikaat">
-<!ENTITY certmgr.certserver                   "Bediener">
+<!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Lewensduur">
 <!ENTITY certmgr.tokenname                    "Sekuriteitstoestel">
 <!ENTITY certmgr.begins                       "Begin op">
@@ -52,42 +52,42 @@
 <!ENTITY certmgr.serial                       "Reeksnommer">
 
 <!ENTITY certmgr.close.label                  "Sluit">
-<!ENTITY certmgr.close.accesskey              "S">
+<!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Bekyk…">
-<!ENTITY certmgr.view2.accesskey              "B">
+<!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Redigeer vertroue…">
-<!ENTITY certmgr.edit3.accesskey              "R">
+<!ENTITY certmgr.edit3.accesskey              "e">
 <!ENTITY certmgr.export.label                 "Uitvoer…">
-<!ENTITY certmgr.export.accesskey             "i">
+<!ENTITY certmgr.export.accesskey             "s">
 <!ENTITY certmgr.delete2.label                "Skrap…">
-<!ENTITY certmgr.delete2.accesskey            "S">
+<!ENTITY certmgr.delete2.accesskey            "M">
 <!ENTITY certmgr.delete_builtin.label         "Skrap of wantrou…">
-<!ENTITY certmgr.delete_builtin.accesskey     "S">
+<!ENTITY certmgr.delete_builtin.accesskey     "M">
 <!ENTITY certmgr.backup2.label                "Rugsteun…">
-<!ENTITY certmgr.backup2.accesskey            "R">
+<!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "Rugsteun alles…">
-<!ENTITY certmgr.backupall2.accesskey         "s">
-<!ENTITY certmgr.restore2.label               "Invoer…">
-<!ENTITY certmgr.restore2.accesskey           "n">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.label               "Import…">
+<!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Sertifikaatvelde">
 <!ENTITY certmgr.details.accesskey            "v">
 <!ENTITY certmgr.fields.label                 "Veldwaarde">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Sertifikaathiërargie">
-<!ENTITY certmgr.hierarchy.accesskey2         "h">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Voeg uitsondering by…">
-<!ENTITY certmgr.addException.accesskey       "u">
+<!ENTITY certmgr.addException.accesskey       "s">
 
 <!ENTITY exceptionMgr.title                   "Voeg sekuriteituitsondering by">
 <!ENTITY exceptionMgr.exceptionButton.label   "Bevestig sekuriteituitsondering">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "B">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitieme banke, winkels en ander publieke werwe sal u nie vra om dit te doen nie.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Bediener">
+<!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Ligging:">
 <!ENTITY exceptionMgr.certlocation.download   "Kry sertifikaat">
-<!ENTITY exceptionMgr.certlocation.accesskey  "S">
+<!ENTITY exceptionMgr.certlocation.accesskey  "K">
 <!ENTITY exceptionMgr.certstatus.caption      "Sertifikaatstatus">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Bekyk…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "B">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Stoor hierdie uitsondering permanent">
-<!ENTITY exceptionMgr.permanent.accesskey     "S">
+<!ENTITY exceptionMgr.permanent.accesskey     "p">
