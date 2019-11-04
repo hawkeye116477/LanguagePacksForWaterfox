@@ -4,23 +4,21 @@
 
 <!ENTITY window.title                     "Esceiciones - Traducción">
 <!ENTITY window.width                     "36em">
-<!ENTITY windowClose.key                  "w">
+<!ENTITY windowClose.key                  "f">
 
 <!ENTITY noTranslationForLanguages.label  "Nun s'ufrirá la traducción pa les llingües de darréu:">
 <!ENTITY treehead.languageName.label      "Llingües">
 <!ENTITY removeLanguage.label             "Desaniciar llingua">
-<!ENTITY removeLanguage.accesskey         "D">
+<!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "Desaniciar toles llingües">
-<!ENTITY removeAllLanguages.accesskey     "t">
+<!ENTITY removeAllLanguages.accesskey     "S">
 
 <!ENTITY noTranslationForSites.label      "Nun s'ufrirá la traducción pa los sitios de darréu:">
-<!ENTITY treehead.siteName.label          "Sitios">
+<!ENTITY treehead.siteName2.label         "Websites">
 <!ENTITY removeSite.label                 "Desaniciar sitiu">
-<!ENTITY removeSite.accesskey             "s">
+<!ENTITY removeSite.accesskey             "U">
 <!ENTITY removeAllSites.label             "Desaniciar tolos sitios">
 <!ENTITY removeAllSites.accesskey         "e">
 
 <!ENTITY button.close.label               "Zarrar">
-<!ENTITY button.close.accesskey           "Z">
-
-<!ENTITY treehead.siteName2.label         "Websites">
+<!ENTITY button.close.accesskey           "C">
