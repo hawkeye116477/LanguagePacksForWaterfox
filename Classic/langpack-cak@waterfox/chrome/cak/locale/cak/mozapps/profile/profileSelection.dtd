@@ -10,22 +10,22 @@
 <!ENTITY            profilename.label      "Rub'i' ruwäch b'i'aj:">
 
 <!ENTITY            start.label            "Titikirisäx &brandShortName;">
-<!ENTITY            exit.label             "Tel el">
+<!ENTITY            exit.label             "Tel">
 
 <!ENTITY            availprofiles.label    "Wachel taq kiwäch b'i'aj">
 
 <!ENTITY            newButton.label        "Tinuk' ruwäch b'i'aj…">
-<!ENTITY            newButton.accesskey    "T">
+<!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "Titz'ib'äx chi rub'i' ri ruwäch b'i'aj…">
-<!ENTITY            renameButton.accesskey "T">
+<!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "Tiyuj el ri ruwäch b'i'aj…">
-<!ENTITY            deleteButton.accesskey "T">
-<!-- manager entities -->
+<!ENTITY            deleteButton.accesskey "M">
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; nuyäk etamab'äl pa ruwi' ri anuk'ulem, taq awajowab'äl chuqa' juley chik taq ch'akulal pa ri ruwäch ab'i'.">
 
 <!ENTITY            offlineState.label    "Tisamäj rik'in majun okem pa k'amaya'l">
-<!ENTITY            offlineState.accesskey "T">
+<!ENTITY            offlineState.accesskey "n">
 
 <!ENTITY            useSelected.label       "Tokisäx ri ruwäch b'i'aj cha'on, majun tik'utüx toq nitikirisäx.">
-<!ENTITY            useSelected.accesskey   "T">
+<!ENTITY            useSelected.accesskey   "e">
