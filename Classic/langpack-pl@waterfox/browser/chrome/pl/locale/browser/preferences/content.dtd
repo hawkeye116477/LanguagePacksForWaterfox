@@ -2,47 +2,58 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY permissions.label "Uprawnienia">
+<!ENTITY  permissions.label           "Uprawnienia">
 
-<!ENTITY blockPopups.label "Blokowanie wyskakujących okien">
-<!ENTITY blockPopups.accesskey "">
+<!ENTITY  blockPopups.label           "Blokowanie wyskakujących okien">
+<!ENTITY  blockPopups.accesskey       "z">
 
-<!ENTITY notificationsPolicyLearnMore.label "Więcej informacji">
-<!ENTITY notificationsPolicyDesc4.label "Wybierz witryny mogące wyświetlać powiadomienia.">
-<!ENTITY notificationsPolicyButton.label "Wybierz…">
-<!ENTITY notificationsPolicyButton.accesskey "">
-<!ENTITY notificationsDoNotDisturb.label "Nie przeszkadzać">
-<!ENTITY notificationsDoNotDisturb.accesskey "">
-<!ENTITY notificationsDoNotDisturbDetails.value "Powiadomienia nie będą wyświetlane do czasu ponownego uruchomienia programu &brandShortName;">
+<!ENTITY  notificationsPolicyLearnMore.label   "Dowiedz się więcej">
+<!ENTITY  notificationsPolicyDesc4.label       "Wybierz witryny mogące wyświetlać powiadomienia">
+<!ENTITY  notificationsPolicyButton.accesskey  "U">
+<!ENTITY  notificationsPolicyButton.label      "Wybierz…">
+<!ENTITY  notificationsDoNotDisturb.label      "Nie przeszkadzać">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "r">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Powiadomienia nie będą wyświetlane do czasu ponownego uruchomienia programu &brandShortName;">
 
-<!ENTITY popupExceptions.label "Wyjątki…">
-<!ENTITY popupExceptions.accesskey "">
+<!ENTITY  popupExceptions.label       "Wyjątki…">
+<!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY fontsAndColors.label "Czcionki i kolory">
-<!ENTITY defaultFont2.label "Domyślna czcionka:">
-<!ENTITY defaultFont2.accesskey "">
-<!ENTITY defaultSize2.label "Rozmiar:">
-<!ENTITY defaultSize2.accesskey "">
+<!ENTITY  fontsAndColors.label        "Czcionki i kolory">
 
-<!ENTITY advancedFonts.label "Zaawansowane…">
-<!ENTITY advancedFonts.accesskey "">
+<!ENTITY  defaultFont2.label          "Domyślna czcionka:">
+<!ENTITY  defaultFont2.accesskey      "N">
+<!ENTITY  defaultSize2.label          "Rozmiar">
+<!ENTITY  defaultSize2.accesskey      "e">
 
-<!ENTITY colors.label "Kolory…">
-<!ENTITY colors.accesskey "">
+<!ENTITY  advancedFonts.label         "Zaawansowane…">
+<!ENTITY  advancedFonts.accesskey     "O">
 
-<!ENTITY language2.label "Język">
+<!ENTITY  colors.label                "Kolory…">
+<!ENTITY  colors.accesskey            "C">
+
+
+<!ENTITY language2.label              "Język">
 <!ENTITY chooseLanguage.label         "Wybierz preferowany język, w jakim mają być wyświetlane strony">
 <!ENTITY chooseButton.label           "Wybierz…">
-<!ENTITY chooseButton.accesskey "">
+<!ENTITY chooseButton.accesskey       "r">
 
-<!ENTITY translateWebPages.label "Tłumaczenie stron WWW">
-<!ENTITY translateWebPages.accesskey "">
-<!ENTITY translateExceptions.label "Wyjątki…">
-<!ENTITY translateExceptions.accesskey "">
+<!ENTITY translateWebPages.label      "Tłumaczenie stron WWW">
+<!ENTITY translateWebPages.accesskey  "n">
+<!ENTITY translateExceptions.label    "Wyjątki…">
+<!ENTITY translateExceptions.accesskey "k">
+
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -  The translations for these strings should match the translations in
+  -  browser/translation.dtd
+  -->
 <!ENTITY translation.options.attribution.beforeLogo "Tłumaczeń dostarcza">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY drmContent2.label "Treści DRM (Digital Rights Management)">
-<!ENTITY playDRMContent2.label "Odtwarzanie treści chronionych przez DRM.">
-<!ENTITY playDRMContent2.accesskey "">
-<!ENTITY playDRMContent.learnMore.label "Więcej informacji">
+<!ENTITY  drmContent2.label              "Treści DRM (Digital Rights Management)">
+
+<!ENTITY  playDRMContent2.label          "Odtwarzanie treści chronionych przez DRM.">
+<!ENTITY  playDRMContent2.accesskey      "O">
+<!ENTITY  playDRMContent.learnMore.label "Dowiedz się więcej">
