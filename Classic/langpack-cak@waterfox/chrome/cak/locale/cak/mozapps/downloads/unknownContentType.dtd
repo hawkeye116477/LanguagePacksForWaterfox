@@ -7,20 +7,20 @@
 <!ENTITY  actionQuestion.label        "¿Achike k'o chi nub'än &brandShortName; rik'in re yakb'äl re'?">
 
 <!ENTITY  openWith.label              "Tijaq rik'in">
-<!ENTITY  openWith.accesskey          "T">
+<!ENTITY  openWith.accesskey          "n">
 <!ENTITY  other.label                 "Juley chik…">
 
 <!ENTITY  saveFile.label              "Tiyak yakb'äl">
-<!ENTITY  saveFile.accesskey          "T">
+<!ENTITY  saveFile.accesskey          "e">
 
 <!ENTITY  rememberChoice.label        "Tikamulüx re na'oj re' wakami junelïk chi ke re ruwäch taq yakb'äl re'.">
-<!ENTITY  rememberChoice.accesskey    "a">
+<!ENTITY  rememberChoice.accesskey    "i">
 
 <!ENTITY  whichIs.label              "ri jun:">
 
 <!ENTITY  chooseHandlerMac.label      "Ticha'…">
-<!ENTITY  chooseHandlerMac.accesskey  "T">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Tinik'öx…">
-<!ENTITY  chooseHandler.accesskey     "T">
+<!ENTITY  chooseHandler.accesskey     "K">
 
 <!ENTITY  unknownPromptText.label     "¿La nawajo' nayäk re yakb'äl re'?">
