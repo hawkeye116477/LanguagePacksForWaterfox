@@ -8,13 +8,13 @@
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Copia">
 <!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.key         "Q">
 <!ENTITY  selectall.label       "Selecciona-ho tot">
-<!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  selectall.accesskey   "Q">
+<!ENTITY  closeWindow.key       "n">
 
 <!ENTITY  generalTab            "General">
-<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTab.accesskey  "B">
 <!ENTITY  generalTitle          "Títol:">
 <!ENTITY  generalURL            "Adreça:">
 <!ENTITY  generalType           "Tipus:">
@@ -28,7 +28,7 @@
 <!ENTITY  generalMetaContent    "Contingut">
 
 <!ENTITY  mediaTab              "Multimèdia">
-<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaTab.accesskey    "m">
 <!ENTITY  mediaLocation         "Ubicació:">
 <!ENTITY  mediaText             "Text associat:">
 <!ENTITY  mediaAltHeader        "Text alternatiu">
@@ -40,17 +40,17 @@
 <!ENTITY  mediaLongdesc         "Descripció llarga:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Anomena i desa…">
-<!ENTITY  mediaSaveAs.accesskey "a">
+<!ENTITY  mediaSaveAs.accesskey "Q">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Previsualització dels fitxers multimèdia:">
 
 <!ENTITY  feedTab               "Canals">
-<!ENTITY  feedTab.accesskey     "C">
+<!ENTITY  feedTab.accesskey     "p">
 <!ENTITY  feedSubscribe         "Subscriu">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedSubscribe.accesskey "g">
 
 <!ENTITY  permTab               "Permisos">
-<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permTab.accesskey     "p">
 <!ENTITY  permUseDefault        "Utilitza el valor per defecte">
 <!ENTITY  permAskAlways         "Demana-m'ho sempre">
 <!ENTITY  permAllow             "Permet">
@@ -60,12 +60,12 @@
 <!ENTITY  permPlugins           "Activar els connectors">
 
 <!ENTITY  permClearStorage           "Esborrar l'emmagatzematge">
-<!ENTITY  permClearStorage.accesskey "z">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Seguretat">
-<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityTab.accesskey "T">
 <!ENTITY  securityView.certView "Mostra el certificat">
-<!ENTITY  securityView.accesskey "c">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Desconegut">
 
 
@@ -79,10 +79,10 @@
 <!ENTITY  securityView.privacy.history                  "He visitat aquest lloc web abans d'avui?">
 <!ENTITY  securityView.privacy.cookies                  "Aquest lloc web emmagatzema informació (galetes) al meu ordinador?">
 <!ENTITY  securityView.privacy.viewCookies              "Mostra les galetes">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "g">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "b">
 <!ENTITY  securityView.privacy.passwords                "He desat cap contrasenya d'aquest lloc web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Mostra les contrasenyes desades">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "y">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "n">
 
 <!ENTITY  securityView.technical.header                 "Detalls tècnics">
 
