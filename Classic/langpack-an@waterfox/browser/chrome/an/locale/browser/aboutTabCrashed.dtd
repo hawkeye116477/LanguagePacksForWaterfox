@@ -5,6 +5,7 @@
 <!ENTITY tabCrashed.closeTab "Zarrar ista pestanya">
 <!ENTITY tabCrashed.restoreTab "Recuperar ista pestanya">
 <!ENTITY tabCrashed.restoreAll "Recuperar todas as pestanyas penchadas">
+
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
      are using it to communicate in an informal way that it is both
@@ -12,7 +13,6 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
 <!ENTITY tabCrashed.header2 "Ah, la pestanya s'ha estricallau">
 <!ENTITY tabCrashed.offerHelp "Te podemos aduyar!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Selecciona &tabCrashed.restoreTab; pa tornar a cargar lo conteniu d'a pachina.">
