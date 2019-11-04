@@ -3,25 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Undtagelser">
-<!ENTITY window.width                 "36em">
+<!ENTITY window.width                 "33em">
 
 <!ENTITY treehead.sitename2.label     "Websted">
 <!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission2.label       "Fjern websted">
-<!ENTITY removepermission2.accesskey   "F">
-<!ENTITY removeallpermissions2.label   "Fjern alle websteder">
-<!ENTITY removeallpermissions2.accesskey "a">
+<!ENTITY removepermission2.label      "Fjern websted">
+<!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.label  "Fjern alle websteder">
+<!ENTITY removeallpermissions2.accesskey "s">
 <!ENTITY address.label                "Adresse på websted:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address.accesskey            "k">
 <!ENTITY block.label                  "Bloker">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "Tillad for session">
-<!ENTITY session.accesskey            "s">
+<!ENTITY session.label                "Tillad for sessionen">
+<!ENTITY session.accesskey            "I">
 <!ENTITY allow.label                  "Tillad">
-<!ENTITY allow.accesskey              "T">
-<!ENTITY windowClose.key              "w">
+<!ENTITY allow.accesskey              "O">
+<!ENTITY windowClose.key              "V">
 
-<!ENTITY button.cancel.label          "Fortryd">
-<!ENTITY button.cancel.accesskey      "o">
+<!ENTITY button.cancel.label          "Annuller">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Gem ændringer">
-<!ENTITY button.ok.accesskey          "G">
+<!ENTITY button.ok.accesskey          "I">
+
