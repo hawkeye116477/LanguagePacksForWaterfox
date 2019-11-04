@@ -6,9 +6,9 @@
 <!ENTITY window.width                 "50em">
 
 <!ENTITY treehead.list.label          "Llista">
-<!ENTITY windowClose.key              "w">
+<!ENTITY windowClose.key              "f">
 
 <!ENTITY button.cancel.label          "Encaboxar">
-<!ENTITY button.cancel.accesskey      "E">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Guardar cambeos">
-<!ENTITY button.ok.accesskey          "G">
+<!ENTITY button.ok.accesskey          "U">
