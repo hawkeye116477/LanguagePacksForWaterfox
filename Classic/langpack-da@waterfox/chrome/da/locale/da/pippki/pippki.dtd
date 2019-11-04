@@ -4,7 +4,7 @@
 
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Skift hovedadgangskode">
-<!ENTITY setPassword.tokenName.label "Sikkerhedsenhed">
+<!ENTITY setPassword.tokenName.label "Sikkerhedsanordning">
 <!ENTITY setPassword.oldPassword.label "Nuværende adgangskode:">
 <!ENTITY setPassword.newPassword.label "Ny adgangskode:">
 <!ENTITY setPassword.reenterPassword.label "Ny adgangskode (igen):">
