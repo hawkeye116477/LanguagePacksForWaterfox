@@ -17,12 +17,12 @@
 <!ENTITY     props.container.label          "الحاوية:">
 
 <!ENTITY     window.title                   "كعكات">
-<!ENTITY     windowClose.key                "w">
+<!ENTITY     windowClose.key                "خ">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
+<!ENTITY     focusSearch2.key               "ع">
 
 <!ENTITY     searchFilter.label             "ابحث">
-<!ENTITY     searchFilter.accesskey         "ب">
+<!ENTITY     searchFilter.accesskey         "ر">
 
-<!ENTITY     button.close.label             "أغلق">
-<!ENTITY     button.close.accesskey         "غ">
+<!ENTITY     button.close.label             "أغلِق">
+<!ENTITY     button.close.accesskey         "C">
