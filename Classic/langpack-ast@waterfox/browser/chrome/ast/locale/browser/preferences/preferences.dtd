@@ -13,23 +13,19 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 49em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 49em; min-height: 40em;">
 
-<!ENTITY  paneGeneral.title             "Xeneral">
-<!ENTITY  paneFilesApplications.title   "Ficheros y aplicaciones">
-<!ENTITY  paneContainers.title          "Llingüetes contenedor">
-
-<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
-
-
-
-<!ENTITY  browserPrivacy.label          "Browser Privacy">
-
-<!ENTITY  filesAndApplications.label    "Files and Applications">
-<!ENTITY  helpButton2.label        "&brandShortName; Support">
-<!ENTITY  languageAndAppearance.label   "Language and Appearance">
-<!ENTITY  panePrivacySecurity.title     "Privacy &amp; Security">
-<!ENTITY  paneSearch.title              "Search">
 <!ENTITY  paneSearchResults.title       "Search Results">
-<!ENTITY  paneSync1.title          "Waterfox Account">
-
+<!ENTITY  paneGeneral.title             "Xeneral">
+<!ENTITY  paneSearch.title              "Guetar">
+<!ENTITY  paneFilesApplications.title   "Ficheros y aplicaciones">
+<!ENTITY  panePrivacySecurity.title     "Privacy &amp; Security">
+<!ENTITY  paneContainers.title          "Llingüetes contenedor">
 <!ENTITY  paneUpdates.title             "Updates">
 
+<!ENTITY  languageAndAppearance.label   "Language and Appearance">
+<!ENTITY  filesAndApplications.label    "Files and Applications">
+<!ENTITY  browserPrivacy.label          "Browser Privacy">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Waterfox Account">
+
+<!ENTITY  helpButton2.label        "&brandShortName; Support">
