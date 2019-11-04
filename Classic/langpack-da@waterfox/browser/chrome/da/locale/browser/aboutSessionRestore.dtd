@@ -13,14 +13,15 @@
 <!ENTITY restorepage.startNew       "Starte en helt ny session">
 
 <!ENTITY restorepage.tryagainButton "Gendan">
-<!ENTITY restorepage.restore.access "G">
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Luk">
-<!ENTITY restorepage.close.access   "L">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Gendan">
 <!ENTITY restorepage.listHeader     "Vinduer og faneblade">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Vindue &#37;S">
+<!ENTITY restorepage.windowLabel    "Vindue %S">
+
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
@@ -47,3 +48,4 @@ their language.
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "kan du læse mere om, hvad du kan gøre.">
+
