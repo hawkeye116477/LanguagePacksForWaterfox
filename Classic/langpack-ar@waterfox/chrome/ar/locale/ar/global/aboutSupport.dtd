@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "معلومات مواجهة الأعطال">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  تحتوي هذه الصفحة معلومات تقنية قد تكون مفيدة عندما تحاول حل مشكلة ما. إن كنت تبحث عن إجابات لأسئلة شائعة تخص &brandShortName;، تحقق من <a id='supportLink'>موقع الدعم</a>.">
 
 <!ENTITY aboutSupport.crashes.title "بلاغات الانهيار">
@@ -18,12 +18,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionsTitle "الامتدادات">
 <!ENTITY aboutSupport.extensionName "الاسم">
 <!ENTITY aboutSupport.extensionEnabled "مفعّل">
-<!ENTITY aboutSupport.extensionVersion "النسخة">
+<!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "المعرّف">
 
 <!ENTITY aboutSupport.featuresTitle "مميزات &brandShortName;">
 <!ENTITY aboutSupport.featureName "الاسم">
-<!ENTITY aboutSupport.featureVersion "النسخة">
+<!ENTITY aboutSupport.featureVersion "Version">
 <!ENTITY aboutSupport.featureId "المعرّف">
 
 <!ENTITY aboutSupport.experimentsTitle "المزايا التجريبية">
@@ -37,11 +37,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.appBasicsTitle "أساسيات التطبيق">
 <!ENTITY aboutSupport.appBasicsName "الاسم">
-<!ENTITY aboutSupport.appBasicsVersion "النسخة">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsBuildID "معرف البناء">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "قناة التحديث">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "تأريخ التحديث">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "أظهر تأريخ التحديث">
@@ -58,8 +58,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "نظام التشغيل">
 <!ENTITY aboutSupport.appBasicsMemoryUse "استخدام الذاكرة">
 <!ENTITY aboutSupport.appBasicsPerformance "الأداء">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "عمّال الخدمة المسجلين">
 
 <!ENTITY aboutSupport.appBasicsProfiles "ملفات الإعدادات">
@@ -85,14 +85,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "التفضيلات المهمّة المُعدّلة">
 <!ENTITY aboutSupport.modifiedPrefsName "الاسم">
 <!ENTITY aboutSupport.modifiedPrefsValue "قيمة">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "تفضيلات user.js">
-<!ENTITY aboutSupport.userJSDescription "يحتوي مجلد إعداداتك على <a id='prefs-user-js-link'>ملف user.js</a> به تفضيلات لم يُنشئها &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "يحتوي مجلد إعداداتك على {[=-a id='prefs-user-js-link'-=]}ملف user.js</a> به تفضيلات لم يُنشئها &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "التفضيلات المهمّة المُوصدة">
 <!ENTITY aboutSupport.lockedPrefsName "الاسم">
-<!ENTITY aboutSupport.lockedPrefsValue "القيمة">
+<!ENTITY aboutSupport.lockedPrefsValue "قيمة">
 
 <!ENTITY aboutSupport.graphicsTitle "الرسوميات">
 
@@ -129,7 +129,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "جرّب الوضع الآمن">
 <!ENTITY aboutSupport.restartInSafeMode.label "أعِد التشغيل مع تعطيل الإضافات…">
 
-<!ENTITY aboutSupport.graphicsFeaturesTitle "الميزات">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Features">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "التشخيص">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "سجل الأعطال">
 <!ENTITY aboutSupport.graphicsGPU1Title "معالج الرسوميات #1">
