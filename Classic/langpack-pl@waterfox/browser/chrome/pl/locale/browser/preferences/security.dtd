@@ -2,33 +2,40 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY security.label "Bezpieczeństwo">
-<!ENTITY phishingProtection.label "Ochrona przed oszustwami">
+<!ENTITY  security.label                 "Bezpieczeństwo">
+<!ENTITY  phishingProtection.label       "Ochrona przed oszustwami">
 
-<!ENTITY warnOnAddonInstall2.label "Ostrzeganie, gdy witryny próbują instalować dodatki">
-<!ENTITY warnOnAddonInstall2.accesskey "">
+<!ENTITY  warnOnAddonInstall2.label       "Ostrzeganie, gdy witryny próbują instalować dodatki">
+<!ENTITY  warnOnAddonInstall2.accesskey   "o">
 
-<!ENTITY enableSafeBrowsing.label "Blokowanie niebezpiecznych i podejrzanych treści">
-<!ENTITY enableSafeBrowsing.accesskey "">
-<!ENTITY blockDownloads.label "Blokowanie możliwości pobierania niebezpiecznych plików">
-<!ENTITY blockDownloads.accesskey "">
-<!ENTITY blockUncommonAndUnwanted.label "Ostrzeganie przed niepożądanym i nietypowym oprogramowaniem">
-<!ENTITY blockUncommonAndUnwanted.accesskey "">
+<!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
+  It is important that wording follows the guidelines outlined on this page:
+  https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+-->
+<!ENTITY  enableSafeBrowsing.label        "Blokowanie niebezpiecznych i podejrzanych treści">
+<!ENTITY  enableSafeBrowsing.accesskey    "z">
 
-<!ENTITY addonExceptions.label "Wyjątki…">
-<!ENTITY addonExceptions.accesskey "">
+<!ENTITY  blockDownloads.label            "Blokowanie możliwości pobierania niebezpiecznych plików">
+<!ENTITY  blockDownloads.accesskey        "N">
 
-<!ENTITY formsAndPasswords.label "Formularze i hasła">
+<!ENTITY  blockUncommonAndUnwanted.label     "Ostrzeganie przed niepożądanym i nietypowym oprogramowaniem">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
-<!ENTITY rememberLogins2.label "Zachowywanie danych logowania do witryn">
-<!ENTITY rememberLogins2.accesskey "">
+<!ENTITY  addonExceptions.label         "Wyjątki…">
+<!ENTITY  addonExceptions.accesskey     "E">
 
-<!ENTITY useMasterPassword.label "Hasło główne">
-<!ENTITY useMasterPassword.accesskey "">
 
-<!ENTITY passwordExceptions.label "Wyjątki…">
-<!ENTITY passwordExceptions.accesskey "">
-<!ENTITY changeMasterPassword.label "Zmień hasło główne">
-<!ENTITY changeMasterPassword.accesskey "">
-<!ENTITY savedLogins.label "Zachowane dane logowania…">
-<!ENTITY savedLogins.accesskey "">
+<!ENTITY  formsAndPasswords.label       "Formularze i hasła">
+
+<!ENTITY  rememberLogins2.label         "Zachowywanie danych logowania do witryn">
+<!ENTITY  rememberLogins2.accesskey     "R">
+<!ENTITY  passwordExceptions.label      "Wyjątki…">
+<!ENTITY  passwordExceptions.accesskey  "k">
+
+<!ENTITY  useMasterPassword.label        "Hasło główne">
+<!ENTITY  useMasterPassword.accesskey    "P">
+<!ENTITY  changeMasterPassword.label     "Zmień hasło główne">
+<!ENTITY  changeMasterPassword.accesskey "m">
+
+<!ENTITY  savedLogins.label              "Zachowane dane logowania…">
+<!ENTITY  savedLogins.accesskey          "D">
