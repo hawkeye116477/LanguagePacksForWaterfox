@@ -8,6 +8,6 @@
 <!ENTITY editfield1.label "كلمة السرّ:"> 
 <!ENTITY checkbox.label   "تفقّد">
 <!ENTITY copyCmd.label    "انسخ">
-<!ENTITY copyCmd.accesskey "ن">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "اختر الكل">
-<!ENTITY selectAllCmd.accesskey "ك">
+<!ENTITY selectAllCmd.accesskey "ع">
