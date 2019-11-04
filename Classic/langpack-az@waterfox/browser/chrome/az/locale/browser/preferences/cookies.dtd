@@ -17,12 +17,12 @@
 <!ENTITY     props.container.label          "Konteynet:">
 
 <!ENTITY     window.title                   "Çərəzlər">
-<!ENTITY     windowClose.key                "w">
+<!ENTITY     windowClose.key                "r">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
+<!ENTITY     focusSearch2.key               "l">
 
 <!ENTITY     searchFilter.label             "Axtar">
-<!ENTITY     searchFilter.accesskey         "S">
+<!ENTITY     searchFilter.accesskey         "g">
 
 <!ENTITY     button.close.label             "Qapat">
-<!ENTITY     button.close.accesskey         "Q">
+<!ENTITY     button.close.accesskey         "C">
