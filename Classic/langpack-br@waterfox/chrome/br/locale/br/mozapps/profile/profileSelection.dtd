@@ -15,17 +15,17 @@
 <!ENTITY            availprofiles.label    "Aeladoù hegerz">
 
 <!ENTITY            newButton.label        "Krouiñ an aelad…">
-<!ENTITY            newButton.accesskey    "a">
+<!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "Adenvel an aelad…">
-<!ENTITY            renameButton.accesskey "n">
+<!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "Dilemel an aelad…">
-<!ENTITY            deleteButton.accesskey "D">
-<!-- manager entities -->
+<!ENTITY            deleteButton.accesskey "n">
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; a vir stlennoù a-zivout hoc'h arventennoù, ho kwellvezioù hag ergorennoù an arveriaded all e-barzh hoc'h aelad deoc'h-c'hwi.">
 
 <!ENTITY            offlineState.label    "Labourat ezlinenn">
-<!ENTITY            offlineState.accesskey "o">
+<!ENTITY            offlineState.accesskey "G">
 
 <!ENTITY            useSelected.label       "Arverañ an aelad bet diuzet hep goulenn diganin">
-<!ENTITY            useSelected.accesskey   "A">
+<!ENTITY            useSelected.accesskey   "R">
