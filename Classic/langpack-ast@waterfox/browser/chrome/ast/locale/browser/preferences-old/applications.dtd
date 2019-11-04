@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "Mena de conteníu">
-<!ENTITY  typeColumn.accesskey    "M">
+<!ENTITY  typeColumn.accesskey    "i">
 
 <!ENTITY  actionColumn2.label     "Aición">
-<!ENTITY  actionColumn2.accesskey "A">
+<!ENTITY  actionColumn2.accesskey "T">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch1.key        "c">
+<!ENTITY  focusSearch2.key        "y">
 
 <!ENTITY  filter.emptytext        "Guetar">
