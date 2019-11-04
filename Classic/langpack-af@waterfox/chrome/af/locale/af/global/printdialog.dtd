@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printdialog.xul -->
 
+<!-- extracted from printdialog.xul -->
 
 <!ENTITY printButton.label "Druk">
 
@@ -11,34 +11,34 @@
 <!ENTITY fpDialog.title "Stoor lêer">
 
 <!ENTITY fileCheck.label "Druk na lêer">
-<!ENTITY fileCheck.accesskey "l">
+<!ENTITY fileCheck.accesskey "v">
 <!ENTITY propertiesButton.label "Eienskappe…">
-<!ENTITY propertiesButton.accesskey "E">
+<!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "Drukkerbeskrywing:">
 <!ENTITY printer.label "Drukker">
 <!ENTITY printerInput.label "Drukkernaam:">
-<!ENTITY printerInput.accesskey "n">
+<!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Drukreeks">
 <!ENTITY allpagesRadio.label "Alle bladsye">
 <!ENTITY allpagesRadio.accesskey "A">
 <!ENTITY rangeRadio.label  "Bladsye">
-<!ENTITY rangeRadio.accesskey  "B">
+<!ENTITY rangeRadio.accesskey  "p">
 <!ENTITY frompageInput.label  "van">
-<!ENTITY frompageInput.accesskey  "v">
-<!ENTITY topageInput.label  "aan">
-<!ENTITY topageInput.accesskey  "a">
+<!ENTITY frompageInput.accesskey  "D">
+<!ENTITY topageInput.label  "vertaal na">
+<!ENTITY topageInput.accesskey  "t">
 <!ENTITY selectionRadio.label "Seleksie">
-<!ENTITY selectionRadio.accesskey "S">
+<!ENTITY selectionRadio.accesskey "D">
 
 <!ENTITY copies.label "Kopieë">
 <!ENTITY numCopies.label "Aantal kopieë:">
-<!ENTITY numCopies.accesskey "k">
+<!ENTITY numCopies.accesskey "S">
 
 <!ENTITY printframeGroup.label "Druk rame">
 <!ENTITY aslaidoutRadio.label "Soos op die skerm uitgelê">
-<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY aslaidoutRadio.accesskey "t">
 <!ENTITY selectedframeRadio.label  "Die geselekteerde raam">
 <!ENTITY selectedframeRadio.accesskey  "m">
 <!ENTITY eachframesepRadio.label  "Elke raam apart">
-<!ENTITY eachframesepRadio.accesskey  "E">
+<!ENTITY eachframesepRadio.accesskey  "e">
