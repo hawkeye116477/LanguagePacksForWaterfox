@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "Knip">
-<!ENTITY cutCmd.accesskey "p">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopieer">
-<!ENTITY copyCmd.accesskey "K">
+<!ENTITY copyCmd.accesskey "S">
 <!ENTITY pasteCmd.label "Plak">
-<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Ontdoen">
-<!ENTITY undoCmd.accesskey "O">
+<!ENTITY undoCmd.accesskey "t">
 <!ENTITY selectAllCmd.label "Merk alles">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "o">
 <!ENTITY deleteCmd.label "Skrap">
-<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY deleteCmd.accesskey "v">
 
 <!ENTITY spellAddToDictionary.label "Voeg by woordeboek">
-<!ENTITY spellAddToDictionary.accesskey "b">
+<!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Ontdoen byvoeging by woordeboek">
-<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.accesskey "k">
 <!ENTITY spellCheckToggle.label "Toets spelling">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.accesskey "t">
 <!ENTITY spellNoSuggestions.label "(Geen spelvoorstelle nie)">
 <!ENTITY spellDictionaries.label "Tale">
-<!ENTITY spellDictionaries.accesskey "T">
+<!ENTITY spellDictionaries.accesskey "l">
 
-<!ENTITY searchTextBox.clear.label "Maak skoon">
+<!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "Vul aanmeldinligting in">
-<!ENTITY fillLoginMenu.accesskey      "V">
+<!ENTITY fillLoginMenu.accesskey      "v">
 <!ENTITY fillPasswordMenu.label       "Vul wagwoord in">
-<!ENTITY fillPasswordMenu.accesskey   "V">
+<!ENTITY fillPasswordMenu.accesskey   "v">
 <!ENTITY fillUsernameMenu.label       "Vul gebruikernaam in">
-<!ENTITY fillUsernameMenu.accesskey   "V">
+<!ENTITY fillUsernameMenu.accesskey   "v">
 <!ENTITY noLoginSuggestions.label     "(Geen aanmeldvoorstelle nie)">
 <!ENTITY viewSavedLogins.label        "Bekyk gestoorde aanmeldings">
