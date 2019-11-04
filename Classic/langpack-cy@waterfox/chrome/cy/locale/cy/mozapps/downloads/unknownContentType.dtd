@@ -7,20 +7,20 @@
 <!ENTITY  actionQuestion.label        "Beth ddylai &brandShortName; wneud gyda'r ffeil?">
 
 <!ENTITY  openWith.label              "Agor gyda">
-<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  openWith.accesskey          "C">
 <!ENTITY  other.label                 "Arall…">
 
 <!ENTITY  saveFile.label              "Cadw Ffeil">
-<!ENTITY  saveFile.accesskey          "C">
+<!ENTITY  saveFile.accesskey          "R">
 
 <!ENTITY  rememberChoice.label        "Gwneud hyn yn awtomatig ar gyfer ffeiliau o'r math yma o hyn ymlaen.">
-<!ENTITY  rememberChoice.accesskey    "a">
+<!ENTITY  rememberChoice.accesskey    "F">
 
 <!ENTITY  whichIs.label              "sydd yn:">
 
 <!ENTITY  chooseHandlerMac.label      "Dewis…">
-<!ENTITY  chooseHandlerMac.accesskey  "D">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Pori…">
-<!ENTITY  chooseHandler.accesskey     "P">
+<!ENTITY  chooseHandler.accesskey     "N">
 
 <!ENTITY  unknownPromptText.label     "Hoffech chi gadw'r ffeil?">
