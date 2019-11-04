@@ -5,21 +5,21 @@
 <!ENTITY  fontsDialog.title                       "Písma">
 
 <!ENTITY  language.label                          "Znaková sada:">
-<!ENTITY  language.accesskey                      "Z">
+<!ENTITY  language.accesskey                      "r">
 
 <!ENTITY  size.label                              "Velikost:">
 <!ENTITY  sizeProportional.accesskey              "l">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeMonospace.accesskey                 "H">
 
 <!ENTITY  proportional.label                      "Proporcionální:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional.accesskey                  "a">
 
 <!ENTITY  serif.label                             "Patkové:">
-<!ENTITY  serif.accesskey                         "t">
+<!ENTITY  serif.accesskey                         "d">
 <!ENTITY  sans-serif.label                        "Bezpatkové:">
-<!ENTITY  sans-serif.accesskey                    "B">
+<!ENTITY  sans-serif.accesskey                    "v">
 <!ENTITY  monospace.label                         "Neproporcionální:">
-<!ENTITY  monospace.accesskey                     "N">
+<!ENTITY  monospace.accesskey                     "H">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -54,7 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibetština">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimální velikost písma:">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.accesskey                        "P">
 <!ENTITY minSize.none                             "Žádná">
 
 <!-- default font type -->
@@ -62,17 +62,17 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Bezpatkové">
 
 <!ENTITY  allowPagesToUseOwn.label                "Povolit stránkám používat vlastní písma namísto výše zvolených">
-<!ENTITY  allowPagesToUseOwn.accesskey            "a">
+<!ENTITY  allowPagesToUseOwn.accesskey            "O">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Znaková sada textu pro původní obsah">
 <!ENTITY languages.customize.Fallback2.label      "Výchozí znaková sada:">
-<!ENTITY languages.customize.Fallback2.accesskey  "z">
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Tato znaková sada textu se používá pro původní obsah, který neobsahuje definici o své znakové sadě.">
 
 <!ENTITY languages.customize.Fallback.auto        "Výchozí pro aktuální lokalizaci">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.arabic      "Arabská">
+<!ENTITY languages.customize.Fallback.arabic      "Arabština">
 <!ENTITY languages.customize.Fallback.baltic      "Pobaltská">
 <!ENTITY languages.customize.Fallback.ceiso       "Středoevropská, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Středoevropská, Microsoft">
@@ -85,19 +85,19 @@
 <!ENTITY languages.customize.Fallback.cyrillic    "Azbuka">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "Řecká">
+<!ENTITY languages.customize.Fallback.greek       "Řečtina">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "Hebrejská">
+<!ENTITY languages.customize.Fallback.hebrew      "Hebrejština">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "Japonská">
+<!ENTITY languages.customize.Fallback.japanese    "Japonština">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "Korejská">
+<!ENTITY languages.customize.Fallback.korean      "Korejština">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.thai        "Thajská">
+<!ENTITY languages.customize.Fallback.thai        "Thajština">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.turkish     "Turecká">
