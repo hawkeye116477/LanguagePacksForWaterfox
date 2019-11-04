@@ -27,7 +27,7 @@
 <!ENTITY report.comment                                      "Tilføj en kommentar (kommentarer er offentligt tilgængelige)">
 <!ENTITY report.pageURL                                      "Inkluder sidens URL">
 
-<!ENTITY plugin.file                                         "Fil">
+<!ENTITY plugin.file                                         "Filer">
 <!ENTITY plugin.mimeTypes                                    "MIME-typer">
 <!ENTITY plugin.flashProtectedMode.label                     "Aktiver Adobe Flash protected mode">
 <!ENTITY plugin.enableBlocklists.label                       "Bloker farligt og påtrængende Flash-indhold">
