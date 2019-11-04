@@ -4,30 +4,26 @@
 
 <!ENTITY defaultSearchEngine.label             "Glavni pretraživač">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Choose the default search engine to use in the address bar and search bar.">
 
 <!ENTITY provideSearchSuggestions.label        "Pružaj prijedloge za pretraživanje">
-<!ENTITY provideSearchSuggestions.accesskey    "p">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY showURLBarSuggestions2.label           "Show search suggestions in address bar results">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Prijedlozi za pretragu neće biti prikazani u rezultatima lokacijske trake jer ste podesili &brandShortName; da ne pamti historiju.">
 
 <!ENTITY oneClickSearchEngines.label           "Jedan-klik pretraživači">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.">
 
 <!ENTITY engineNameColumn.label                "Pretraživač">
 <!ENTITY engineKeywordColumn.label             "Ključna riječ">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Vrati izvorne pretraživače">
-<!ENTITY restoreDefaultSearchEngines.accesskey "č">
+<!ENTITY restoreDefaultSearchEngines.accesskey "Z">
 
 <!ENTITY removeEngine.label                    "Ukloni">
-<!ENTITY removeEngine.accesskey                "U">
-
-
-<!ENTITY chooseWhichOneToDisplay2.label         "Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.">
-
-<!ENTITY chooseYourDefaultSearchEngine2.label   "Choose the default search engine to use in the address bar and search bar.">
+<!ENTITY removeEngine.accesskey                "s">
 
 <!ENTITY findMoreSearchEngines.label           "Find more search engines">
-<!ENTITY showURLBarSuggestions2.accesskey       "l">
-<!ENTITY showURLBarSuggestions2.label           "Show search suggestions in address bar results">
