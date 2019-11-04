@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "Klip">
-<!ENTITY cutCmd.accesskey "K">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopier">
-<!ENTITY copyCmd.accesskey "o">
+<!ENTITY copyCmd.accesskey "u">
 <!ENTITY pasteCmd.label "Indsæt">
-<!ENTITY pasteCmd.accesskey "æ">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Fortryd">
-<!ENTITY undoCmd.accesskey "F">
+<!ENTITY undoCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Marker alt">
-<!ENTITY selectAllCmd.accesskey "M">
+<!ENTITY selectAllCmd.accesskey "d">
 <!ENTITY deleteCmd.label "Slet">
-<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY deleteCmd.accesskey "k">
 
 <!ENTITY spellAddToDictionary.label "Føj til ordbog">
-<!ENTITY spellAddToDictionary.accesskey "ø">
+<!ENTITY spellAddToDictionary.accesskey "R">
 <!ENTITY spellUndoAddToDictionary.label "Fortryd tilføjelse til ordbog">
-<!ENTITY spellUndoAddToDictionary.accesskey "ø">
+<!ENTITY spellUndoAddToDictionary.accesskey "I">
 <!ENTITY spellCheckToggle.label "Stavekontrol">
-<!ENTITY spellCheckToggle.accesskey "t">
+<!ENTITY spellCheckToggle.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(ingen staveforslag)">
 <!ENTITY spellDictionaries.label "Sprog">
-<!ENTITY spellDictionaries.accesskey "p">
+<!ENTITY spellDictionaries.accesskey "l">
 
-<!ENTITY searchTextBox.clear.label "Ryd">
+<!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "Udfyld login">
-<!ENTITY fillLoginMenu.accesskey      "l">
+<!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillPasswordMenu.label       "Udfyld adgangskode">
-<!ENTITY fillPasswordMenu.accesskey   "a">
+<!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Udfyld brugernavn">
-<!ENTITY fillUsernameMenu.accesskey   "b">
+<!ENTITY fillUsernameMenu.accesskey   "F">
 <!ENTITY noLoginSuggestions.label     "(Ingen login-forslag)">
 <!ENTITY viewSavedLogins.label        "Vis gemte logins">
