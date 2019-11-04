@@ -4,33 +4,26 @@
 
 <!ENTITY defaultSearchEngine.label             "Guetador por defeutu">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Escueyi'l to guetador por defeutu. &brandShortName; úsalu na barra d'allugamientos, barra de gueta y páxina d'aniciu.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Choose the default search engine to use in the address bar and search bar.">
 
 <!ENTITY provideSearchSuggestions.label        "Apurrir suxerencies de gueta">
-<!ENTITY provideSearchSuggestions.accesskey    "D">
+<!ENTITY provideSearchSuggestions.accesskey    "c">
 
-<!ENTITY showURLBarSuggestions.label           "Amosar suxerencies de gueta nos resultaos de la barra d'allugamientos">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.label           "Show search suggestions in address bar results">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Les suxerencies de gueta nun van amosase nos resultaos de la barra de direiciones porque configurasti &brandShortName; pa que nun recuerde l'historial.">
 
 <!ENTITY oneClickSearchEngines.label           "Motores de gueta nun clic">
 
-<!ENTITY chooseWhichOneToDisplay.label         "La barra de gueta déxate guetar direutamente en guetadores alternativos. Escueyi cuálos amosar.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.">
 
 <!ENTITY engineNameColumn.label                "Guetador">
 <!ENTITY engineKeywordColumn.label             "Pallabra clave">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Reafitar motores de gueta por defeutu">
-<!ENTITY restoreDefaultSearchEngines.accesskey "R">
+<!ENTITY restoreDefaultSearchEngines.accesskey "v">
 
-<!ENTITY removeEngine.label                    "Desaniciar">
-<!ENTITY removeEngine.accesskey                "D">
-
-
-<!ENTITY chooseWhichOneToDisplay2.label         "Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.">
-
-<!ENTITY chooseYourDefaultSearchEngine2.label   "Choose the default search engine to use in the address bar and search bar.">
+<!ENTITY removeEngine.label                    "Remove">
+<!ENTITY removeEngine.accesskey                "m">
 
 <!ENTITY findMoreSearchEngines.label           "Find more search engines">
-<!ENTITY showURLBarSuggestions2.accesskey       "l">
-<!ENTITY showURLBarSuggestions2.label           "Show search suggestions in address bar results">
