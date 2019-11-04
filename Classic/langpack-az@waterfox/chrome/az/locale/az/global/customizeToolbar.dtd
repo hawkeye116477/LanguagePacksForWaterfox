@@ -12,5 +12,5 @@
 <!ENTITY useSmallIcons.label      "Kiçik nişanlardan istifadə et">
 <!ENTITY restoreDefaultSet.label  "Standartları yüklə">
 <!ENTITY addNewToolbar.label      "Yeni alət sətri əlavə et">
-<!ENTITY saveChanges.label        "Oldu">
+<!ENTITY saveChanges.label        "Bitdi">
 <!ENTITY undoChanges.label        "Dəyişiklikləri geri qaytar">
