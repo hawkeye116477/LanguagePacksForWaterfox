@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Fjern ">
-<!ENTITY clearTimeDuration.accesskey      "F">
+<!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "min historik for den seneste time">
 <!ENTITY clearTimeDuration.last2Hours     "min historik for de seneste to timer">
 <!ENTITY clearTimeDuration.last4Hours     "min historik for de seneste fire timer">
@@ -41,7 +41,7 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detaljer">
-<!ENTITY detailsProgressiveDisclosure.accesskey "D">
+<!ENTITY detailsProgressiveDisclosure.accesskey "s">
 
 <!ENTITY historySection.label         "Historik">
 <!ENTITY dataSection.label            "Data">
@@ -49,17 +49,17 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.label     "Browser- og filhentningshistorik">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "Formular- og søgehistorik">
-<!ENTITY itemFormSearchHistory.accesskey   "s">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache">
-<!ENTITY itemCache.accesskey               "h">
+<!ENTITY itemCache.accesskey               "O">
 <!ENTITY itemOfflineApps.label             "Offline webstedsdata">
-<!ENTITY itemOfflineApps.accesskey         "O">
+<!ENTITY itemOfflineApps.accesskey         "b">
 <!ENTITY itemActiveLogins.label            "Aktive logins">
-<!ENTITY itemActiveLogins.accesskey        "A">
+<!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Webstedsspecifikke indstillinger">
-<!ENTITY itemSitePreferences.accesskey     "W">
+<!ENTITY itemSitePreferences.accesskey     "I">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
