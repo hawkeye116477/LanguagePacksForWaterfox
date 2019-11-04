@@ -7,10 +7,10 @@
 <!ENTITY chooseYourDefaultSearchEngine.label   "Dibabit ho keflusker enklask dre ziouer. Implijet e vo er varrenn lec'hiadur, er varrenn enklask, ha war ar bajenn degemer gant &brandShortName;.">
 
 <!ENTITY provideSearchSuggestions.label        "Kinnig alioù enklask">
-<!ENTITY provideSearchSuggestions.accesskey    "a">
+<!ENTITY provideSearchSuggestions.accesskey    "R">
 
 <!ENTITY showURLBarSuggestions.label           "Diskouez ar c'hinnigoù enklask e disoc'hoù ar varenn chomlec'hioù">
-<!ENTITY showURLBarSuggestions.accesskey       "c">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m'ho peus kefluniet &brandShortName;  evit ma ne zalc'hfe ket soñj eus ho roll istor.">
 
 <!ENTITY oneClickSearchEngines.label           "Kefluskerioù enklask gant ur c'hlik">
@@ -21,9 +21,9 @@
 <!ENTITY engineKeywordColumn.label             "Ger-alc'hwez">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Assav ar c'hefluskerioù enklask dre ziouer">
-<!ENTITY restoreDefaultSearchEngines.accesskey "z">
+<!ENTITY restoreDefaultSearchEngines.accesskey "r">
 
-<!ENTITY removeEngine.label                    "Dilemel">
-<!ENTITY removeEngine.accesskey                "D">
+<!ENTITY removeEngine.label                    "Lemel kuit">
+<!ENTITY removeEngine.accesskey                "R">
 
 <!ENTITY addMoreSearchEngines.label            "Ouzhpennañ muioc'h a gefluskerioù enklask…">
