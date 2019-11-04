@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "&brandShortName; werk tans vanlyn">
 <!ENTITY  offline.description             "&brandShortName; moet aanlyn gaan om te kontroleer vir bywerkings vir u byvoegings om hulle versoenbaar met hierdie weergawe te maak.">
 <!ENTITY  offline.toggleOffline.label     "Gaan nou aanlyn.">
-<!ENTITY  offline.toggleOffline.accesskey "G">
+<!ENTITY  offline.toggleOffline.accesskey "K">
 
 <!ENTITY  mismatch.win.title              "Onversoenbare byvoegings">
 <!ENTITY  mismatch.top.label              "Die volgende byvoegings is nie versoenbaar met hierdie weergawe van &brandShortName; nie en is gedeaktiveer:">
@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "Kies die byvoegings wat u wil installeer:">
 <!ENTITY  found.disabledXPinstall.label   "Hierdie byvoegings kan nie geïnstalleer word nie omdat sagteware-installering tans gedeaktiveer is. U kan daardie opstelling hier onder verander.">
 <!ENTITY  found.enableXPInstall.label     "Laat webwerwe toe om sagteware te installeer">
-<!ENTITY  found.enableXPInstall.accesskey "L">
+<!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "Installeer tans versoenbare byvoegings">
 <!ENTITY  installing.top.label            "Laai tans bywerkings vir u byvoegings in en installeer dit…">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Kon nie bywerkings installeer nie">
 <!ENTITY  installerrors.intro.label       "&brandShortName; kon sekere van u byvoegings nie bywerk nie.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Kliek Klaar om voort te gaan om &brandShortName; te laat loop.">
 <!ENTITY  clickFinish.labelMac            "Kliek Klaar om voort te gaan om &brandShortName; te laat loop.">
 <!ENTITY  enableChecking.label            "Laat &brandShortName; toe om vir bywerkings te kontroleer.">
