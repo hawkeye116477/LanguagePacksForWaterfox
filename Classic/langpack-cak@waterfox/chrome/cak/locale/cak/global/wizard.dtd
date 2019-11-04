@@ -3,22 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  button-back-mac.label        "Titzolin">
-<!ENTITY  button-back-mac.accesskey    "T">
+<!ENTITY  button-back-mac.accesskey    "K">
 <!ENTITY  button-next-mac.label        "Titikïr chik el">
-<!ENTITY  button-next-mac.accesskey    "T">
-<!ENTITY  button-finish-mac.label      "Ruk'isik">
+<!ENTITY  button-next-mac.accesskey    "C">
+<!ENTITY  button-finish-mac.label      "K'isoj">
 <!ENTITY  button-cancel-mac.label      "Tiq'at">
 
-<!ENTITY  button-back-unix.label       "Chi rij">
-<!ENTITY  button-back-unix.accesskey   "C">
+<!ENTITY  button-back-unix.label       "Chi ruwäch">
+<!ENTITY  button-back-unix.accesskey   "K">
 <!ENTITY  button-next-unix.label       "Jun chik">
-<!ENTITY  button-next-unix.accesskey   "J">
+<!ENTITY  button-next-unix.accesskey   "N">
 <!ENTITY  button-finish-unix.label     "Tik'is">
 <!ENTITY  button-cancel-unix.label     "Tiq'at">
 
 <!ENTITY  button-back-win.label        "&lt; Chi rij">
-<!ENTITY  button-back-win.accesskey    "C">
+<!ENTITY  button-back-win.accesskey    "K">
 <!ENTITY  button-next-win.label        "Jun chik &gt;">
-<!ENTITY  button-next-win.accesskey    "J">
+<!ENTITY  button-next-win.accesskey    "N">
 <!ENTITY  button-finish-win.label      "Tik'is">
 <!ENTITY  button-cancel-win.label      "Tiq'at">
