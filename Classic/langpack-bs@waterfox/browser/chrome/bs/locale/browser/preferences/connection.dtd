@@ -11,36 +11,36 @@
 <!ENTITY  noProxyTypeRadio.label        "Nema proxyja">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Koristi sistemske proxy postavke">
-<!ENTITY  systemTypeRadio.accesskey     "K">
+<!ENTITY  systemTypeRadio.accesskey     "P">
 <!ENTITY  WPADTypeRadio.label           "Auto-detektuj proxy postavke za ovu mrežu">
-<!ENTITY  WPADTypeRadio.accesskey       "d">
+<!ENTITY  WPADTypeRadio.accesskey       "P">
 <!ENTITY  manualTypeRadio.label         "Ručne proxy postavke:">
-<!ENTITY  manualTypeRadio.accesskey     "R">
+<!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL za automatsko konfigurisanje proxyja:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio.accesskey       "O">
 <!ENTITY  reload.label                  "Obnovi">
-<!ENTITY  reload.accesskey              "O">
+<!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP Proxy:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP Proxy:">
-<!ENTITY  http.accesskey                "x">
+<!ENTITY  http.accesskey                "z">
 <!ENTITY  ssl.label                     "SSL Proxy:">
-<!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  ssl.accesskey                 "K">
 <!ENTITY  socks.label                   "SOCKS Host:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "o">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "P">
 <!ENTITY  socksRemoteDNS.label2         "Proxy DNS pri korištenju SOCKS v5">
-<!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  socksRemoteDNS.accesskey      "Z">
 <!ENTITY  port.label                    "Port:">
-<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  HTTPport.accesskey            "r">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  FTPport.accesskey             "s">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Nema proxyja za:">
-<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxy.accesskey             "P">
 <!ENTITY  noproxyExplain.label          "Primjer: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Koristi ovaj proxy server za sve protokole">
 <!ENTITY  shareproxy.accesskey          "s">
