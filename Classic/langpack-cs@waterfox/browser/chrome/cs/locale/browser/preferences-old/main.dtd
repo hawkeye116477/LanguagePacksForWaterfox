@@ -5,36 +5,36 @@
 <!ENTITY startup.label             "Spuštění">
 
 <!ENTITY startupPage.label         "Při startu aplikace &brandShortName;:">
-<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupPage.accesskey     "S">
 <!ENTITY startupUserHomePage.label "Zobrazit vaši domovskou stránku">
 <!ENTITY startupBlankPage.label    "Zobrazit prázdnou stránku">
 <!ENTITY startupPrevSession.label  "Zobrazit okna a panely z minula">
 
 <!ENTITY homepage.label            "Domovská stránka:">
-<!ENTITY homepage.accesskey        "m">
+<!ENTITY homepage.accesskey        "a">
 <!ENTITY useCurrentPage.label      "Použít aktuální stránku">
-<!ENTITY useCurrentPage.accesskey  "a">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Použít aktuální stránky">
 <!ENTITY chooseBookmark.label      "Použít záložku…">
 <!ENTITY chooseBookmark.accesskey  "z">
 <!ENTITY restoreDefault.label      "Obnovit výchozí">
-<!ENTITY restoreDefault.accesskey  "b">
+<!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Stahování">
 
 <!ENTITY saveTo.label "Ukládat všechny soubory do složky">
-<!ENTITY saveTo.accesskey "U">
+<!ENTITY saveTo.accesskey "h">
 <!ENTITY chooseFolderWin.label        "Procházet…">
-<!ENTITY chooseFolderWin.accesskey    "r">
+<!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Vybrat…">
-<!ENTITY chooseFolderMac.accesskey    "y">
+<!ENTITY chooseFolderMac.accesskey    "H">
 <!ENTITY alwaysAskWhere.label         "U každého souboru se zeptat, kam ho uložit">
-<!ENTITY alwaysAskWhere.accesskey     "k">
+<!ENTITY alwaysAskWhere.accesskey     "O">
 
 <!ENTITY alwaysCheckDefault2.label        "Kontrolovat, jestli je &brandShortName; výchozím webovým prohlížečem">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Nastavit jako výchozí">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "t">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "N">
 <!ENTITY isDefault.label                  "&brandShortName; je aktuálně výchozím prohlížečem">
 <!ENTITY isNotDefault.label               "&brandShortName; aktuálně není výchozím prohlížečem">
 
@@ -47,7 +47,7 @@
 
 <!ENTITY localeSelect.label               "Locale Select">
 
-<!ENTITY newtabsoptions.label "New Tab">
+<!ENTITY newtabsoptions.label "Nový panel">
 <!ENTITY newtabenabled.label "Enable new tab page">
 <!ENTITY newtabsearch.label "Enable search bar on New Tab (reload page)">
 <!ENTITY newtabthumbnail.label "Disable thumbnail capturing on new tab page">
