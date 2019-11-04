@@ -12,21 +12,21 @@
 
 <!ENTITY orientation.label   "Ориентация:">
 <!ENTITY portrait.label      "Портрет">
-<!ENTITY portrait.accesskey  "П">
+<!ENTITY portrait.accesskey  "О">
 <!ENTITY landscape.label     "Пейзаж">
-<!ENTITY landscape.accesskey "ж">
+<!ENTITY landscape.accesskey "Н">
 
 <!ENTITY scale.label         "Мащаб:">
-<!ENTITY scale.accesskey     "М">
-<!ENTITY scalePercent        "&#037;">
+<!ENTITY scale.accesskey     "в">
+<!ENTITY scalePercent        "%">
 
 <!ENTITY shrinkToFit.label   "Смаляване до ширината на страницата">
-<!ENTITY shrinkToFit.accesskey "ш">
+<!ENTITY shrinkToFit.accesskey "н">
 
 <!ENTITY optionsGroup.label  "Настройки">
 
 <!ENTITY printBG.label       "Отпечатване на фон (цветове и изображения)">
-<!ENTITY printBG.accesskey   "ф">
+<!ENTITY printBG.accesskey   "о">
 
 <!ENTITY advanced.tab        "Полета и горен/долен колонтитул">
 
@@ -34,13 +34,13 @@
 <!ENTITY marginUnits.inches  "инчове">
 <!ENTITY marginUnits.metric  "милиметри">
 <!ENTITY marginTop.label     "Отгоре:">
-<!ENTITY marginTop.accesskey "г">
+<!ENTITY marginTop.accesskey "И">
 <!ENTITY marginBottom.label  "Отдолу:">
-<!ENTITY marginBottom.accesskey "д">
+<!ENTITY marginBottom.accesskey "о">
 <!ENTITY marginLeft.label    "Отляво:">
-<!ENTITY marginLeft.accesskey "л">
+<!ENTITY marginLeft.accesskey "Н">
 <!ENTITY marginRight.label   "Отдясно:">
-<!ENTITY marginRight.accesskey "д">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Горен и долен колонтитул">
 
