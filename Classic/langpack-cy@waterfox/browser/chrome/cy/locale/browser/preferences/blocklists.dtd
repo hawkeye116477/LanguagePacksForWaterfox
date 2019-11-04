@@ -6,9 +6,9 @@
 <!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "Rhestr">
-<!ENTITY windowClose.key              "w">
+<!ENTITY windowClose.key              "G">
 
 <!ENTITY button.cancel.label          "Diddymu">
-<!ENTITY button.cancel.accesskey      "D">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Cadw Newidiadau">
-<!ENTITY button.ok.accesskey          "N">
+<!ENTITY button.ok.accesskey          "A">
