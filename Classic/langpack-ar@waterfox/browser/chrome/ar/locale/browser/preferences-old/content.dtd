@@ -5,43 +5,44 @@
 <!ENTITY  popups.label                "النوافذ المنبثقة">
 
 <!ENTITY  blockPopups.label           "احجب النوافذ المنبثقة">
-<!ENTITY  blockPopups.accesskey       "ذ">
+<!ENTITY  blockPopups.accesskey       "ش">
 
 <!ENTITY  notificationsPolicy.label            "التنبيهات">
-<!ENTITY  notificationsPolicyLearnMore.label   "اطّلع على المزيد">
+<!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
 <!ENTITY  notificationsPolicyDesc4.label       "اختر أيّ من مواقع الوِب يُسمح لها بإرسال تنبيهات إليك">
-<!ENTITY  notificationsPolicyButton.accesskey  "خ">
+<!ENTITY  notificationsPolicyButton.accesskey  "ش">
 <!ENTITY  notificationsPolicyButton.label      "اختر…">
 <!ENTITY  notificationsDoNotDisturb.label      "لا تزعجني">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "ز">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "ف">
 <!ENTITY  notificationsDoNotDisturbDetails.value "لن تُعرض أيّة تنبيهات حتّى إعادة تشغيل &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "الاستثناءات…">
-<!ENTITY  popupExceptions.accesskey   "ت">
+<!ENTITY  popupExceptions.accesskey   "ح">
 
 <!ENTITY  fontsAndColors.label        "الخطوط و الألوان">
 
 <!ENTITY  defaultFont.label           "الخط المبدئي:">
-<!ENTITY  defaultFont.accesskey       "ط">
+<!ENTITY  defaultFont.accesskey       "ت">
 <!ENTITY  defaultSize.label           "الحجم:">
-<!ENTITY  defaultSize.accesskey       "ح">
+<!ENTITY  defaultSize.accesskey       "ر">
 
 <!ENTITY  advancedFonts.label         "متقدم…">
-<!ENTITY  advancedFonts.accesskey     "د">
+<!ENTITY  advancedFonts.accesskey     "ع">
 
 <!ENTITY  colors.label                "الألوان…">
-<!ENTITY  colors.accesskey            "ل">
+<!ENTITY  colors.accesskey            "C">
 
 
 <!ENTITY languages.label              "اللّغات">
 <!ENTITY chooseLanguage.label         "اختر لغتك المفضلة لعرض الصفحات">
 <!ENTITY chooseButton.label           "اختر…">
-<!ENTITY chooseButton.accesskey       "خ">
+<!ENTITY chooseButton.accesskey       "ل">
 
 <!ENTITY translateWebPages.label      "ترجم محتوى الوب">
-<!ENTITY translateWebPages.accesskey  "ت">
+<!ENTITY translateWebPages.accesskey  "ط">
 <!ENTITY translateExceptions.label    "الاستثناءات…">
-<!ENTITY translateExceptions.accesskey "ث">
+<!ENTITY translateExceptions.accesskey "خ">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -49,15 +50,14 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "ترجمات">
-<!ENTITY translation.options.attribution.afterLogo "​">
+<!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY  drmContent.label             "محتوى محمي بإدارة الحقوق الرقمية">
 
 <!ENTITY  playDRMContent.label         "شغّل المحتوى المحمي بإدارة الحقوق الرقمية">
-<!ENTITY  playDRMContent.accesskey     "ش">
-<!ENTITY  playDRMContent.learnMore.label "اطّلع على المزيد">
+<!ENTITY  playDRMContent.accesskey     "خ">
+<!ENTITY  playDRMContent.learnMore.label "Learn more">
 
 <!ENTITY images.label "Images">
 <!ENTITY loadImages.label "Load images automatically">
