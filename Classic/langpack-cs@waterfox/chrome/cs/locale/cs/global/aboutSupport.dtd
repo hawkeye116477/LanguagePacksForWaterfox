@@ -22,13 +22,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionsTitle "Rozšíření">
 <!ENTITY aboutSupport.extensionName "Název">
 <!ENTITY aboutSupport.extensionEnabled "Povoleno">
-<!ENTITY aboutSupport.extensionVersion "Verze">
+<!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "Id">
 
 <!ENTITY aboutSupport.featuresTitle "Funkce aplikace &brandShortName;">
 <!ENTITY aboutSupport.featureName "Název">
-<!ENTITY aboutSupport.featureVersion "Verze">
-<!ENTITY aboutSupport.featureId "ID">
+<!ENTITY aboutSupport.featureVersion "Version">
+<!ENTITY aboutSupport.featureId "Id">
 
 <!ENTITY aboutSupport.experimentsTitle "Experimentální funkce">
 <!ENTITY aboutSupport.experimentName "Název">
@@ -41,7 +41,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.appBasicsTitle "Stručně o aplikaci">
 <!ENTITY aboutSupport.appBasicsName "Název">
-<!ENTITY aboutSupport.appBasicsVersion "Verze">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsBuildID "Id buildu">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
@@ -92,7 +92,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Předvolby user.js">
-<!ENTITY aboutSupport.userJSDescription "Složka s profilem obsahuje <a id='prefs-user-js-link'>soubor user.js</a>, který obsahuje předvolby, které nebyly vytvořeny aplikací &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Složka s profilem obsahuje {[=-a id='prefs-user-js-link'-=]}soubor user.js</a>, který obsahuje předvolby, které nebyly vytvořeny aplikací &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Důležité uzamčené předvolby">
 <!ENTITY aboutSupport.lockedPrefsName "Název">
@@ -133,7 +133,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Vyzkoušet nouzový režim">
 <!ENTITY aboutSupport.restartInSafeMode.label "Restartovat se zakázanými doplňky…">
 
-<!ENTITY aboutSupport.graphicsFeaturesTitle "Vlastnosti">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Features">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostika">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Protokol chyb">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
