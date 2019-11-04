@@ -11,39 +11,39 @@
 <!ENTITY  noProxyTypeRadio.label        "Ensin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Usar los datos de proxy del sistema">
-<!ENTITY  systemTypeRadio.accesskey     "U">
+<!ENTITY  systemTypeRadio.accesskey     "C">
 <!ENTITY  WPADTypeRadio.label           "Autodetectar configuración del proxy pa esta rede">
-<!ENTITY  WPADTypeRadio.accesskey       "e">
+<!ENTITY  WPADTypeRadio.accesskey       "f">
 <!ENTITY  manualTypeRadio.label         "Configuración manual del proxy">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL pa la configuración automática del proxy:">
-<!ENTITY  autoTypeRadio.accesskey       "L">
+<!ENTITY  autoTypeRadio.accesskey       "T">
 <!ENTITY  reload.label                  "Recargar">
-<!ENTITY  reload.accesskey              "R">
+<!ENTITY  reload.accesskey              "S">
 <!ENTITY  ftp.label                     "Proxy FTP:">
-<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  ftp.accesskey                 "P">
 <!ENTITY  http.label                    "Proxy HTTP:">
-<!ENTITY  http.accesskey                "H">
+<!ENTITY  http.accesskey                "c">
 <!ENTITY  ssl.label                     "Proxy SSL:">
-<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  ssl.accesskey                 "g">
 <!ENTITY  socks.label                   "Sirvidor SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "t">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "P">
 <!ENTITY  socksRemoteDNS.label2         "Proxy DNS al usar SOCKS v5">
-<!ENTITY  socksRemoteDNS.accesskey      "">
+<!ENTITY  socksRemoteDNS.accesskey      "v">
 <!ENTITY  port.label                    "Puertu:">
 <!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.accesskey             "u">
-<!ENTITY  FTPport.accesskey             "r">
-<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  SSLport.accesskey             "P">
+<!ENTITY  FTPport.accesskey             "m">
+<!ENTITY  SOCKSport.accesskey           "l">
 <!ENTITY  noproxy.label                 "Nun usar proxy pa:">
-<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Usar el mesmu proxy pa too">
-<!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  shareproxy.accesskey          "c">
 <!ENTITY  autologinproxy.label          "Nun entrugar identificación si la contraseña ta guardada">
-<!ENTITY  autologinproxy.accesskey      "u">
+<!ENTITY  autologinproxy.accesskey      "e">
 <!ENTITY  autologinproxy.tooltip        "Esta opción identifícate de mou silenciosu énte los proxys cuando guardasti les credenciales pa ellos. Va entrugásete si falla la identificación.">
