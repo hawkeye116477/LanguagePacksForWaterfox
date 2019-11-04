@@ -9,7 +9,7 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Зареждане…">
+<!ENTITY loading.label                        "Loading…">
 <!ENTITY listEmpty.installed.label            "Няма инсталирани добавки от този вид">
 <!ENTITY listEmpty.availableUpdates.label     "Не бяха намерени обновявания">
 <!ENTITY listEmpty.recentUpdates.label        "Скоро не сте обновявали никоя добавка">
@@ -29,7 +29,7 @@
 <!ENTITY showUnsignedExtensions.button.label  "Някои разширения не можаха да бъдат проверени">
 <!ENTITY showAllExtensions.button.label       "Показване на всички разширения">
 <!ENTITY debugAddons.label                    "Дебъгване на добавки">
-<!ENTITY debugAddons.accesskey                "Д">
+<!ENTITY debugAddons.accesskey                "о">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Всички добавки са изключени от Надеждния режим.">
@@ -48,14 +48,14 @@
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Проверка за обновяване">
-<!ENTITY updates.checkForUpdates.accesskey    "П">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Последни обновявания">
-<!ENTITY updates.viewUpdates.accesskey        "о">
+<!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Автоматично обновяване на добавките">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "А">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "О">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -63,9 +63,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Нулиране на всички добавки, за да бъдат автоматично обновявани">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "Н">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "Нулиране на всички добавки, за да бъдат ръчно обновявани">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "у">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Обновяване на добавките">
 <!ENTITY updates.installed.label              "Вашите добавки бяха обновени.">
 <!ENTITY updates.downloaded.label             "Обновяването за вашите добавки е изтеглено.">
@@ -77,24 +77,24 @@
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Повече информация">
-<!ENTITY cmd.showDetails.accesskey            "П">
+<!ENTITY cmd.showDetails.accesskey            "в">
 <!ENTITY cmd.findUpdates.label                "Намиране на обновявания">
-<!ENTITY cmd.findUpdates.accesskey            "Н">
+<!ENTITY cmd.findUpdates.accesskey            "ц">
 <!ENTITY cmd.preferencesWin.label             "Настройки">
-<!ENTITY cmd.preferencesWin.accesskey         "Н">
+<!ENTITY cmd.preferencesWin.accesskey         "о">
 <!ENTITY cmd.preferencesUnix.label            "Настройки">
-<!ENTITY cmd.preferencesUnix.accesskey        "Н">
+<!ENTITY cmd.preferencesUnix.accesskey        "О">
 <!ENTITY cmd.about.label                      "Относно">
 <!ENTITY cmd.about.accesskey                  "О">
 
 <!ENTITY cmd.enableAddon.label                "Включване">
-<!ENTITY cmd.enableAddon.accesskey            "В">
+<!ENTITY cmd.enableAddon.accesskey            "Р">
 <!ENTITY cmd.disableAddon.label               "Изключване">
-<!ENTITY cmd.disableAddon.accesskey           "И">
+<!ENTITY cmd.disableAddon.accesskey           "Б">
 <!ENTITY cmd.enableTheme.label                "Слагане на тема">
-<!ENTITY cmd.enableTheme.accesskey            "С">
+<!ENTITY cmd.enableTheme.accesskey            "н">
 <!ENTITY cmd.disableTheme.label               "Спиране на сложената тема">
-<!ENTITY cmd.disableTheme.accesskey           "л">
+<!ENTITY cmd.disableTheme.accesskey           "н">
 <!ENTITY cmd.askToActivate.label              "Питане за включване">
 <!ENTITY cmd.askToActivate.tooltip            "Заявка за използване на тази добавка всеки път">
 <!ENTITY cmd.alwaysActivate.label             "Винаги включена">
@@ -105,13 +105,13 @@
 <!ENTITY cmd.installAddon.label               "Инсталиране">
 <!ENTITY cmd.installAddon.accesskey           "И">
 <!ENTITY cmd.uninstallAddon.label             "Премахване">
-<!ENTITY cmd.uninstallAddon.accesskey         "П">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Настройки">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Промяна на настройките на тази добавка">
 <!ENTITY cmd.showPreferencesUnix.label        "Настройки">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Сменяне на настройките на тази добавка">
 <!ENTITY cmd.contribute.label                 "Принос">
-<!ENTITY cmd.contribute.accesskey             "П">
+<!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Принос за развитието на тази добавка">
 
 <!ENTITY cmd.showReleaseNotes.label           "Показване на бележките по изданието">
@@ -128,7 +128,7 @@
 <!ENTITY discover.footer                      "Когато сте свързани с Интернет, този панел ще показванякои от най-добрите и популярни добавки, така че да може да ги опитате.">
 
 <!-- detail view -->
-<!ENTITY detail.version.label                 "Версия">
+<!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Последно обновяване">
 <!ENTITY detail.creator.label                 "Разработчик">
 <!ENTITY detail.homepage.label                "Страница">
@@ -137,7 +137,7 @@
 <!ENTITY detail.contributions.description     "Разработчикът на тази добавка ви моли да поддържате разработката чрез малко дарение.">
 
 <!ENTITY detail.updateType                    "Автоматично обновяване">
-<!ENTITY detail.updateDefault.label           "Стандартно">
+<!ENTITY detail.updateDefault.label           "Default">
 <!ENTITY detail.updateDefault.tooltip         "Автоматично инсталиране на обновявания само ако е стандартно">
 <!ENTITY detail.updateAutomatic.label         "Включено">
 <!ENTITY detail.updateAutomatic.tooltip       "Автоматично инсталиране на обновявания">
@@ -148,13 +148,13 @@
 <!ENTITY detail.size                          "Размер">
 
 <!ENTITY detail.checkForUpdates.label         "Проверка за обновяване">
-<!ENTITY detail.checkForUpdates.accesskey     "П">
+<!ENTITY detail.checkForUpdates.accesskey     "ц">
 <!ENTITY detail.checkForUpdates.tooltip       "Проверка за обновяване на тази добавка">
 <!ENTITY detail.showPreferencesWin.label      "Настройки">
-<!ENTITY detail.showPreferencesWin.accesskey  "Н">
+<!ENTITY detail.showPreferencesWin.accesskey  "о">
 <!ENTITY detail.showPreferencesWin.tooltip    "Промяна на настройките на тази добавка">
 <!ENTITY detail.showPreferencesUnix.label     "Настройки">
-<!ENTITY detail.showPreferencesUnix.accesskey "Н">
+<!ENTITY detail.showPreferencesUnix.accesskey "О">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Сменяне на настройките на тази добавка">
 
 
@@ -210,9 +210,9 @@
 <!ENTITY addon.updateNow.tooltip              "Инсталиране на обновяването на тази добавка">
 <!ENTITY addon.includeUpdate.label            "Включване в обновяване">
 <!ENTITY addon.updateAvailable.label          "Налично е обновяване">
-<!ENTITY addon.checkingForUpdates.label       "Проверка за обновяване…">
+<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
 <!ENTITY addon.releaseNotes.label             "Бележки по изданието:">
-<!ENTITY addon.loadingReleaseNotes.label      "Зареждане…">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Съжаляваме, но зареждането на бележките по изданието беше неуспешно.">
 
 <!ENTITY addon.createdBy.label                "От ">
@@ -233,7 +233,7 @@
 <!ENTITY experiment.info.learnmore "Научете повече">
 <!ENTITY experiment.info.learnmore.accesskey "Н">
 <!ENTITY experiment.info.changetelemetry "Настройки на телеметрията">
-<!ENTITY experiment.info.changetelemetry.accesskey "Н">
+<!ENTITY experiment.info.changetelemetry.accesskey "И">
 
 <!ENTITY setting.learnmore "Научете повече…">
 
