@@ -7,74 +7,74 @@
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Správa">
-<!ENTITY organize.accesskey    "S">
+<!ENTITY organize.accesskey    "s">
 <!ENTITY organize.tooltip      "Umožní správu záložek">
 
 <!ENTITY file.close.label               "Zavřít">
-<!ENTITY file.close.accesskey           "v">
-<!ENTITY cmd.close.key                  "w">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "b">
 <!ENTITY views.label                    "Rozložení">
-<!ENTITY views.accesskey                "R">
+<!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Změní rozložení">
 <!ENTITY view.columns.label             "Zobrazené sloupce">
-<!ENTITY view.columns.accesskey         "b">
+<!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "Řazení položek">
-<!ENTITY view.sort.accesskey            "z">
+<!ENTITY view.sort.accesskey            "d">
 <!ENTITY view.unsorted.label            "Neřadit">
-<!ENTITY view.unsorted.accesskey        "e">
+<!ENTITY view.unsorted.accesskey        "t">
 <!ENTITY view.sortAscending.label       "Vzestupně">
-<!ENTITY view.sortAscending.accesskey   "V">
+<!ENTITY view.sortAscending.accesskey   "O">
 <!ENTITY view.sortDescending.label      "Sestupně">
-<!ENTITY view.sortDescending.accesskey  "S">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "Importovat záložky z HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Exportovat záložky do HTML…">
-<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY exportBookmarksToHTML.accesskey   "a">
 <!ENTITY importOtherBrowser.label          "Importovat data z jiného prohlížeče…">
-<!ENTITY importOtherBrowser.accesskey      "d">
+<!ENTITY importOtherBrowser.accesskey      "O">
 
 <!ENTITY cmd.backup.label               "Zálohovat…">
-<!ENTITY cmd.backup.accesskey           "Z">
+<!ENTITY cmd.backup.accesskey           "z">
 <!ENTITY cmd.restore2.label             "Obnovit">
-<!ENTITY cmd.restore2.accesskey         "O">
+<!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Vybrat soubor…">
-<!ENTITY cmd.restoreFromFile.accesskey  "V">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY cmd.deleteDomainData.label     "Odebrat celý web">
-<!ENTITY cmd.deleteDomainData.accesskey "w">
+<!ENTITY cmd.deleteDomainData.accesskey "r">
 
 <!ENTITY cmd.open.label                  "Otevřít">
-<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open.accesskey              "s">
 <!ENTITY cmd.open_window.label           "Otevřít v novém okně">
-<!ENTITY cmd.open_window.accesskey       "t">
+<!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_private_window.label     "Otevřít v novém anonymním okně">
 <!ENTITY cmd.open_private_window.accesskey "a">
 <!ENTITY cmd.open_tab.label              "Otevřít v novém panelu">
-<!ENTITY cmd.open_tab.accesskey          "p">
+<!ENTITY cmd.open_tab.accesskey          "b">
 <!ENTITY cmd.open_all_in_tabs.label      "Otevřít vše v panelech">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "p">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "s">
 
 <!ENTITY cmd.properties.label      "Vlastnosti">
-<!ENTITY cmd.properties.accesskey  "V">
+<!ENTITY cmd.properties.accesskey  "n">
 
 <!ENTITY cmd.sortby_name.label              "Seřadit podle názvu">
-<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.sortby_name.accesskey          "d">
 <!ENTITY cmd.context_sortby_name.accesskey  "S">
 
 <!ENTITY cmd.new_bookmark.label            "Nová záložka…">
-<!ENTITY cmd.new_bookmark.accesskey        "N">
+<!ENTITY cmd.new_bookmark.accesskey        "z">
 <!ENTITY cmd.new_folder.label              "Nová složka…">
-<!ENTITY cmd.new_folder.accesskey          "v">
-<!ENTITY cmd.context_new_folder.accesskey  "s">
+<!ENTITY cmd.new_folder.accesskey          "P">
+<!ENTITY cmd.context_new_folder.accesskey  "r">
 <!ENTITY cmd.new_separator.label           "Nový oddělovač">
 <!ENTITY cmd.new_separator.accesskey       "d">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Obnovit aktuální záložku">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "O">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Přesunout…">
-<!ENTITY cmd.moveBookmarks.accesskey              "P">
+<!ENTITY cmd.moveBookmarks.accesskey              "H">
 
 <!ENTITY col.name.label          "Název">
 <!ENTITY col.tags.label          "Štítky">
@@ -85,7 +85,7 @@
 <!ENTITY col.dateadded.label     "Přidáno">
 <!ENTITY col.lastmodified.label  "Poslední změna">
 
-<!ENTITY search.placeholder  "Hledat">
+<!ENTITY search.placeholder  "Hledání">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -98,22 +98,22 @@
 <!ENTITY forwardButton.tooltip  "Přejde vpřed">
 
 <!ENTITY detailsPane.more.label "Více">
-<!ENTITY detailsPane.more.accesskey "V">
+<!ENTITY detailsPane.more.accesskey "H">
 <!ENTITY detailsPane.less.label "Méně">
-<!ENTITY detailsPane.less.accesskey "M">
+<!ENTITY detailsPane.less.accesskey "H">
 <!ENTITY detailsPane.selectAnItemText.description "Pro zobrazení a úpravu vlastností vyberte některou z položek">
 
 <!ENTITY view.label               "Zobrazit">
-<!ENTITY view.accesskey           "Z">
+<!ENTITY view.accesskey           "b">
 <!ENTITY byDate.label             "Podle data">
-<!ENTITY byDate.accesskey         "d">
+<!ENTITY byDate.accesskey         "N">
 <!ENTITY bySite.label             "Podle názvu stránky">
-<!ENTITY bySite.accesskey         "s">
+<!ENTITY bySite.accesskey         "d">
 <!ENTITY byMostVisited.label      "Podle počtu návštěv">
-<!ENTITY byMostVisited.accesskey  "n">
+<!ENTITY byMostVisited.accesskey  "V">
 <!ENTITY byLastVisited.label      "Podle poslední návštěvy">
 <!ENTITY byLastVisited.accesskey  "P">
 <!ENTITY byDayAndSite.label       "Podle data a serveru">
-<!ENTITY byDayAndSite.accesskey   "a">
+<!ENTITY byDayAndSite.accesskey   "t">
 <!ENTITY col.parentfolder.label  "Parent Folder">
 <!ENTITY col.parentpath.label  "Parent Path">
