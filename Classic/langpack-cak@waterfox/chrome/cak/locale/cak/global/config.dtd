@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Nïm runuk'ulem">
 <!ENTITY aboutWarningText.label "Re ruxaq nuk'ulem, nuya' q'ij chi ye'ak'ëx ri nima'q taq awajowab'al, yejal ri taq retal toq majun awetamab'al achajin, rik'in jub'a' itzel taq rub'anikil xke'anük'. Niqachilab'ej chawe chi mani yatok po yatikïr we kan awetaman achike ri xtasamajij qa.">
 <!ENTITY aboutWarningButton2.label "¡Nink'ül ri samaj!">
@@ -13,38 +13,38 @@
 
 <!ENTITY searchPrefs.label "Tikanöx:">
 <!ENTITY searchPrefs.accesskey "k">
-<!ENTITY focusSearch.key "r">
+<!ENTITY focusSearch.key "k">
 <!ENTITY focusSearch2.key "f">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Rub'i' ajowab'äl">
-<!ENTITY lockColumn.label "Amaq'">
+<!ENTITY lockColumn.label "B'anikil:">
 <!ENTITY typeColumn.label "Ruwäch">
 <!ENTITY valueColumn.label "Retal">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Tipitz' richin nicholajïx"> 
 <!ENTITY columnChooser.tooltip "Tipitz' richin nicha' ri taq tem xkek'ut pe"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "Wachib'exïk">
-<!ENTITY copyPref.accesskey "c">
+<!ENTITY copyPref.label "Tiwachib'ëx">
+<!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Tiwachib'ëx ri b'i'aj">
-<!ENTITY copyName.accesskey "b">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Tiwachib'ëx retal">
-<!ENTITY copyValue.accesskey "r">
+<!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Tijalwachïx">
-<!ENTITY modify.accesskey "T">
+<!ENTITY modify.accesskey "c">
 <!ENTITY toggle.label "Tik'ex">
-<!ENTITY toggle.accesskey "T">
+<!ENTITY toggle.accesskey "E">
 <!ENTITY reset.label "Tikirib'alil">
-<!ENTITY reset.accesskey "T">
-<!ENTITY new.label "K'ak'a'">
-<!ENTITY new.accesskey "k">
-<!ENTITY string.label "Cholajil">
-<!ENTITY string.accesskey "C">
-<!ENTITY integer.label "Chijun">
-<!ENTITY integer.accesskey "C">
-<!ENTITY boolean.label "Ja'/manäq">
-<!ENTITY boolean.accesskey "J">
+<!ENTITY reset.accesskey "R">
+<!ENTITY new.label "New">
+<!ENTITY new.accesskey "c">
+<!ENTITY string.label "String">
+<!ENTITY string.accesskey "K">
+<!ENTITY integer.label "Integer">
+<!ENTITY integer.accesskey "R">
+<!ENTITY boolean.label "Boolean">
+<!ENTITY boolean.accesskey "K">
