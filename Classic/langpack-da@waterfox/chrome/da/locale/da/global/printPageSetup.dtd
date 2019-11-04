@@ -8,25 +8,25 @@
 
 <!ENTITY basic.tab           "Format og indstillinger">
 
-<!ENTITY formatGroup.label   "Formater">
+<!ENTITY formatGroup.label   "Format">
 
 <!ENTITY orientation.label   "Orientering:">
 <!ENTITY portrait.label      "Portræt">
-<!ENTITY portrait.accesskey  "P">
+<!ENTITY portrait.accesskey  "p">
 <!ENTITY landscape.label     "Landskab">
 <!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "Skaler:">
-<!ENTITY scale.accesskey     "S">
-<!ENTITY scalePercent        "&#037;">
+<!ENTITY scale.accesskey     "I">
+<!ENTITY scalePercent        "%">
 
 <!ENTITY shrinkToFit.label   "Tilpas til sidebredden">
-<!ENTITY shrinkToFit.accesskey "i">
+<!ENTITY shrinkToFit.accesskey "v">
 
-<!ENTITY optionsGroup.label  "Valgmuligheder">
+<!ENTITY optionsGroup.label  "Indstillinger">
 
 <!ENTITY printBG.label       "Udskriv baggrunden (farver &amp; baggrundsbilleder)">
-<!ENTITY printBG.accesskey   "U">
+<!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "Margener og sidehoved/sidefod">
 
@@ -38,9 +38,9 @@
 <!ENTITY marginBottom.label  "Bund">
 <!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "Venstre">
-<!ENTITY marginLeft.accesskey "V">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "Højre">
-<!ENTITY marginRight.accesskey "H">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Sidehoveder og sidefødder">
 
