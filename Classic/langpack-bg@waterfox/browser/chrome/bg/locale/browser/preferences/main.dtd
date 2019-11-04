@@ -5,36 +5,36 @@
 <!ENTITY startup.label             "Начална страница">
 
 <!ENTITY startupPage2.label        "Когато &brandShortName; стартира">
-<!ENTITY startupPage2.accesskey    "с">
+<!ENTITY startupPage2.accesskey    "С">
 <!ENTITY startupUserHomePage.label "Показва началната страница">
 <!ENTITY startupBlankPage.label    "Показва празна страница">
 <!ENTITY startupPrevSession.label  "Показва прозорците и разделите от последния път">
 
 <!ENTITY homepage2.label           "Начална страница">
-<!ENTITY homepage2.accesskey       "Н">
+<!ENTITY homepage2.accesskey       "О">
 <!ENTITY useCurrentPage.label      "Текущата страница">
-<!ENTITY useCurrentPage.accesskey  "Т">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Текущите страници">
 <!ENTITY chooseBookmark.label      "Отметка…">
-<!ENTITY chooseBookmark.accesskey  "О">
+<!ENTITY chooseBookmark.accesskey  "о">
 <!ENTITY restoreDefault.label      "Стандартната страница">
-<!ENTITY restoreDefault.accesskey  "С">
+<!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Изтегляния">
 
 <!ENTITY saveTo.label "Запазване на файловете в">
-<!ENTITY saveTo.accesskey "З">
+<!ENTITY saveTo.accesskey "р">
 <!ENTITY chooseFolderWin.label        "Разглеждане…">
-<!ENTITY chooseFolderWin.accesskey    "Р">
+<!ENTITY chooseFolderWin.accesskey    "б">
 <!ENTITY chooseFolderMac.label        "Избиране…">
-<!ENTITY chooseFolderMac.accesskey    "И">
+<!ENTITY chooseFolderMac.accesskey    "Д">
 <!ENTITY alwaysAskWhere.label         "Винаги да пита къде да бъдат запазвани файловете">
-<!ENTITY alwaysAskWhere.accesskey     "В">
+<!ENTITY alwaysAskWhere.accesskey     "О">
 
 <!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е стандартният браузър">
-<!ENTITY alwaysCheckDefault2.accesskey    "б">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser3.label     "Задаване като стандартен…">
-<!ENTITY setAsMyDefaultBrowser3.accesskey "с">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "Б">
 <!ENTITY isDefault.label                  "&brandShortName; е вашият стандартен браузър">
 <!ENTITY isNotDefault.label               "&brandShortName; не е вашият стандартен браузър">
 
