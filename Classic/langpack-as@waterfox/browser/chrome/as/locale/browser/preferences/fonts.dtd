@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "লেটিন">
 <!ENTITY  font.langGroup.japanese                 "জাপানী">
 <!ENTITY  font.langGroup.trad-chinese             "পাৰম্পৰিক চীনা (টাইৱান)">
@@ -46,8 +46,8 @@
 <!ENTITY  font.langGroup.gurmukhi                 "গুৰ্মুখী">
 <!ENTITY  font.langGroup.khmer                    "খ্‌মেৰ">
 <!ENTITY  font.langGroup.malayalam                "মলয়ালম">
-
-
+<!ENTITY  font.langGroup.math                     "Mathematics">
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "টেলুগু">
 <!ENTITY  font.langGroup.kannada                  "কন্নড়">
 <!ENTITY  font.langGroup.sinhala                  "সিংহালা">
@@ -56,16 +56,18 @@
 <!ENTITY minSize.label                            "সৰ্বনিম্ন ফন্টৰ আকাৰ:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "একো নাই">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!ENTITY  allowPagesToUseOwn.label                "Allow pages to choose their own fonts, instead of your selections above">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
-
-
-
-
+<!ENTITY languages.customize.Fallback2.grouplabel "Text Encoding for Legacy Content">
+<!ENTITY languages.customize.Fallback2.label      "Fallback Text Encoding:">
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback2.desc       "This text encoding is used for legacy content that fails to declare its encoding.">
 
 <!ENTITY languages.customize.Fallback.auto        "বৰ্তমান স্থানীয়ৰ বাবে অবিকল্পিত">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
@@ -103,14 +105,3 @@
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "ভিয়েতনামি">
 <!ENTITY languages.customize.Fallback.other       "অন্য (পশ্চিম ইউৰোপীয় অন্তৰ্ভুক্ত)">
-
-<!ENTITY  allowPagesToUseOwn.accesskey            "A">
-
-<!ENTITY  allowPagesToUseOwn.label                "Allow pages to choose their own fonts, instead of your selections above">
-<!ENTITY  font.langGroup.math                     "Mathematics">
-<!ENTITY  font.langGroup.odia                     "Odia">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
-<!ENTITY languages.customize.Fallback2.desc       "This text encoding is used for legacy content that fails to declare its encoding.">
-
-<!ENTITY languages.customize.Fallback2.grouplabel "Text Encoding for Legacy Content">
-<!ENTITY languages.customize.Fallback2.label      "Fallback Text Encoding:">
