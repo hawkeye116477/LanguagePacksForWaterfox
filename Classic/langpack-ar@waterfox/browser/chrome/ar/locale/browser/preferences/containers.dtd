@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addButton.label      "أضف حاوية جديدة">
-<!ENTITY addButton.accesskey  "ح">
+<!ENTITY addButton.accesskey  "ع">
 <!ENTITY preferencesButton.label "التفضيلات">
 <!ENTITY removeButton.label   "أزِل">
 <!-- &#171; is &laquo; however it's not defined in XML -->
@@ -13,14 +13,14 @@
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "الاسم:">
-<!ENTITY name.accesskey       "س">
+<!ENTITY name.accesskey       "N">
 <!ENTITY name.placeholder     "أدخِل اسم الحاوية">
 <!ENTITY icon.label           "الأيقونة:">
-<!ENTITY icon.accesskey       "ق">
+<!ENTITY icon.accesskey       "م">
 <!ENTITY color.label          "اللون:">
 <!ENTITY color.accesskey      "ل">
-<!ENTITY windowClose.key      "w">
+<!ENTITY windowClose.key      "خ">
 
-<!ENTITY button.ok.label      "تم">
+<!ENTITY button.ok.label      "تمّ">
 <!ENTITY button.ok.accesskey  "ت">
 
