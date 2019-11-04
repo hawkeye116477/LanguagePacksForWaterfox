@@ -2,94 +2,115 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(tryb prywatny)">
 
-<!ENTITY appmenu.tooltip "Otwórz menu">
-<!ENTITY navbarOverflow.label "Więcej narzędzi…">
+<!ENTITY appmenu.tooltip                     "Otwórz menu">
+<!ENTITY navbarOverflow.label                "Więcej narzędzi…">
 
-<!ENTITY reloadTab.label                     "Odśwież kartę" >
-<!ENTITY reloadTab.accesskey                 "d" >
-<!ENTITY reloadAllTabs.label                 "Odśwież wszystkie karty" >
-<!ENTITY reloadAllTabs.accesskey             "w" >
-<!ENTITY closeTabsToTheEnd.label "Zamknij karty po prawej stronie">
-<!ENTITY closeTabsToTheEnd.accesskey "p">
-<!ENTITY closeOtherTabs.label                "Zamknij inne karty" >
-<!ENTITY closeOtherTabs.accesskey            "i" >
+<!-- Tab context menu -->
+<!ENTITY  reloadTab.label                    "Odśwież kartę">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "Odśwież wszystkie karty">
+<!ENTITY  reloadAllTabs.accesskey            "O">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Zamknij karty po prawej stronie">
+<!ENTITY  closeTabsToTheEnd.accesskey        "p">
+<!ENTITY  closeOtherTabs.label               "Zamknij inne karty">
+<!ENTITY  closeOtherTabs.accesskey           "r">
 
-<!ENTITY pinTab.label "Przypnij kartę">
-<!ENTITY pinTab.accesskey "n">
-<!ENTITY unpinTab.label "Odepnij kartę">
-<!ENTITY unpinTab.accesskey "n">
-<!ENTITY sendTabToDevice.label "Prześlij kartę do">
-<!ENTITY sendTabToDevice.accesskey "P">
-<!ENTITY sendPageToDevice.label "Prześlij stronę do">
-<!ENTITY sendPageToDevice.accesskey "P">
-<!ENTITY sendLinkToDevice.label "Prześlij odnośnik do">
-<!ENTITY sendLinkToDevice.accesskey "P">
-<!ENTITY moveToNewWindow.label "Przenieś do nowego okna">
-<!ENTITY moveToNewWindow.accesskey "o">
-<!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
-<!ENTITY bookmarkAllTabs.accesskey           "k">
-<!ENTITY undoCloseTab.label                  "Przywróć zamkniętą kartę">
-<!ENTITY undoCloseTab.accesskey              "P">
-<!ENTITY closeTab.label                      "Zamknij kartę" >
-<!ENTITY closeTab.accesskey                  "a" >
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinTab.label                       "Przypnij kartę">
+<!ENTITY  pinTab.accesskey                   "O">
+<!ENTITY  unpinTab.label                     "Odepnij kartę">
+<!ENTITY  unpinTab.accesskey                 "n">
+<!ENTITY  sendTabToDevice.label              "Prześlij kartę do">
+<!ENTITY  sendTabToDevice.accesskey          "N">
+<!ENTITY  sendPageToDevice.label             "Prześlij stronę do">
+<!ENTITY  sendPageToDevice.accesskey         "N">
+<!ENTITY  sendLinkToDevice.label             "Prześlij odnośnik do">
+<!ENTITY  sendLinkToDevice.accesskey         "N">
+<!ENTITY  moveToNewWindow.label              "Przenieś do nowego okna">
+<!ENTITY  moveToNewWindow.accesskey          "o">
+<!ENTITY  bookmarkAllTabs.label              "Dodaj zakładki do wszystkich kart…">
+<!ENTITY  bookmarkAllTabs.accesskey          "n">
+<!ENTITY  undoCloseTab.label                 "Przywróć zamkniętą kartę">
+<!ENTITY  undoCloseTab.accesskey             "P">
+<!ENTITY  closeTab.label                     "Zamknij kartę">
+<!ENTITY  closeTab.accesskey                 "a">
 
-<!ENTITY listAllTabs.label "Pokaż wszystkie karty">
+<!ENTITY  listAllTabs.label      "Pokaż wszystkie karty">
 
-<!ENTITY tabCmd.label "Nowa karta" >
-<!ENTITY tabCmd.accesskey "t" >
-<!ENTITY tabCmd.commandkey "t" >
+<!ENTITY tabCmd.label "Nowa karta">
+<!ENTITY tabCmd.accesskey "n">
+<!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "Otwórz adres…">
-<!ENTITY openFileCmd.label "Otwórz plik…" >
-<!ENTITY openFileCmd.accesskey "o" >
-<!ENTITY openFileCmd.commandkey "o" >
-<!ENTITY printSetupCmd.label "Ustawienia strony…" >
-<!ENTITY printSetupCmd.accesskey "U" >
-<!ENTITY printPreviewCmd.label "Podgląd wydruku" >
-<!ENTITY printPreviewCmd.accesskey "g" >
-<!ENTITY printCmd.label "Drukuj…" >
-<!ENTITY printCmd.accesskey "D" >
-<!ENTITY printCmd.commandkey "p" >
+<!ENTITY openFileCmd.label "Otwórz plik…">
+<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.commandkey "r">
+<!ENTITY printSetupCmd.label "Ustawienia strony…">
+<!ENTITY printSetupCmd.accesskey "U">
+<!ENTITY printPreviewCmd.label "Podgląd wydruku">
+<!ENTITY printPreviewCmd.accesskey "g">
+<!ENTITY printCmd.label "Drukuj…">
+<!ENTITY printCmd.accesskey "O">
+<!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Pracuj w trybie offline" >
-<!ENTITY goOfflineCmd.accesskey "c" >
+<!ENTITY goOfflineCmd.label "Pracuj w trybie offline">
+<!ENTITY goOfflineCmd.accesskey "c">
 
 <!ENTITY menubarCmd.label "Pasek menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY navbarCmd.label "Pasek narzędzi nawigacyjnych" >
-<!ENTITY personalbarCmd.label "Pasek zakładek" >
-<!ENTITY personalbarCmd.accesskey "z" >
-<!ENTITY bookmarksToolbarItem.label "Elementy paska zakładek" >
+<!ENTITY navbarCmd.label "Pasek narzędzi nawigacyjnych">
+<!ENTITY personalbarCmd.label "Pasek zakładek">
+<!ENTITY personalbarCmd.accesskey "z">
+<!ENTITY bookmarksToolbarItem.label "Elementy paska zakładek">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Odśwież wszystkie karty">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "O">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dodaj zakładki do wszystkich kart…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "D">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "n">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Przywróć zamkniętą kartę">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "P">
 
-<!ENTITY pageSourceCmd.label "Źródło strony" >
-<!ENTITY pageSourceCmd.accesskey "d" >
-<!ENTITY pageSourceCmd.commandkey "u" >
-<!ENTITY pageInfoCmd.label "Informacje o stronie" >
-<!ENTITY pageInfoCmd.accesskey "m" >
-<!ENTITY pageInfoCmd.commandkey "i" >
+<!ENTITY pageSourceCmd.label "Źródło strony">
+<!ENTITY pageSourceCmd.accesskey "r">
+<!ENTITY pageSourceCmd.commandkey "U">
+<!ENTITY pageInfoCmd.label "Informacje o stronie">
+<!ENTITY pageInfoCmd.accesskey "m">
+<!ENTITY pageInfoCmd.commandkey "p">
 <!ENTITY mirrorTabCmd.label "Przekaż kartę">
-<!ENTITY mirrorTabCmd.accesskey "P">
-
+<!ENTITY mirrorTabCmd.accesskey "m">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Tryb pełnoekranowy">
 <!ENTITY enterFullScreenCmd.accesskey "T">
 <!ENTITY exitFullScreenCmd.label "Opuść tryb pełnoekranowy">
-<!ENTITY exitFullScreenCmd.accesskey "O">
-<!ENTITY fullScreenCmd.label "Tryb pełnoekranowy" >
-<!ENTITY fullScreenCmd.accesskey "T" >
+<!ENTITY exitFullScreenCmd.accesskey "T">
+<!ENTITY fullScreenCmd.label "Tryb pełnoekranowy">
+<!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Wyświetl wszystkie karty">
-<!ENTITY showAllTabsCmd.accesskey "W">
+<!ENTITY showAllTabsCmd.accesskey "O">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Zaloguj się do synchronizacji">
@@ -97,39 +118,57 @@
 <!ENTITY fxaSignInError.label "Zaloguj się ponownie, aby synchronizować">
 <!ENTITY fxaUnverified.label "Zweryfikuj konto">
 
-<!ENTITY fullScreenMinimize.tooltip "Minimalizuj">
+
+<!ENTITY fullScreenMinimize.tooltip "Miniaturka">
 <!ENTITY fullScreenRestore.tooltip "Przywróć">
 <!ENTITY fullScreenClose.tooltip "Zamknij">
 <!ENTITY fullScreenAutohide.label "Ukryj paski narzędzi">
-<!ENTITY fullScreenAutohide.accesskey "U">
+<!ENTITY fullScreenAutohide.accesskey "c">
 <!ENTITY fullScreenExit.label "Opuść tryb pełnoekranowy">
-<!ENTITY fullScreenExit.accesskey "O">
+<!ENTITY fullScreenExit.accesskey "T">
 
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "działa teraz w trybie pełnoekranowym">
 <!ENTITY fullscreenWarning.generic.label "Dokument jest teraz wyświetlany w trybie pełnoekranowym">
 
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Opuść tryb pełnoekranowy (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Opuść tryb pełnoekranowy (esc)">
+<!ENTITY leaveDOMFullScreen.label "Opuść tryb pełnoekranowy">
+<!ENTITY leaveDOMFullScreen.accesskey "U">
+
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "kontroluje teraz kursor. Użyj klawisza Esc, aby przejąć nad nim kontrolę.">
 <!ENTITY pointerlockWarning.generic.label "Dokument kontroluje teraz kursor. Użyj klawisza Esc, aby przejąć nad nim kontrolę.">
 
-<!ENTITY exitDOMFullscreen.button "Opuść tryb pełnoekranowy (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Opuść tryb pełnoekranowy (esc)">
-<!ENTITY leaveDOMFullScreen.label "Opuść tryb pełnoekranowy">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
-
-<!ENTITY closeWindow.label "Zamknij okno" >
+<!ENTITY closeWindow.label "Zamknij okno">
 <!ENTITY closeWindow.accesskey "m">
 
-<!ENTITY bookmarksMenu.label "Zakładki" >
-<!ENTITY bookmarksMenu.accesskey "Z" >
-<!ENTITY bookmarkThisPageCmd.label "Dodaj zakładkę" >
+<!ENTITY bookmarksMenu.label "Zakładki">
+<!ENTITY bookmarksMenu.accesskey "z">
+<!ENTITY bookmarkThisPageCmd.label "Dodaj zakładkę">
 <!ENTITY editThisBookmarkCmd.label "Edytuj zakładkę">
-<!ENTITY bookmarkThisPageCmd.commandkey "d" >
+<!ENTITY bookmarkThisPageCmd.commandkey "m">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Więcej serwisów udostępniania…">
 <!ENTITY sharePageCmd.label "Udostępnij tę stronę">
-<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.commandkey "e">
 <!ENTITY sharePageCmd.accesskey "U">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Udostępnij ten odnośnik">
 <!ENTITY shareLink.accesskey "U">
 <!ENTITY shareImage.label "Udostępnij ten obraz">
@@ -147,154 +186,164 @@
 <!ENTITY otherBookmarksCmd.label "Pozostałe zakładki">
 <!ENTITY mobileBookmarksCmd.label "Zakładki z urządzeń przenośnych">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
-<!ENTITY showRecentlyBookmarked.label "Wyświetl ostatnio dodane">
-<!ENTITY showRecentlyBookmarked.accesskey "W">
-<!ENTITY hideRecentlyBookmarked.label "Ukryj ostatnio dodane">
-<!ENTITY hideRecentlyBookmarked.accesskey "U">
+<!ENTITY showRecentlyBookmarked.label     "Wyświetl ostatnio dodane">
+<!ENTITY showRecentlyBookmarked.accesskey "U">
+<!ENTITY hideRecentlyBookmarked.label     "Ukryj ostatnio dodane">
+<!ENTITY hideRecentlyBookmarked.accesskey "c">
 
-<!ENTITY backCmd.label "Wstecz" >
-<!ENTITY backButton.tooltip "Przejdź do poprzedniej strony" >
-<!ENTITY forwardCmd.label "Do przodu" >
-<!ENTITY forwardButton.tooltip "Przejdź do następnej strony" >
+<!ENTITY backCmd.label                "Wstecz">
+<!ENTITY backButton.tooltip           "Przejdź do poprzedniej strony">
+<!ENTITY forwardCmd.label             "Do przodu">
+<!ENTITY forwardButton.tooltip        "Przejdź do następnej strony">
 <!ENTITY backForwardButtonMenu.tooltip "Kliknij prawym przyciskiem lub rozwiń, by wyświetlić historię">
 <!ENTITY backForwardButtonMenuMac.tooltip "Rozwiń, by wyświetlić historię">
-<!ENTITY reloadCmd.label "Odśwież" >
-<!ENTITY stopCmd.label "Zatrzymaj" >
-<!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY goEndCap.tooltip "Przejdź do strony o podanym adresie" >
-<!ENTITY printButton.label "Drukuj" >
-<!ENTITY printButton.tooltip "Drukuj bieżącą stronę">
+<!ENTITY reloadCmd.label              "Odśwież">
+<!ENTITY stopCmd.label                "Zatrzymaj">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY goEndCap.tooltip             "Przejdź do strony o podanym adresie">
+<!ENTITY printButton.label            "Drukuj">
+<!ENTITY printButton.tooltip          "Drukuj bieżącą stronę">
 
-<!ENTITY urlbar.viewSiteInfo.label "Wyświetl informacje o stronie">
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip "Wyświetl powiadomienie">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip "Wyświetl zapytanie o położenie">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip "Wyświetl zapytanie o instalację dodatków">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip "Wyświetl zapytanie o przechowywanie danych offline">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip "Określ, czy zachować hasło">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Zarządzaj wtyczkami używanymi na tej stronie">
-<!ENTITY urlbar.webNotificationAnchor.tooltip "Określ, czy witryna ma prawo wyświetlać powiadomienia">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip "Przechowywanie danych na komputerze">
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip "Przeglądarka jest zdalnie zarządzana">
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej witrynie kamery i mikrofonu">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Zarządzaj udostępnianiem mikrofonu tej witrynie">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej witrynie okien i ekranu">
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip "Wyświetl zapytanie instalacji usługi">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip "Przetłumacz tę stronę">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip "Zarządzaj ustawieniami tłumaczenia">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip "Zarządzaj ustawieniami DRM">
-<!ENTITY urlbar.cameraBlocked.tooltip "Udostępnianie kamery tej witrynie zostało zablokowane">
-<!ENTITY urlbar.microphoneBlocked.tooltip "Udostępnianie mikrofonu tej witrynie zostało zablokowane">
-<!ENTITY urlbar.screenBlocked.tooltip "Udostępnianie obrazu ekranu tej witrynie zostało zablokowane">
-<!ENTITY urlbar.geolocationBlocked.tooltip "Udostępnianie położenia tej witrynie zostało zablokowane">
-<!ENTITY urlbar.indexedDBBlocked.tooltip "Przechowywanie danych offline przez tę witrynę zostało zablokowane">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip "Powiadomienia z tej witryny zostały zablokowane">
+<!ENTITY urlbar.viewSiteInfo.label                      "Wyświetl informacje o stronie">
+
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Wyświetl powiadomienie">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Wyświetl zapytanie o położenie">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Wyświetl zapytanie o instalację dodatków">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Wyświetl zapytanie o przechowywanie danych offline">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Określ, czy zachować hasło">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Zarządzaj wtyczkami używanymi na tej stronie">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Określ, czy witryna ma prawo wyświetlać powiadomienia">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Przechowywanie danych na komputerze">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Przeglądarka jest zdalnie zarządzana">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Zarządzaj udostępnianiem tej witrynie kamery i mikrofonu">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Zarządzaj udostępnianiem mikrofonu tej witrynie">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Zarządzaj udostępnianiem tej witrynie okien i ekranu">
+
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Wyświetl zapytanie instalacji usługi">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Przetłumacz tę stronę">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Zarządzaj ustawieniami tłumaczenia">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Zarządzaj ustawieniami DRM">
+
+<!ENTITY urlbar.cameraBlocked.tooltip            "Udostępnianie kamery tej witrynie zostało zablokowane">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Udostępnianie mikrofonu tej witrynie zostało zablokowane">
+<!ENTITY urlbar.screenBlocked.tooltip            "Udostępnianie obrazu ekranu tej witrynie zostało zablokowane">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Udostępnianie położenia tej witrynie zostało zablokowane">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Przechowywanie danych offline przez tę witrynę zostało zablokowane">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Powiadomienia z tej witryny zostały zablokowane">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez witrynę zostało zablokowane">
-<!ENTITY urlbar.openHistoryPopup.tooltip "Wyświetl historię">
 
-<!ENTITY searchItem.title "Znajdź" >
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Wyświetl historię">
 
-<!ENTITY homeButton.label             "Strona startowa" >
+<!ENTITY searchItem.title             "Znajdź">
+
+<!-- Toolbar items -->
+<!ENTITY homeButton.label             "Strona startowa">
 
 <!ENTITY bookmarksButton.label          "Zakładki">
-<!ENTITY bookmarksCmd.commandkey        "b">
+<!ENTITY bookmarksCmd.commandkey "n">
 
 <!ENTITY bookmarksMenuButton.label          "Zakładki">
 <!ENTITY bookmarksMenuButton.other.label "Pozostałe zakładki">
 <!ENTITY bookmarksMenuButton.mobile.label "Zakładki z urządzeń przenośnych">
-<!ENTITY viewBookmarksSidebar2.label "Wyświetl panel zakładek">
+<!ENTITY viewBookmarksSidebar2.label        "Wyświetl panel zakładek">
 <!ENTITY viewBookmarksToolbar.label         "Wyświetl pasek zakładek">
-<!ENTITY searchBookmarks.label "Szukaj w zakładkach">
+<!ENTITY searchBookmarks.label              "Szukaj w zakładkach">
 
 <!ENTITY containersMenu.label "Konteksty">
 
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "r">
+<!ENTITY bookmarksWinCmd.commandkey "p">
 
 <!ENTITY historyButton.label            "Historia">
-<!ENTITY historySidebarCmd.commandKey   "h">
+<!ENTITY historySidebarCmd.commandKey   "U">
 
-<!ENTITY toolsMenu.label "Narzędzia" >
-<!ENTITY toolsMenu.accesskey "N" >
+<!ENTITY toolsMenu.label              "Narzędzia">
+<!ENTITY toolsMenu.accesskey          "n"> 
 
-<!ENTITY keywordfield.label "Utwórz słowo kluczowe dla tej wyszukiwarki…">
-<!ENTITY keywordfield.accesskey "U">
+<!ENTITY keywordfield.label           "Utwórz słowo kluczowe dla tej wyszukiwarki…">
+<!ENTITY keywordfield.accesskey       "S">
 
-<!ENTITY downloads.label "Pobieranie plików" >
-<!ENTITY downloads.accesskey "P" >
+<!ENTITY downloads.label              "Pobrane">
+<!ENTITY downloads.accesskey          "N">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label "Dodatki">
-<!ENTITY addons.accesskey "D">
-<!ENTITY addons.commandkey            "A">
+<!ENTITY addons.label                 "Dodatki">
+<!ENTITY addons.accesskey             "O">
+<!ENTITY addons.commandkey            "O">
 
 <!ENTITY webDeveloperMenu.label       "Dla twórców witryn">
-<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.accesskey   "o">
 
-<!ENTITY inspectContextMenu.label "Zbadaj element">
+<!ENTITY inspectContextMenu.label     "Zbadaj element">
 <!ENTITY inspectContextMenu.accesskey "t">
 
-<!ENTITY fileMenu.label "Plik" >
-<!ENTITY fileMenu.accesskey "P" >
-<!ENTITY newUserContext.label "Nowa karta z kontekstem">
-<!ENTITY newUserContext.accesskey "k">
-<!ENTITY newNavigatorCmd.label "Nowe okno" >
-<!ENTITY newNavigatorCmd.key "N" >
-<!ENTITY newNavigatorCmd.accesskey "N" >
+<!ENTITY fileMenu.label         "Plik"> 
+<!ENTITY fileMenu.accesskey       "T">
+<!ENTITY newUserContext.label             "Nowa karta z kontekstem">
+<!ENTITY newUserContext.accesskey         "z">
+<!ENTITY newNavigatorCmd.label        "Nowe okno">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nowe okno prywatne">
-<!ENTITY newPrivateWindow.accesskey "p">
-<!ENTITY newNonRemoteWindow.label "Nowe okno z pojedynczym procesem">
+<!ENTITY newPrivateWindow.accesskey "o">
+<!ENTITY newNonRemoteWindow.label   "Nowe okno z pojedynczym procesem">
 
-<!ENTITY editMenu.label "Edycja" >
-<!ENTITY editMenu.accesskey "E" >
-<!ENTITY undoCmd.label "Cofnij" >
-<!ENTITY undoCmd.key "Z" >
-<!ENTITY undoCmd.accesskey "C" >
-<!ENTITY redoCmd.label "Przywróć" >
-<!ENTITY redoCmd.key "Y" >
-<!ENTITY redoCmd.accesskey "P" >
-<!ENTITY cutCmd.label "Wytnij" >
-<!ENTITY cutCmd.key "X" >
-<!ENTITY cutCmd.accesskey "W" >
-<!ENTITY copyCmd.label "Kopiuj" >
-<!ENTITY copyCmd.key "C" >
-<!ENTITY copyCmd.accesskey "K" >
-<!ENTITY pasteCmd.label "Wklej" >
-<!ENTITY pasteCmd.key "V" >
-<!ENTITY pasteCmd.accesskey "e" >
-<!ENTITY deleteCmd.label "Usuń" >
-<!ENTITY deleteCmd.key "D" >
-<!ENTITY deleteCmd.accesskey "U" >
-<!ENTITY selectAllCmd.label "Zaznacz wszystko" >
-<!ENTITY selectAllCmd.key "A" >
-<!ENTITY selectAllCmd.accesskey "a" >
-<!ENTITY preferencesCmd2.label "Opcje">
-<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY editMenu.label         "Edycja"> 
+<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY undoCmd.label            "Cofnij">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "P"> 
+<!ENTITY redoCmd.label            "Przywróć">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY cutCmd.label           "Wytnij">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY copyCmd.label            "Kopiuj">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY pasteCmd.label           "Wklej">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "O"> 
+<!ENTITY deleteCmd.label          "Usuń">  
+<!ENTITY deleteCmd.key            "N">  
+<!ENTITY deleteCmd.accesskey        "N"> 
+<!ENTITY selectAllCmd.label         "Zaznacz wszystko">  
+<!ENTITY selectAllCmd.key         "O">  
+<!ENTITY selectAllCmd.accesskey       "O"> 
+<!ENTITY preferencesCmd2.label       "Opcje">
+<!ENTITY preferencesCmd2.accesskey     "o">
 <!ENTITY preferencesCmdUnix.label       "Preferencje">
-<!ENTITY preferencesCmdUnix.accesskey   "r">
+<!ENTITY preferencesCmdUnix.accesskey     "r"> 
 
-<!ENTITY clearRecentHistory.label     "Wyczyść historię przeglądania…">
+<!ENTITY clearRecentHistory.label               "Wyczyść historię przeglądania…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
+<!ENTITY privateBrowsingCmd.commandkey          "O">
 
-<!ENTITY viewMenu.label "Widok" >
-<!ENTITY viewMenu.accesskey "W" >
-<!ENTITY viewToolbarsMenu.label "Paski narzędzi" >
-<!ENTITY viewToolbarsMenu.accesskey "P" >
-<!ENTITY viewSidebarMenu.label "Panel boczny" >
-<!ENTITY viewSidebarMenu.accesskey "b" >
-<!ENTITY viewCustomizeToolbar.label "Dostosuj…" >
-<!ENTITY viewCustomizeToolbar.accesskey "t" >
-<!ENTITY overflowCustomizeToolbar.label "Dostosuj pasek narzędzi…">
-<!ENTITY overflowCustomizeToolbar.accesskey "D">
+<!ENTITY viewMenu.label         "Widok"> 
+<!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewToolbarsMenu.label       "Paski narzędzi"> 
+<!ENTITY viewToolbarsMenu.accesskey     "n"> 
+<!ENTITY viewSidebarMenu.label "Panel boczny">
+<!ENTITY viewSidebarMenu.accesskey "F">
+<!ENTITY viewCustomizeToolbar.label       "Dostosuj…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.label       "Dostosuj pasek narzędzi…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Historia">
-<!ENTITY historyMenu.accesskey "h">
+<!ENTITY historyMenu.accesskey "U">
 <!ENTITY historyUndoMenu.label "Ostatnio zamknięte karty">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ostatnio zamknięte okna">
 <!ENTITY historyRestoreLastSession.label "Przywróć poprzednią sesję">
 
 <!ENTITY showAllHistoryCmd2.label "Wyświetl całą historię">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY showAllHistoryCmd.commandkey "c">
 
 <!ENTITY appMenuCustomize.label "Dostosuj">
 <!ENTITY appMenuCustomize.tooltip "Dostosuj menu i paski narzędzi">
@@ -310,12 +359,23 @@
 <!ENTITY appMenuHelp.tooltip "Otwórz menu pomocy">
 
 <!ENTITY appMenuRemoteTabs.label "Karty z innych urządzeń">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Brak otwartych kart">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Wyświetl więcej">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Wyświetl więcej kart z tego urządzenia">
-<!ENTITY appMenuRemoteTabs.showAll.label "Wyświetl wszystkie">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Pokaż wszystkie">
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Wyświetl wszystkie karty z tego urządzenia">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Włącz synchronizację kart, aby wyświetlić ich listę z innych urządzeń.">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Waterfox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Synchronizacja kart wyłączona">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ustawienia synchronizacji">
@@ -325,212 +385,296 @@
 <!ENTITY appMenuRemoteTabs.sidebar.label "Wyświetl karty z innych urządzeń w panelu bocznym">
 
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj do paska narzędzi">
-<!ENTITY customizeMenu.addToToolbar.accesskey "D">
+<!ENTITY customizeMenu.addToToolbar.accesskey "O">
 <!ENTITY customizeMenu.addToPanel.label "Dodaj do menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
+     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     The overflow menu is the menu that appears if you click the chevron (>> button)
+     in the location bar. These labels are only used in Photon, where you can put
+     items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Dodaj do menu ukrywania">
-<!ENTITY customizeMenu.addToOverflowMenu.accesskey "k">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Przenieś na pasek narzędzi">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "P">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "r">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys. customizeMenu.moveToToolbar and
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Przenieś do menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "P">
+<!ENTITY customizeMenu.moveToPanel.accesskey "r">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Przypnij do menu ukrywania">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "O">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Odepnij z menu ukrywania">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "z">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.removeFromToolbar.label "Usuń z paska narzędzi">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "n">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Usuń z menu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "U">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Dodaj więcej…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "w">
+<!ENTITY customizeMenu.addMoreItems.accesskey "O">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
 <!ENTITY moreMenu.label "Więcej">
 
-<!ENTITY openCmd.commandkey "l" >
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Wprowadź adres lub szukaj">
-<!ENTITY urlbar.accesskey "d" >
-<!ENTITY urlbar.extension.label "Rozszerzenie:">
+<!ENTITY urlbar.accesskey             "m">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Rozszerzenie:">
 <!ENTITY urlbar.switchToTab.label     "Przełącz na kartę:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Czy wyświetlać w podpowiedziach paska adresu podpowiedzi dostarczane przez wyszukiwarki?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Więcej informacji…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "W">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nie">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "r">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Tak">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "T">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Wyszukuj łatwiej!">
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Ikona &#x1F50E; sygnalizuje podpowiedzi wyszukiwarek.">
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Ikona 🔎 sygnalizuje podpowiedzi wyszukiwarek.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Zmień opcje…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "Z">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Zmień preferencje…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "Z">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
-<!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
+<!--
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+ -->
+<!ENTITY searchFocus.commandkey       "c">
+<!ENTITY searchFocus.commandkey2      "F">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY contentSearchInput.label "Pole wyszukiwania">
-<!ENTITY contentSearchSubmit.tooltip "Szukaj">
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Pole wyszukiwania">
+<!ENTITY contentSearchSubmit.tooltip  "Szukaj">
 
-<!ENTITY searchInput.placeholder "Szukaj">
-<!ENTITY searchIcon.tooltip "Szukaj">
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Znajdź">
+<!ENTITY searchIcon.tooltip           "Znajdź">
 
-<!ENTITY searchFor.label "Wyszukaj „">
-<!ENTITY searchWith.label "” z:">
-<!ENTITY search.label "Szukaj z ">
-<!ENTITY searchAfter.label "">
-<!ENTITY searchWithHeader.label "Szukaj z">
-<!ENTITY changeSearchSettings.button "Zmień ustawienia wyszukiwania">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Wyszukaj „">
+<!ENTITY searchWith.label             "” z:">
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "Szukaj z ">
+<!ENTITY searchAfter.label            "">
+
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "Szukaj z">
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Zmień ustawienia wyszukiwania">
 <!ENTITY changeSearchSettings.tooltip "Zmień ustawienia wyszukiwania">
 
-<!ENTITY searchInNewTab.label "Szukaj w nowej karcie">
-<!ENTITY searchInNewTab.accesskey "S">
-<!ENTITY searchSetAsDefault.label "Ustaw jako domyślną wyszukiwarkę">
-<!ENTITY searchSetAsDefault.accesskey "U">
+<!ENTITY searchInNewTab.label         "Szukaj w nowej karcie">
+<!ENTITY searchInNewTab.accesskey     "n">
+<!ENTITY searchSetAsDefault.label     "Ustaw jako domyślną wyszukiwarkę">
+<!ENTITY searchSetAsDefault.accesskey "N">
 
-<!ENTITY openLinkCmdInTab.label "Otwórz odnośnik w nowej karcie" >
-<!ENTITY openLinkCmdInTab.accesskey "j" >
-<!ENTITY openLinkCmd.label "Otwórz odnośnik w nowym oknie" >
-<!ENTITY openLinkCmd.accesskey "n" >
+<!ENTITY openLinkCmdInTab.label       "Otwórz odnośnik w nowej karcie">
+<!ENTITY openLinkCmdInTab.accesskey   "n">
+<!ENTITY openLinkCmd.label            "Otwórz odnośnik w nowym oknie">
+<!ENTITY openLinkCmd.accesskey        "o">
 <!ENTITY openLinkInPrivateWindowCmd.label "Otwórz odnośnik w nowym oknie w trybie prywatnym">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "w">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "O">
 <!ENTITY openLinkCmdInCurrent.label     "Otwórz odnośnik">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label "Otwórz ramkę w nowej karcie" >
-<!ENTITY openFrameCmdInTab.accesskey "j" >
-<!ENTITY openFrameCmd.label "Otwórz ramkę w nowym oknie" >
-<!ENTITY openFrameCmd.accesskey "n" >
+<!ENTITY openLinkCmdInCurrent.accesskey "o">
+<!ENTITY openFrameCmdInTab.label      "Otwórz ramkę w nowej karcie">
+<!ENTITY openFrameCmdInTab.accesskey  "n">
+<!ENTITY openFrameCmd.label           "Otwórz ramkę w nowym oknie">
+<!ENTITY openFrameCmd.accesskey       "o">
 <!ENTITY openLinkCmdInContainerTab.label "Otwórz odnośnik w nowej karcie w nowym kontekście">
-<!ENTITY openLinkCmdInContainerTab.accesskey "k">
-<!ENTITY showOnlyThisFrameCmd.label "Pokaż tylko tę ramkę" >
-<!ENTITY showOnlyThisFrameCmd.accesskey "r" >
-<!ENTITY reloadCmd.commandkey "r" >
-<!ENTITY reloadFrameCmd.label "Odśwież ramkę" >
-<!ENTITY reloadFrameCmd.accesskey "O" >
-<!ENTITY viewPartialSourceForSelectionCmd.label "Pokaż źródło zaznaczenia" >
-<!ENTITY viewPartialSourceForMathMLCmd.label "Pokaż źródło MathML" >
-<!ENTITY viewPartialSourceCmd.accesskey "d" >
-<!ENTITY viewPageSourceCmd.label "Pokaż źródło strony" >
-<!ENTITY viewPageSourceCmd.accesskey "y" >
-<!ENTITY viewFrameSourceCmd.label "Pokaż źródło ramki" >
-<!ENTITY viewFrameSourceCmd.accesskey "P" >
-<!ENTITY viewPageInfoCmd.label "Pokaż informacje o stronie" >
-<!ENTITY viewPageInfoCmd.accesskey "I" >
-<!ENTITY viewFrameInfoCmd.label "Pokaż informacje o ramce" >
-<!ENTITY viewFrameInfoCmd.accesskey "i" >
-<!ENTITY reloadImageCmd.label "Odśwież obraz">
-<!ENTITY reloadImageCmd.accesskey     "O">
-<!ENTITY viewImageCmd.label "Pokaż obraz">
-<!ENTITY viewImageCmd.accesskey       "P" >
-<!ENTITY viewImageInfoCmd.label "Pokaż informacje o obrazie">
+<!ENTITY openLinkCmdInContainerTab.accesskey "n">
+<!ENTITY showOnlyThisFrameCmd.label     "Pokaż tylko tę ramkę">
+<!ENTITY showOnlyThisFrameCmd.accesskey "e">
+<!ENTITY reloadCmd.commandkey         "s">
+<!ENTITY reloadFrameCmd.label         "Odśwież ramkę">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Pokaż źródło zaznaczenia">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Pokaż źródło MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "F">
+<!ENTITY viewPageSourceCmd.label      "Pokaż źródło strony">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "Pokaż źródło ramki">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "Pokaż informacje o stronie">
+<!ENTITY viewPageInfoCmd.accesskey    "m">
+<!ENTITY viewFrameInfoCmd.label       "Pokaż informacje o ramce">
+<!ENTITY viewFrameInfoCmd.accesskey   "m">
+<!ENTITY reloadImageCmd.label         "Odśwież obraz">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY viewImageCmd.label           "Pokaż obraz">
+<!ENTITY viewImageCmd.accesskey       "m">
+<!ENTITY viewImageInfoCmd.label       "Pokaż informacje o obrazie">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Pokaż opis">
-<!ENTITY viewImageDescCmd.accesskey   "s">
+<!ENTITY viewImageDescCmd.accesskey   "N">
 <!ENTITY viewVideoCmd.label           "Pokaż wideo">
-<!ENTITY viewVideoCmd.accesskey       "k">
-<!ENTITY viewBGImageCmd.label "Pokaż obraz tła">
-<!ENTITY viewBGImageCmd.accesskey "t" >
-<!ENTITY setDesktopBackgroundCmd.label "Ustaw jako tapetę…" >
-<!ENTITY setDesktopBackgroundCmd.accesskey "t" >
-<!ENTITY bookmarkPageCmd2.label "Dodaj zakładkę do tej strony">
-<!ENTITY bookmarkThisLinkCmd.label "Dodaj zakładkę do odnośnika">
-<!ENTITY bookmarkThisLinkCmd.accesskey "a">
-<!ENTITY bookmarkThisFrameCmd.label "Dodaj zakładkę do ramki">
-<!ENTITY bookmarkThisFrameCmd.accesskey "D">
-<!ENTITY copyURLCmd.label "Kopiuj adres">
-<!ENTITY emailPageCmd.label "Wyślij odnośnik…">
-<!ENTITY emailPageCmd.accesskey "n">
-<!ENTITY savePageCmd.label "Zapisz stronę jako…" >
-<!ENTITY savePageCmd.accesskey "p" >
-<!ENTITY savePageCmd.accesskey2 "s" >
-<!ENTITY savePageCmd.commandkey "s" >
-<!ENTITY saveFrameCmd.label "Zapisz ramkę jako…" >
-<!ENTITY saveFrameCmd.accesskey "Z" >
+<!ENTITY viewVideoCmd.accesskey       "m">
+<!ENTITY viewBGImageCmd.label         "Pokaż obraz tła">
+<!ENTITY viewBGImageCmd.accesskey     "t">
+<!ENTITY setDesktopBackgroundCmd.label      "Ustaw jako tapetę…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "e">
+<!ENTITY bookmarkPageCmd2.label       "Dodaj zakładkę">
+<!ENTITY bookmarkThisLinkCmd.label      "Dodaj zakładkę do odnośnika">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "D">
+<!ENTITY bookmarkThisFrameCmd.label      "Dodaj zakładkę do ramki">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "Kopiuj adres">
+<!ENTITY emailPageCmd.label           "Wyślij odnośnik…">
+<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY savePageCmd.label            "Zapisz stronę jako…">
+<!ENTITY savePageCmd.accesskey        "O">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "O">
+<!ENTITY savePageCmd.commandkey       "U">
+<!ENTITY saveFrameCmd.label           "Zapisz ramkę jako…">
+<!ENTITY saveFrameCmd.accesskey       "T">
 <!ENTITY printFrameCmd.label          "Drukuj ramkę…">
-<!ENTITY printFrameCmd.accesskey      "u">
-<!ENTITY saveLinkCmd.label "Zapisz element docelowy jako…" >
-<!ENTITY saveLinkCmd.accesskey "s" >
-<!ENTITY saveImageCmd.label "Zapisz obraz jako…">
-<!ENTITY saveImageCmd.accesskey "Z" >
+<!ENTITY printFrameCmd.accesskey      "O">
+<!ENTITY saveLinkCmd.label            "Zapisz element docelowy jako…">
+<!ENTITY saveLinkCmd.accesskey        "c">
+<!ENTITY saveImageCmd.label           "Zapisz obraz jako…">
+<!ENTITY saveImageCmd.accesskey       "g">
 <!ENTITY saveVideoCmd.label           "Zapisz wideo jako…">
-<!ENTITY saveVideoCmd.accesskey       "s">
+<!ENTITY saveVideoCmd.accesskey       "g">
 <!ENTITY saveAudioCmd.label           "Zapisz dźwięk jako…">
-<!ENTITY saveAudioCmd.accesskey       "s">
-<!ENTITY emailImageCmd.label "Wyślij obraz…">
-<!ENTITY emailImageCmd.accesskey "o">
-<!ENTITY emailVideoCmd.label "Wyślij wideo…">
-<!ENTITY emailVideoCmd.accesskey "o">
-<!ENTITY castVideoCmd.label "Odtwórz wideo na urządzeniu">
-<!ENTITY castVideoCmd.accesskey "u">
-<!ENTITY emailAudioCmd.label "Wyślij dźwięk…">
-<!ENTITY emailAudioCmd.accesskey "d">
+<!ENTITY saveAudioCmd.accesskey       "g">
+<!ENTITY emailImageCmd.label          "Wyślij obraz…">
+<!ENTITY emailImageCmd.accesskey      "o">
+<!ENTITY emailVideoCmd.label          "Wyślij wideo…">
+<!ENTITY emailVideoCmd.accesskey      "o">
+<!ENTITY castVideoCmd.label           "Odtwórz wideo na urządzeniu">
+<!ENTITY castVideoCmd.accesskey       "F">
+<!ENTITY emailAudioCmd.label          "Wyślij dźwięk…">
+<!ENTITY emailAudioCmd.accesskey      "o">
 <!ENTITY playPluginCmd.label          "Aktywuj tę wtyczkę">
-<!ENTITY playPluginCmd.accesskey      "w">
+<!ENTITY playPluginCmd.accesskey      "a">
 <!ENTITY hidePluginCmd.label          "Ukryj tę wtyczkę">
-<!ENTITY hidePluginCmd.accesskey      "U">
-<!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika" >
-<!ENTITY copyLinkCmd.accesskey "K" >
-<!ENTITY copyImageCmd.label "Kopiuj adres obrazu">
-<!ENTITY copyImageCmd.accesskey "b" >
-<!ENTITY copyImageContentsCmd.label "Kopiuj obraz">
-<!ENTITY copyImageContentsCmd.accesskey "r">
+<!ENTITY hidePluginCmd.accesskey      "c">
+<!ENTITY copyLinkCmd.label            "Kopiuj adres odnośnika">
+<!ENTITY copyLinkCmd.accesskey        "o">
+<!ENTITY copyImageCmd.label           "Kopiuj adres obrazu">
+<!ENTITY copyImageCmd.accesskey       "r">
+<!ENTITY copyImageContentsCmd.label   "Kopiuj obraz">
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "Kopiuj adres wideo">
-<!ENTITY copyVideoURLCmd.accesskey    "u">
+<!ENTITY copyVideoURLCmd.accesskey    "r">
 <!ENTITY copyAudioURLCmd.label        "Kopiuj adres dźwięku">
-<!ENTITY copyAudioURLCmd.accesskey    "u">
-<!ENTITY copyEmailCmd.label "Kopiuj adres e-mail" >
-<!ENTITY copyEmailCmd.accesskey "e" >
-<!ENTITY thisFrameMenu.label "Ramka" >
-<!ENTITY thisFrameMenu.accesskey "r" >
+<!ENTITY copyAudioURLCmd.accesskey    "r">
+<!ENTITY copyEmailCmd.label           "Kopiuj adres e-mail">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY thisFrameMenu.label              "Ramka">
+<!ENTITY thisFrameMenu.accesskey          "U">
 
+<!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Odtwórz">
-<!ENTITY mediaPlay.accesskey         "z">
+<!ENTITY mediaPlay.accesskey         "O">
 <!ENTITY mediaPause.label            "Wstrzymaj">
-<!ENTITY mediaPause.accesskey        "W">
+<!ENTITY mediaPause.accesskey        "O">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Wycisz">
-<!ENTITY mediaMute.accesskey         "c">
-<!ENTITY mediaUnmute.label "Włącz dźwięk">
-<!ENTITY mediaUnmute.accesskey "c">
-<!ENTITY mediaPlaybackRate2.label "Szybkość odtwarzania">
-<!ENTITY mediaPlaybackRate2.accesskey "S">
+<!ENTITY mediaMute.accesskey         "m">
+<!ENTITY mediaUnmute.label           "Włącz dźwięk">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.label     "Szybkość odtwarzania">
+<!ENTITY mediaPlaybackRate2.accesskey "m">
 <!ENTITY mediaPlaybackRate050x2.label "Zmniejszona (0,5 ×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "Z">
+<!ENTITY mediaPlaybackRate050x2.accesskey "e">
 <!ENTITY mediaPlaybackRate100x2.label "Normalna">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Zwiększona (1,25 ×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "k">
+<!ENTITY mediaPlaybackRate125x2.accesskey "T">
 <!ENTITY mediaPlaybackRate150x2.label "Wysoka (1,5 ×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "W">
+<!ENTITY mediaPlaybackRate150x2.accesskey "o">
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Absurdalna (2 ×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "A">
-<!ENTITY mediaLoop.label "Zapętl">
-<!ENTITY mediaLoop.accesskey "Z">
+<!ENTITY mediaPlaybackRate200x2.accesskey "D">
+<!ENTITY mediaLoop.label             "Zapętl">
+<!ENTITY mediaLoop.accesskey         "D">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Wyświetl elementy sterujące">
-<!ENTITY mediaShowControls.accesskey "e">
+<!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Ukryj elementy sterujące">
-<!ENTITY mediaHideControls.accesskey "e">
+<!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Tryb pełnoekranowy">
-<!ENTITY videoFullScreen.accesskey   "n">
+<!ENTITY videoFullScreen.accesskey   "T">
 <!ENTITY videoSaveImage.label        "Zapisz klatkę jako…">
-<!ENTITY videoSaveImage.accesskey    "k">
+<!ENTITY videoSaveImage.accesskey    "e">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Wyświetl statystyki">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ukryj statystyki">
 <!ENTITY videoHideStats.accesskey    "t">
 
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
 <!ENTITY fullZoomEnlargeCmd.label       "Powiększ">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "w">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "m">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Pomniejsz">
-<!ENTITY fullZoomReduceCmd.accesskey    "m">
+<!ENTITY fullZoomReduceCmd.accesskey    "o">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Rozmiar pierwotny">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
@@ -538,64 +682,67 @@
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Powiększaj tylko tekst">
-<!ENTITY fullZoomToggleCmd.accesskey    "k">
+<!ENTITY fullZoomToggleCmd.accesskey    "n">
 <!ENTITY fullZoom.label                 "Powiększenie">
-<!ENTITY fullZoom.accesskey             "w">
+<!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY sidebarCloseButton.tooltip "Zamyka panel boczny">
-<!ENTITY sidebarMenuClose.label "Zamknij panel boczny">
+<!ENTITY sidebarCloseButton.tooltip     "Zamyka panel boczny">
+<!ENTITY sidebarMenuClose.label         "Zamknij panel boczny">
 
-<!ENTITY quitApplicationCmdWin2.label "Zakończ">
-<!ENTITY quitApplicationCmdWin2.accesskey "k">
-<!ENTITY quitApplicationCmdWin2.tooltip "Zakończ program &brandShorterName;">
-<!ENTITY goBackCmd.commandKey           "[" >
-<!ENTITY goForwardCmd.commandKey        "]" >
-<!ENTITY quitApplicationCmd.label       "Zakończ" >
-<!ENTITY quitApplicationCmd.accesskey   "k" >
-<!ENTITY quitApplicationCmdMac2.label "Zakończ program &brandShorterName;">
-<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmdWin2.label       "Zakończ">
+<!ENTITY quitApplicationCmdWin2.accesskey   "k">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Zakończ program &brandShorterName;">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Zakończ"> 
+<!ENTITY quitApplicationCmd.accesskey   "t">
+<!ENTITY quitApplicationCmdMac2.label   "Zakończ program &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "t">
 
-<!ENTITY closeCmd.label "Zamknij" >
-<!ENTITY closeCmd.key "W" >
-<!ENTITY closeCmd.accesskey "Z" >
+<!ENTITY closeCmd.label                 "Zamknij">  
+<!ENTITY closeCmd.key                   "o">  
+<!ENTITY closeCmd.accesskey             "C">
 
-<!ENTITY toggleMuteCmd.key "M">
+<!ENTITY toggleMuteCmd.key              "m">
 
 <!ENTITY pageStyleMenu.label "Styl strony">
-<!ENTITY pageStyleMenu.accesskey "S">
+<!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "Ignoruj style">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "r">
 <!ENTITY pageStylePersistentOnly.label "Styl podstawowy">
-<!ENTITY pageStylePersistentOnly.accesskey "S">
+<!ENTITY pageStylePersistentOnly.accesskey "n">
 
 <!ENTITY pageReportIcon.tooltip            "Zmień ustawienia blokady wyskakujących okien dla tej strony">
 
-<!ENTITY allowPopups.accesskey "w">
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Edytuj preferencje wyskakujących okien…">
 <!ENTITY editPopupSettings.label "Edytuj opcje blokady wyskakujących okien…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "N">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Przełącz kierunek strony">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "s">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "N">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Przełącz kierunek tekstu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label "Znajdź na tej stronie…" >
-<!ENTITY findOnCmd.accesskey "Z" >
-<!ENTITY findOnCmd.commandkey "f" >
-<!ENTITY findAgainCmd.label "Znajdź następne" >
-<!ENTITY findAgainCmd.accesskey "n" >
-<!ENTITY findAgainCmd.commandkey "g" >
-<!ENTITY findAgainCmd.commandkey2 "VK_F3" >
-<!ENTITY findSelectionCmd.commandkey "e">
+<!ENTITY findOnCmd.label     "Znajdź na tej stronie…">
+<!ENTITY findOnCmd.accesskey "T">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Znajdź następne">
+<!ENTITY findAgainCmd.accesskey "o">
+<!ENTITY findAgainCmd.commandkey "o">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "F">
 
 <!ENTITY spellAddDictionaries.label "Dodaj słowniki…">
-<!ENTITY spellAddDictionaries.accesskey "o">
+<!ENTITY spellAddDictionaries.accesskey "O">
 
 <!ENTITY editBookmark.done.label                     "Gotowe">
-<!ENTITY editBookmark.removeBookmark.accessKey       "U">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Zabezpieczone połączenie">
 <!ENTITY identity.connectionNotSecure "Połączenie nie jest bezpieczne">
@@ -605,11 +752,13 @@
 <!ENTITY identity.extensionPage "Ta strona została wczytana przez rozszerzenie.">
 <!ENTITY identity.insecureLoginForms2 "Dane logowania wprowadzone na tej stronie nie są chronione">
 
+<!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.passiveLoaded "Niektóre elementy tej strony (np. obrazy) nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.activeLoaded "Ochrona na tej stronie została wyłączona przez użytkownika.">
 <!ENTITY identity.weakEncryption "Strona używa słabego szyfrowania.">
 
+<!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Prywatność podczas łączenia się z tą stroną nie jest chroniona. Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
 <!ENTITY identity.description.insecureLoginForms "Dane logowania wprowadzone na tej stronie nie są bezpieczne i mogą być dostępne dla innych.">
 <!ENTITY identity.description.weakCipher "Połączenie z tą stroną nie zapewnia prywatności, ponieważ szyfrowanie nie jest wystarczające.">
@@ -622,57 +771,70 @@
 <!ENTITY identity.description.activeLoaded2 "Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Włącz ochronę">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "W">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "Tymczasowo wyłącz ochronę">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "T">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "N">
 <!ENTITY identity.learnMore "Więcej informacji">
 
 <!ENTITY identity.removeCertException.label "Usuń wyjątek">
-<!ENTITY identity.removeCertException.accesskey "U">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "Więcej informacji…">
+
 <!ENTITY identity.permissions "Uprawnienia">
 <!ENTITY identity.permissionsEmpty "Strona korzysta z domyślnych uprawnień.">
 <!ENTITY identity.permissionsReloadHint "Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.">
 
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Karty przeglądarki">
 
-<!ENTITY syncTabsMenu3.label "Karty z innych urządzeń">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "Karty z innych urządzeń">
 
-<!ENTITY syncedTabs.sidebar.label "Karty z innych urządzeń">
-<!ENTITY syncedTabs.sidebar.noclients.label "Zaloguj się w Firefoksie na innym urządzeniu, aby wyświetlić tutaj listę otwartych na nim kart.">
-<!ENTITY syncedTabs.sidebar.noclients.title "Synchronizacja kart wyłączona">
+<!ENTITY syncedTabs.sidebar.label              "Karty z innych urządzeń">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Zaloguj się w Firefoksie na innym urządzeniu, aby wyświetlić tutaj listę otwartych na nim kart.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Synchronizacja kart wyłączona">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label "Zaloguj się, aby wyświetlić listę kart z innych urządzeń.">
-<!ENTITY syncedTabs.sidebar.notabs.label "Brak otwartych kart">
-<!ENTITY syncedTabs.sidebar.openprefs.label "Otwórz ustawienia synchronizacji">
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Włącz synchronizację kart, aby wyświetlać listę otwartych na innych urządzeniach.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Zaloguj się, aby wyświetlić tutaj listę kart z innych urządzeń.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Brak otwartych kart">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Otwórz ustawienia synchronizacji">
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Włącz synchronizację kart, aby wyświetlić ich listę z innych urządzeń.">
 
-<!ENTITY syncedTabs.context.open.label "Otwórz">
-<!ENTITY syncedTabs.context.open.accesskey "O">
-<!ENTITY syncedTabs.context.openInNewTab.label "Otwórz w nowej karcie">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey "n">
-<!ENTITY syncedTabs.context.openInNewWindow.label "Otwórz w nowym oknie">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey "e">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label "Otwórz w nowym oknie prywatnym">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "z">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label "Dodaj zakładkę do tej karty…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey "D">
-<!ENTITY syncedTabs.context.copy.label "Kopiuj">
-<!ENTITY syncedTabs.context.copy.accesskey "K">
-<!ENTITY syncedTabs.context.openAllInTabs.label "Otwórz wszystkie w kartach">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey "h">
-<!ENTITY syncedTabs.context.managedevices.label "Zarządzaj urządzeniami…">
-<!ENTITY syncedTabs.context.managedevices.accesskey "Z">
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
+<!ENTITY syncedTabs.context.open.label                       "Otwórz">
+<!ENTITY syncedTabs.context.open.accesskey                   "o">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Otwórz w nowej karcie">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "t">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Otwórz w nowym oknie">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Otwórz w nowym oknie prywatnym">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "O">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Dodaj zakładkę do tej karty…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "z">
+<!ENTITY syncedTabs.context.copy.label                       "Kopiuj">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
-<!ENTITY syncBrand.shortName.label "Synchronizacja">
-<!ENTITY syncSignIn.label "Zaloguj się, aby rozpocząć synchronizację…">
-<!ENTITY syncSignIn.accesskey "s">
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Otwórz wszystkie w kartach">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "o">
+<!ENTITY syncedTabs.context.managedevices.label              "Zarządzaj urządzeniami…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "N">
+
+
+<!ENTITY syncBrand.shortName.label    "Synchronizacja">
+
+<!ENTITY syncSignIn.label             "Zaloguj się, aby rozpocząć synchronizację…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Synchronizuj teraz">
-<!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label "Zaloguj się ponownie, aby synchronizować…">
-<!ENTITY syncReAuthItem.accesskey "Z">
-<!ENTITY syncToolbarButton.label      "Synchronizuj">
+<!ENTITY syncSyncNowItem.accesskey    "e">
+<!ENTITY syncReAuthItem.label         "Zaloguj się ponownie, aby synchronizować…">
+<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncToolbarButton.label      "Synchronizacja">
 
 <!ENTITY social.addons.label "Zarządzaj usługami…">
 
@@ -693,26 +855,35 @@
 <!ENTITY customizeMode.lwthemes.myThemes "Zainstalowane motywy">
 <!ENTITY customizeMode.lwthemes.recommended "Polecane motywy">
 <!ENTITY customizeMode.lwthemes.menuManage "Zarządzaj">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "Z">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "m">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Pobierz więcej">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "P">
 <!ENTITY customizeMode.emptyOverflowList.description "Przeciągaj tutaj rzeczy, aby były pod ręką, ale nie zabierały miejsca na pasku narzędzi…">
 <!ENTITY customizeMode.uidensity "Gęstość i upakowanie">
-<!ENTITY customizeMode.uidensity.menuNormal.label "Normalne">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normalne">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normalna">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normalna">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Zwarte">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Zwarte">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "Z">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Dotykowe">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Dotykowe">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "D">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "n">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Dotykowe w trybie tabletowym">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera do udostępnienia:">
-<!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon do udostępnienia:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY getUserMedia.audioCapture.label "Dźwięk z karty będzie udostępniany.">
 <!ENTITY getUserMedia.allWindowsShared.message "Wszystkie widoczne na ekranie okna zostaną udostępnione.">
 
@@ -720,58 +891,81 @@
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje elementy strony mogące śledzić Twoją aktywność w sieci.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Strona zawiera elementy mogące śledzić Twoją aktywność w sieci, jednak ochrona przed nimi została wyłączona.">
 <!ENTITY trackingProtection.notDetected3 "Nie wykryto elementów śledzących aktywność użytkownika na tej stronie.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Wyłącz ochronę dla tej witryny">
-<!ENTITY trackingProtection.unblock.accesskey "W">
+<!ENTITY trackingProtection.unblock.accesskey "N">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Wyłącz ochronę w tym oknie prywatnym">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "W">
-<!ENTITY trackingProtection.block2.label "Włącz ochronę dla tej witryny">
-<!ENTITY trackingProtection.block2.accesskey "W">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "N">
+<!ENTITY trackingProtection.block2.label "Włącz ochronę">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "Śledzenie">
 <!ENTITY trackingContentBlocked.moreinfo "Części strony odpowiedzialne za śledzenie aktywności użytkowników zostały zablokowane.">
 <!ENTITY trackingContentBlocked.learnMore "Więcej informacji">
-<!ENTITY trackingContentBlocked.options "Ustawienia">
+<!ENTITY trackingContentBlocked.options "Opcje">
 <!ENTITY trackingContentBlocked.unblock2.label "Wyłącz ochronę dla tej witryny">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "W">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "N">
 <!ENTITY trackingContentBlocked.block.label "Włącz ochronę">
-<!ENTITY trackingContentBlocked.block.accesskey "W">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "Ochrona przed śledzeniem jest wyłączona">
 
-<!ENTITY pluginNotification.showAll.label "Wyświetl wszystkie">
-<!ENTITY pluginNotification.showAll.accesskey "W">
+<!ENTITY pluginNotification.showAll.label "Pokaż wszystkie">
+<!ENTITY pluginNotification.showAll.accesskey "e">
 
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Pozwól teraz">
 <!ENTITY pluginActivateAlways.label "Pozwól i zapamiętaj">
 <!ENTITY pluginBlockNow.label "Zablokuj wtyczkę">
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Zamknij">
 
-<!ENTITY appMenuSidebars.label "Panele boczne">
+<!ENTITY appMenuSidebars.label         "Panele boczne">
 
-<!ENTITY panicButton.view.mainTimeframeDesc "Wyczyść historię przeglądania ostatnich:">
-<!ENTITY panicButton.view.5min "Pięciu minut">
-<!ENTITY panicButton.view.2hr "Dwóch godzin">
-<!ENTITY panicButton.view.day "24 godzin">
-<!ENTITY panicButton.view.mainActionDesc "Czyszczenie spowoduje:">
-<!ENTITY panicButton.view.deleteCookies "Usunięcie ostatnich <html:strong>ciasteczek</html:strong>">
-<!ENTITY panicButton.view.deleteHistory "Usunięcie ostatniej <html:strong>historii</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows "Zamknięcie wszystkich <html:strong>kart</html:strong> i <html:strong>okien</html:strong>">
-<!ENTITY panicButton.view.openNewWindow "Otworzenie nowego okna">
-<!ENTITY panicButton.view.undoWarning "Tej czynności nie można cofnąć.">
-<!ENTITY panicButton.view.forgetButton "Wyczyść!">
-<!ENTITY panicButton.thankyou.msg1 "Historia ostatniego przeglądania została wyczyszczona.">
-<!ENTITY panicButton.thankyou.msg2 "Bezpiecznego przeglądania!">
-<!ENTITY panicButton.thankyou.buttonlabel "Dzięki!">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Wyczyść historię przeglądania ostatnich:">
+<!ENTITY panicButton.view.5min                    "Pięciu minut">
+<!ENTITY panicButton.view.2hr                     "Dwóch godzin">
+<!ENTITY panicButton.view.day                     "24 godzin">
 
-<!ENTITY emeLearnMoreContextMenu.label "Więcej informacji o DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey "D">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Czyszczenie spowoduje:">
+<!ENTITY panicButton.view.deleteCookies           "Usunięcie ostatnich <html:strong>ciasteczek</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Usunięcie ostatniej <html:strong>historii</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Zamknięcie wszystkich <html:strong>kart</html:strong> i <html:strong>okien</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Otworzenie nowego okna">
+
+<!ENTITY panicButton.view.undoWarning             "Tej czynności nie można cofnąć.">
+<!ENTITY panicButton.view.forgetButton            "Wyczyść!">
+
+<!ENTITY panicButton.thankyou.msg1                "Historia ostatniego przeglądania została wyczyszczona.">
+<!ENTITY panicButton.thankyou.msg2                "Bezpiecznego przeglądania!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Dzięki!">
+
+<!ENTITY emeLearnMoreContextMenu.label            "Więcej informacji o DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "N">
 
 <!ENTITY updateAvailable.message "Uaktualnij program &brandShorterName; dla szybkości i bezpieczeństwa.">
 <!ENTITY updateAvailable.whatsnew.label "Sprawdź co nowego.">
 <!ENTITY updateAvailable.header.message "Nowa wersja programu &brandShorterName; jest dostępna.">
 <!ENTITY updateAvailable.acceptButton.label "Pobierz aktualizację">
-<!ENTITY updateAvailable.acceptButton.accesskey "P">
+<!ENTITY updateAvailable.acceptButton.accesskey "N">
 <!ENTITY updateAvailable.cancelButton.label "Nie teraz">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Pobierz aktualizację programu &brandShorterName;">
@@ -780,7 +974,7 @@
 <!ENTITY updateManual.whatsnew.label "Sprawdź co nowego.">
 <!ENTITY updateManual.header.message "&brandShorterName; nie może zostać uaktualniony do najnowszej wersji.">
 <!ENTITY updateManual.acceptButton.label "Pobierz program &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "P">
+<!ENTITY updateManual.acceptButton.accesskey "N">
 <!ENTITY updateManual.cancelButton.label "Nie teraz">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Pobierz świeżą kopię programu &brandShorterName;">
@@ -788,10 +982,10 @@
 <!ENTITY updateRestart.message "&brandShorterName; po ponownym uruchomieniu przywróci wszystkie karty i okna.">
 <!ENTITY updateRestart.header.message2 "Uruchom ponownie program &brandShorterName;, aby go uaktualnić.">
 <!ENTITY updateRestart.acceptButton.label "Uruchom i przywróć">
-<!ENTITY updateRestart.acceptButton.accesskey "U">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Nie teraz">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "Uruchom ponownie program &brandShorterName;, aby go uaktualnić">
+<!ENTITY updateRestart.panelUI.label2 "Zrestartuj, by zaktualizować &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Interakcje">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj do paska adresu">
