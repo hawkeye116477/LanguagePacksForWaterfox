@@ -7,7 +7,7 @@
 <!ENTITY window.height                "8em">
 
 <!ENTITY doNotTrackCheckbox2.label    "Aplicar siempre Nun rastrexar">
-<!ENTITY doNotTrackCheckbox2.accesskey "A">
+<!ENTITY doNotTrackCheckbox2.accesskey "T">
 
 <!ENTITY doNotTrackTPInfo.description "&brandShortName; va unviar una señal indicando que nun quies que te rastrexen cuando la proteición de rastrexu tea activada.">
-<!ENTITY doNotTrackLearnMore.label    "Deprender más">
+<!ENTITY doNotTrackLearnMore.label    "Deprendi más">
