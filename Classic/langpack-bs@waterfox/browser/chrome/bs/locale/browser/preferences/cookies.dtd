@@ -17,12 +17,12 @@
 <!ENTITY     props.container.label          "Kontejner:">
 
 <!ENTITY     window.title                   "Kolačići">
-<!ENTITY     windowClose.key                "w">
+<!ENTITY     windowClose.key                "P">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
+<!ENTITY     focusSearch2.key               "R">
 
-<!ENTITY     searchFilter.label             "Traži:">
-<!ENTITY     searchFilter.accesskey         "T">
+<!ENTITY     searchFilter.label             "Search">
+<!ENTITY     searchFilter.accesskey         "P">
 
 <!ENTITY     button.close.label             "Zatvori">
-<!ENTITY     button.close.accesskey         "Z">
+<!ENTITY     button.close.accesskey         "C">
