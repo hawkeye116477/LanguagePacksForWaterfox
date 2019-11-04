@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab mejaj pa taq ruwi' pa k'ak'a' kokisaxik kicholajem">
-<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "E">
 
 <!ENTITY newWindowsAsTabs.label       "Kejaq k'ak'a' taq tzuwäch pa jun k'ak'a' ruwi' pa ruk'exel">
-<!ENTITY newWindowsAsTabs.accesskey   "k">
+<!ENTITY newWindowsAsTabs.accesskey   "c">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Taya' pe rutzijol we xketz'apitäj jalajöj taq ruwi'">
-<!ENTITY warnOnCloseMultipleTabs.accesskey  "j">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Taya' pe rutzijol we &brandShortName; yalan eqal xtisamäj toq xkerujäq k'ïy taq ruwi'">
-<!ENTITY warnOnOpenManyTabs.accesskey   "e">
+<!ENTITY warnOnOpenManyTabs.accesskey   "w">
 
 <!ENTITY switchLinksToNewTabs.label        "Toq najäq jun ximonel pa jun k'ak'a' ruwi', tijalwachïx rik'in re' pan aninäq">
-<!ENTITY switchLinksToNewTabs.accesskey    "o">
+<!ENTITY switchLinksToNewTabs.accesskey    "k">
 
 <!ENTITY showTabsInTaskbar.label          "Kek'ut pe ch'utin taq ruwi' pa ri rukajtz'ik rusamaj Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "w">
+<!ENTITY showTabsInTaskbar.accesskey      "m">
 <!ENTITY tabsGroup.label          "Taq ruwi'">
