@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors.label        "Premosti boje definirane na stranici s mojim izborom iznad:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "o">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Uvijek">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Samo sa temama visokog kontrasta">
@@ -15,16 +15,16 @@
 
 <!ENTITY  color                           "Tekst i pozadina">
 <!ENTITY  textColor.label                 "Tekst:">
-<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  textColor.accesskey             "I">
 <!ENTITY  backgroundColor.label           "Pozadina:">
-<!ENTITY  backgroundColor.accesskey       "P">
+<!ENTITY  backgroundColor.accesskey       "b">
 <!ENTITY  useSystemColors.label           "Koristi sistemske boje">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Podvuci linkove">
-<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  underlineLinks.accesskey        "V">
 <!ENTITY  links                           "Boje linkova">
 <!ENTITY  linkColor.label                 "Neposjećeni linkovi:">
-<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  linkColor.accesskey             "K">
 <!ENTITY  visitedLinkColor.label          "Posjećeni linkovi:">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  visitedLinkColor.accesskey      "V">
