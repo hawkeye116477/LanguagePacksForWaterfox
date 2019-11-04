@@ -7,17 +7,17 @@
 <!ENTITY searchreset.pageTitle      "¿La yetzolïx ri kinuk'ulem taq akanob'al?">
 
 <!ENTITY searchreset.pageInfo1      "Ri runuk'ulem kanob'äl tikirel e out-of-date. &brandShortName; nitikïr nito'on chi kitzolixik ri taq rejqalem e k'o wi richin ri kanonïk.">
+
+
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
-
-
 <!ENTITY searchreset.selector.label "Re re' xtuya' kan ri akanob'al ri kan k'o wi richin">
+
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
-
 <!ENTITY searchreset.beforelink.pageInfo2 "Yatikïr najäl re nuk'ulem re' pa xab'achike ramaj chupam ri ">
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
@@ -27,4 +27,4 @@ their language. -->
 <!ENTITY searchreset.noChangeButton.access "M">
 
 <!ENTITY searchreset.changeEngineButton        "Tijal kanob'äl">
-<!ENTITY searchreset.changeEngineButton.access "J">
+<!ENTITY searchreset.changeEngineButton.access "C">
