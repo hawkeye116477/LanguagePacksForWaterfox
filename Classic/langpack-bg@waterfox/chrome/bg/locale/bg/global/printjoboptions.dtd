@@ -1,29 +1,29 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printJobOptions.title "Свойства на принтера">
 
 <!ENTITY paperInput.label "Размер на хартията:">
-<!ENTITY paperInput.accesskey "Р">
+<!ENTITY paperInput.accesskey "О">
 
 <!ENTITY jobTitleInput.label "Заглавие на задачата:">
-<!ENTITY jobTitleInput.accesskey "З">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Цвят:">
 <!ENTITY grayRadio.label "Степен на сивото">
-<!ENTITY grayRadio.accesskey "С">
+<!ENTITY grayRadio.accesskey "т">
 <!ENTITY colorRadio.label "Цвят">
-<!ENTITY colorRadio.accesskey "Ц">
+<!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY edgeMarginInput.label "Празнина от края на хартията до отстъпа">
 <!ENTITY topInput.label "Отгоре:">
-<!ENTITY topInput.accesskey "г">
+<!ENTITY topInput.accesskey "И">
 <!ENTITY bottomInput.label "Отдолу:">
-<!ENTITY bottomInput.accesskey "д">
+<!ENTITY bottomInput.accesskey "о">
 <!ENTITY leftInput.label "Отляво:">
-<!ENTITY leftInput.accesskey "л">
+<!ENTITY leftInput.accesskey "Н">
 <!ENTITY rightInput.label "Отдясно:">
-<!ENTITY rightInput.accesskey "д">
+<!ENTITY rightInput.accesskey "R">
