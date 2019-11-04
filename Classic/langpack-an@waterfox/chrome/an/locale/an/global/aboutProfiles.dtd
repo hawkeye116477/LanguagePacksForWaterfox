@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "Sobre los Perfils">
 <!ENTITY aboutProfiles.subtitle "Is pachina t'aduya a chestionar los tuyos perfils. Cada perfil ye un mundo deseparau que contién historials, marcapachinas, achustes y complementos diferents.">
 <!ENTITY aboutProfiles.create "Creyar un Nuevo Perfil">
-<!ENTITY aboutProfiles.restart.title "Reiniciar">
+<!ENTITY aboutProfiles.restart.title "Restart">
 <!ENTITY aboutProfiles.restart.inSafeMode "Reiniciar con os complementos desactivaus…">
 <!ENTITY aboutProfiles.restart.normal "Reiniciar de traza normal…">
