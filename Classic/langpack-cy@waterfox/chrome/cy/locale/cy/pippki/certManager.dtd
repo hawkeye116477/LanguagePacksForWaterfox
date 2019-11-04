@@ -17,9 +17,9 @@
 <!ENTITY certmgr.orphans                      "Mae gennych dystysgrifau ar ffeil nad yw'n cydweddu ag unrhyw gategori arall:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Cyffredinol">
-<!ENTITY certmgr.detail.general_tab.accesskey "C">
+<!ENTITY certmgr.detail.general_tab.accesskey "E">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Manylion">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "M">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "P">
 
 <!ENTITY certmgr.pending.label                "Wrthi'n dilysu'r dystysgrif…">
 <!ENTITY certmgr.subjectinfo.label            "Dynodwyd i">
@@ -43,7 +43,7 @@
 <!ENTITY certmgr.deletecert.title             "Dileu Tystysgrif">
 
 <!ENTITY certmgr.certname                     "Enw'r Dystysgrif">
-<!ENTITY certmgr.certserver                   "Gweinydd">
+<!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Hyd Oes">
 <!ENTITY certmgr.tokenname                    "Dyfais Diogelwch">
 <!ENTITY certmgr.begins                       "Cychwyn ar">
@@ -54,40 +54,40 @@
 <!ENTITY certmgr.close.label                  "Cau">
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Golwg…">
-<!ENTITY certmgr.view2.accesskey              "G">
+<!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Golygu'r Ymddiriedaeth…">
-<!ENTITY certmgr.edit3.accesskey              "Y">
+<!ENTITY certmgr.edit3.accesskey              "G">
 <!ENTITY certmgr.export.label                 "Allforio…">
-<!ENTITY certmgr.export.accesskey             "A">
+<!ENTITY certmgr.export.accesskey             "G">
 <!ENTITY certmgr.delete2.label                "Dileu…">
-<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete2.accesskey            "P">
 <!ENTITY certmgr.delete_builtin.label         "Dileu neu Ddrwgdybio…">
-<!ENTITY certmgr.delete_builtin.accesskey     "i">
+<!ENTITY certmgr.delete_builtin.accesskey     "P">
 <!ENTITY certmgr.backup2.label                "Wrth Gefn…">
-<!ENTITY certmgr.backup2.accesskey            "W">
+<!ENTITY certmgr.backup2.accesskey            "N">
 <!ENTITY certmgr.backupall2.label             "Popeth Wrth Gefn…">
-<!ENTITY certmgr.backupall2.accesskey         "P">
-<!ENTITY certmgr.restore2.label               "Mewnforio…">
-<!ENTITY certmgr.restore2.accesskey           "M">
+<!ENTITY certmgr.backupall2.accesskey         "w">
+<!ENTITY certmgr.restore2.label               "Import…">
+<!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Meysydd Tystysgrif">
-<!ENTITY certmgr.details.accesskey            "T">
+<!ENTITY certmgr.details.accesskey            "S">
 <!ENTITY certmgr.fields.label                 "Gwerth Maes">
-<!ENTITY certmgr.fields.accesskey             "G">
+<!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Hierarchaeth Tystysgrifau">
-<!ENTITY certmgr.hierarchy.accesskey2         "H">
+<!ENTITY certmgr.hierarchy.accesskey2         "C">
 <!ENTITY certmgr.addException.label           "Ychwanegu Eithriad…">
-<!ENTITY certmgr.addException.accesskey       "Y">
+<!ENTITY certmgr.addException.accesskey       "G">
 
 <!ENTITY exceptionMgr.title                   "Ychwanegu Eithriad Diogelwch">
 <!ENTITY exceptionMgr.exceptionButton.label   "Cadarnhau Eithriad Diogelwch">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Ni fydd banciau, siopau a gwefannau cyhoeddus yn gofyn i chi wneud hyn.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Gweinydd">
+<!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Lleoliad:">
 <!ENTITY exceptionMgr.certlocation.download   "Estyn Tystysgrif">
-<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certlocation.accesskey  "E">
 <!ENTITY exceptionMgr.certstatus.caption      "Statws Tystysgrif">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Golwg…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "G">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Cadw'r estyniad yn barhaol">
-<!ENTITY exceptionMgr.permanent.accesskey     "C">
+<!ENTITY exceptionMgr.permanent.accesskey     "F">
