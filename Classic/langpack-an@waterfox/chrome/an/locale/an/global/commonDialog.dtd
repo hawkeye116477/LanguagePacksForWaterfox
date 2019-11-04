@@ -9,5 +9,5 @@
 <!ENTITY checkbox.label   "comprebar">
 <!ENTITY copyCmd.label    "Copiar">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Trigar tot">
-<!ENTITY selectAllCmd.accesskey "T">
+<!ENTITY selectAllCmd.label "Seleccionar-lo tot">
+<!ENTITY selectAllCmd.accesskey "d">
