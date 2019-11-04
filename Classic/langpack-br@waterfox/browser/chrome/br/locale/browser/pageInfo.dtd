@@ -7,14 +7,14 @@
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Eilañ">
-<!ENTITY  copy.accesskey        "i">
+<!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Diuz pep tra">
-<!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "d">
 
 <!ENTITY  generalTab            "Hollek">
-<!ENTITY  generalTab.accesskey  "o">
+<!ENTITY  generalTab.accesskey  "L">
 <!ENTITY  generalTitle          "Titl:">
 <!ENTITY  generalURL            "Chomlec'h :">
 <!ENTITY  generalType           "Rizh :">
@@ -28,7 +28,7 @@
 <!ENTITY  generalMetaContent    "Endalc'had">
 
 <!ENTITY  mediaTab              "Media">
-<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaTab.accesskey    "B">
 <!ENTITY  mediaLocation         "Lec'hiadur :">
 <!ENTITY  mediaText             "Testenn kevreet :">
 <!ENTITY  mediaAltHeader        "Testenn bebeilet">
@@ -38,19 +38,19 @@
 <!ENTITY  mediaCount            "Kont">
 <!ENTITY  mediaDimension        "Mentoù :">
 <!ENTITY  mediaLongdesc         "Deskrivadenn gemplezh :">
-<!ENTITY  mediaBlockImage.accesskey "H">
+<!ENTITY  mediaBlockImage.accesskey "s">
 <!ENTITY  mediaSaveAs           "Enrollañ evel…">
-<!ENTITY  mediaSaveAs.accesskey "a">
-<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "y">
 <!ENTITY  mediaPreview          "Alberz ar media :">
 
 <!ENTITY  feedTab               "Lanvioù">
-<!ENTITY  feedTab.accesskey     "n">
+<!ENTITY  feedTab.accesskey     "s">
 <!ENTITY  feedSubscribe         "Koumanantiñ">
-<!ENTITY  feedSubscribe.accesskey "e">
+<!ENTITY  feedSubscribe.accesskey "A">
 
 <!ENTITY  permTab               "Aotreoù">
-<!ENTITY  permTab.accesskey     "t">
+<!ENTITY  permTab.accesskey     "p">
 <!ENTITY  permUseDefault        "Arverañ an arventennoù dre ziouer">
 <!ENTITY  permAskAlways         "Goulenn bewech">
 <!ENTITY  permAllow             "Aotren">
@@ -60,12 +60,12 @@
 <!ENTITY  permPlugins           "Gweredekaat an enlugelladoù">
 
 <!ENTITY  permClearStorage           "Skarzhañ ar c'hadaviñ">
-<!ENTITY  permClearStorage.accesskey "c">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Diogelroez">
-<!ENTITY  securityTab.accesskey "g">
+<!ENTITY  securityTab.accesskey "m">
 <!ENTITY  securityView.certView "Gwelout an testeni">
-<!ENTITY  securityView.accesskey "t">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Dianav">
 
 
@@ -73,20 +73,17 @@
 <!ENTITY  securityView.identity.owner    "Perc'henn : ">
 <!ENTITY  securityView.identity.domain   "Lec'hienn internet :">
 <!ENTITY  securityView.identity.verifier "Gwiriet gant :">
-
+<!ENTITY  securityView.identity.validity "Expires on:">
 
 <!ENTITY  securityView.privacy.header                   "Buhez prevez ha Roll istor">
 <!ENTITY  securityView.privacy.history                  "Ha gweladennet em befe al lec'hienn-mañ a-raok hiziv ?">
 <!ENTITY  securityView.privacy.cookies                  "Hag al lec'hienn-mañ a vefe o kadaviñ roadennoù (toupinoù) war ma urzhiataer ?">
 <!ENTITY  securityView.privacy.viewCookies              "Gwelout an toupinoù">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "o">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "z">
 <!ENTITY  securityView.privacy.passwords                "Ur ger-tremen am eus enrollet evit al lec'hienn-mañ ?">
 <!ENTITY  securityView.privacy.viewPasswords            "Gwelout ar gerioù-tremen bet enrollet">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "g">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "d">
 
 <!ENTITY  securityView.technical.header                 "Munudoù kalvezel">
 
-<!ENTITY  helpButton.label                              "Help">
-
-<!ENTITY  securityView.identity.validity "Expires on:">
-
+<!ENTITY  helpButton.label                              "Skoazell">
