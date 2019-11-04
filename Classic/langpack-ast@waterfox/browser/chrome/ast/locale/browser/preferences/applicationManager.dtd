@@ -4,5 +4,5 @@
 
 <!ENTITY appManager.title     "Detalles d'aplicación">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
-<!ENTITY remove.label         "Desaniciar">
-<!ENTITY remove.accesskey     "D">
+<!ENTITY remove.label         "Remove">
+<!ENTITY remove.accesskey     "R">
