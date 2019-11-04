@@ -3,26 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editBookmarkOverlay.name.label                      "Ad:">
-<!ENTITY editBookmarkOverlay.name.accesskey                  "A">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Ünvan:">
-<!ENTITY editBookmarkOverlay.location.accesskey              "v">
+<!ENTITY editBookmarkOverlay.location.accesskey              "L">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Axın ünvanı:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "A">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "T">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Sayt ünvanı:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "g">
 <!ENTITY editBookmarkOverlay.folder.label                    "Qovluq:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Bütün əlfəcin qovluqlarını göstər">
-<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Gizləyir">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Gizlə">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiketlər:">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "P">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Etiketləri vergüllə ayırın">
 <!ENTITY editBookmarkOverlay.description.label               "Açıqlama:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "A">
+<!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Açar söz:">
-<!ENTITY editBookmarkOverlay.keyword.accesskey               "s">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "Q">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Bütün etikətləri göstərir">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Bu əlfəcini yan paneldə yüklə">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "B">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "a">
 <!ENTITY editBookmarkOverlay.choose.label                    "Seçin…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Yeni qovluq">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "q">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "T">
