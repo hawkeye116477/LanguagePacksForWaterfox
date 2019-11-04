@@ -11,7 +11,7 @@
 <!ENTITY setPassword.meter.label "Şifrənin gücü">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Reset">
+<!ENTITY resetPasswordButtonLabel "Sıfırla">
 <!ENTITY resetPassword.title  "Ana Şifrəni Sıfırla">
 <!ENTITY resetPassword.text  "Əgər ana şifrənizi sıfırlasanız, web və e-poçt şifrəniz, form məlumatlarınız, şəxsi təsdiq sənədləriniz və xüsusi açarlarınız silinər.  Ana şifrənizi sıfırlamaq istədiyinizə əminsiniz?">
 
