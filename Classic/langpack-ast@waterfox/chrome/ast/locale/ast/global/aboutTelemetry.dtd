@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de Telemetry">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Camudar
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  L'unviu de datos de FHR ta <span>activáu</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  L'unviu de datos de FHR ta <span>desactiváu</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  El rexistru estendíu de Telemetry ta <span>activáu</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  El rexistru estendíu de Telemetry ta <span>desactiváu</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Fonte de datos de ping:
 ">
@@ -34,14 +14,6 @@ Datos actuales de ping
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Datos archivaos de ping
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Amosar datos de ping:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Estructuráu
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -64,25 +36,41 @@ Esbillar ping:
 Ping más vieyu &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Datos ensin procesar del ping…
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Selmana
+">
+
+<!ENTITY aboutTelemetry.archivePingType "
+Ping Type
 ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
 ">
 
-<!ENTITY aboutTelemetry.generalDataSection "">
+<!ENTITY aboutTelemetry.optionGroupToday "
+Today
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Yesterday
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Older
+">
+
+<!ENTITY aboutTelemetry.generalDataSection "
+  General Data
+">
 
 <!ENTITY aboutTelemetry.environmentDataSection "
   Datos d'entornu
 ">
 
-<!ENTITY aboutTelemetry.telemetryLogSection "">
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  Telemetry Log
+">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
   Sentencies SQL lentes
@@ -92,8 +80,13 @@ Ping
   El restolador colíngase
 ">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "">
+<!ENTITY aboutTelemetry.threadHangStatsSection "
+  Thread Hangs
+">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Captured Stacks
+">
 
 <!ENTITY aboutTelemetry.scalarsSection "
   Escalares
@@ -106,56 +99,31 @@ Ping
   Histogrames
 ">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "
+  Keyed Histograms
+">
 
+<!ENTITY aboutTelemetry.eventsSection "
+  Events
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Midides simples
 ">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "">
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Add-on Details
+">
 
-<!ENTITY aboutTelemetry.lateWritesSection "">
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Late Writes
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Información de sesión">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogrames recopilaos por complementos
-">
-
-<!ENTITY aboutTelemetry.toggle "">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Nun se recopilaron datos)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTA: la depuración SQL lenta ta activada. Puen amosase cadenes completes de SQL pero nun van unviase a Telemetry.
-">
-
-
-
-<!ENTITY aboutTelemetry.filterText "">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Payload
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Raw Payload
-">
-
-<!ENTITY aboutTelemetry.archivePingType "
-Ping Type
-">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Captured Stacks
-">
-
-<!ENTITY aboutTelemetry.eventsSection "
-  Events
 ">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "
@@ -166,15 +134,10 @@ Ping Type
   Show raw stack data
 ">
 
-<!ENTITY aboutTelemetry.optionGroupOlder "
-Older
+<!ENTITY aboutTelemetry.filterText "
+  Filter (strings or /regexp/)
 ">
 
-<!ENTITY aboutTelemetry.optionGroupToday "
-Today
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Payload
 ">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "
-Yesterday
-">
-
