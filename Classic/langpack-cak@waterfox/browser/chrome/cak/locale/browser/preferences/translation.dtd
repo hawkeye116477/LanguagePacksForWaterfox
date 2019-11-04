@@ -4,21 +4,21 @@
 
 <!ENTITY window.title                     "Taq man relik ta - Tzalq'omanïk">
 <!ENTITY window.width                     "36em">
-<!ENTITY windowClose.key                  "w">
+<!ENTITY windowClose.key                  "c">
 
 <!ENTITY noTranslationForLanguages.label  "Man xtiya' ta kitzalq'omixik re taq ch'ab'äl re':">
 <!ENTITY treehead.languageName.label      "Taq ch'ab'äl">
 <!ENTITY removeLanguage.label             "Telesäx el ch'ab'äl">
-<!ENTITY removeLanguage.accesskey         "T">
+<!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "Keyuj el konojel ri taq ch'ab'äl">
-<!ENTITY removeAllLanguages.accesskey     "y">
+<!ENTITY removeAllLanguages.accesskey     "i">
 
 <!ENTITY noTranslationForSites.label      "Man xketzalq'omïx ta re taq ruxaq k'amaya'l re':">
 <!ENTITY treehead.siteName2.label         "Ruxaq Ajk'amaya'l">
 <!ENTITY removeSite.label                 "Telesäx el ruxaq k'amaya'l">
-<!ENTITY removeSite.accesskey             "k">
+<!ENTITY removeSite.accesskey             "K">
 <!ENTITY removeAllSites.label             "Ke'elesäx el konojel ri taq ruxaq k'amaya'l">
-<!ENTITY removeAllSites.accesskey         "x">
+<!ENTITY removeAllSites.accesskey         "a">
 
 <!ENTITY button.close.label               "Titz'apïx">
-<!ENTITY button.close.accesskey           "T">
+<!ENTITY button.close.accesskey           "C">
