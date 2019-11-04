@@ -9,11 +9,11 @@
 <!ENTITY previous.tooltip "Намиране на предишно съвпадение на фразата">
 <!ENTITY findCloseButton.tooltip "Затваряне на лентата за търсене">
 <!ENTITY highlightAll.label "Открояване на всички">
-<!ENTITY highlightAll.accesskey "в">
+<!ENTITY highlightAll.accesskey "l">
 <!ENTITY highlightAll.tooltiptext "Открояване на всички съвпадения на фразата">
 <!ENTITY caseSensitive.label "Чувствителност към регистъра">
-<!ENTITY caseSensitive.accesskey "Ч">
+<!ENTITY caseSensitive.accesskey "З">
 <!ENTITY caseSensitive.tooltiptext "Търсене с чувствителност към регистъра на буквите">
 <!ENTITY entireWord.label "Цели думи">
-<!ENTITY entireWord.accesskey "д">
+<!ENTITY entireWord.accesskey "ф">
 <!ENTITY entireWord.tooltiptext "Търси само цели думи">
