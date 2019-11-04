@@ -8,21 +8,21 @@
 <!ENTITY treehead.sitename2.label     "موقع وِب">
 <!ENTITY treehead.status.label        "الحالة">
 <!ENTITY removepermission2.label      "احذف موقع الوِب">
-<!ENTITY removepermission2.accesskey  "ح">
+<!ENTITY removepermission2.accesskey  "R">
 <!ENTITY removeallpermissions2.label  "احذف كل مواقع الوِب">
-<!ENTITY removeallpermissions2.accesskey "ذ">
+<!ENTITY removeallpermissions2.accesskey "ق">
 <!ENTITY address.label                "عنوان موقع وِب:">
-<!ENTITY address.accesskey            "و">
+<!ENTITY address.accesskey            "ن">
 <!ENTITY block.label                  "احجب">
-<!ENTITY block.accesskey              "ح">
+<!ENTITY block.accesskey              "ش">
 <!ENTITY session.label                "اسمح للجلسة">
-<!ENTITY session.accesskey            "ج">
+<!ENTITY session.accesskey            "ر">
 <!ENTITY allow.label                  "اسمح">
-<!ENTITY allow.accesskey              "س">
-<!ENTITY windowClose.key              "w">
+<!ENTITY allow.accesskey              "ع">
+<!ENTITY windowClose.key              "خ">
 
 <!ENTITY button.cancel.label          "ألغِ">
-<!ENTITY button.cancel.accesskey      "ل">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "احفظ التغييرات">
-<!ENTITY button.ok.accesskey          "ح">
+<!ENTITY button.ok.accesskey          "ر">
 
