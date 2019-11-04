@@ -5,36 +5,36 @@
 <!ENTITY startup.label             "Inici">
 
 <!ENTITY startupPage.label         "Quan s'iniciï el &brandShortName;:">
-<!ENTITY startupPage.accesskey     "n">
+<!ENTITY startupPage.accesskey     "C">
 <!ENTITY startupUserHomePage.label "Mostra la pàgina d'inici">
 <!ENTITY startupBlankPage.label    "Mostra una pàgina en blanc">
 <!ENTITY startupPrevSession.label  "Mostra les finestres i pestanyes de la darrera vegada">
 
 <!ENTITY homepage.label            "Pàgina d'inici:">
-<!ENTITY homepage.accesskey        "i">
+<!ENTITY homepage.accesskey        "p">
 <!ENTITY useCurrentPage.label      "Utilitza la pàgina actual">
-<!ENTITY useCurrentPage.accesskey  "c">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Utilitza les pàgines actuals">
 <!ENTITY chooseBookmark.label      "Utilitza una adreça d'interès…">
-<!ENTITY chooseBookmark.accesskey  "z">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Restaura les pàgines per defecte">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Baixades">
 
 <!ENTITY saveTo.label "Desa els fitxers a">
-<!ENTITY saveTo.accesskey "s">
+<!ENTITY saveTo.accesskey "l">
 <!ENTITY chooseFolderWin.label        "Navega…">
-<!ENTITY chooseFolderWin.accesskey    "v">
+<!ENTITY chooseFolderWin.accesskey    "V">
 <!ENTITY chooseFolderMac.label        "Trieu…">
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAskWhere.label         "Demana sempre on desar els fitxers">
-<!ENTITY alwaysAskWhere.accesskey     "a">
+<!ENTITY alwaysAskWhere.accesskey     "Q">
 
 <!ENTITY alwaysCheckDefault2.label        "Comprova sempre si el &brandShortName; és el navegador per defecte">
-<!ENTITY alwaysCheckDefault2.accesskey    "o">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Fes que sigui el navegador per defecte">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "N">
 <!ENTITY isDefault.label                  "Actualment el &brandShortName; és el navegador per defecte">
 <!ENTITY isNotDefault.label               "El &brandShortName; no és el navegador per defecte">
 
@@ -47,7 +47,7 @@
 
 <!ENTITY localeSelect.label               "Locale Select">
 
-<!ENTITY newtabsoptions.label "New Tab">
+<!ENTITY newtabsoptions.label "Pestanya nova">
 <!ENTITY newtabenabled.label "Enable new tab page">
 <!ENTITY newtabsearch.label "Enable search bar on New Tab (reload page)">
 <!ENTITY newtabthumbnail.label "Disable thumbnail capturing on new tab page">
