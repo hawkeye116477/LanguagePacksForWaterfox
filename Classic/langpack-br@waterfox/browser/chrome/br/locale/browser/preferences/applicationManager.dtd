@@ -4,5 +4,5 @@
 
 <!ENTITY appManager.title     "Munudoù an arload">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
-<!ENTITY remove.label         "Dilemel">
-<!ENTITY remove.accesskey     "D">
+<!ENTITY remove.label         "Lemel kuit">
+<!ENTITY remove.accesskey     "R">
