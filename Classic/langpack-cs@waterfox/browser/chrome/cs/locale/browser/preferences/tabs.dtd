@@ -6,17 +6,17 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "Otevírat nová okna v panelech">
-<!ENTITY newWindowsAsTabs.accesskey   "O">
+<!ENTITY newWindowsAsTabs.accesskey   "b">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Varovat při zavírání více panelů">
-<!ENTITY warnOnCloseMultipleTabs.accesskey  "v">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Varovat, pokud by mohlo otevírání více panelů aplikaci &brandShortName; zpomalit">
-<!ENTITY warnOnOpenManyTabs.accesskey   "d">
+<!ENTITY warnOnOpenManyTabs.accesskey   "v">
 
 <!ENTITY switchLinksToNewTabs.label        "Přepnout na nový panel otevřený z odkazu">
-<!ENTITY switchLinksToNewTabs.accesskey    "n">
+<!ENTITY switchLinksToNewTabs.accesskey    "S">
 
 <!ENTITY showTabsInTaskbar.label          "V hlavním panelu Windows zobrazit náhledy panelů">
-<!ENTITY showTabsInTaskbar.accesskey      "h">
+<!ENTITY showTabsInTaskbar.accesskey      "l">
 <!ENTITY tabsGroup.label          "Panely">
