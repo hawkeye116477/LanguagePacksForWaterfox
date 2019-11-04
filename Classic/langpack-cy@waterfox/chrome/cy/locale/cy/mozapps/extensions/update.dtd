@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "Dewiswch yr ychwanegion yr hoffech ei osod:">
 <!ENTITY  found.disabledXPinstall.label   "Nid oes modd gosod y diweddariadau hyn gan fod gosod meddalwedd wedi ei hanalluogi ar hyn o bryd. Gallwch newid y gosodiad isod.">
 <!ENTITY  found.enableXPInstall.label     "Caniatáu i wefannau osod meddalwedd">
-<!ENTITY  found.enableXPInstall.accesskey "C">
+<!ENTITY  found.enableXPInstall.accesskey "n">
 
 <!ENTITY  installing.wizard.title         "Rhestru Ychwanegion Cydweddus">
 <!ENTITY  installing.top.label            "Llwytho a gosod diweddariadau i'ch ychwanegion…">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Problemau wrth Osod Diweddariadau">
 <!ENTITY  installerrors.intro.label       "Mae &brandShortName; wedi profi anhawster wrth ddiweddaru rhai o'ch ychwanegion.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Clicio Gorffen i gychwyn &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Cliciwch Gorffen i barhau i gychwyn &brandShortName;.">
 <!ENTITY  enableChecking.label            "Caniatáu i &brandShortName; wirio am ddiweddariadau.">
