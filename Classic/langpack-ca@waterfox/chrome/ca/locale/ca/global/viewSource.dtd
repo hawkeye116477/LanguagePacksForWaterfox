@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/viewSource.xul -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -13,26 +13,26 @@
 <!ENTITY mainWindow.preface "Codi font de:">
 
 <!ENTITY fileMenu.label "Fitxer">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Anomena i desa…">
-<!ENTITY savePageCmd.accesskey "A">
-<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY fileMenu.accesskey "p">
+<!ENTITY savePageCmd.label "Anomena i desa la pàgina…">
+<!ENTITY savePageCmd.accesskey "Q">
+<!ENTITY savePageCmd.commandkey "T">
 <!ENTITY pageSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY pageSetupCmd.accesskey "g">
 <!ENTITY printPreviewCmd.label "Exemple d'impressió">
-<!ENTITY printPreviewCmd.accesskey "x">
+<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.commandkey "P">
+<!ENTITY printCmd.commandkey "p">
 <!ENTITY closeCmd.label "Tanca">
-<!ENTITY closeCmd.accesskey "c">
-<!ENTITY closeCmd.commandkey "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.commandkey "v">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -42,45 +42,45 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Vés a la línia…">
-<!ENTITY goToLineCmd.accesskey "l">
+<!ENTITY goToLineCmd.label "Go to Line…">
+<!ENTITY goToLineCmd.accesskey "B">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Visualitza">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "Actualitza">
-<!ENTITY reloadCmd.accesskey "z">
-<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "i">
 <!ENTITY menu_wrapLongLines.title "Ajusta les línies llargues"> 
-<!ENTITY menu_wrapLongLines.accesskey "r">
+<!ENTITY menu_wrapLongLines.accesskey "v">
 <!ENTITY menu_highlightSyntax.label "Ressaltat de sintaxi">
-<!ENTITY menu_highlightSyntax.accesskey "s">
+<!ENTITY menu_highlightSyntax.accesskey "j">
 <!ENTITY menu_textSize.label "Mida del text">
-<!ENTITY menu_textSize.accesskey "M">
+<!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Augmenta">
-<!ENTITY menu_textEnlarge.accesskey "g">
+<!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "Redueix">
-<!ENTITY menu_textReduce.accesskey "d">
+<!ENTITY menu_textReduce.accesskey "N">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "Cerca en aquesta pàgina…">
-<!ENTITY findOnCmd.accesskey "i">
+<!ENTITY findOnCmd.accesskey "p">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Torna a cercar">
-<!ENTITY findAgainCmd.accesskey "o">
-<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.accesskey "a">
+<!ENTITY findAgainCmd.commandkey "a">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "Enrere">
-<!ENTITY backCmd.accesskey "r">
+<!ENTITY backCmd.accesskey "B">
 <!ENTITY forwardCmd.label "Endavant">
-<!ENTITY forwardCmd.accesskey "d">
+<!ENTITY forwardCmd.accesskey "p">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "Copia la ubicació de l'enllaç">
-<!ENTITY copyLinkCmd.accesskey "l">
+<!ENTITY copyLinkCmd.label "Copia l'enllaç">
+<!ENTITY copyLinkCmd.accesskey "S">
 <!ENTITY copyEmailCmd.label "Copia l'adreça electrònica">
-<!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY copyEmailCmd.accesskey "E">
