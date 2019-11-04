@@ -6,9 +6,9 @@
 <!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "Siyahı">
-<!ENTITY windowClose.key              "w">
+<!ENTITY windowClose.key              "r">
 
 <!ENTITY button.cancel.label          "Ləğv et">
-<!ENTITY button.cancel.accesskey      "L">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Dəyişikləri yadda saxla">
-<!ENTITY button.ok.accesskey          "s">
+<!ENTITY button.ok.accesskey          "g">
