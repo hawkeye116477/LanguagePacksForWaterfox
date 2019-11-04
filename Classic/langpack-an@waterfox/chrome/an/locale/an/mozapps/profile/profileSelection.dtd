@@ -19,13 +19,13 @@
 <!ENTITY            renameButton.label     "Renombrar o perfil…">
 <!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "Eliminar o perfil…">
-<!ENTITY            deleteButton.accesskey "E">
-<!-- manager entities -->
+<!ENTITY            deleteButton.accesskey "N">
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; almagazena información sobre a suya configuración, preferencias y atros elementos d'usuario en o suyo perfil d'usuario.">
 
 <!ENTITY            offlineState.label    "Treballar sin conexión">
-<!ENTITY            offlineState.accesskey "o">
+<!ENTITY            offlineState.accesskey "s">
 
 <!ENTITY            useSelected.label       "Usar o perfil trigau sin preguntar a l'inicio">
-<!ENTITY            useSelected.accesskey   "U">
+<!ENTITY            useSelected.accesskey   "t">
