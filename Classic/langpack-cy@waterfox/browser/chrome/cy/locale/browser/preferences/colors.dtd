@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors.label        "Anwybyddu'r lliwiau sy'n cael eu pennu gan y dudalen gan ddefnyddio fy newis i uchod:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "A">
+<!ENTITY  overrideDefaultPageColors.accesskey    "F">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Bob tro">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Dim ond y themâu Cyferbyniad Uchel">
@@ -15,16 +15,16 @@
 
 <!ENTITY  color                           "Testun a Chefndir">
 <!ENTITY  textColor.label                 "Testun:">
-<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  textColor.accesskey             "G">
 <!ENTITY  backgroundColor.label           "Cefndir:">
-<!ENTITY  backgroundColor.accesskey       "C">
+<!ENTITY  backgroundColor.accesskey       "N">
 <!ENTITY  useSystemColors.label           "Defnyddio lliwiau'r system">
-<!ENTITY  useSystemColors.accesskey       "s">
+<!ENTITY  useSystemColors.accesskey       "R">
 
 <!ENTITY  underlineLinks.label            "Tanlinellu dolenni">
-<!ENTITY  underlineLinks.accesskey        "d">
+<!ENTITY  underlineLinks.accesskey        "D">
 <!ENTITY  links                           "Lliw Dolenni">
 <!ENTITY  linkColor.label                 "Dolenni heb gael Ymweliad:">
-<!ENTITY  linkColor.accesskey             "D">
+<!ENTITY  linkColor.accesskey             "F">
 <!ENTITY  visitedLinkColor.label          "Dolenni wedi cael Ymweliad:">
-<!ENTITY  visitedLinkColor.accesskey      "w">
+<!ENTITY  visitedLinkColor.accesskey      "V">
