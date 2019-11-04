@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "Tiqupïx">
-<!ENTITY cutCmd.accesskey "q">
-<!ENTITY copyCmd.label "Wachib'exïk">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Tiwachib'ëx">
+<!ENTITY copyCmd.accesskey "T">
 <!ENTITY pasteCmd.label "Titz'ajb'äx">
-<!ENTITY pasteCmd.accesskey "T">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Titzolïx">
-<!ENTITY undoCmd.accesskey "T">
+<!ENTITY undoCmd.accesskey "n">
 <!ENTITY selectAllCmd.label "Ticha' ronojel">
-<!ENTITY selectAllCmd.accesskey "r">
+<!ENTITY selectAllCmd.accesskey "i">
 <!ENTITY deleteCmd.label "Tiyuj">
-<!ENTITY deleteCmd.accesskey "T">
+<!ENTITY deleteCmd.accesskey "w">
 
 <!ENTITY spellAddToDictionary.label "Titz'aqatisäx pa soltzij">
-<!ENTITY spellAddToDictionary.accesskey "a">
+<!ENTITY spellAddToDictionary.accesskey "n">
 <!ENTITY spellUndoAddToDictionary.label "Titzolïx chi rij Titz'aqatisäx pa soltzij">
-<!ENTITY spellUndoAddToDictionary.accesskey "t">
+<!ENTITY spellUndoAddToDictionary.accesskey "o">
 <!ENTITY spellCheckToggle.label "Tinik'öx rutz'ib'axik">
-<!ENTITY spellCheckToggle.accesskey "t">
+<!ENTITY spellCheckToggle.accesskey "i">
 <!ENTITY spellNoSuggestions.label "(Majun taq kichilab'exik tz'ib'anïk)">
 <!ENTITY spellDictionaries.label "Taq ch'ab'äl">
-<!ENTITY spellDictionaries.accesskey "T">
+<!ENTITY spellDictionaries.accesskey "l">
 
-<!ENTITY searchTextBox.clear.label "Tijosq'ïx">
+<!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "Tinojisäx rutikirisab'al molojri'ïl">
-<!ENTITY fillLoginMenu.accesskey      "T">
+<!ENTITY fillLoginMenu.accesskey      "c">
 <!ENTITY fillPasswordMenu.label       "Tinojisäx ewan tzij">
-<!ENTITY fillPasswordMenu.accesskey   "T">
+<!ENTITY fillPasswordMenu.accesskey   "c">
 <!ENTITY fillUsernameMenu.label       "Tinojisäx rub'i' winäq">
-<!ENTITY fillUsernameMenu.accesskey   "T">
+<!ENTITY fillUsernameMenu.accesskey   "c">
 <!ENTITY noLoginSuggestions.label     "(Majun taq kichilab'exik rutikirib'al molojri'ïl)">
 <!ENTITY viewSavedLogins.label        "Ketz'et ri yakon kitikirisanik molojri'ïl">
