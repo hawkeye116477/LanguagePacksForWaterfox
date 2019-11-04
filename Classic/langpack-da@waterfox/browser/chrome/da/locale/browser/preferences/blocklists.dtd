@@ -6,9 +6,9 @@
 <!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "Liste">
-<!ENTITY windowClose.key              "w">
+<!ENTITY windowClose.key              "V">
 
-<!ENTITY button.cancel.label          "Fortryd">
-<!ENTITY button.cancel.accesskey      "F">
+<!ENTITY button.cancel.label          "Annuller">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Gem ændringer">
-<!ENTITY button.ok.accesskey          "G">
+<!ENTITY button.ok.accesskey          "I">
