@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/viewSource.xul -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -14,12 +14,12 @@
 
 <!ENTITY fileMenu.label "ফাইল">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "পৃষ্ঠাক এইধৰণে ৰক্ষা কৰক…">
+<!ENTITY savePageCmd.label "এই ধৰণে পৃষ্ঠা সংৰক্ষণ কৰক…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "পৃষ্ঠাৰ সংস্থাপন…">
+<!ENTITY pageSetupCmd.label "পৃষ্টা সংস্থাপন…">
 <!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "প্ৰিন্ট পূৰ্বদৰ্শন">
+<!ENTITY printPreviewCmd.label "প্ৰিন্ট পুৰ্বদৰ্শন">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "প্ৰিন্ট কৰক…">
 <!ENTITY printCmd.accesskey "P">
@@ -27,12 +27,12 @@
 <!ENTITY closeCmd.label "বন্ধ কৰক">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -42,7 +42,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "শাৰীলৈ যাওক…">
+<!ENTITY goToLineCmd.label "Go to Line…">
 <!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
@@ -56,18 +56,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.label "শব্দবিন্যাসৰ আলোকপাত">
 <!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "আখৰৰ আকাৰ">
-<!ENTITY menu_textSize.accesskey "z">
+<!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "ডাঙৰ কৰক">
 <!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "সৰু কৰক">
 <!ENTITY menu_textReduce.accesskey "D">
-<!ENTITY menu_textReset.label "স্বাভাৱিক">
+<!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "এই পৃষ্ঠাত সন্ধান কৰক…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "আকৌ সন্ধান কৰক">
+<!ENTITY findAgainCmd.label  "পুনৰ সন্ধান কৰক">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
