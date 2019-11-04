@@ -3,19 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
-<!-- LOCALIZATION NOTE : FILE use the Find Bar. -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
-<!-- entities split out from browser.dtd -->
 <!ENTITY next.tooltip "Find den næste forekomst">
 <!ENTITY previous.tooltip "Find den forrige forekomst">
 <!ENTITY findCloseButton.tooltip "Luk søgebjælke">
-
 <!ENTITY highlightAll.label "Fremhæv alle">
-<!ENTITY highlightAll.accesskey "a">
+<!ENTITY highlightAll.accesskey "l">
 <!ENTITY highlightAll.tooltiptext "Fremhæv alle forekomster">
 <!ENTITY caseSensitive.label "Forskel på store og små bogstaver">
-<!ENTITY caseSensitive.accesskey "o">
+<!ENTITY caseSensitive.accesskey "u">
 <!ENTITY caseSensitive.tooltiptext "Søg med forskel på store og små bogstaver">
 <!ENTITY entireWord.label "Hele ord">
-<!ENTITY entireWord.accesskey "e">
+<!ENTITY entireWord.accesskey "V">
 <!ENTITY entireWord.tooltiptext "Søg kun efter hele ord">
