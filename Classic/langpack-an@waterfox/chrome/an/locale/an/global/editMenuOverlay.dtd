@@ -3,33 +3,33 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "Editar">
-<!ENTITY editMenu.accesskey        "E">
+<!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label             "Desfer">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "D">
+<!ENTITY undoCmd.accesskey         "f">
 <!ENTITY redoCmd.label             "Refer">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY redoCmd.accesskey         "t">
 <!ENTITY cutCmd.label              "Retallar">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Copiar">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "C">
+<!ENTITY copyCmd.accesskey         "t">
 <!ENTITY pasteCmd.label            "Apegar">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "A">
+<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Eliminar">
-<!ENTITY deleteCmd.accesskey       "E">
+<!ENTITY deleteCmd.accesskey       "f">
 <!ENTITY selectAllCmd.label        "Seleccionar-lo tot">
-<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.key          "d">
 <!ENTITY selectAllCmd.accesskey    "a">
-<!ENTITY findCmd.label             "Trobar en a pachina">
-<!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "b">
+<!ENTITY findCmd.label             "Find">
+<!ENTITY findCmd.key               "p">
+<!ENTITY findCmd.accesskey         "p">
 <!ENTITY findAgainCmd.label        "Tornar a mirar">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "T">
+<!ENTITY findAgainCmd.accesskey    "a">
 <!ENTITY findPreviousCmd.label     "Mirar l'anterior">
-<!ENTITY findPreviousCmd.accesskey "M">
+<!ENTITY findPreviousCmd.accesskey "r">
