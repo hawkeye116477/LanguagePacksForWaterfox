@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (translation.thisPageIsIn.label,
   -                     translation.translateThisPage.label):
   -  These 2 strings are used to construct a sentence that contains a dropdown
@@ -11,13 +12,13 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-
 <!ENTITY translation.thisPageIsIn.label         "هذه الصفحة باللغة">
 <!ENTITY translation.translateThisPage.label    "أتريد ترجمة هذه الصفحة؟">
 <!ENTITY translation.translate.button           "ترجم">
 <!ENTITY translation.notNow.button              "ليس الآن">
 
 <!ENTITY translation.translatingContent.label   "يُترجم محتوى الصفحة…">
+
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -33,16 +34,15 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-
 <!ENTITY translation.translatedFrom.label       "تُرجمت هذه الصفحة من اللغة">
 <!ENTITY translation.translatedTo.label         "إلى">
-<!ENTITY translation.translatedToSuffix.label   "​">
+<!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "اعرض الأصل">
 <!ENTITY translation.showTranslation.button     "اعرض الترجمة">
 
 <!ENTITY translation.errorTranslating.label     "حدث خطأ أثناء ترجمة هذه الصفحة.">
-<!ENTITY translation.tryAgain.button            "أعِد المحاولة">
+<!ENTITY translation.tryAgain.button            "حاول مرة أخرى">
 
 <!ENTITY translation.serviceUnavailable.label   "الترجمة ليست متوفرة حاليًا. من فضلك أعد المحاولة لاحقًا.">
 
@@ -53,17 +53,18 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "لا تترجم هذا الموقع أبدًا">
-<!ENTITY translation.options.neverForSite.accesskey "ه">
+<!ENTITY translation.options.neverForSite.accesskey "ق">
 <!ENTITY translation.options.preferences.label  "تفضيلات الترجمة">
-<!ENTITY translation.options.preferences.accesskey "ت">
+<!ENTITY translation.options.preferences.accesskey "ط">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "ترجمات">
-<!ENTITY translation.options.attribution.afterLogo "​">
+<!ENTITY translation.options.attribution.afterLogo "">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -71,5 +72,4 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
-
 <!ENTITY translation.options.attribution.yandexTranslate "يستخدم Yandex.Translate">
