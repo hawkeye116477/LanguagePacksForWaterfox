@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "قصّ">
-<!ENTITY cutCmd.accesskey "ق">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "انسخ">
-<!ENTITY copyCmd.accesskey "ن">
+<!ENTITY copyCmd.accesskey "غ">
 <!ENTITY pasteCmd.label "ألصق">
-<!ENTITY pasteCmd.accesskey "ل">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "تراجع">
-<!ENTITY undoCmd.accesskey "ر">
+<!ENTITY undoCmd.accesskey "ع">
 <!ENTITY selectAllCmd.label "اختر الكل">
-<!ENTITY selectAllCmd.accesskey "ك">
+<!ENTITY selectAllCmd.accesskey "ڤ">
 <!ENTITY deleteCmd.label "احذف">
-<!ENTITY deleteCmd.accesskey "ذ">
+<!ENTITY deleteCmd.accesskey "ن">
 
 <!ENTITY spellAddToDictionary.label "أضِف إلى القاموس">
-<!ENTITY spellAddToDictionary.accesskey "ف">
+<!ENTITY spellAddToDictionary.accesskey "ل">
 <!ENTITY spellUndoAddToDictionary.label "تراجع عن الإضافة إلى القاموس">
-<!ENTITY spellUndoAddToDictionary.accesskey "ت">
+<!ENTITY spellUndoAddToDictionary.accesskey "ف">
 <!ENTITY spellCheckToggle.label "دقق الإملاء">
-<!ENTITY spellCheckToggle.accesskey "م">
+<!ENTITY spellCheckToggle.accesskey "ص">
 <!ENTITY spellNoSuggestions.label "(لا اقتراحات إملاء)">
-<!ENTITY spellDictionaries.label "اللغات">
-<!ENTITY spellDictionaries.accesskey "غ">
+<!ENTITY spellDictionaries.label "اللّغات">
+<!ENTITY spellDictionaries.accesskey "l">
 
-<!ENTITY searchTextBox.clear.label "امسح">
+<!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "املأ بالولوج">
-<!ENTITY fillLoginMenu.accesskey      "م">
+<!ENTITY fillLoginMenu.accesskey      "ش">
 <!ENTITY fillPasswordMenu.label       "املأ بكلمة السر">
-<!ENTITY fillPasswordMenu.accesskey   "م">
+<!ENTITY fillPasswordMenu.accesskey   "ش">
 <!ENTITY fillUsernameMenu.label       "املأ باسم المستخدم">
-<!ENTITY fillUsernameMenu.accesskey   "م">
+<!ENTITY fillUsernameMenu.accesskey   "ش">
 <!ENTITY noLoginSuggestions.label     "(لا اقتراحات ولوج)">
 <!ENTITY viewSavedLogins.label        "اعرض جلسات الولوج المحفوظة">
