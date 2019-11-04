@@ -17,9 +17,9 @@
 <!ENTITY certmgr.orphans                      "Du har certifikater liggende, som ikke passer ind i nogen anden kategori:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Generelt">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.general_tab.accesskey "e">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detaljer">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "N">
 
 <!ENTITY certmgr.pending.label                "Verificerer certifikat…">
 <!ENTITY certmgr.subjectinfo.label            "Udstedt til">
@@ -45,47 +45,47 @@
 <!ENTITY certmgr.certname                     "Certifikatnavn">
 <!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Levetid">
-<!ENTITY certmgr.tokenname                    "Sikkerhedsenhed">
+<!ENTITY certmgr.tokenname                    "Sikkerhedsanordning">
 <!ENTITY certmgr.begins                       "Begynder den">
 <!ENTITY certmgr.expires                      "Udløber den">
 <!ENTITY certmgr.email                        "Mailadresse">
 <!ENTITY certmgr.serial                       "Serienummer">
 
 <!ENTITY certmgr.close.label                  "Luk">
-<!ENTITY certmgr.close.accesskey              "L">
+<!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Vis…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Rediger tillid…">
 <!ENTITY certmgr.edit3.accesskey              "R">
 <!ENTITY certmgr.export.label                 "Eksporter…">
-<!ENTITY certmgr.export.accesskey             "E">
+<!ENTITY certmgr.export.accesskey             "A">
 <!ENTITY certmgr.delete2.label                "Slet…">
-<!ENTITY certmgr.delete2.accesskey            "S">
+<!ENTITY certmgr.delete2.accesskey            "N">
 <!ENTITY certmgr.delete_builtin.label         "Slet eller fjern tillid…">
-<!ENTITY certmgr.delete_builtin.accesskey     "S">
-<!ENTITY certmgr.backup2.label                "Lav sikkerhedskopi…">
-<!ENTITY certmgr.backup2.accesskey            "k">
+<!ENTITY certmgr.delete_builtin.accesskey     "N">
+<!ENTITY certmgr.backup2.label                "Sikkerhedskopier…">
+<!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "Lav sikkerhedskopi af alle…">
-<!ENTITY certmgr.backupall2.accesskey         "a">
-<!ENTITY certmgr.restore2.label               "Importer…">
-<!ENTITY certmgr.restore2.accesskey           "I">
+<!ENTITY certmgr.backupall2.accesskey         "o">
+<!ENTITY certmgr.restore2.label               "Import…">
+<!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Certifikatfelter">
-<!ENTITY certmgr.details.accesskey            "f">
+<!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "Feltværdi">
-<!ENTITY certmgr.fields.accesskey             "v">
+<!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Certifikathierarki">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Tilføj undtagelse…">
-<!ENTITY certmgr.addException.accesskey       "U">
+<!ENTITY certmgr.addException.accesskey       "A">
 
 <!ENTITY exceptionMgr.title                   "Tilføj sikkerhedsundtagelse">
 <!ENTITY exceptionMgr.exceptionButton.label   "Bekræft sikkerhedsundtagelse">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "B">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitime banker, forretninger og andre offentlige websteder vil ikke bede dig om at gøre dette.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresse:">
 <!ENTITY exceptionMgr.certlocation.download   "Hent certifikat">
-<!ENTITY exceptionMgr.certlocation.accesskey  "H">
+<!ENTITY exceptionMgr.certlocation.accesskey  "e">
 <!ENTITY exceptionMgr.certstatus.caption      "Certifikatstatus">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Vis…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
