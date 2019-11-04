@@ -11,9 +11,9 @@
 <!ENTITY aboutUrlClassifier.providerBackOffTime         "Geri qayırma vaxtı">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Son yenilənmə vəziyyəti">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Yenilə">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Keş">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Önbellek">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Yenilə">
-<!ENTITY aboutUrlClassifier.cacheClearBtn               "Təmizlə">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Clear">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Cədvəl adı">
 <!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Mənfi keş elementlərinin sayısı">
 <!ENTITY aboutUrlClassifier.cachePCacheEntries          "Pozitiv keş elementlərinin sayısı">
@@ -24,8 +24,8 @@
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Tam hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Pozitiv keş vaxtı keçmə">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Sazla">
-<!ENTITY aboutUrlClassifier.debugModuleBtn              "Gündəlik Modullarını Qur">
-<!ENTITY aboutUrlClassifier.debugFileBtn                "Gündəlik Faylını Qur">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Qeydiyyat Modullarını Qur">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Qeydiyyat Faylını Qur">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "JS Gündəliyini Qur">
 <!ENTITY aboutUrlClassifier.debugSBModules              "Təhlükəsiz Səyahət gündəliyi modulları">
 <!ENTITY aboutUrlClassifier.debugModules                "Hazırki gündəlik modulları">
