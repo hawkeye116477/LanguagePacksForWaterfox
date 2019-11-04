@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "লাইব্ৰেৰী">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -22,9 +22,9 @@
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "অসজোঁৱা">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A > Z ক্ৰম সজাঁওক">
+<!ENTITY view.sortAscending.label       "A &gt; Z ক্ৰম সজাঁওক">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A ক্ৰম সজাঁওক">
+<!ENTITY view.sortDescending.label      "Z &gt; A ক্ৰম সজাঁওক">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "পত্ৰচিহ্নসমূহ HTML ৰ পৰা ইমপোৰ্ট কৰক…">
@@ -44,15 +44,15 @@
 <!ENTITY cmd.deleteDomainData.label     "এই ছাইটৰ বিষয়ে পাহৰি যাওক">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
-<!ENTITY cmd.open.label                  "খোলক">
+<!ENTITY cmd.open.label                  "Open">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "এটা নতুন উইন্ডোত খোলক">
+<!ENTITY cmd.open_window.label           "Open in a New Window">
 <!ENTITY cmd.open_window.accesskey       "N">
-
-
-<!ENTITY cmd.open_tab.label              "এটা নতুন টেবত খোলক">
+<!ENTITY cmd.open_private_window.label     "Open in a New Private Window">
+<!ENTITY cmd.open_private_window.accesskey "P">
+<!ENTITY cmd.open_tab.label              "Open in a New Tab">
 <!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "সকলোক টেবত খোলক">
+<!ENTITY cmd.open_all_in_tabs.label      "Open All in Tabs">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
 <!ENTITY cmd.properties.label      "বৈশিষ্ট্যসমূহ">
@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "যোগ কৰা হ'ল">
 <!ENTITY col.lastmodified.label  "সৰ্বেশষ পৰিৱৰ্তীত">
 
+<!ENTITY search.placeholder  "Search">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -96,7 +97,7 @@
 
 <!ENTITY forwardButton.tooltip  "আগলৈ যাওক">
 
-<!ENTITY detailsPane.more.label "অধিক">
+<!ENTITY detailsPane.more.label "More">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "কম">
 <!ENTITY detailsPane.less.accesskey "e">
@@ -114,10 +115,5 @@
 <!ENTITY byLastVisited.accesskey  "L">
 <!ENTITY byDayAndSite.label       "তাৰিখ আৰু ছাইটৰে">
 <!ENTITY byDayAndSite.accesskey   "t">
-
-<!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_private_window.label     "Open in a New Private Window">
-<!ENTITY search.placeholder  "Search">
-
 <!ENTITY col.parentfolder.label  "Parent Folder">
 <!ENTITY col.parentpath.label  "Parent Path">
