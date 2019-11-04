@@ -24,7 +24,7 @@
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ale nebudete na internetu zcela neviditelní.">
 <!ENTITY aboutPrivateBrowsing.note.after                 " Váš zaměstnavatel nebo poskytovatel internetu mohou stále zjistit, jaké stránky navštěvujete.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Zjistit více o ">
-<!ENTITY aboutPrivateBrowsing.learnMore3.title           "anonymním prohlížení">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Anonymní prohlížení">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Ochrana proti sledování">
