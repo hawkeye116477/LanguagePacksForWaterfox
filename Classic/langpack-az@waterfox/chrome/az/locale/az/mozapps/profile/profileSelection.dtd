@@ -15,17 +15,17 @@
 <!ENTITY            availprofiles.label    "İstifadə oluna biləcək profillər">
 
 <!ENTITY            newButton.label        "Profil yarad…">
-<!ENTITY            newButton.accesskey    "o">
+<!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "Profil adını dəyişdir…">
-<!ENTITY            renameButton.accesskey "d">
+<!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "Profili sil…">
-<!ENTITY            deleteButton.accesskey "s">
-<!-- manager entities -->
+<!ENTITY            deleteButton.accesskey "D">
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; nizamlarınız, seçimləriniz və istifadəçi profilinizdəki digər elementlərlə bağlı məlumatları yadda saxlayır.">
 
 <!ENTITY            offlineState.label    "Offlin rejimə keç">
-<!ENTITY            offlineState.accesskey "e">
+<!ENTITY            offlineState.accesskey "T">
 
 <!ENTITY            useSelected.label       "Seçilmiş hesabı başlanğıcda soruşmadan istifadə et">
-<!ENTITY            useSelected.accesskey   "s">
+<!ENTITY            useSelected.accesskey   "B">
