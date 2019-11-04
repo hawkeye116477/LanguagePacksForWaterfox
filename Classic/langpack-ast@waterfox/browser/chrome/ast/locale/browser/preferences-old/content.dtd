@@ -8,26 +8,26 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "Avisos">
-<!ENTITY  notificationsPolicyLearnMore.label   "Deprendi más">
-<!ENTITY  notificationsPolicyDesc3.label       "Escueyi qué sitios tienen permisu pa unviate avisos">
-<!ENTITY  notificationsPolicyButton.accesskey  "c">
+<!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
+<!ENTITY  notificationsPolicyDesc4.label       "Choose which websites are allowed to send you notifications">
+<!ENTITY  notificationsPolicyButton.accesskey  "n">
 <!ENTITY  notificationsPolicyButton.label      "Escoyer…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nun me cafiar">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "m">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Nun s'amosará avisu dalu fasta que reanicies &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Esceiciones…">
+<!ENTITY  popupExceptions.label       "Exceptions…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  fontsAndColors.label        "Fontes y colores">
 
 <!ENTITY  defaultFont.label           "Fonte predeterminada:">
-<!ENTITY  defaultFont.accesskey       "T">
+<!ENTITY  defaultFont.accesskey       "N">
 <!ENTITY  defaultSize.label           "Tamañu:">
-<!ENTITY  defaultSize.accesskey       "m">
+<!ENTITY  defaultSize.accesskey       "U">
 
 <!ENTITY  advancedFonts.label         "Avanzaes…">
-<!ENTITY  advancedFonts.accesskey     "v">
+<!ENTITY  advancedFonts.accesskey     "T">
 
 <!ENTITY  colors.label                "Colores…">
 <!ENTITY  colors.accesskey            "C">
@@ -36,12 +36,12 @@
 <!ENTITY languages.label              "Llingües">
 <!ENTITY chooseLanguage.label         "Escoyer llingua preferida p'amosar les páxines web">
 <!ENTITY chooseButton.label           "Escoyer…">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY chooseButton.accesskey       "P">
 
 <!ENTITY translateWebPages.label      "Traducir conteníu web">
-<!ENTITY translateWebPages.accesskey  "d">
-<!ENTITY translateExceptions.label    "Esceiciones…">
-<!ENTITY translateExceptions.accesskey "s">
+<!ENTITY translateWebPages.accesskey  "i">
+<!ENTITY translateExceptions.label    "Exceptions…">
+<!ENTITY translateExceptions.accesskey "c">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -57,9 +57,7 @@
 
 <!ENTITY  playDRMContent.label         "Reproducir conteníu DRM">
 <!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "Deprender más">
-
-<!ENTITY  notificationsPolicyDesc4.label       "Choose which websites are allowed to send you notifications">
+<!ENTITY  playDRMContent.learnMore.label "Learn more">
 
 <!ENTITY images.label "Images">
 <!ENTITY loadImages.label "Load images automatically">
