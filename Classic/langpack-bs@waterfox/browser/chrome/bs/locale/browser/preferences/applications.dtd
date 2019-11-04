@@ -3,18 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Aplikacije">
-
-
-<!ENTITY  typeColumn.label        "Tip sadržaja">
-<!ENTITY  typeColumn.accesskey    "T">
-
-<!ENTITY  actionColumn2.label     "Akcija">
-<!ENTITY  actionColumn2.accesskey "A">
-
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
-
-<!ENTITY  filter2.emptytext        "Pretraži tipove fajlova ili aplikacije">
-
 <!ENTITY  applications.description "Choose how &brandShortName; handles the files you download from the web or the applications you use while browsing.">
 
+<!ENTITY  typeColumn.label        "Tip sadržaja">
+<!ENTITY  typeColumn.accesskey    "I">
+
+<!ENTITY  actionColumn2.label     "Akcija">
+<!ENTITY  actionColumn2.accesskey "O">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "R">
+
+<!ENTITY  filter2.emptytext        "Pretraži tipove fajlova ili aplikacije">
