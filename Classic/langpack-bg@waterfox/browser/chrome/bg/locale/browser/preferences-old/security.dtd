@@ -5,36 +5,36 @@
 <!ENTITY  general.label                 "Основни">
 
 <!ENTITY  warnOnAddonInstall2.label       "Предупреждаване при опит на уебстраница да инсталира добавки">
-<!ENTITY  warnOnAddonInstall2.accesskey   "д">
+<!ENTITY  warnOnAddonInstall2.accesskey   "н">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 <!ENTITY  enableSafeBrowsing.label        "Блокиране на опасно и измамно съдържание">
-<!ENTITY  enableSafeBrowsing.accesskey    "Б">
+<!ENTITY  enableSafeBrowsing.accesskey    "о">
 
 <!ENTITY  blockDownloads.label            "Блокиране на опасни изтегляния">
-<!ENTITY  blockDownloads.accesskey        "т">
+<!ENTITY  blockDownloads.accesskey        "Б">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "Предупреждаване при нежелан или рядко срещан софтуер">
-<!ENTITY  blockUncommonAndUnwanted.accesskey "н">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "Изключения…">
-<!ENTITY  addonExceptions.accesskey     "И">
+<!ENTITY  addonExceptions.accesskey     "Р">
 
 
 <!ENTITY  logins.label                  "Регистрации">
 
 <!ENTITY  rememberLogins2.label         "Запомняне на регистрации в уебстраници">
-<!ENTITY  rememberLogins2.accesskey     "р">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Изключения…">
-<!ENTITY  passwordExceptions.accesskey  "к">
+<!ENTITY  passwordExceptions.accesskey  "х">
 
 <!ENTITY  useMasterPassword.label        "Използване на главна парола">
-<!ENTITY  useMasterPassword.accesskey    "г">
+<!ENTITY  useMasterPassword.accesskey    "О">
 <!ENTITY  changeMasterPassword.label     "Смяна на главната парола…">
-<!ENTITY  changeMasterPassword.accesskey "л">
+<!ENTITY  changeMasterPassword.accesskey "м">
 
 <!ENTITY  savedLogins.label              "Запазени регистрации…">
-<!ENTITY  savedLogins.accesskey          "р">
+<!ENTITY  savedLogins.accesskey          "Н">
