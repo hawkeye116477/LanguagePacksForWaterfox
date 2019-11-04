@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printdialog.xul -->
 
+<!-- extracted from printdialog.xul -->
 
 <!ENTITY printButton.label "Imprentar">
 
@@ -11,9 +11,9 @@
 <!ENTITY fpDialog.title "Alzar o fichero">
 
 <!ENTITY fileCheck.label "Imprentar ta un archivo">
-<!ENTITY fileCheck.accesskey "h">
+<!ENTITY fileCheck.accesskey "p">
 <!ENTITY propertiesButton.label "Propiedatz…">
-<!ENTITY propertiesButton.accesskey "o">
+<!ENTITY propertiesButton.accesskey "s">
 <!ENTITY descText.label "Descripción d'a impresora:">
 <!ENTITY printer.label "Impresora">
 <!ENTITY printerInput.label "Nombre d'a impresora:">
@@ -21,24 +21,24 @@
 
 <!ENTITY printrangeGroup.label "Rango d'impresión">
 <!ENTITY allpagesRadio.label "Todas as pachinas">
-<!ENTITY allpagesRadio.accesskey "T">
+<!ENTITY allpagesRadio.accesskey "d">
 <!ENTITY rangeRadio.label  "Pachinas">
-<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY rangeRadio.accesskey  "p">
 <!ENTITY frompageInput.label  "de">
-<!ENTITY frompageInput.accesskey  "d">
-<!ENTITY topageInput.label  "ta">
+<!ENTITY frompageInput.accesskey  "t">
+<!ENTITY topageInput.label  "enta o">
 <!ENTITY topageInput.accesskey  "t">
 <!ENTITY selectionRadio.label "Selección">
-<!ENTITY selectionRadio.accesskey "S">
+<!ENTITY selectionRadio.accesskey "v">
 
 <!ENTITY copies.label "Copias">
 <!ENTITY numCopies.label "Numero de copias:">
-<!ENTITY numCopies.accesskey "c">
+<!ENTITY numCopies.accesskey "t">
 
 <!ENTITY printframeGroup.label "Imprentar as bastidas">
 <!ENTITY aslaidoutRadio.label "Tal como se veye en pantalla">
-<!ENTITY aslaidoutRadio.accesskey "v">
+<!ENTITY aslaidoutRadio.accesskey "f">
 <!ENTITY selectedframeRadio.label  "O marco seleccionau">
 <!ENTITY selectedframeRadio.accesskey  "m">
 <!ENTITY eachframesepRadio.label  "Cada marco por separau">
-<!ENTITY eachframesepRadio.accesskey  "C">
+<!ENTITY eachframesepRadio.accesskey  "E">
