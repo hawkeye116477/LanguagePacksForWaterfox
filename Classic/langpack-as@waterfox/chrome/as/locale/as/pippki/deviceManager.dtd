@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE (devmgr.style2): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
+<!ENTITY devmgr.style2                          "width: 67em; height: 32em;">
 
 <!ENTITY devmgr.devlist.label                   "সুৰক্ষাৰ মডিউল আৰু ডিভাইচ">
 <!ENTITY devmgr.details.title                   "বিৱৰণ">
@@ -31,8 +32,5 @@
 <!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "ব্ৰাউছ কৰক…">
 <!ENTITY loaddevice.browse.accesskey            "B">
-
-
-<!ENTITY devmgr.style2                          "width: 67em; height: 32em;">
 
 <!ENTITY loaddevice.title2                      "Load PKCS#11 Device Driver">
