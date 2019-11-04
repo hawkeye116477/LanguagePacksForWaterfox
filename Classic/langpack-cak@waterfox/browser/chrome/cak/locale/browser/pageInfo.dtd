@@ -5,16 +5,16 @@
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "550">
 
-<!ENTITY  copy.key              "K">
-<!ENTITY  copy.label            "Wachib'exïk">
-<!ENTITY  copy.accesskey        "c">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Rucha'ik ronojel">
-<!ENTITY  selectall.accesskey   "r">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Tiwachib'ëx">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "C">
+<!ENTITY  selectall.label       "Ticha' ronojel">
+<!ENTITY  selectall.accesskey   "C">
+<!ENTITY  closeWindow.key       "c">
 
 <!ENTITY  generalTab            "Chijun">
-<!ENTITY  generalTab.accesskey  "O">
+<!ENTITY  generalTab.accesskey  "K">
 <!ENTITY  generalTitle          "B'i'aj:">
 <!ENTITY  generalURL            "Ochochib'äl:">
 <!ENTITY  generalType           "Ruwäch:">
@@ -28,7 +28,7 @@
 <!ENTITY  generalMetaContent    "rupam">
 
 <!ENTITY  mediaTab              "K'ïy k'oxom">
-<!ENTITY  mediaTab.accesskey    "K">
+<!ENTITY  mediaTab.accesskey    "c">
 <!ENTITY  mediaLocation         "Ochochib'al:">
 <!ENTITY  mediaText             "Ximon chi rucholajem tzij:">
 <!ENTITY  mediaAltHeader        "Cha'el rucholajem tzij">
@@ -38,19 +38,19 @@
 <!ENTITY  mediaCount            "Rub'i' taqoya'l">
 <!ENTITY  mediaDimension        "Runimilem:">
 <!ENTITY  mediaLongdesc         "Nïm cholonem:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "K">
 <!ENTITY  mediaSaveAs           "Tiyak achi'el…">
-<!ENTITY  mediaSaveAs.accesskey "A">
-<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaSaveAs.accesskey "C">
+<!ENTITY  mediaSaveAs2.accesskey "i">
 <!ENTITY  mediaPreview          "Nab'ey rutzub'al q'ojom:">
 
 <!ENTITY  feedTab               "Taq b'ey">
-<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedTab.accesskey     "c">
 <!ENTITY  feedSubscribe         "Tz'ib'anïk b'i'aj">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedSubscribe.accesskey "n">
 
 <!ENTITY  permTab               "Taq ya'oj q'ij">
-<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permTab.accesskey     "i">
 <!ENTITY  permUseDefault        "Tokisäx ri ruk'amon wi pe">
 <!ENTITY  permAskAlways         "Junelïk tik'utüx pe">
 <!ENTITY  permAllow             "Tiya' q'ij">
@@ -60,12 +60,12 @@
 <!ENTITY  permPlugins           "Titzij ri nak'ab'äl">
 
 <!ENTITY  permClearStorage           "Tijosq'ïx ri yakonem">
-<!ENTITY  permClearStorage.accesskey "K">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Chajinïk">
-<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityTab.accesskey "K">
 <!ENTITY  securityView.certView "Tatz'eta' ruwujil b'i'aj">
-<!ENTITY  securityView.accesskey "W">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Man etaman ta ruwäch">
 
 
@@ -79,10 +79,10 @@
 <!ENTITY  securityView.privacy.history                  "¿La nintz'ët chik re jun ruxaq k'amaya'l re'?">
 <!ENTITY  securityView.privacy.cookies                  "¿Re ruxaq k'amaya'l re' tajin nuyäk taq na'oj (taq kaxlanwey) pa re kematz'ib' re'?">
 <!ENTITY  securityView.privacy.viewCookies              "Ketz'et Taq kaxlanwey">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "m">
 <!ENTITY  securityView.privacy.passwords                "¿La xeyak ewan taq rutzij re ruxaq k'amaya'l re'?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ketz'et ri yakäl ewan taq tzij">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "c">
 
 <!ENTITY  securityView.technical.header                 "Retal ajsamajel">
 
