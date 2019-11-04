@@ -17,9 +17,9 @@
 <!ENTITY certmgr.orphans                      "Imate certifikate na fajlu koji ne spadaju ni u jednu od ostalih kategorija:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Opće">
-<!ENTITY certmgr.detail.general_tab.accesskey "O">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detalji">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "N">
 
 <!ENTITY certmgr.pending.label                "Trenutno provjeravanje certifikata…">
 <!ENTITY certmgr.subjectinfo.label            "Izdano">
@@ -52,31 +52,31 @@
 <!ENTITY certmgr.serial                       "Serijski broj">
 
 <!ENTITY certmgr.close.label                  "Zatvori">
-<!ENTITY certmgr.close.accesskey              "Z">
+<!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Pogledaj…">
-<!ENTITY certmgr.view2.accesskey              "P">
+<!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Uredi povjerenje…">
 <!ENTITY certmgr.edit3.accesskey              "e">
 <!ENTITY certmgr.export.label                 "Izvoz…">
-<!ENTITY certmgr.export.accesskey             "I">
+<!ENTITY certmgr.export.accesskey             "z">
 <!ENTITY certmgr.delete2.label                "Obriši…">
-<!ENTITY certmgr.delete2.accesskey            "O">
+<!ENTITY certmgr.delete2.accesskey            "N">
 <!ENTITY certmgr.delete_builtin.label         "Obriši ili ukloni povjerenje…">
-<!ENTITY certmgr.delete_builtin.accesskey     "O">
+<!ENTITY certmgr.delete_builtin.accesskey     "N">
 <!ENTITY certmgr.backup2.label                "Backup…">
-<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backup2.accesskey            "b">
 <!ENTITY certmgr.backupall2.label             "Sigurnosna kopija svega…">
-<!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY certmgr.restore2.label               "Uvoz…">
-<!ENTITY certmgr.restore2.accesskey           "U">
+<!ENTITY certmgr.backupall2.accesskey         "R">
+<!ENTITY certmgr.restore2.label               "Import…">
+<!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Polja certifikata">
-<!ENTITY certmgr.details.accesskey            "f">
+<!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "Vrijednost polja">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Hijerarhija certifikata">
-<!ENTITY certmgr.hierarchy.accesskey2         "H">
+<!ENTITY certmgr.hierarchy.accesskey2         "P">
 <!ENTITY certmgr.addException.label           "Dodaj izuzetak…">
-<!ENTITY certmgr.addException.accesskey       "D">
+<!ENTITY certmgr.addException.accesskey       "z">
 
 <!ENTITY exceptionMgr.title                   "Dodaj sigurnosni izuzetak">
 <!ENTITY exceptionMgr.exceptionButton.label   "Potvrdi sigurnosni izuzetak">
@@ -90,4 +90,4 @@
 <!ENTITY exceptionMgr.certstatus.viewCert     "Pogledaj…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Trajno pohrani ovaj izuzetak">
-<!ENTITY exceptionMgr.permanent.accesskey     "p">
+<!ENTITY exceptionMgr.permanent.accesskey     "r">
