@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  prefWindow.titleWin     "الخيارات">
+<!ENTITY  prefWindow.titleWin     "خيارات">
 <!ENTITY  prefWindow.title        "التفضيلات">
 <!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "تفضيلات &brandShortName;">
@@ -15,7 +15,7 @@
 
 <!ENTITY  paneSearchResults.title       "نتائج البحث">
 <!ENTITY  paneGeneral.title             "عام">
-<!ENTITY  paneSearch.title              "البحث">
+<!ENTITY  paneSearch.title              "ابحث">
 <!ENTITY  paneFilesApplications.title   "الملفات و التطبيقات">
 <!ENTITY  panePrivacySecurity.title     "الخصوصية و الأمان">
 <!ENTITY  paneContainers.title          "الألسنة الحاوية">
@@ -24,8 +24,8 @@
 <!ENTITY  languageAndAppearance.label   "اللغة و المظهر">
 <!ENTITY  filesAndApplications.label    "الملفات و التطبيقات">
 <!ENTITY  browserPrivacy.label          "خصوصية المتصفح">
-<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "حساب فَيَرفُكس">
 
 <!ENTITY  helpButton2.label        "دعم &brandShortName;">
