@@ -1,17 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "This site uses a plugin that may slow &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Pritisnite ovdje da aktivirane plugin.">
 <!ENTITY clickToActivatePlugin                               "Aktiviraj plugin.">
-<!ENTITY checkForUpdates                                     "Provjeri za nadogradnje…">
+<!ENTITY checkForUpdates                                     "Provjeri za update…">
 <!ENTITY blockedPlugin.label                                 "Ovaj plugin je blokiran radi vaše zaštite.">
 <!ENTITY hidePluginBtn.label                                 "Sakrij plugin">
 <!ENTITY managePlugins                                       "Upravljanje pluginima…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
-
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Ponovo učitaj stranicu">
 <!ENTITY reloadPlugin.post                                   " za novi pokušaj.">
@@ -29,5 +31,3 @@
 <!ENTITY plugin.mimeTypes                                    "MIME tipovi">
 <!ENTITY plugin.flashProtectedMode.label                     "Omogući Adobe Flash zaštićeni režim">
 <!ENTITY plugin.enableBlocklists.label                       "Blokiraj opasan i nametljiv Flash sadržaj">
-
-<!ENTITY pluginActivationWarning                             "This site uses a plugin that may slow &brandShortName;.">
