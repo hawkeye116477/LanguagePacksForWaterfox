@@ -12,17 +12,17 @@
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
-<!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdge.accesskey       "R">
 <!ENTITY importFromNothing.label        "Importer intet">
-<!ENTITY importFromNothing.accesskey    "I">
+<!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSafari.label         "Safari">
-<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromSafari.accesskey     "I">
 <!ENTITY importFromCanary.label         "Chrome Canary">
-<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromCanary.accesskey     "I">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "Chromium">
-<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromChromium.accesskey   "S">
 <!ENTITY importFromWaterfox.label        "Waterfox">
 <!ENTITY importFromWaterfox.accesskey    "X">
 <!ENTITY importFrom360se.label          "360 Secure Browser">
