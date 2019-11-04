@@ -5,36 +5,36 @@
 <!ENTITY startup.label             "Loc'hañ">
 
 <!ENTITY startupPage.label         "Pa loc'h &brandShortName; :">
-<!ENTITY startupPage.accesskey     "P">
+<!ENTITY startupPage.accesskey     "R">
 <!ENTITY startupUserHomePage.label "Diskouez ma fennbajennad">
 <!ENTITY startupBlankPage.label    "Diskouez ur bajenn wenn">
 <!ENTITY startupPrevSession.label  "Diskouez ma frenestroù hag ivinelloù evel ar wech diwezhañ">
 
 <!ENTITY homepage.label            "Pennbajennad :">
-<!ENTITY homepage.accesskey        "e">
+<!ENTITY homepage.accesskey        "p">
 <!ENTITY useCurrentPage.label      "Arverañ ar bajenn vremanel">
-<!ENTITY useCurrentPage.accesskey  "A">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Arverañ ar pajennoù bremanel">
 <!ENTITY chooseBookmark.label      "Arverañ ur sined…">
-<!ENTITY chooseBookmark.accesskey  "r">
+<!ENTITY chooseBookmark.accesskey  "s">
 <!ENTITY restoreDefault.label      "Assav an arventennoù dre ziouer">
-<!ENTITY restoreDefault.accesskey  "z">
+<!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Pellgargadurioù">
 
 <!ENTITY saveTo.label "Enrollañ restroù e-barzh">
-<!ENTITY saveTo.accesskey "o">
+<!ENTITY saveTo.accesskey "l">
 <!ENTITY chooseFolderWin.label        "Furchal…">
-<!ENTITY chooseFolderWin.accesskey    "F">
-<!ENTITY chooseFolderMac.label        "Diuzañ…">
-<!ENTITY chooseFolderMac.accesskey    "D">
+<!ENTITY chooseFolderWin.accesskey    "G">
+<!ENTITY chooseFolderMac.label        "Dibab…">
+<!ENTITY chooseFolderMac.accesskey    "y">
 <!ENTITY alwaysAskWhere.label         "Atav goulenn diganin pelec'h enrollañ restroù">
-<!ENTITY alwaysAskWhere.accesskey     "t">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "Gwiriañ atav ma'z eo &brandShortName; ho merdeer dre ziouer">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Lakaat dre ziouer">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "L">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "n">
 <!ENTITY isDefault.label                  "Ho merdeer dre ziouer eo &brandShortName;">
 <!ENTITY isNotDefault.label               "N'eo ket &brandShortName; ho merdeer dre ziouer">
 
@@ -47,7 +47,7 @@
 
 <!ENTITY localeSelect.label               "Locale Select">
 
-<!ENTITY newtabsoptions.label "New Tab">
+<!ENTITY newtabsoptions.label "Ivinell nevez">
 <!ENTITY newtabenabled.label "Enable new tab page">
 <!ENTITY newtabsearch.label "Enable search bar on New Tab (reload page)">
 <!ENTITY newtabthumbnail.label "Disable thumbnail capturing on new tab page">
