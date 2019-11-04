@@ -10,7 +10,7 @@
 <!ENTITY            profilename.label      "Nome de perfil:">
 
 <!ENTITY            start.label            "Entamar &brandShortName;">
-<!ENTITY            exit.label             "Zarrar">
+<!ENTITY            exit.label             "Colar">
 
 <!ENTITY            availprofiles.label    "Perfiles disponibles">
 
@@ -19,13 +19,13 @@
 <!ENTITY            renameButton.label     "Renomar perfil…">
 <!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "Desaniciar perfil…">
-<!ENTITY            deleteButton.accesskey "e">
+<!ENTITY            deleteButton.accesskey "N">
 
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; atroxa información sobre la to configuración, preferencies y otros elementos nel to perfil d'usuariu.">
 
 <!ENTITY            offlineState.label    "Trabayar ensin conexón">
-<!ENTITY            offlineState.accesskey "o">
+<!ENTITY            offlineState.accesskey "P">
 
 <!ENTITY            useSelected.label       "Usar el perfil esbilláu ensin entrugar nel aniciu">
-<!ENTITY            useSelected.accesskey   "U">
+<!ENTITY            useSelected.accesskey   "c">
