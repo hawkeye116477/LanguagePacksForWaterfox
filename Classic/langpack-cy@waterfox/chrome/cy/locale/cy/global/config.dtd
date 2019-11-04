@@ -3,48 +3,48 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Gall hyn ddiddymu eich gwarant!">
 <!ENTITY aboutWarningText.label "Gall newid y gosodiadau uwch wneud niwed i sefydlogrwydd a pherfformiad y rhaglen. Dylech barhau dim ond os ydych yn gwybod beth rydych yn ei wneud.">
 <!ENTITY aboutWarningButton2.label "Rwy'n derbyn y perygl!">
 <!ENTITY aboutWarningCheckbox.label "Dangos y rhybudd y tro nesaf">
 
 <!ENTITY searchPrefs.label "Chwilio:">
-<!ENTITY searchPrefs.accesskey "C">
-<!ENTITY focusSearch.key "r">
-<!ENTITY focusSearch2.key "f">
-<!-- Columns -->
+<!ENTITY searchPrefs.accesskey "D">
+<!ENTITY focusSearch.key "D">
+<!ENTITY focusSearch2.key "S">
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Enw'r Dewis">
 <!ENTITY lockColumn.label "Statws">
 <!ENTITY typeColumn.label "Math">
 <!ENTITY valueColumn.label "Gwerth">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Clicio i'w trefnu"> 
 <!ENTITY columnChooser.tooltip "Cliciwch i ddewis colofnau i'w dangos"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copïo">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Copïo Enw">
-<!ENTITY copyName.accesskey "n">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Copïo Gwerth">
-<!ENTITY copyValue.accesskey "G">
+<!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Newid">
-<!ENTITY modify.accesskey "e">
+<!ENTITY modify.accesskey "B">
 <!ENTITY toggle.label "Toglo">
-<!ENTITY toggle.accesskey "T">
+<!ENTITY toggle.accesskey "G">
 <!ENTITY reset.label "Ailosod">
-<!ENTITY reset.accesskey "A">
-<!ENTITY new.label "Newydd">
-<!ENTITY new.accesskey "N">
-<!ENTITY string.label "Llinyn">
-<!ENTITY string.accesskey "L">
-<!ENTITY integer.label "Cyfanrif">
-<!ENTITY integer.accesskey "i">
-<!ENTITY boolean.label "Booleaidd">
-<!ENTITY boolean.accesskey "B">
+<!ENTITY reset.accesskey "R">
+<!ENTITY new.label "New">
+<!ENTITY new.accesskey "G">
+<!ENTITY string.label "String">
+<!ENTITY string.accesskey "A">
+<!ENTITY integer.label "Integer">
+<!ENTITY integer.accesskey "w">
+<!ENTITY boolean.label "Boolean">
+<!ENTITY boolean.accesskey "N">
