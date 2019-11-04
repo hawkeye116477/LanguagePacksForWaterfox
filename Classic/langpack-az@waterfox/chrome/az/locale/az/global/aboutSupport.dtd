@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Problem həll etmə məlumatları">
+<!ENTITY aboutSupport.pageTitle "Problemlərin aradan qaldırılması üzrə məlumatlar">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Bu səhifə, bir problemi həll etməyə çalışarkən işinizə yaraya biləcək texniki məlumatlara malikdir. &brandShortName; haqqında ümumi suallarla bağlı cavab axtarırsınızsa <a id='supportLink'>dəstək saytımıza</a> baxın.">
@@ -18,12 +18,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionsTitle "Uzantılar">
 <!ENTITY aboutSupport.extensionName "Ad">
 <!ENTITY aboutSupport.extensionEnabled "Aktivdir">
-<!ENTITY aboutSupport.extensionVersion "Buraxılış">
+<!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; Özəllikləri">
 <!ENTITY aboutSupport.featureName "Ad">
-<!ENTITY aboutSupport.featureVersion "Versiya">
+<!ENTITY aboutSupport.featureVersion "Version">
 <!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Eksperimental Özəlliklər">
@@ -37,14 +37,14 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.appBasicsTitle "Proqramın əsasları">
 <!ENTITY aboutSupport.appBasicsName "Ad">
-<!ENTITY aboutSupport.appBasicsVersion "Buraxılış">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsBuildID "Quruluş İdentifikatoru">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Yeniləmə Kanalı">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Yenilənmə Tarixçəsi">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Yenilənmə tarixçəsini göstər">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Yeniləmə Tarixçəsini Göstər">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Kimlik qovluğu">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -88,7 +88,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js Preferences">
-<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Your profile folder contains a {[=-a id='prefs-user-js-link'-=]}user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Vacib kilitlənmiş nizamlamalar">
 <!ENTITY aboutSupport.lockedPrefsName "Ad">
@@ -127,9 +127,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallArgs "Parametrlər">
 
 <!ENTITY aboutSupport.safeModeTitle "Təhlükəsiz Modu Yoxlayın">
-<!ENTITY aboutSupport.restartInSafeMode.label "Əlavələr sönülü olaraq yenidən başlat…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Əlavələri deaktiv edərək Yenidən başla…">
 
-<!ENTITY aboutSupport.graphicsFeaturesTitle "Özəlliklər">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Features">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diaqnostikalar">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Xəta Qeydi">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
@@ -138,17 +138,17 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Çökmə qoruyucusu tərəfindən söndürülən özəlliklər">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Həllər">
 
-<!ENTITY aboutSupport.mediaDeviceChannels "Channels">
-<!ENTITY aboutSupport.mediaDeviceFormat "Format">
-<!ENTITY aboutSupport.mediaDeviceGroup "Group">
-<!ENTITY aboutSupport.mediaDeviceLatency "Latency">
-<!ENTITY aboutSupport.mediaDeviceName "Name">
-<!ENTITY aboutSupport.mediaDevicePreferred "Preferred">
-<!ENTITY aboutSupport.mediaDeviceRate "Rate">
-<!ENTITY aboutSupport.mediaDeviceState "State">
-<!ENTITY aboutSupport.mediaDeviceVendor "Vendor">
-<!ENTITY aboutSupport.mediaInputDevicesTitle "Input Devices">
+<!ENTITY aboutSupport.mediaTitle "Ortam">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "Output Devices">
-<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Input Devices">
+<!ENTITY aboutSupport.mediaDeviceName "Ad">
+<!ENTITY aboutSupport.mediaDeviceGroup "Group">
+<!ENTITY aboutSupport.mediaDeviceVendor "Vendor">
+<!ENTITY aboutSupport.mediaDeviceState "State">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferred">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Channels">
+<!ENTITY aboutSupport.mediaDeviceRate "Rate">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latency">
 
 <!ENTITY aboutSupport.appBasicsBinary "Application Binary">
