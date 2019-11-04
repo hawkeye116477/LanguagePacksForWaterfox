@@ -15,15 +15,15 @@
 
 <!ENTITY  paneGeneral.title       "Opće">
 <!ENTITY  paneTabs.title          "Tabovi">
-<!ENTITY  paneSearch.title        "Traži">
+<!ENTITY  paneSearch.title        "Search">
 <!ENTITY  paneContent.title       "Sadržaj">
 <!ENTITY  paneApplications.title  "Aplikacije">
 <!ENTITY  panePrivacy.title       "Privatnost">
 <!ENTITY  paneContainers.title    "Container tabovi">
 <!ENTITY  paneSecurity.title      "Sigurnost">
 <!ENTITY  paneAdvanced.title      "Napredno">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
 
 <!ENTITY  helpButton.label        "Pomoć">
