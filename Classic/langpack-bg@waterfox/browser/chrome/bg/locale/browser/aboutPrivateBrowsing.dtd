@@ -24,7 +24,7 @@
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "не ви прави анонимни">
 <!ENTITY aboutPrivateBrowsing.note.after                 " в Мрежата. Имайте предвид, че въпреки това вашият работодател или доставчик на Интернет биха могли да проследят кои страници посещавате.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Научете повече относно ">
-<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Поверителното разглеждане">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Поверително разглеждане">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Защита от проследяване">
