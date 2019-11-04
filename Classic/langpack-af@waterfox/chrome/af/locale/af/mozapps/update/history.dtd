@@ -12,5 +12,5 @@
 <!ENTITY  name.header               "Bywerkingnaam">
 <!ENTITY  date.header               "Installeringdatum">
 <!ENTITY  type.header               "Soort">
-<!ENTITY  state.header              "Status">
+<!ENTITY  state.header              "State">
 
