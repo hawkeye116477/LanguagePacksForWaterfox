@@ -14,20 +14,15 @@
 <!ENTITY     props.path.label               "পথ:">
 <!ENTITY     props.secure.label             "চিহ্নিত বস্তুৰ বাবে পঠিয়াওক:">
 <!ENTITY     props.expires.label            "অন্ত হয়:">
-
+<!ENTITY     props.container.label          "Container:">
 
 <!ENTITY     window.title                   "কুকিসমূহ">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-
+<!ENTITY     searchFilter.label             "Search">
+<!ENTITY     searchFilter.accesskey         "S">
 
 <!ENTITY     button.close.label             "বন্ধ কৰক">
 <!ENTITY     button.close.accesskey         "C">
-
-<!ENTITY     props.container.label          "Container:">
-
-<!ENTITY     searchFilter.accesskey         "S">
-
-<!ENTITY     searchFilter.label             "Search">
