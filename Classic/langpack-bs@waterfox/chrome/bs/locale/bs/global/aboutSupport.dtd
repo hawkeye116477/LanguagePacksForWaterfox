@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Informacije za rješavanje problema">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Ova stranica sadrži tehničke informacije koje vam mogu biti korisne kada pokušavate riješiti problem. Ukoliko tražite odgovore na često postavljena pitanja o &brandShortName;u, posjetite našu <a id='supportLink'>web stranicu za podršku</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Izvještaji o rušenju">
@@ -18,12 +18,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionsTitle "Ekstenzije">
 <!ENTITY aboutSupport.extensionName "Naziv">
 <!ENTITY aboutSupport.extensionEnabled "Omogućen">
-<!ENTITY aboutSupport.extensionVersion "Verzija">
+<!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; mogućnosti">
 <!ENTITY aboutSupport.featureName "Naziv">
-<!ENTITY aboutSupport.featureVersion "Verzija">
+<!ENTITY aboutSupport.featureVersion "Version">
 <!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Eksperimentalne mogućnosti">
@@ -37,14 +37,14 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.appBasicsTitle "Osnove aplikacije">
 <!ENTITY aboutSupport.appBasicsName "Naziv">
-<!ENTITY aboutSupport.appBasicsVersion "Verzija">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Kanal za nadograđivanje">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Historija nadogradnji">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Prikaži historiju nadogradnji">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Prikaži historijat nadogradnji">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Direktorij profila">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -57,15 +57,16 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Korisnički agent">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Upotreba memorije">
-<!ENTITY aboutSupport.appBasicsPerformance "Performanse">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsPerformance "Performance">
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registrovani Service Workeri">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profili">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesni prozori">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Web Content Processes">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
@@ -84,10 +85,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Važne promijenjene postavke">
 <!ENTITY aboutSupport.modifiedPrefsName "Naziv">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vrijednost">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js postavke">
-<!ENTITY aboutSupport.userJSDescription "Direktorij vašeg profila sadrži <a id='prefs-user-js-link'>user.js fajl</a>, koji uključuje postavke koje nije kreirao &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Direktorij vašeg profila sadrži {[=-a id='prefs-user-js-link'-=]}user.js fajl</a>, koji uključuje postavke koje nije kreirao &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Važne zaključane postavke">
 <!ENTITY aboutSupport.lockedPrefsName "Naziv">
@@ -105,12 +106,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Pristupačnost">
 <!ENTITY aboutSupport.a11yActivated "Aktivirana">
 <!ENTITY aboutSupport.a11yForceDisabled "Prevencija pristupačnosti">
-
+<!ENTITY aboutSupport.a11yHandlerUsed "Accessible Handler Used">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Verzije biblioteke">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historija instalacije">
-<!ENTITY aboutSupport.updateHistoryTitle "Historijat nadogradnji">
+<!ENTITY aboutSupport.updateHistoryTitle "Historija nadogradnji">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopiraj tekst na clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiraj sirove podatke na clipboard">
@@ -128,7 +129,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Probaj sigurni režim">
 <!ENTITY aboutSupport.restartInSafeMode.label "Restartuj sa onemogućenim add-onima…">
 
-<!ENTITY aboutSupport.graphicsFeaturesTitle "Osobine">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Features">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Dijagnostika">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Zapisnik grešaka">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
@@ -137,33 +138,17 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Onemogućene osobine čuvara rušenja">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zaobilazna rješenja">
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY aboutSupport.a11yHandlerUsed "Accessible Handler Used">
-
-<!ENTITY aboutSupport.appBasicsProcessCount "Web Content Processes">
-
-<!ENTITY aboutSupport.mediaDeviceChannels "Channels">
-<!ENTITY aboutSupport.mediaDeviceFormat "Format">
-<!ENTITY aboutSupport.mediaDeviceGroup "Group">
-<!ENTITY aboutSupport.mediaDeviceLatency "Latency">
-<!ENTITY aboutSupport.mediaDeviceName "Name">
-<!ENTITY aboutSupport.mediaDevicePreferred "Preferred">
-<!ENTITY aboutSupport.mediaDeviceRate "Rate">
-<!ENTITY aboutSupport.mediaDeviceState "State">
-<!ENTITY aboutSupport.mediaDeviceVendor "Vendor">
-<!ENTITY aboutSupport.mediaInputDevicesTitle "Input Devices">
+<!ENTITY aboutSupport.mediaTitle "Mediji">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "Output Devices">
-<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Input Devices">
+<!ENTITY aboutSupport.mediaDeviceName "Naziv">
+<!ENTITY aboutSupport.mediaDeviceGroup "Group">
+<!ENTITY aboutSupport.mediaDeviceVendor "Vendor">
+<!ENTITY aboutSupport.mediaDeviceState "State">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferred">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Channels">
+<!ENTITY aboutSupport.mediaDeviceRate "Rate">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latency">
 
 <!ENTITY aboutSupport.appBasicsBinary "Application Binary">
