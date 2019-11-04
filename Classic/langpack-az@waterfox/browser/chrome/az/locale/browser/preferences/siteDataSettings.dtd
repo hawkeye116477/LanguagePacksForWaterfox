@@ -4,14 +4,14 @@
 
 <!ENTITY     window.title                  "Nizamlamalar - Sayt məlumatları">
 <!ENTITY     hostCol.label                 "Sayt">
-<!ENTITY     statusCol.label               "Vəziyyət">
+<!ENTITY     statusCol.label               "Durum">
 <!ENTITY     usageCol.label                "Saxlama yeri">
 <!ENTITY     searchTextboxPlaceHolder             "Saytlarda axtar">
-<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "g">
 <!ENTITY     removeSelected.label          "Seçiləni Sil">
-<!ENTITY     removeSelected.accesskey      "r">
-<!ENTITY     save.label                    "Dəyişiklikləri Yadda Saxla">
-<!ENTITY     save.accesskey                "a">
+<!ENTITY     removeSelected.accesskey      "y">
+<!ENTITY     save.label                    "Dəyişikləri yadda saxla">
+<!ENTITY     save.accesskey                "V">
 <!ENTITY     cancel.label                  "Ləğv et">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Sayt məlumatları silinir">
