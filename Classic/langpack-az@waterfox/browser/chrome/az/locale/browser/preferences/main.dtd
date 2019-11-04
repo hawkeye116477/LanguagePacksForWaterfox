@@ -5,31 +5,31 @@
 <!ENTITY startup.label             "Başlanğıc">
 
 <!ENTITY startupPage2.label        "&brandShortName; başladığında">
-<!ENTITY startupPage2.accesskey    "s">
+<!ENTITY startupPage2.accesskey    "B">
 <!ENTITY startupUserHomePage.label "Ana səhifəni göstər">
 <!ENTITY startupBlankPage.label    "Boş səhifəni göstər">
 <!ENTITY startupPrevSession.label  "Son seansdan olan pəncərə və vərəqləri göstər">
 
 <!ENTITY homepage2.label           "Ana Səhifə">
-<!ENTITY homepage2.accesskey       "P">
+<!ENTITY homepage2.accesskey       "M">
 <!ENTITY useCurrentPage.label      "Hazırki səhifədən istifadə et">
-<!ENTITY useCurrentPage.accesskey  "H">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Hazırki səhifələri istifadə et">
 <!ENTITY chooseBookmark.label      "Əlfəcin istifadə et…">
 <!ENTITY chooseBookmark.accesskey  "Ə">
-<!ENTITY restoreDefault.label      "İlkin vəziyyətə qaytar">
-<!ENTITY restoreDefault.accesskey  "S">
+<!ENTITY restoreDefault.label      "Standart vəziyyətə qaytar">
+<!ENTITY restoreDefault.accesskey  "R">
 
-<!ENTITY downloads.label     "Endirilənlər">
+<!ENTITY downloads.label     "Endirmələr">
 
 <!ENTITY saveTo.label "Faylların saxlandığı yer">
-<!ENTITY saveTo.accesskey "y">
+<!ENTITY saveTo.accesskey "B">
 <!ENTITY chooseFolderWin.label        "Bax…">
-<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderWin.accesskey    "T">
 <!ENTITY chooseFolderMac.label        "Seçin…">
-<!ENTITY chooseFolderMac.accesskey    "S">
+<!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAskWhere.label         "Faylların saxlanacağı yeri həmişə soruş">
-<!ENTITY alwaysAskWhere.accesskey     "A">
+<!ENTITY alwaysAskWhere.accesskey     "H">
 
 <!ENTITY alwaysCheckDefault2.label        "&brandShortName; səyyahının əsas səyyahınız olub olmadığını hər dəfə yoxla">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
