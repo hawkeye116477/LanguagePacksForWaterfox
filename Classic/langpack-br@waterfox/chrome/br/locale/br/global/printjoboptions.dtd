@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printJobOptions.title "Perzhioù ar voullerez">
 
@@ -10,20 +10,20 @@
 <!ENTITY paperInput.accesskey "p">
 
 <!ENTITY jobTitleInput.label "Titl al labour :">
-<!ENTITY jobTitleInput.accesskey "T">
+<!ENTITY jobTitleInput.accesskey "J">
 
-<!ENTITY colorGroup.label "Liv :">
+<!ENTITY colorGroup.label "Liv:">
 <!ENTITY grayRadio.label "Liveoù louedoù">
 <!ENTITY grayRadio.accesskey "L">
 <!ENTITY colorRadio.label "Liv">
-<!ENTITY colorRadio.accesskey "L">
+<!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY edgeMarginInput.label "Esaouenn eus riblenn ar baperenn betek ar marz">
 <!ENTITY topInput.label "Krec'h :">
-<!ENTITY topInput.accesskey "K">
+<!ENTITY topInput.accesskey "T">
 <!ENTITY bottomInput.label "Diaz :">
-<!ENTITY bottomInput.accesskey "D">
+<!ENTITY bottomInput.accesskey "s">
 <!ENTITY leftInput.label "Kleiz :">
-<!ENTITY leftInput.accesskey "l">
+<!ENTITY leftInput.accesskey "L">
 <!ENTITY rightInput.label "Dehou :">
-<!ENTITY rightInput.accesskey "D">
+<!ENTITY rightInput.accesskey "R">
