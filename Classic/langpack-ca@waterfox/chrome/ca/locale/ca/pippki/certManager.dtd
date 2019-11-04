@@ -17,9 +17,9 @@
 <!ENTITY certmgr.orphans                      "Teniu certificats al fitxer que no coincideixen amb cap de les altres categories:">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.general_tab.accesskey "B">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detalls">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "N">
 
 <!ENTITY certmgr.pending.label                "S'està verificant el certificat…">
 <!ENTITY certmgr.subjectinfo.label            "Emès a nom de">
@@ -43,7 +43,7 @@
 <!ENTITY certmgr.deletecert.title             "Suprimeix el certificat">
 
 <!ENTITY certmgr.certname                     "Nom del certificat">
-<!ENTITY certmgr.certserver                   "Servidor">
+<!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Temps de vida">
 <!ENTITY certmgr.tokenname                    "Dispositiu de seguretat">
 <!ENTITY certmgr.begins                       "Data d'inici">
@@ -52,40 +52,40 @@
 <!ENTITY certmgr.serial                       "Número de sèrie">
 
 <!ENTITY certmgr.close.label                  "Tanca">
-<!ENTITY certmgr.close.accesskey              "c">
+<!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Visualitza…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Edita la confiança…">
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.export.label                 "Exporta…">
-<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.export.accesskey             "u">
 <!ENTITY certmgr.delete2.label                "Suprimeix…">
-<!ENTITY certmgr.delete2.accesskey            "x">
+<!ENTITY certmgr.delete2.accesskey            "N">
 <!ENTITY certmgr.delete_builtin.label         "Suprimeix o deixa de confiar-hi…">
-<!ENTITY certmgr.delete_builtin.accesskey     "d">
-<!ENTITY certmgr.backup2.label                "Fes-ne còpia de seguretat…">
-<!ENTITY certmgr.backup2.accesskey            "p">
+<!ENTITY certmgr.delete_builtin.accesskey     "N">
+<!ENTITY certmgr.backup2.label                "Fes una còpia de seguretat…">
+<!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "Fes-ne còpia de seguretat de tot…">
-<!ENTITY certmgr.backupall2.accesskey         "g">
-<!ENTITY certmgr.restore2.label               "Importa…">
+<!ENTITY certmgr.backupall2.accesskey         "b">
+<!ENTITY certmgr.restore2.label               "Import…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Camps del certificat">
-<!ENTITY certmgr.details.accesskey            "f">
+<!ENTITY certmgr.details.accesskey            "p">
 <!ENTITY certmgr.fields.label                 "Valor del camp">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Jerarquia de certificats">
-<!ENTITY certmgr.hierarchy.accesskey2         "J">
+<!ENTITY certmgr.hierarchy.accesskey2         "j">
 <!ENTITY certmgr.addException.label           "Afegeix una excepció…">
-<!ENTITY certmgr.addException.accesskey       "x">
+<!ENTITY certmgr.addException.accesskey       "u">
 
 <!ENTITY exceptionMgr.title                   "Afegeix una excepció de seguretat">
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirma l'excepció de seguretat">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Bancs, botigues i altres llocs públics legítims no us demanaran que ho feu.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
+<!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Ubicació:">
 <!ENTITY exceptionMgr.certlocation.download   "Aconsegueix el certificat">
-<!ENTITY exceptionMgr.certlocation.accesskey  "g">
+<!ENTITY exceptionMgr.certlocation.accesskey  "B">
 <!ENTITY exceptionMgr.certstatus.caption      "Estat del certificat">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Visualitza…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
