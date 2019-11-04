@@ -3,48 +3,48 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Ovo vam može poništiti garanciju!">
 <!ENTITY aboutWarningText.label "Promjena naprednih postavki može biti štetna po stabilnost, sigurnost i performanse ove aplikacije. Nastavite dalje samo ako ste potpuno sigurni u ono što radite.">
 <!ENTITY aboutWarningButton2.label "Prihvaćam rizik!">
 <!ENTITY aboutWarningCheckbox.label "Pokaži ovo upozorenje sljedeći put">
 
 <!ENTITY searchPrefs.label "Traži:">
-<!ENTITY searchPrefs.accesskey "r">
-<!ENTITY focusSearch.key "r">
+<!ENTITY searchPrefs.accesskey "s">
+<!ENTITY focusSearch.key "s">
 <!ENTITY focusSearch2.key "f">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Ime postavke">
 <!ENTITY lockColumn.label "Status">
 <!ENTITY typeColumn.label "Tip">
 <!ENTITY valueColumn.label "Vrijednost">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Pritisnite za sortiranje"> 
 <!ENTITY columnChooser.tooltip "Pritisnite za odabir kolona za prikaz"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopiraj">
-<!ENTITY copyPref.accesskey "K">
+<!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Kopiraj ime">
-<!ENTITY copyName.accesskey "K">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Kopiraj vrijednost">
-<!ENTITY copyValue.accesskey "v">
+<!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Izmjeni">
 <!ENTITY modify.accesskey "m">
 <!ENTITY toggle.label "Prebaci">
-<!ENTITY toggle.accesskey "P">
-<!ENTITY reset.label "Resetuj">
+<!ENTITY toggle.accesskey "I">
+<!ENTITY reset.label "Vrati na prvobitno">
 <!ENTITY reset.accesskey "R">
-<!ENTITY new.label "Novo">
-<!ENTITY new.accesskey "N">
+<!ENTITY new.label "New">
+<!ENTITY new.accesskey "P">
 <!ENTITY string.label "String">
-<!ENTITY string.accesskey "S">
+<!ENTITY string.accesskey "P">
 <!ENTITY integer.label "Integer">
-<!ENTITY integer.accesskey "I">
+<!ENTITY integer.accesskey "i">
 <!ENTITY boolean.label "Boolean">
-<!ENTITY boolean.accesskey "B">
+<!ENTITY boolean.accesskey "b">
