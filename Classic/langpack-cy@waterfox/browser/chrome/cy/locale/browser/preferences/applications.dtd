@@ -6,12 +6,12 @@
 <!ENTITY  applications.description "Dewis sut mae &brandShortName; yn trin y ffeiliau rydych wedi eu llwytho i lawr o'r We neu'r rhaglenni rydych yn eu defnyddio wrth bori.">
 
 <!ENTITY  typeColumn.label        "Math o Gynnwys">
-<!ENTITY  typeColumn.accesskey    "M">
+<!ENTITY  typeColumn.accesskey    "G">
 
 <!ENTITY  actionColumn2.label     "Gweithred">
-<!ENTITY  actionColumn2.accesskey "G">
+<!ENTITY  actionColumn2.accesskey "n">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch1.key        "S">
+<!ENTITY  focusSearch2.key        "w">
 
 <!ENTITY  filter2.emptytext        "Chwilio'r mathau o ffeil neu raglenni">
