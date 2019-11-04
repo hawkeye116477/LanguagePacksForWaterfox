@@ -9,7 +9,7 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Yüklənir…">
+<!ENTITY loading.label                        "Loading…">
 <!ENTITY listEmpty.installed.label            "Bu növ qurulmuş əlavəniz yoxdur">
 <!ENTITY listEmpty.availableUpdates.label     "Yenilənmə tapılmadı">
 <!ENTITY listEmpty.recentUpdates.label        "Yaxın vaxtlarda hər hansı bir əlavəni yeniləmədiniz">
@@ -17,7 +17,7 @@
 <!ENTITY listEmpty.search.label               "Uyğun əlavə tapılmadı">
 <!ENTITY listEmpty.button.label               "Əlavələr haqqında daha çox öyrənin">
 <!ENTITY installAddonFromFile.label           "Fayldan əlavə qur...">
-<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY installAddonFromFile.accesskey       "S">
 <!ENTITY toolsMenu.tooltip                    "Bütün əlavələr üçün alətlər">
 
 <!ENTITY getThemes.description                "Səyyahınızı şəxsiləşdirmək istəyirsiz?">
@@ -29,7 +29,7 @@
 <!ENTITY showUnsignedExtensions.button.label  "Bəzi uzantılar təsdiqlənə bilmirlər">
 <!ENTITY showAllExtensions.button.label       "Bütün uzantıları göstər">
 <!ENTITY debugAddons.label                    "Əlavələri Sazla">
-<!ENTITY debugAddons.accesskey                "z">
+<!ENTITY debugAddons.accesskey                "Ə">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.">
@@ -41,7 +41,7 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Axtarış">
+<!ENTITY view.search.label                    "Axtar">
 <!ENTITY view.discover.label                  "Əlavə Endirin">
 <!ENTITY view.recentUpdates.label             "Yaxın vaxtlardakı yeniləmələr">
 <!ENTITY view.availableUpdates.label          "Mövcud yeniləmələr">
@@ -50,12 +50,12 @@
 <!ENTITY updates.checkForUpdates.label        "Yeniləmələrə bax…">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Yaxın vaxtdakı yeniləmələrə bax">
-<!ENTITY updates.viewUpdates.accesskey        "b">
+<!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Əlavələri avtomatik yenilə">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "n">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "H">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -63,9 +63,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Bütün əlavələri avtomatik yeniləyəcək şəkildə nizamla">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "a">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "Bütün əlavələri əllə yeniləyəcək şəkildə nizamla">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "a">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Əlavələr yenilənir">
 <!ENTITY updates.installed.label              "Əlavələriniz yenilənir.">
 <!ENTITY updates.downloaded.label             "Əlavələrçün yeniləmələr yükləndi.">
@@ -77,24 +77,24 @@
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Əlavə məlumat ver">
-<!ENTITY cmd.showDetails.accesskey            "v">
+<!ENTITY cmd.showDetails.accesskey            "g">
 <!ENTITY cmd.findUpdates.label                "Yeniləmələrə bax">
-<!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "Nizamlar">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.findUpdates.accesskey            "T">
+<!ENTITY cmd.preferencesWin.label             "Seçimlər">
+<!ENTITY cmd.preferencesWin.accesskey         "A">
 <!ENTITY cmd.preferencesUnix.label            "Nizamlamalar">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.preferencesUnix.accesskey        "M">
 <!ENTITY cmd.about.label                      "Haqqında">
 <!ENTITY cmd.about.accesskey                  "H">
 
-<!ENTITY cmd.enableAddon.label                "Fəallaşdır">
-<!ENTITY cmd.enableAddon.accesskey            "a">
+<!ENTITY cmd.enableAddon.label                "Aktiv et">
+<!ENTITY cmd.enableAddon.accesskey            "D">
 <!ENTITY cmd.disableAddon.label               "Söndür">
-<!ENTITY cmd.disableAddon.accesskey           "S">
+<!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "Temadan istifadə elə">
-<!ENTITY cmd.enableTheme.accesskey            "T">
+<!ENTITY cmd.enableTheme.accesskey            "p">
 <!ENTITY cmd.disableTheme.label               "Tema istifadə etmə">
-<!ENTITY cmd.disableTheme.accesskey           "e">
+<!ENTITY cmd.disableTheme.accesskey           "p">
 <!ENTITY cmd.askToActivate.label              "Aktivləşdirmək üçün Soruş">
 <!ENTITY cmd.askToActivate.tooltip            "Bu əlavəni işlətmək üçün hər dəfə soruş">
 <!ENTITY cmd.alwaysActivate.label             "Həmişə Aktiv">
@@ -103,10 +103,10 @@
 <!ENTITY cmd.neverActivate.tooltip            "Bu əlavəni heç vaxt işlətmə">
 <!ENTITY cmd.stateMenu.tooltip                "Bu əlavə işləməyə başladıqda dəyiş">
 <!ENTITY cmd.installAddon.label               "Qur">
-<!ENTITY cmd.installAddon.accesskey           "u">
+<!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Sil">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "Nizamlar">
+<!ENTITY cmd.showPreferencesWin.label         "Seçimlər">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Bu əlavənin seçimlərini dəyiş">
 <!ENTITY cmd.showPreferencesUnix.label        "Nizamlamalar">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Bu əlavənin seçimlərini dəyiş">
@@ -128,7 +128,7 @@
 <!ENTITY discover.footer                      "İnternetə bağlananda bu bölmədə baxmağınız üçün ən çox istifadə olunana əlavələrin bəziləri önə çıxarılacaq.">
 
 <!-- detail view -->
-<!ENTITY detail.version.label                 "Buraxılış">
+<!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Son yenilənmə">
 <!ENTITY detail.creator.label                 "İnkişaf etdirici">
 <!ENTITY detail.homepage.label                "Ana səhifə">
@@ -137,24 +137,24 @@
 <!ENTITY detail.contributions.description     "Bu əlavəninin inkişaf etdiricisi, sizdən kiçik bir maddi kömək edərək əlavəni inkişaf etdirmə işini dəstəkləməyinizi istəyir.">
 
 <!ENTITY detail.updateType                    "Avtomatik yeniləmə">
-<!ENTITY detail.updateDefault.label           "Standart">
+<!ENTITY detail.updateDefault.label           "Default">
 <!ENTITY detail.updateDefault.tooltip         "Yeniləmələri sadəcə standart tənzimləmə budusa avtomatik quraşdır">
 <!ENTITY detail.updateAutomatic.label         "Açıqdır">
 <!ENTITY detail.updateAutomatic.tooltip       "Yeniləmələri avtomatik quraşdır">
-<!ENTITY detail.updateManual.label            "Bağlı">
+<!ENTITY detail.updateManual.label            "Söndürülmüş">
 <!ENTITY detail.updateManual.tooltip          "Yeniləmələri avtomatik quraşdırma">
 <!ENTITY detail.home                          "Ana səhifə">
 <!ENTITY detail.repository                    "Əlavənin ID nömrəsi">
 <!ENTITY detail.size                          "Həcm">
 
 <!ENTITY detail.checkForUpdates.label         "Yeniləmələrə bax…">
-<!ENTITY detail.checkForUpdates.accesskey     "b">
+<!ENTITY detail.checkForUpdates.accesskey     "T">
 <!ENTITY detail.checkForUpdates.tooltip       "Bu əlavənin yeniləmələri üçün bax">
-<!ENTITY detail.showPreferencesWin.label      "Nizamlar">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.label      "Seçimlər">
+<!ENTITY detail.showPreferencesWin.accesskey  "A">
 <!ENTITY detail.showPreferencesWin.tooltip    "Bu əlavənin seçimlərini dəyiş">
 <!ENTITY detail.showPreferencesUnix.label     "Nizamlamalar">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.accesskey "M">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Bu əlavənin seçimlərini dəyiş">
 
 
@@ -163,7 +163,7 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Dayandır">
-<!ENTITY progress.cancel.tooltip              "ləğv et">
+<!ENTITY progress.cancel.tooltip              "Ləğv et">
 
 
 <!-- list sorting -->
@@ -176,14 +176,14 @@
 <!ENTITY sort.price.label                     "Fiyat">
 <!ENTITY sort.price.tooltip                   "Fiyata göre sırala">
 
-<!ENTITY search.filter2.label                 "Axtarış:">
+<!ENTITY search.filter2.label                 "Axtar:">
 <!ENTITY search.filter2.installed.label       "Əlavələrim">
 <!ENTITY search.filter2.installed.tooltip     "Qurulmuş əlavələri göstər">
 <!ENTITY search.filter2.available.label       "Mövcud əlavələr">
 <!ENTITY search.filter2.available.tooltip     "Qurula biləcək əlavələri göstər">
 
 <!ENTITY addon.homepage                       "Ana səhifə">
-<!ENTITY addon.details.label                  "Daha çox məlumat">
+<!ENTITY addon.details.label                  "Ətraflı">
 <!ENTITY addon.details.tooltip                "Bu əlavə ilə bağlı daha çox məlumat ver">
 <!ENTITY addon.unknownDate                    "Bilinmir">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
@@ -199,9 +199,9 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Yenilə">
-<!ENTITY addon.undoAction.label               "Ləğv et">
+<!ENTITY addon.undoAction.label               "Geri al">
 <!ENTITY addon.undoAction.tooltip             "Bu əmri ləğv et">
-<!ENTITY addon.undoRemove.label               "Ləğv et">
+<!ENTITY addon.undoRemove.label               "Geri al">
 <!ENTITY addon.undoRemove.tooltip             "Bu əlavəni saxla">
 <!ENTITY addon.restartNow.label               "İndi yenidən başlat">
 <!ENTITY addon.install.label                  "Qur">
@@ -210,9 +210,9 @@
 <!ENTITY addon.updateNow.tooltip              "Bu əlavənin yeniləməsini qur">
 <!ENTITY addon.includeUpdate.label            "Yeniləməyə daxil et">
 <!ENTITY addon.updateAvailable.label          "Bir yeniləmə var">
-<!ENTITY addon.checkingForUpdates.label       "Yeniləmələr yoxlanılır…">
+<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
 <!ENTITY addon.releaseNotes.label             "Versiya qeydləri:">
-<!ENTITY addon.loadingReleaseNotes.label      "Yüklənir…">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Bağışlayın, ancaq versiya qeydlərini yükləyəndə bir xəta meydana gəldi.">
 
 <!ENTITY addon.createdBy.label                "Yazan: ">
@@ -230,10 +230,10 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.label "Bu nədir? Telemetriya zaman-zaman eksperimentlər qurub çalışdıra bilər.">
-<!ENTITY experiment.info.learnmore "Ətraflı">
+<!ENTITY experiment.info.learnmore "Ətraflı Öyrən">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetriya nizamlamaları">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
+<!ENTITY experiment.info.changetelemetry.accesskey "P">
 
 <!ENTITY setting.learnmore "Ətraflı Öyrən…">
 
@@ -250,7 +250,7 @@
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.start "Əlavələrinin təsdiqlənməsini istəyən tərtibatçılar ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "təlimatları">
-<!ENTITY disabledUnsigned.devInfo.end " oxumaqla başlaya bilərlər.">
+<!ENTITY disabledUnsigned.devInfo.end ".">
 
 <!ENTITY pluginDeprecation.description "Nəsə çatışmır? Bəzi qoşmalar artıq &brandShortName; tərəfindən dəstəklənmir.">
 <!ENTITY pluginDeprecation.learnMore "Ətraflı Öyrən.">
