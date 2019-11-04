@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printdialog.xul -->
 
+<!-- extracted from printdialog.xul -->
 
 <!ENTITY printButton.label "Štampaj">
 
@@ -11,34 +11,34 @@
 <!ENTITY fpDialog.title "Spasi fajl">
 
 <!ENTITY fileCheck.label "Štampaj u fajl">
-<!ENTITY fileCheck.accesskey "f">
+<!ENTITY fileCheck.accesskey "F">
 <!ENTITY propertiesButton.label "Postavke…">
 <!ENTITY propertiesButton.accesskey "o">
 <!ENTITY descText.label "Opis štampača:">
 <!ENTITY printer.label "Štampač">
 <!ENTITY printerInput.label "Ime štampača:">
-<!ENTITY printerInput.accesskey "I">
+<!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Opseg štampanja">
 <!ENTITY allpagesRadio.label "Sve stranice">
-<!ENTITY allpagesRadio.accesskey "a">
+<!ENTITY allpagesRadio.accesskey "O">
 <!ENTITY rangeRadio.label  "Stranice">
-<!ENTITY rangeRadio.accesskey  "S">
+<!ENTITY rangeRadio.accesskey  "r">
 <!ENTITY frompageInput.label  "od">
-<!ENTITY frompageInput.accesskey  "o">
+<!ENTITY frompageInput.accesskey  "s">
 <!ENTITY topageInput.label  "do">
-<!ENTITY topageInput.accesskey  "d">
+<!ENTITY topageInput.accesskey  "t">
 <!ENTITY selectionRadio.label "Selekcija">
-<!ENTITY selectionRadio.accesskey "S">
+<!ENTITY selectionRadio.accesskey "P">
 
 <!ENTITY copies.label "Kopije">
 <!ENTITY numCopies.label "Broj kopija:">
-<!ENTITY numCopies.accesskey "B">
+<!ENTITY numCopies.accesskey "Z">
 
 <!ENTITY printframeGroup.label "Štampaj okvire">
 <!ENTITY aslaidoutRadio.label "Kao na ekranu">
-<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY aslaidoutRadio.accesskey "P">
 <!ENTITY selectedframeRadio.label  "Izabrani okvir">
-<!ENTITY selectedframeRadio.accesskey  "I">
+<!ENTITY selectedframeRadio.accesskey  "m">
 <!ENTITY eachframesepRadio.label  "Svaki okvir zasebno">
 <!ENTITY eachframesepRadio.accesskey  "e">
