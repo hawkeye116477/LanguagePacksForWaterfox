@@ -9,18 +9,18 @@
 <!ENTITY useCursorNavigation.label       "Utilitza sempre les tecles de cursor per navegar en les pàgines">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Cerca el text en començar a teclejar">
-<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY searchOnStartTyping.accesskey   "u">
 <!ENTITY useOnScreenKeyboard.label       "Mostra un teclat tàctil quan calgui">
-<!ENTITY useOnScreenKeyboard.accesskey   "M">
+<!ENTITY useOnScreenKeyboard.accesskey   "b">
 
 <!ENTITY browsing.label                  "Navegació">
 
 <!ENTITY useAutoScroll.label             "Utilitza el desplaçament automàtic">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Utilitza el desplaçament suau">
-<!ENTITY useSmoothScrolling.accesskey    "s">
+<!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY checkUserSpelling.label         "Verifica l'ortografia a mesura que s'escriu">
-<!ENTITY checkUserSpelling.accesskey     "o">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Elecció de dades">
 
@@ -30,16 +30,16 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "L'informe de dades està desactivat en la configuració d'aquesta versió">
 
 <!ENTITY enableHealthReport1.label       "Permet que el &brandShortName; enviï automàticament dades tècniques i d'interacció a Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "r">
-<!ENTITY healthReportLearnMore.label     "Més informació">
+<!ENTITY enableHealthReport1.accesskey   "i">
+<!ENTITY healthReportLearnMore.label     "Learn more">
 
 <!ENTITY dataCollection.label            "Ús i recollida de dades i del &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "Ens esforcem per oferir-vos opcions i recollir només allò que necessitem per proporcionar el &brandShortName; per a tothom i i millorar-lo. Sempre demanem permís abans de rebre informació personal.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Avís de privadesa">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Permet que el &brandShortName; enviï informes de fallada a Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "f">
-<!ENTITY crashReporterLearnMore.label    "Més informació">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "Learn more">
 
 <!ENTITY networkTab.label                "Xarxa">
 
@@ -47,7 +47,7 @@ available. -->
 
 <!ENTITY connectionDesc.label            "Configureu com el &brandShortName; es connecta a Internet">
 <!ENTITY connectionSettings.label        "Paràmetres…">
-<!ENTITY connectionSettings.accesskey    "P">
+<!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Contingut web en memòria cau">
 
@@ -56,10 +56,10 @@ available. -->
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Dades dels llocs">
 <!ENTITY clearSiteData.label             "Esborra totes les dades">
-<!ENTITY clearSiteData.accesskey         "b">
+<!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Paràmetres…">
-<!ENTITY siteDataSettings.accesskey      "P">
-<!ENTITY siteDataLearnMoreLink.label     "Més informació">
+<!ENTITY siteDataSettings.accesskey      "d">
+<!ENTITY siteDataLearnMoreLink.label     "Learn more">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -68,14 +68,14 @@ available. -->
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Limita la memòria cau a">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeBefore.accesskey  "S">
 <!ENTITY limitCacheSizeAfter.label       "MB d'espai">
 <!ENTITY clearCacheNow.label             "Neteja-la ara">
-<!ENTITY clearCacheNow.accesskey         "N">
+<!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "Neteja-la ara">
-<!ENTITY clearOfflineAppCacheNow.accesskey "e">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Ignora la gestió automàtica de la memòria cau">
-<!ENTITY overrideSmartCacheSize.accesskey "g">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Actualització">
 
@@ -96,44 +96,44 @@ available. -->
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Actualitzacions del &brandShortName;">
 <!ENTITY updateAuto3.label               "Instal·la les actualitzacions automàticament (recomanat)">
-<!ENTITY updateAuto3.accesskey           "A">
+<!ENTITY updateAuto3.accesskey           "Q">
 <!ENTITY updateCheckChoose2.label        "Cerca actualitzacions, però demana'm si vull instal·lar-les">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "No cerquis mai actualitzacions (no recomanat)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Mostra l'historial d'actualitzacions…">
-<!ENTITY updateHistory2.accesskey        "h">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">
-<!ENTITY useService.accesskey            "s">
+<!ENTITY useService.accesskey            "f">
 
 <!ENTITY enableSearchUpdate2.label       "Actualitza automàticament els motors de cerca">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY offlineStorageNotify.label               "Avisa quan un lloc web demani emmagatzemar dades per utilitzar-les fora de línia">
-<!ENTITY offlineStorageNotify.accesskey           "f">
+<!ENTITY offlineStorageNotify.accesskey           "r">
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "u">
 
 <!ENTITY offlineAppsList2.label          "Els llocs web següents poden desar dades per utilitzar-les fora de línia:">
 <!ENTITY offlineAppsList.height          "8em">
 <!ENTITY offlineAppsListRemove.label     "Suprimeix…">
-<!ENTITY offlineAppsListRemove.accesskey "u">
+<!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Suprimeix les dades fora de línia">
 
 <!ENTITY certificateTab.label            "Certificats">
 <!ENTITY certPersonal2.description       "Quan un servidor demani el meu certificat personal">
 <!ENTITY selectCerts.auto                "Selecciona'n un automàticament">
-<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.auto.accesskey      "T">
 <!ENTITY selectCerts.ask                 "Demana-ho cada vegada">
-<!ENTITY selectCerts.ask.accesskey       "D">
+<!ENTITY selectCerts.ask.accesskey       "Q">
 <!ENTITY enableOCSP.label                "Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats">
-<!ENTITY enableOCSP.accesskey            "C">
+<!ENTITY enableOCSP.accesskey            "I">
 <!ENTITY viewCerts2.label                "Visualitza els certificats…">
-<!ENTITY viewCerts2.accesskey            "c">
+<!ENTITY viewCerts2.accesskey            "C">
 <!ENTITY viewSecurityDevices2.label      "Dispositius de seguretat…">
-<!ENTITY viewSecurityDevices2.accesskey  "D">
+<!ENTITY viewSecurityDevices2.accesskey  "N">
 
 <!ENTITY performance.label               "Rendiment">
 <!ENTITY useRecommendedPerformanceSettings2.label
@@ -141,16 +141,16 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "Aquests paràmetres estan personalitzats per al maquinari i sistema operatiu del vostre ordinador.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
-                                         "U">
+                                         "D">
 <!ENTITY performanceSettingsLearnMore.label
-                                         "Més informació">
+                                         "Learn more">
 <!ENTITY limitContentProcessOption.label "Límit de processos de contingut">
 <!ENTITY limitContentProcessOption.description
                                          "Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.">
-<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.accesskey   "S">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "El nombre de processos de contingut només es pot modificar amb el &brandShortName; multiprocés.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
                                          "Més informació sobre com comprovar si el multiprocés està activat.">
 <!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
-<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY allowHWAccel.accesskey          "i">
