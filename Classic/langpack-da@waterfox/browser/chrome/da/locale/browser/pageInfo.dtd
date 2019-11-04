@@ -1,20 +1,20 @@
-<!-- # This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Kopier">
-<!ENTITY  copy.accesskey        "K">
-<!ENTITY  selectall.key         "A">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "O">
 <!ENTITY  selectall.label       "Marker alt">
-<!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  selectall.accesskey   "O">
+<!ENTITY  closeWindow.key       "V">
 
 <!ENTITY  generalTab            "Generelt">
-<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTab.accesskey  "e">
 <!ENTITY  generalTitle          "Titel:">
 <!ENTITY  generalURL            "Adresse:">
 <!ENTITY  generalType           "Type:">
@@ -23,7 +23,7 @@
 <!ENTITY  generalReferrer       "Henvisende URL:">
 <!ENTITY  generalSource         "Kildekode:">
 <!ENTITY  generalModified       "Ændret:">
-<!ENTITY  generalEncoding2     "Tegnkodning:">
+<!ENTITY  generalEncoding2      "Tegnkodning:">
 <!ENTITY  generalMetaName       "Navn">
 <!ENTITY  generalMetaContent    "Indhold">
 
@@ -40,17 +40,17 @@
 <!ENTITY  mediaLongdesc         "Udvidet beskrivelse:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Gem som…">
-<!ENTITY  mediaSaveAs.accesskey  "e">
-<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaSaveAs.accesskey "O">
+<!ENTITY  mediaSaveAs2.accesskey "s">
 <!ENTITY  mediaPreview          "Forhåndsvisning:">
 
 <!ENTITY  feedTab               "Feeds">
 <!ENTITY  feedTab.accesskey     "F">
 <!ENTITY  feedSubscribe         "Abonner">
-<!ENTITY  feedSubscribe.accesskey "A">
+<!ENTITY  feedSubscribe.accesskey "S">
 
 <!ENTITY  permTab               "Tilladelser">
-<!ENTITY  permTab.accesskey     "T">
+<!ENTITY  permTab.accesskey     "p">
 <!ENTITY  permUseDefault        "Brug standard">
 <!ENTITY  permAskAlways         "Spørg altid">
 <!ENTITY  permAllow             "Tillad">
@@ -60,10 +60,10 @@
 <!ENTITY  permPlugins           "Aktivere plugins">
 
 <!ENTITY  permClearStorage           "Ryd lager">
-<!ENTITY  permClearStorage.accesskey "R">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Sikkerhed">
-<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityTab.accesskey "I">
 <!ENTITY  securityView.certView "Vis certifikat">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Ukendt">
@@ -79,10 +79,10 @@
 <!ENTITY  securityView.privacy.history                  "Har jeg besøgt dette websted før?">
 <!ENTITY  securityView.privacy.cookies                  "Gemmer dette websted informationer (cookies) på min computer?">
 <!ENTITY  securityView.privacy.viewCookies              "Vis cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "c">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "o">
 <!ENTITY  securityView.privacy.passwords                "Har jeg gemt nogle adgangskoder til dette websted?">
 <!ENTITY  securityView.privacy.viewPasswords            "Vis gemte adgangskoder">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "a">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "V">
 
 <!ENTITY  securityView.technical.header                 "Tekniske detaljer">
 
