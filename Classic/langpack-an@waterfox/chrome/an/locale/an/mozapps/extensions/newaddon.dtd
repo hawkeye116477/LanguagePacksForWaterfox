@@ -9,5 +9,5 @@
 <!ENTITY later           "Siempre puede cambiar d'opinión en qualsiquier momento en o chestor de complementos.">
 <!ENTITY continue        "Continar">
 <!ENTITY restartMessage  "Ta rematar a instalación d'o complemento, cal reiniciar &brandShortName;.">
-<!ENTITY restartButton   "Reiniciar &brandShortName;">
+<!ENTITY restartButton   "Reiniciar o &brandShortName;">
 <!ENTITY cancelButton    "Cancelar">
