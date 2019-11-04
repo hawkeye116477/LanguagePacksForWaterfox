@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
-
+<!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "কপি কৰক">
+<!ENTITY  copy.label            "Copy">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "সকলো বাছক">
@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "সাধাৰণ">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "Title:">
 <!ENTITY  generalURL            "ঠিকনা:">
 <!ENTITY  generalType           "ধৰণ:">
 <!ENTITY  generalMode           "প্ৰদৰ্শনৰ ধৰণ:">
@@ -23,7 +23,7 @@
 <!ENTITY  generalReferrer       "উল্লেখ কৰা URL:">
 <!ENTITY  generalSource         "ক্যাশৰ উৎস:">
 <!ENTITY  generalModified       "সলনি কৰা হ'ল:">
-
+<!ENTITY  generalEncoding2      "Text Encoding:">
 <!ENTITY  generalMetaName       "নাম">
 <!ENTITY  generalMetaContent    "বিষয়বস্তু">
 
@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "গৰাকী:">
 <!ENTITY  securityView.identity.domain   "ৱেবছাইট:">
 <!ENTITY  securityView.identity.verifier "চিহ্নিত ব্যক্তি অথবা সংঘঠন দ্বাৰা প্ৰমাণিত কৰা হৈছে:">
-
+<!ENTITY  securityView.identity.validity "Expires on:">
 
 <!ENTITY  securityView.privacy.header                   "গোপনীয়তা আৰু ইতিহাস">
 <!ENTITY  securityView.privacy.history                  "আজিৰ পূৰ্বে মই এই ৱেব ছাইটত আহিছো নে?">
@@ -87,10 +87,3 @@
 <!ENTITY  securityView.technical.header                 "কাৰিকৰী বিৱৰণসমূহ">
 
 <!ENTITY  helpButton.label                              "সহায়">
-
-<!ENTITY  generalEncoding2      "Text Encoding:">
-<!ENTITY  generalTitle          "Title:">
-<!ENTITY  pageInfoWindow.height "550">
-
-<!ENTITY  securityView.identity.validity "Expires on:">
-
