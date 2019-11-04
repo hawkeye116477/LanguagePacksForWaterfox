@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Greška pri učitavanju stranice">
 <!ENTITY retry.label "Pokušaj ponovo">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Neuspješno povezivanje">
 <!ENTITY connectionFailure.longDesc "<p>Iako je stranica validna, browser je nije uspio otvoriti.</p><ul><li>Da li je stranica trenutno nedostupna? Pokušajte ponovo kasnije.</li><li>Ne možete otvoriti ni neku drugu stranicu? Provjerite internet konekciju.</li><li>Da li je vaš kompjuter zaštićen od strane firewalla ili proxy-a? Neispravne postavke mogu uticati na surfanje Webom.</li></ul>">
