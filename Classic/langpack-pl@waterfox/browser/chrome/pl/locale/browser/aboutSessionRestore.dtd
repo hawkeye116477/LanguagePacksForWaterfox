@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Przywracanie sesji">
+
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Przepraszamy!">
 <!ENTITY restorepage.problemDesc    "&brandShortName; ma problemy z przywróceniem wszystkich okien i kart. Zazwyczaj powodem jest w takiej sytuacji ostatnio otwarta strona.">
 <!ENTITY restorepage.tryThis        "Można spróbować:">
@@ -10,21 +13,39 @@
 <!ENTITY restorepage.startNew       "rozpocząć nową sesję przeglądania">
 
 <!ENTITY restorepage.tryagainButton "Przywróć">
-<!ENTITY restorepage.restore.access "r">
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Zamknij">
-<!ENTITY restorepage.close.access   "Z">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Przywróć">
 <!ENTITY restorepage.listHeader     "Okna i karty">
-<!ENTITY restorepage.windowLabel    "Okno &#37;S">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Okno %S">
 
-<!ENTITY welcomeback2.restoreButton "Dalej">
+
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
+     not for about:sessionstore -->
+
+<!ENTITY welcomeback2.restoreButton  "Dalej">
 <!ENTITY welcomeback2.restoreButton.access "D">
-<!ENTITY welcomeback2.tabtitle "Sukces!">
-<!ENTITY welcomeback2.pageTitle "Sukces!">
-<!ENTITY welcomeback2.pageInfo1 "Program &brandShortName; jest gotowy do używania.">
-<!ENTITY welcomeback2.restoreAll.label "Przywróć wszystkie okna i karty">
+
+<!ENTITY welcomeback2.tabtitle      "Sukces!">
+
+<!ENTITY welcomeback2.pageTitle     "Sukces!">
+<!ENTITY welcomeback2.pageInfo1     "Program &brandShortName; jest gotowy do używania.">
+
+<!ENTITY welcomeback2.restoreAll.label  "Przywróć wszystkie okna i karty">
 <!ENTITY welcomeback2.restoreSome.label "Przywróć wybrane okna i karty">
-<!ENTITY welcomeback2.beforelink.pageInfo2 "Dodatki i modyfikacje programu zostały usunięte, a ustawienia przeglądarki zostały przywrócone do domyślnych. Dostępne są również ">
-<!ENTITY welcomeback2.link.pageInfo2 "inne możliwości">
-<!ENTITY welcomeback2.afterlink.pageInfo2 " jeśli nie rozwiąże to problemu.">
+
+
+<!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
+welcomeback2.afterlink.pageInfo2): these two string are used respectively
+before and after the the "learn more" link (welcomeback2.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language.
+-->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Dodatki i modyfikacje programu zostały usunięte, a ustawienia przeglądarki zostały przywrócone do domyślnych. Dostępne są również ">
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
+
+<!ENTITY welcomeback2.link.pageInfo2        "inne możliwości">
+
