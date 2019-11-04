@@ -5,21 +5,21 @@
 <!ENTITY  fontsDialog.title                       "Шрифтове">
 
 <!ENTITY  language.label                          "Шрифтове за:">
-<!ENTITY  language.accesskey                      "Ш">
+<!ENTITY  language.accesskey                      "ц">
 
 <!ENTITY  size.label                              "Големина:">
 <!ENTITY  sizeProportional.accesskey              "Г">
-<!ENTITY  sizeMonospace.accesskey                 "а">
+<!ENTITY  sizeMonospace.accesskey                 "Д">
 
 <!ENTITY  proportional.label                      "Пропорционален:">
-<!ENTITY  proportional.accesskey                  "П">
+<!ENTITY  proportional.accesskey                  "О">
 
 <!ENTITY  serif.label                             "Серифен:">
-<!ENTITY  serif.accesskey                         "С">
+<!ENTITY  serif.accesskey                         "в">
 <!ENTITY  sans-serif.label                        "Безсерифен:">
-<!ENTITY  sans-serif.accesskey                    "Б">
+<!ENTITY  sans-serif.accesskey                    "Н">
 <!ENTITY  monospace.label                         "Равноширок:">
-<!ENTITY  monospace.accesskey                     "в">
+<!ENTITY  monospace.accesskey                     "м">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -54,7 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Тибетски">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Минимална големина:">
-<!ENTITY minSize.accesskey                        "М">
+<!ENTITY minSize.accesskey                        "б">
 <!ENTITY minSize.none                             "Няма">
 
 <!-- default font type -->
@@ -62,11 +62,11 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Безсерифен">
 
 <!ENTITY  allowPagesToUseOwn.label                "Страниците могат да избират собствен шрифт вместо избраните по-горе">
-<!ENTITY  allowPagesToUseOwn.accesskey            "м">
+<!ENTITY  allowPagesToUseOwn.accesskey            "О">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Кодиране на остаряло съдържание">
 <!ENTITY languages.customize.Fallback2.label      "Резервно кодиране:">
-<!ENTITY languages.customize.Fallback2.accesskey  "к">
+<!ENTITY languages.customize.Fallback2.accesskey  "И">
 <!ENTITY languages.customize.Fallback2.desc       "Това кодиране на знаците ще бъде използвано за съдържание, което не предостави информация за своята кодировка.">
 
 <!ENTITY languages.customize.Fallback.auto        "Текущият локал да стане стандартен">
