@@ -11,7 +11,7 @@
 <!ENTITY blocklist.moreinfo          "مزيد من المعلومات">
 
 <!ENTITY blocklist.accept.label      "أعِد تشغيل &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "ع">
+<!ENTITY blocklist.accept.accesskey  "R">
 
 <!ENTITY blocklist.blocked.label     "محجوبة">
 <!ENTITY blocklist.checkbox.label    "عطّل">
