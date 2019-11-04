@@ -20,7 +20,7 @@
 <!ENTITY restorepage.restoreHeader  "Bərpa et">
 <!ENTITY restorepage.listHeader     "Pəncərələr və vərəqlər">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "&#037;S. pəncərə">
+<!ENTITY restorepage.windowLabel    "%S. pəncərə">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
