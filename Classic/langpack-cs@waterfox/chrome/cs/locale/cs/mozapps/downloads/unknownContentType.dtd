@@ -7,20 +7,20 @@
 <!ENTITY  actionQuestion.label        "Co má &brandShortName; udělat s tímto souborem?">
 
 <!ENTITY  openWith.label              "Otevřít pomocí">
-<!ENTITY  openWith.accesskey          "O">
+<!ENTITY  openWith.accesskey          "P">
 <!ENTITY  other.label                 "Jiná…">
 
-<!ENTITY  saveFile.label              "Uložit soubor">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.label              "Ukládání souboru">
+<!ENTITY  saveFile.accesskey          "S">
 
 <!ENTITY  rememberChoice.label        "Provádět od teď automaticky s podobnými soubory.">
-<!ENTITY  rememberChoice.accesskey    "P">
+<!ENTITY  rememberChoice.accesskey    "e">
 
 <!ENTITY  whichIs.label              "což je:">
 
 <!ENTITY  chooseHandlerMac.label      "Vybrat…">
-<!ENTITY  chooseHandlerMac.accesskey  "V">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Procházet…">
-<!ENTITY  chooseHandler.accesskey     "P">
+<!ENTITY  chooseHandler.accesskey     "z">
 
 <!ENTITY  unknownPromptText.label     "Chcete tento soubor uložit?">
