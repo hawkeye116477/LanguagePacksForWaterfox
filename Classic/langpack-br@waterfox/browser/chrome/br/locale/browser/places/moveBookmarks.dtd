@@ -5,5 +5,5 @@
 <!ENTITY window.title              "Dibab un teuliad">
 <!ENTITY window.style              "width: 36em; height: 18em;">
 <!ENTITY moveTo.label              "Dilec'hiañ betek ">
-<!ENTITY newFolderButton.label     "Teuliad nevez">
-<!ENTITY newFolderButton.accesskey "n">
+<!ENTITY newFolderButton.label     "Ouzhpennañ un teuliad">
+<!ENTITY newFolderButton.accesskey "N">
