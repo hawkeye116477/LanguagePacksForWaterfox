@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "Profillər Haqqında">
 <!ENTITY aboutProfiles.subtitle "Bu səhifə profillərinizi idarə etməyə kömək edir. Hər bir profil ayrıca tarixçə, əlfəcin, tənzimləmə və əlavələri tutan ayrı bir dünyadır.">
 <!ENTITY aboutProfiles.create "Yeni Profil Yarat">
-<!ENTITY aboutProfiles.restart.title "Yenidən başlat">
-<!ENTITY aboutProfiles.restart.inSafeMode "Əlavələr sönülü olaraq yenidən başlat…">
+<!ENTITY aboutProfiles.restart.title "Restart">
+<!ENTITY aboutProfiles.restart.inSafeMode "Əlavələri deaktiv edərək Yenidən başla…">
 <!ENTITY aboutProfiles.restart.normal "Normal yenidən başlat…">
