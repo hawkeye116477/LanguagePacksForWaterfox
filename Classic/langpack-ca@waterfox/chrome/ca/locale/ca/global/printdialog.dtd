@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printdialog.xul -->
 
+<!-- extracted from printdialog.xul -->
 
 <!ENTITY printButton.label "Imprimeix">
 
@@ -11,9 +11,9 @@
 <!ENTITY fpDialog.title "Desa el fitxer">
 
 <!ENTITY fileCheck.label "Imprimeix a un fitxer">
-<!ENTITY fileCheck.accesskey "f">
+<!ENTITY fileCheck.accesskey "p">
 <!ENTITY propertiesButton.label "Propietats…">
-<!ENTITY propertiesButton.accesskey "o">
+<!ENTITY propertiesButton.accesskey "V">
 <!ENTITY descText.label "Descripció de la impressora:">
 <!ENTITY printer.label "Impressora">
 <!ENTITY printerInput.label "Nom de la impressora:">
@@ -21,15 +21,15 @@
 
 <!ENTITY printrangeGroup.label "Àrea d'impressió">
 <!ENTITY allpagesRadio.label "Totes les pàgines">
-<!ENTITY allpagesRadio.accesskey "o">
+<!ENTITY allpagesRadio.accesskey "Q">
 <!ENTITY rangeRadio.label  "Pàgines">
-<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY rangeRadio.accesskey  "p">
 <!ENTITY frompageInput.label  "de">
-<!ENTITY frompageInput.accesskey  "d">
-<!ENTITY topageInput.label  "a ">
-<!ENTITY topageInput.accesskey  "a">
+<!ENTITY frompageInput.accesskey  "i">
+<!ENTITY topageInput.label  "a">
+<!ENTITY topageInput.accesskey  "t">
 <!ENTITY selectionRadio.label "Selecció">
-<!ENTITY selectionRadio.accesskey "S">
+<!ENTITY selectionRadio.accesskey "T">
 
 <!ENTITY copies.label "Còpies">
 <!ENTITY numCopies.label "Nombre de còpies:">
@@ -37,8 +37,8 @@
 
 <!ENTITY printframeGroup.label "Imprimeix els marcs">
 <!ENTITY aslaidoutRadio.label "Tal com es veuen a la pantalla">
-<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY aslaidoutRadio.accesskey "g">
 <!ENTITY selectedframeRadio.label  "El marc seleccionat">
 <!ENTITY selectedframeRadio.accesskey  "m">
 <!ENTITY eachframesepRadio.label  "Cada marc per separat">
-<!ENTITY eachframesepRadio.accesskey  "e">
+<!ENTITY eachframesepRadio.accesskey  "E">
