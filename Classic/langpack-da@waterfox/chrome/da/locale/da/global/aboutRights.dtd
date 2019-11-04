@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title "Om dine rettigheder">
@@ -31,7 +34,7 @@
 <!ENTITY rights.intro-point3-unbranded "Alle relevante privatlivspolitikker for dette produkt bør være beskrevet her.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Nogle &brandShortName; funktioner gør brug af webbaserede informationstjenester, men vi kan ikke garantere at de er 100&#37; korrekte eller fejlfrie. Yderligere detaljer, inklusiv information om at deaktivere disse tjenester, kan findes under punktet ">
+<!ENTITY rights2.intro-point4a "Nogle &brandShortName; funktioner gør brug af webbaserede informationstjenester, men vi kan ikke garantere at de er 100% korrekte eller fejlfrie. Yderligere detaljer, inklusiv information om at deaktivere disse tjenester, kan findes under punktet ">
 <!ENTITY rights.intro-point4b "tjenstevilkår">
 <!ENTITY rights.intro-point4c ".">
 
