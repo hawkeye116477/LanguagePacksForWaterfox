@@ -2,34 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "Düzəliş">
-<!ENTITY editMenu.accesskey        "D">
+<!ENTITY editMenu.label            "Düzəlt">
+<!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label             "Geri al">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "G">
+<!ENTITY undoCmd.accesskey         "ı">
 <!ENTITY redoCmd.label             "Təkrarla">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "T">
+<!ENTITY redoCmd.accesskey         "y">
 <!ENTITY cutCmd.label              "Kəs">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "K">
+<!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Köçür">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "K">
+<!ENTITY copyCmd.accesskey         "Q">
 <!ENTITY pasteCmd.label            "Yapışdır">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "Y">
+<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Sil">
-<!ENTITY deleteCmd.accesskey       "S">
+<!ENTITY deleteCmd.accesskey       "r">
 <!ENTITY selectAllCmd.label        "Hamısını Seç">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "H">
-<!ENTITY findCmd.label             "Tap">
-<!ENTITY findCmd.key               "F">
+<!ENTITY selectAllCmd.key          "H">
+<!ENTITY selectAllCmd.accesskey    "V">
+<!ENTITY findCmd.label             "Find">
+<!ENTITY findCmd.key               "T">
 <!ENTITY findCmd.accesskey         "T">
 <!ENTITY findAgainCmd.label        "Yenidən Tap">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "Y">
+<!ENTITY findAgainCmd.accesskey    "R">
 <!ENTITY findPreviousCmd.label     "Əvvəlkini Tap">
-<!ENTITY findPreviousCmd.accesskey "n">
+<!ENTITY findPreviousCmd.accesskey "B">
