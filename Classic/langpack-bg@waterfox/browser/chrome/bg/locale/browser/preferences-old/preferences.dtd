@@ -21,7 +21,7 @@
 <!ENTITY  panePrivacy.title       "Поверителност">
 <!ENTITY  paneContainers.title    "Изолирани раздели">
 <!ENTITY  paneSecurity.title      "Защита">
-<!ENTITY  paneAdvanced.title      "Разширени">
+<!ENTITY  paneAdvanced.title      "Подробности">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
