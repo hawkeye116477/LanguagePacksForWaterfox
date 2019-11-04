@@ -27,5 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Unviáime un corréu cuando heba más información disponible">
 <!ENTITY tabCrashed.reportSent "Yá s'unvió l'informe de fallos; ¡gracies por ayudar a ameyorar &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Informar de llingüetes de fondu">
-
 <!ENTITY tabCrashed.autoSubmit2 "Update preferences to automatically send crash reports, including reports for crashed background tabs from this session and future sessions">
