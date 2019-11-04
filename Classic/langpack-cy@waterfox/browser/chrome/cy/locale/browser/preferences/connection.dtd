@@ -9,41 +9,41 @@
 
 <!ENTITY  proxyTitle.label              "Ffurfweddu'r Dirprwyon i Gael Mynediad i'r Rhyngrwyd">
 <!ENTITY  noProxyTypeRadio.label        "Dim dirprwy">
-<!ENTITY  noProxyTypeRadio.accesskey    "D">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Defnyddio gosodiadau dirprwyol y system">
-<!ENTITY  systemTypeRadio.accesskey     "g">
+<!ENTITY  systemTypeRadio.accesskey     "o">
 <!ENTITY  WPADTypeRadio.label           "Awto-ganfod gosodiadau dirprwyol ar gyfer y rhwydwaith">
-<!ENTITY  WPADTypeRadio.accesskey       "r">
+<!ENTITY  WPADTypeRadio.accesskey       "G">
 <!ENTITY  manualTypeRadio.label         "Ffurfweddiad dirprwyol llaw:">
-<!ENTITY  manualTypeRadio.accesskey     "l">
+<!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL ffurfweddu dirprwy yn awtomatig:">
-<!ENTITY  autoTypeRadio.accesskey       "U">
+<!ENTITY  autoTypeRadio.accesskey       "n">
 <!ENTITY  reload.label                  "Ail-lwytho">
-<!ENTITY  reload.accesskey              "i">
+<!ENTITY  reload.accesskey              "A">
 <!ENTITY  ftp.label                     "Dirprwy FTP:">
-<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  ftp.accesskey                 "S">
 <!ENTITY  http.label                    "Dirprwy yr HTTP:">
-<!ENTITY  http.accesskey                "H">
+<!ENTITY  http.accesskey                "G">
 <!ENTITY  ssl.label                     "Dirprwy SSL:">
-<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  ssl.accesskey                 "F">
 <!ENTITY  socks.label                   "Gwesteiwr SOCKS v5:">
-<!ENTITY  socks.accesskey               "G">
+<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "B">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "R">
 <!ENTITY  socksRemoteDNS.label2         "DNS dirprwyol wrth ddefnyddio SOCKS v5">
-<!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  socksRemoteDNS.accesskey      "F">
 <!ENTITY  port.label                    "Porth:">
-<!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  HTTPport.accesskey            "F">
+<!ENTITY  SSLport.accesskey             "C">
+<!ENTITY  FTPport.accesskey             "D">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Dim Dirprwy ar gyfer:">
-<!ENTITY  noproxy.accesskey             "m">
+<!ENTITY  noproxy.accesskey             "w">
 <!ENTITY  noproxyExplain.label          "Esiampl: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Defnyddio'r gweinydd dirprwyol ar gyfer pob protocol">
-<!ENTITY  shareproxy.accesskey          "e">
+<!ENTITY  shareproxy.accesskey          "R">
 <!ENTITY  autologinproxy.label          "Peidio gofyn am ddilysiad os yw'r cyfrinair wedi ei gadw">
-<!ENTITY  autologinproxy.accesskey      "d">
+<!ENTITY  autologinproxy.accesskey      "D">
 <!ENTITY  autologinproxy.tooltip        "Mae'r dewis hwn yn eich dilysu'n dawel i ddirprwyon rydych wedi eu cadw eu manylion ar eu cyfer. Byddwn yn gofyn os bydd y dilysiad yn methu.">
