@@ -13,24 +13,24 @@
 <!ENTITY devmgr.details.title2                  "Gwerth">
 
 <!ENTITY devmgr.button.login.label              "Mewngofnodi">
-<!ENTITY devmgr.button.login.accesskey          "M">
+<!ENTITY devmgr.button.login.accesskey          "w">
 <!ENTITY devmgr.button.logout.label             "Allgofnodi">
-<!ENTITY devmgr.button.logout.accesskey         "A">
+<!ENTITY devmgr.button.logout.accesskey         "F">
 <!ENTITY devmgr.button.changepw.label           "Newid Cyfrinair">
-<!ENTITY devmgr.button.changepw.accesskey       "N">
+<!ENTITY devmgr.button.changepw.accesskey       "F">
 <!ENTITY devmgr.button.load.label               "Llwytho">
-<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.load.accesskey           "F">
 <!ENTITY devmgr.button.unload.label             "Dadlwytho">
 <!ENTITY devmgr.button.unload.accesskey         "D">
-<!ENTITY devmgr.button.fips.accesskey           "F">
+<!ENTITY devmgr.button.fips.accesskey           "S">
 
 <!ENTITY loaddevice.info                        "Rhoi gwybodaeth am y modiwl rydych eisiau ei ychwanegu.">
 <!ENTITY loaddevice.modname                     "Enw Modiwl:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.accesskey           "B">
 <!ENTITY loaddevice.modname.default             "Modiwl newydd PKCS#11">
 <!ENTITY loaddevice.filename                    "Enw ffeil modiwl:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename.accesskey          "S">
 <!ENTITY loaddevice.browse                      "Pori…">
-<!ENTITY loaddevice.browse.accesskey            "B">
+<!ENTITY loaddevice.browse.accesskey            "N">
 
 <!ENTITY loaddevice.title2                      "Llwytho Gyrrwr Dyfais PKCS#11">
