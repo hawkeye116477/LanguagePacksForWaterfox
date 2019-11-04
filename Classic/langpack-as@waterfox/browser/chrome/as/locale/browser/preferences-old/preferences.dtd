@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  prefWindow.titleWin     "বিকল্প">
+<!ENTITY  prefWindow.titleWin     "বিকল্পসমূহ">
 <!ENTITY  prefWindow.title        "পছন্দসমূহ">
 <!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; পছন্দ">
@@ -15,17 +15,15 @@
 
 <!ENTITY  paneGeneral.title       "সাধাৰণ">
 <!ENTITY  paneTabs.title          "টেব">
-<!ENTITY  paneSearch.title        "সন্ধান কৰক">
-<!ENTITY  paneContent.title       "সমল">
+<!ENTITY  paneSearch.title        "Search">
+<!ENTITY  paneContent.title       "বিষয়বস্তু">
 <!ENTITY  paneApplications.title  "এপ্লিকেচনসমূহ">
 <!ENTITY  panePrivacy.title       "গোপনীয়তা">
-
+<!ENTITY  paneContainers.title    "Container Tabs">
 <!ENTITY  paneSecurity.title      "সুৰক্ষা">
-<!ENTITY  paneAdvanced.title      "উন্নত">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneAdvanced.title      "Advanced">
 
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "সংমিহলি">
 
 <!ENTITY  helpButton.label        "সহায়">
-
-<!ENTITY  paneContainers.title    "Container Tabs">
