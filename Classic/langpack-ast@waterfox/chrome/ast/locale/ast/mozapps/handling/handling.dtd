@@ -6,5 +6,5 @@
 <!ENTITY window.emHeight "26em">
 <!ENTITY ChooseOtherApp.description "Escoyer otra aplicacion">
 <!ENTITY ChooseApp.label "Escoyer…">
-<!ENTITY ChooseApp.accessKey "E">
+<!ENTITY ChooseApp.accessKey "C">
 <!ENTITY accept "Abrir enllaz">
