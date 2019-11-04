@@ -17,8 +17,8 @@
 <!ENTITY certmgr.orphans                      "لديك شهادات على الملف لا تتناسب مع أي من التصنيفات الأخرى:">
 
 <!ENTITY certmgr.detail.general_tab.title     "عام">
-<!ENTITY certmgr.detail.general_tab.accesskey "ع">
-<!ENTITY certmgr.detail.prettyprint_tab.title "تفاصيل">
+<!ENTITY certmgr.detail.general_tab.accesskey "ح">
+<!ENTITY certmgr.detail.prettyprint_tab.title "التفاصيل">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "ت">
 
 <!ENTITY certmgr.pending.label                "يقوم حاليا بالتحقق من الشهادات…">
@@ -43,7 +43,7 @@
 <!ENTITY certmgr.deletecert.title             "احذف الشّهادة">
 
 <!ENTITY certmgr.certname                     "اسم الشّهادة">
-<!ENTITY certmgr.certserver                   "الخادوم">
+<!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "الصلاحية">
 <!ENTITY certmgr.tokenname                    "جهاز الأمن">
 <!ENTITY certmgr.begins                       "تبدأ في">
@@ -51,43 +51,43 @@
 <!ENTITY certmgr.email                        "عنوان البريد الإلكتروني">
 <!ENTITY certmgr.serial                       "الرّقم التّسلسلي">
 
-<!ENTITY certmgr.close.label                  "أغلق">
-<!ENTITY certmgr.close.accesskey              "غ">
+<!ENTITY certmgr.close.label                  "أغلِق">
+<!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "اعرض…">
-<!ENTITY certmgr.view2.accesskey              "ع">
+<!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "حرّر الثقة…">
 <!ENTITY certmgr.edit3.accesskey              "ح">
 <!ENTITY certmgr.export.label                 "صدّر…">
-<!ENTITY certmgr.export.accesskey             "ص">
+<!ENTITY certmgr.export.accesskey             "خ">
 <!ENTITY certmgr.delete2.label                "احذف…">
-<!ENTITY certmgr.delete2.accesskey            "ح">
+<!ENTITY certmgr.delete2.accesskey            "ت">
 <!ENTITY certmgr.delete_builtin.label         "احذف أو لا تثق…">
-<!ENTITY certmgr.delete_builtin.accesskey     "ذ">
-<!ENTITY certmgr.backup2.label                "احفظ احتياطيا…">
-<!ENTITY certmgr.backup2.accesskey            "ط">
+<!ENTITY certmgr.delete_builtin.accesskey     "ت">
+<!ENTITY certmgr.backup2.label                "احفظ احتياطيًا…">
+<!ENTITY certmgr.backup2.accesskey            "ش">
 <!ENTITY certmgr.backupall2.label             "احفظ الكل احتياطيا…">
-<!ENTITY certmgr.backupall2.accesskey         "ك">
-<!ENTITY certmgr.restore2.label               "استورِد…">
-<!ENTITY certmgr.restore2.accesskey           "س">
+<!ENTITY certmgr.backupall2.accesskey         "ع">
+<!ENTITY certmgr.restore2.label               "Import…">
+<!ENTITY certmgr.restore2.accesskey           "ص">
 <!ENTITY certmgr.details.label                "حقول الشّهادة">
-<!ENTITY certmgr.details.accesskey            "ق">
+<!ENTITY certmgr.details.accesskey            "ش">
 <!ENTITY certmgr.fields.label                 "قيمة الحقل">
-<!ENTITY certmgr.fields.accesskey             "م">
+<!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "شجريّة الشّهادة">
-<!ENTITY certmgr.hierarchy.accesskey2         "ش">
+<!ENTITY certmgr.hierarchy.accesskey2         "س">
 <!ENTITY certmgr.addException.label           "أضِف استثناءً…">
-<!ENTITY certmgr.addException.accesskey       "ت">
+<!ENTITY certmgr.addException.accesskey       "خ">
 
 <!ENTITY exceptionMgr.title                   "أضِف استثناءً أمنيًا">
 <!ENTITY exceptionMgr.exceptionButton.label   "أكّد الاستثناء الأمني">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "س">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "لن تطلب منك هذا البنوك الحقيقية والمتاجر والمواقع العامة الأخرى.">
-<!ENTITY exceptionMgr.certlocation.caption2   "الخادوم">
+<!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "المكان:">
 <!ENTITY exceptionMgr.certlocation.download   "اجلب الشهادة">
-<!ENTITY exceptionMgr.certlocation.accesskey  "ج">
+<!ENTITY exceptionMgr.certlocation.accesskey  "ح">
 <!ENTITY exceptionMgr.certstatus.caption      "حالة الشهادة">
 <!ENTITY exceptionMgr.certstatus.viewCert     "اعرض…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "ع">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "احفظ هذا الاستثناء دائما">
-<!ENTITY exceptionMgr.permanent.accesskey     "د">
+<!ENTITY exceptionMgr.permanent.accesskey     "خ">
