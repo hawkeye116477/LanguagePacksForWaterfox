@@ -20,16 +20,16 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Torna a carregar la pestanya">
-<!ENTITY  reloadTab.accesskey                "r">
+<!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Torna a carregar totes les pestanyes">
-<!ENTITY  reloadAllTabs.accesskey            "a">
+<!ENTITY  reloadAllTabs.accesskey            "Q">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Tanca les pestanyes de la dreta">
 <!ENTITY  closeTabsToTheEnd.accesskey        "d">
 <!ENTITY  closeOtherTabs.label               "Tanca les altres pestanyes">
-<!ENTITY  closeOtherTabs.accesskey           "l">
+<!ENTITY  closeOtherTabs.accesskey           "V">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -41,15 +41,15 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "No fixis la pestanya">
 <!ENTITY  unpinTab.accesskey                 "f">
 <!ENTITY  sendTabToDevice.label              "Envia la pestanya al dispositiu">
-<!ENTITY  sendTabToDevice.accesskey          "d">
+<!ENTITY  sendTabToDevice.accesskey          "N">
 <!ENTITY  sendPageToDevice.label             "Envia la pàgina al dispositiu">
-<!ENTITY  sendPageToDevice.accesskey         "d">
+<!ENTITY  sendPageToDevice.accesskey         "N">
 <!ENTITY  sendLinkToDevice.label             "Envia l'enllaç al dispositiu">
-<!ENTITY  sendLinkToDevice.accesskey         "d">
+<!ENTITY  sendLinkToDevice.accesskey         "N">
 <!ENTITY  moveToNewWindow.label              "Mou a una finestra nova">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Afegeix totes les pestanyes a les adreces d'interès…">
-<!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  bookmarkAllTabs.accesskey          "r">
 <!ENTITY  undoCloseTab.label                 "Desfés el tancament de la pestanya">
 <!ENTITY  undoCloseTab.accesskey             "D">
 <!ENTITY  closeTab.label                     "Tanca la pestanya">
@@ -58,7 +58,7 @@ can reach it easily. -->
 <!ENTITY  listAllTabs.label      "Llista totes les pestanyes">
 
 <!ENTITY tabCmd.label "Pestanya nova">
-<!ENTITY tabCmd.accesskey "t">
+<!ENTITY tabCmd.accesskey "r">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
@@ -66,7 +66,7 @@ when there are no windows but Waterfox is still running. -->
 <!ENTITY openLocationCmd.label "Obre la ubicació…">
 <!ENTITY openFileCmd.label "Obre un fitxer…">
 <!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY openFileCmd.commandkey "V">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
 <!ENTITY printPreviewCmd.label "Exemple d'impressió">
@@ -86,20 +86,20 @@ when there are no windows but Waterfox is still running. -->
 <!ENTITY bookmarksToolbarItem.label "Elements de la barra de les adreces d'interès">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Torna a carregar totes les pestanyes">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "Q">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Afegeix totes les pestanyes a les adreces d'interès…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Desfés el tancament de la pestanya">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
 <!ENTITY pageSourceCmd.label "Codi font de la pàgina">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageSourceCmd.accesskey "V">
+<!ENTITY pageSourceCmd.commandkey "g">
 <!ENTITY pageInfoCmd.label "Informació de la pàgina">
 <!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY pageInfoCmd.commandkey "d">
 <!ENTITY mirrorTabCmd.label "Duplica la pantalla">
-<!ENTITY mirrorTabCmd.accesskey "D">
+<!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Obre a pantalla completa">
@@ -107,10 +107,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.label "Surt de la pantalla completa">
 <!ENTITY exitFullScreenCmd.accesskey "p">
 <!ENTITY fullScreenCmd.label "Pantalla completa">
-<!ENTITY fullScreenCmd.accesskey "P">
+<!ENTITY fullScreenCmd.accesskey "p">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Mostra totes les pestanyes">
-<!ENTITY showAllTabsCmd.accesskey "a">
+<!ENTITY showAllTabsCmd.accesskey "Q">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Inicia la sessió al &syncBrand.shortName.label;">
@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "Restaura">
 <!ENTITY fullScreenClose.tooltip "Tanca">
 <!ENTITY fullScreenAutohide.label "Amaga les barres d'eines">
-<!ENTITY fullScreenAutohide.accesskey "g">
+<!ENTITY fullScreenAutohide.accesskey "j">
 <!ENTITY fullScreenExit.label "Surt del mode de pantalla completa">
 <!ENTITY fullScreenExit.accesskey "p">
 
@@ -142,7 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreen.button "Surt de la pantalla completa (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Surt de la pantalla completa (esc)">
 <!ENTITY leaveDOMFullScreen.label "Surt de la pantalla completa">
-<!ENTITY leaveDOMFullScreen.accesskey "p">
+<!ENTITY leaveDOMFullScreen.accesskey "g">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -157,16 +157,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "f">
 
 <!ENTITY bookmarksMenu.label "Adreces d'interès">
-<!ENTITY bookmarksMenu.accesskey "r">
+<!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Afegeix la pàgina a les adreces d'interès">
 <!ENTITY editThisBookmarkCmd.label "Edita aquesta adreça d'interès">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.commandkey "f">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Cerca més serveis de compartició…">
 <!ENTITY sharePageCmd.label "Comparteix aquesta pàgina">
-<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.commandkey "T">
 <!ENTITY sharePageCmd.accesskey "C">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Comparteix aquest enllaç">
@@ -174,22 +174,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImage.label "Comparteix aquesta imatge">
 <!ENTITY shareImage.accesskey "i">
 <!ENTITY shareSelect.label "Comparteix la selecció">
-<!ENTITY shareSelect.accesskey "s">
+<!ENTITY shareSelect.accesskey "i">
 <!ENTITY shareVideo.label "Comparteix aquest vídeo">
-<!ENTITY shareVideo.accesskey "v">
+<!ENTITY shareVideo.accesskey "i">
 <!ENTITY feedsMenu2.label "Subscriu-me a aquesta pàgina">
 <!ENTITY subscribeToPageMenupopup.label "Subscriu-me a aquesta pàgina">
 <!ENTITY subscribeToPageMenuitem.label "Subscriu-me a la pàgina…">
-<!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
+<!ENTITY addCurPagesCmd.label "Afegeix totes les pestanyes a les adreces d'interès…">
 <!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interès">
 <!ENTITY recentBookmarks.label "Afegides més recentment">
 <!ENTITY otherBookmarksCmd.label "Altres adreces d'interès">
 <!ENTITY mobileBookmarksCmd.label "Adreces del mòbil">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 <!ENTITY showRecentlyBookmarked.label     "Mostra les afegides més recentment">
-<!ENTITY showRecentlyBookmarked.accesskey "o">
+<!ENTITY showRecentlyBookmarked.accesskey "l">
 <!ENTITY hideRecentlyBookmarked.label     "Amaga les afegides més recentment">
-<!ENTITY hideRecentlyBookmarked.accesskey "m">
+<!ENTITY hideRecentlyBookmarked.accesskey "j">
 
 <!ENTITY backCmd.label                "Enrere">
 <!ENTITY backButton.tooltip           "Vés una pàgina enrere">
@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Inici">
 
 <!ENTITY bookmarksButton.label          "Adreces d'interès">
-<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksCmd.commandkey "f">
 
 <!ENTITY bookmarksMenuButton.label          "Adreces d'interès">
 <!ENTITY bookmarksMenuButton.other.label "Altres adreces d'interès">
@@ -255,41 +255,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY bookmarksWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey "V">
+<!ENTITY bookmarksWinCmd.commandkey "d">
 
 <!ENTITY historyButton.label            "Historial">
-<!ENTITY historySidebarCmd.commandKey   "h">
+<!ENTITY historySidebarCmd.commandKey   "l">
 
 <!ENTITY toolsMenu.label              "Eines">
-<!ENTITY toolsMenu.accesskey          "n"> 
+<!ENTITY toolsMenu.accesskey          "r"> 
 
 <!ENTITY keywordfield.label           "Afegeix una paraula clau per a aquesta cerca…">
-<!ENTITY keywordfield.accesskey       "p">
+<!ENTITY keywordfield.accesskey       "d">
 
 <!ENTITY downloads.label              "Baixades">
-<!ENTITY downloads.accesskey          "d">
+<!ENTITY downloads.accesskey          "N">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Complements">
-<!ENTITY addons.accesskey             "m">
-<!ENTITY addons.commandkey            "A">
+<!ENTITY addons.accesskey             "Q">
+<!ENTITY addons.commandkey            "Q">
 
 <!ENTITY webDeveloperMenu.label       "Desenvolupador web">
-<!ENTITY webDeveloperMenu.accesskey   "w">
+<!ENTITY webDeveloperMenu.accesskey   "v">
 
 <!ENTITY inspectContextMenu.label     "Inspecciona l'element">
 <!ENTITY inspectContextMenu.accesskey "I">
 
 <!ENTITY fileMenu.label         "Fitxer"> 
-<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY fileMenu.accesskey       "p">
 <!ENTITY newUserContext.label             "Pestanya de contenidor nova">
-<!ENTITY newUserContext.accesskey         "v">
+<!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "Finestra nova">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "n">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Finestra privada nova">
-<!ENTITY newPrivateWindow.accesskey "i">
+<!ENTITY newPrivateWindow.accesskey "v">
 <!ENTITY newNonRemoteWindow.label   "Finestra no e10s nova">
 
 <!ENTITY editMenu.label         "Edita"> 
@@ -308,13 +308,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Enganxa">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "x"> 
+<!ENTITY pasteCmd.accesskey         "p"> 
 <!ENTITY deleteCmd.label          "Suprimeix">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "u"> 
+<!ENTITY deleteCmd.key            "N">  
+<!ENTITY deleteCmd.accesskey        "N"> 
 <!ENTITY selectAllCmd.label         "Selecciona-ho tot">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY selectAllCmd.key         "Q">  
+<!ENTITY selectAllCmd.accesskey       "Q"> 
 <!ENTITY preferencesCmd2.label       "Opcions">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferències">
@@ -322,28 +322,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Neteja l'historial recent…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
+<!ENTITY privateBrowsingCmd.commandkey          "p">
 
 <!ENTITY viewMenu.label         "Visualitza"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "Barres d'eines"> 
-<!ENTITY viewToolbarsMenu.accesskey     "a"> 
+<!ENTITY viewToolbarsMenu.accesskey     "r"> 
 <!ENTITY viewSidebarMenu.label "Barra lateral">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personalitza…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "Personalitza la barra d'eines…">
-<!ENTITY overflowCustomizeToolbar.accesskey   "P">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Historial">
-<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyMenu.accesskey "C">
 <!ENTITY historyUndoMenu.label "Pestanyes tancades recentment">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Finestres tancades recentment">
 <!ENTITY historyRestoreLastSession.label "Restaura la sessió anterior">
 
 <!ENTITY showAllHistoryCmd2.label "Mostra tot l'historial">
-<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY showAllHistoryCmd.commandkey "j">
 
 <!ENTITY appMenuCustomize.label "Personalitza">
 <!ENTITY appMenuCustomize.tooltip "Personalitza el menú i les barres d'eines">
@@ -385,7 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mostra la barra lateral «Pestanyes sincronitzades»">
 
 <!ENTITY customizeMenu.addToToolbar.label "Afegeix a la barra d'eines">
-<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToToolbar.accesskey "Q">
 <!ENTITY customizeMenu.addToPanel.label "Afegeix al menú">
 <!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
@@ -396,24 +396,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToOverflowMenu.label "Afegeix al menú d'eines addicionals (»)">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Mou a la barra d'eines">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "V">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mou al menú">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.moveToPanel.accesskey "V">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Fixa al menú d'eines addicionals (»)">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "p">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "No fixis al menú d'eines addicionals (»)">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "N">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Elimina de la barra d'eines">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "E">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Elimina del menú">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "E">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Afegeix més elements…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY customizeMenu.addMoreItems.accesskey "Q">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -422,23 +422,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Escriviu una cerca o adreça">
-<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.accesskey             "f">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensió:">
 <!ENTITY urlbar.switchToTab.label     "Canvia a la pestanya:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Voleu millorar la vostra experiència de cerca amb suggeriments?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Més informació…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "i">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "No">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Consell:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Us ajudem a trobar tot allò que cerqueu! Fixeu-vos en la &#x1F50E; al costat dels suggeriments de cerca.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Us ajudem a trobar tot allò que cerqueu! Fixeu-vos en la 🔎 al costat dels suggeriments de cerca.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Canvia les opcions…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Canvia les preferències…">
@@ -464,7 +464,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey       "b">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
@@ -506,38 +506,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.tooltip "Canvia els paràmetres de cerca">
 
 <!ENTITY searchInNewTab.label         "Cerca en una pestanya nova">
-<!ENTITY searchInNewTab.accesskey     "t">
+<!ENTITY searchInNewTab.accesskey     "r">
 <!ENTITY searchSetAsDefault.label     "Defineix com a motor de cerca per defecte">
-<!ENTITY searchSetAsDefault.accesskey "D">
+<!ENTITY searchSetAsDefault.accesskey "N">
 
 <!ENTITY openLinkCmdInTab.label       "Obre l'enllaç en una pestanya nova">
-<!ENTITY openLinkCmdInTab.accesskey   "t">
+<!ENTITY openLinkCmdInTab.accesskey   "r">
 <!ENTITY openLinkCmd.label            "Obre l'enllaç en una finestra nova">
-<!ENTITY openLinkCmd.accesskey        "f">
+<!ENTITY openLinkCmd.accesskey        "v">
 <!ENTITY openLinkInPrivateWindowCmd.label "Obre l'enllaç en una finestra privada nova">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Obre l'enllaç">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "Obre el marc en una pestanya nova">
-<!ENTITY openFrameCmdInTab.accesskey  "t">
+<!ENTITY openFrameCmdInTab.accesskey  "r">
 <!ENTITY openFrameCmd.label           "Obre el marc en una finestra nova">
-<!ENTITY openFrameCmd.accesskey       "O">
+<!ENTITY openFrameCmd.accesskey       "v">
 <!ENTITY openLinkCmdInContainerTab.label "Obre l'enllaç en una pestanya de contenidor nova">
-<!ENTITY openLinkCmdInContainerTab.accesskey "b">
+<!ENTITY openLinkCmdInContainerTab.accesskey "f">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostra només aquest marc">
-<!ENTITY showOnlyThisFrameCmd.accesskey "M">
-<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY showOnlyThisFrameCmd.accesskey "T">
+<!ENTITY reloadCmd.commandkey         "i">
 <!ENTITY reloadFrameCmd.label         "Actualitza el marc">
-<!ENTITY reloadFrameCmd.accesskey     "z">
+<!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Codi font de la selecció">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Codi font del MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Codi font de la pàgina">
-<!ENTITY viewPageSourceCmd.accesskey  "f">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "Codi font del marc">
-<!ENTITY viewFrameSourceCmd.accesskey "f">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "Informació de la pàgina">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "Informació del marc">
@@ -545,112 +545,112 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadImageCmd.label         "Recarrega la imatge">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Visualitza la imatge">
-<!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Visualitza la informació de la imatge">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Visualitza la descripció">
-<!ENTITY viewImageDescCmd.accesskey   "d">
+<!ENTITY viewImageDescCmd.accesskey   "N">
 <!ENTITY viewVideoCmd.label           "Visualitza el vídeo">
-<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Visualitza la imatge de fons">
 <!ENTITY viewBGImageCmd.accesskey     "n">
 <!ENTITY setDesktopBackgroundCmd.label      "Defineix com a fons d'escriptori…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "D">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "T">
 <!ENTITY bookmarkPageCmd2.label       "Afegeix la pàgina a les adreces d'interès">
 <!ENTITY bookmarkThisLinkCmd.label      "Afegeix l'enllaç a les adreces d'interès">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "l">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "S">
 <!ENTITY bookmarkThisFrameCmd.label      "Afegeix el marc a les adreces d'interès">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY copyURLCmd.label             "Copia l'URL">
 <!ENTITY emailPageCmd.label           "Envia l'enllaç per correu…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Anomena i desa la pàgina…">
-<!ENTITY savePageCmd.accesskey        "s">
+<!ENTITY savePageCmd.accesskey        "Q">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "d">
-<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY savePageCmd.accesskey2       "p">
+<!ENTITY savePageCmd.commandkey       "C">
 <!ENTITY saveFrameCmd.label           "Anomena i desa el marc…">
-<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY saveFrameCmd.accesskey       "p">
 <!ENTITY printFrameCmd.label          "Imprimeix el marc…">
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Anomena i desa el contingut de l'enllaç…">
-<!ENTITY saveLinkCmd.accesskey        "s">
+<!ENTITY saveLinkCmd.accesskey        "b">
 <!ENTITY saveImageCmd.label           "Anomena i desa la imatge…">
-<!ENTITY saveImageCmd.accesskey       "A">
+<!ENTITY saveImageCmd.accesskey       "l">
 <!ENTITY saveVideoCmd.label           "Anomena i desa el vídeo…">
-<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.accesskey       "l">
 <!ENTITY saveAudioCmd.label           "Anomena i desa l'àudio…">
-<!ENTITY saveAudioCmd.accesskey       "u">
+<!ENTITY saveAudioCmd.accesskey       "l">
 <!ENTITY emailImageCmd.label          "Envia la imatge per correu…">
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Envia el vídeo per correu…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "Envia el vídeo al dispositiu">
-<!ENTITY castVideoCmd.accesskey       "E">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Envia l'àudio per correu…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activa aquest connector">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "Amaga aquest connector">
-<!ENTITY hidePluginCmd.accesskey      "m">
+<!ENTITY hidePluginCmd.accesskey      "j">
 <!ENTITY copyLinkCmd.label            "Copia l'enllaç">
-<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Copia la ubicació de la imatge">
-<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageCmd.accesskey       "V">
 <!ENTITY copyImageContentsCmd.label   "Copia la imatge">
-<!ENTITY copyImageContentsCmd.accesskey  "m"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "Copia la ubicació del vídeo">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.accesskey    "V">
 <!ENTITY copyAudioURLCmd.label        "Copia la ubicació de l'àudio">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.accesskey    "V">
 <!ENTITY copyEmailCmd.label           "Copia l'adreça electrònica">
-<!ENTITY copyEmailCmd.accesskey       "e">
+<!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Aquest marc">
-<!ENTITY thisFrameMenu.accesskey          "t">
+<!ENTITY thisFrameMenu.accesskey          "l">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Reprodueix">
-<!ENTITY mediaPlay.accesskey         "R">
+<!ENTITY mediaPlay.accesskey         "p">
 <!ENTITY mediaPause.label            "Pausa">
-<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaPause.accesskey        "p">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Sense so">
-<!ENTITY mediaMute.accesskey         "e">
+<!ENTITY mediaMute.accesskey         "m">
 <!ENTITY mediaUnmute.label           "Amb so">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "Velocitat de reproducció">
-<!ENTITY mediaPlaybackRate2.accesskey "l">
+<!ENTITY mediaPlaybackRate2.accesskey "f">
 <!ENTITY mediaPlaybackRate050x2.label "Lent (0,5x)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "L">
+<!ENTITY mediaPlaybackRate050x2.accesskey "T">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Ràpid (1,25x)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "R">
+<!ENTITY mediaPlaybackRate125x2.accesskey "p">
 <!ENTITY mediaPlaybackRate150x2.label "Més ràpid (1,5x)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "s">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Màxima velocitat (×2)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "M">
+<!ENTITY mediaPlaybackRate200x2.accesskey "S">
 <!ENTITY mediaLoop.label             "Repetició">
-<!ENTITY mediaLoop.accesskey         "R">
+<!ENTITY mediaLoop.accesskey         "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Mostra els controls">
-<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Amaga els controls">
-<!ENTITY mediaHideControls.accesskey "c">
+<!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Pantalla completa">
-<!ENTITY videoFullScreen.accesskey   "P">
+<!ENTITY videoFullScreen.accesskey   "p">
 <!ENTITY videoSaveImage.label        "Anomena i desa una instantània…">
-<!ENTITY videoSaveImage.accesskey    "s">
+<!ENTITY videoSaveImage.accesskey    "T">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -666,13 +666,13 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "Augmenta">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "A">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Redueix">
-<!ENTITY fullZoomReduceCmd.accesskey    "d">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -682,9 +682,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Augmenta el text només">
-<!ENTITY fullZoomToggleCmd.accesskey    "t">
-<!ENTITY fullZoom.label                 "Mida de la pàgina">
-<!ENTITY fullZoom.accesskey             "d">
+<!ENTITY fullZoomToggleCmd.accesskey    "r">
+<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Tanca la barra lateral">
 <!ENTITY sidebarMenuClose.label         "Tanca la barra lateral">
@@ -695,22 +695,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Surt"> 
-<!ENTITY quitApplicationCmd.accesskey   "u">
+<!ENTITY quitApplicationCmd.accesskey   "I">
 <!ENTITY quitApplicationCmdMac2.label   "Surt del &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Q">
+<!ENTITY quitApplicationCmd.key         "I">
 
 <!ENTITY closeCmd.label                 "Tanca">  
-<!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "c">
+<!ENTITY closeCmd.key                   "v">  
+<!ENTITY closeCmd.accesskey             "C">
 
-<!ENTITY toggleMuteCmd.key              "M">
+<!ENTITY toggleMuteCmd.key              "m">
 
 <!ENTITY pageStyleMenu.label "Estil de pàgina">
-<!ENTITY pageStyleMenu.accesskey "i">
+<!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "Sense estil">
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Estil de pàgina bàsic">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "f">
 
 <!ENTITY pageReportIcon.tooltip            "Canvia els paràmetres de blocatge de finestres emergents per a aquest lloc web">
 
@@ -721,28 +721,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettingsUnix.label "Edita les preferències de blocatge de finestres emergents…">
 <!ENTITY editPopupSettings.label "Edita les opcions de blocatge de finestres emergents…">
 <!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "n">
+<!ENTITY dontShowMessage.accesskey "N">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Canvia la direcció de la pàgina">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "N">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Canvia la direcció del text">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "v">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "n">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Cerca en aquesta pàgina…">
-<!ENTITY findOnCmd.accesskey "r">
+<!ENTITY findOnCmd.accesskey "p">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Torna a cercar">
-<!ENTITY findAgainCmd.accesskey "o">
-<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.accesskey "a">
+<!ENTITY findAgainCmd.commandkey "a">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Afegeix diccionaris…">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.accesskey "Q">
 
 <!ENTITY editBookmark.done.label                     "Fet">
-<!ENTITY editBookmark.removeBookmark.accessKey       "r">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Connexió segura">
 <!ENTITY identity.connectionNotSecure "La connexió no és segura">
@@ -771,13 +771,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded2 "La informació que compartiu amb aquest lloc podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activa la protecció">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "v">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "Desactiva la protecció aquesta vegada">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "N">
 <!ENTITY identity.learnMore "Més informació">
 
 <!ENTITY identity.removeCertException.label "Elimina l'excepció">
-<!ENTITY identity.removeCertException.accesskey "x">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "Més informació">
 
@@ -810,20 +810,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.open.label                       "Obre">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Obre en una pestanya nova">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "t">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "n">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Obre en una finestra nova">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Obre en una finestra privada nova">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Afegeix aquesta pestanya a les adreces d'interès…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "f">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "Copia">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Obre-ho tot en pestanyes">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 <!ENTITY syncedTabs.context.managedevices.label              "Gestiona els dispositius…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "d">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "N">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -831,10 +831,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Inicia la sessió al &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronitza ara">
-<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncSyncNowItem.accesskey    "T">
 <!ENTITY syncReAuthItem.label         "Torna a connectar al &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "r">
-<!ENTITY syncToolbarButton.label      "Sincronització">
+<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY social.addons.label "Gestiona els serveis…">
 
@@ -855,7 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.myThemes "Els meus temes">
 <!ENTITY customizeMode.lwthemes.recommended "Recomanats">
 <!ENTITY customizeMode.lwthemes.menuManage "Gestiona">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "m">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Baixa més temes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "B">
 <!ENTITY customizeMode.emptyOverflowList.description "Arrossegueu elements i deixeu-los anar aquí per tenir-los a mà, però fora de la barra d'eines…">
@@ -877,13 +877,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Tàctil">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tàctil">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "r">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utilitza «tàctil» per al mode de tauleta">
 
 <!ENTITY getUserMedia.selectCamera.label "Càmera per compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micròfon per compartir:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY getUserMedia.audioCapture.label "Es compartirà l'àudio de la pestanya.">
 <!ENTITY getUserMedia.allWindowsShared.message "Es compartiran totes les finestres visibles de la pantalla.">
 
@@ -895,27 +895,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Desactiva la protecció per a aquest lloc">
-<!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock.accesskey "N">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Desactiva la protecció durant aquesta sessió">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "N">
 <!ENTITY trackingProtection.block2.label "Activa la protecció">
-<!ENTITY trackingProtection.block2.accesskey "v">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "Seguiment">
 <!ENTITY trackingContentBlocked.moreinfo "S'han blocat les parts de la pàgina que fan el seguiment de la vostra activitat a Internet.">
 <!ENTITY trackingContentBlocked.learnMore "Més informació">
 <!ENTITY trackingContentBlocked.options "Opcions">
 <!ENTITY trackingContentBlocked.unblock2.label "Desactiva la protecció per a aquest lloc">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "N">
 <!ENTITY trackingContentBlocked.block.label "Activa la protecció">
-<!ENTITY trackingContentBlocked.block.accesskey "v">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "La protecció contra el seguiment està desactivada">
 
 <!ENTITY pluginNotification.showAll.label "Mostra-ho tot">
-<!ENTITY pluginNotification.showAll.accesskey "s">
+<!ENTITY pluginNotification.showAll.accesskey "T">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Permet ara">
@@ -959,24 +959,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "Gràcies!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Més informació sobre DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "N">
 
 <!ENTITY updateAvailable.message "Actualitzeu el &brandShorterName; per millorar la velocitat i privadesa.">
 <!ENTITY updateAvailable.whatsnew.label "Descobriu-ne les novetats.">
 <!ENTITY updateAvailable.header.message "Hi ha una actualització del &brandShorterName; disponible.">
 <!ENTITY updateAvailable.acceptButton.label "Baixa l'actualització">
-<!ENTITY updateAvailable.acceptButton.accesskey "B">
+<!ENTITY updateAvailable.acceptButton.accesskey "N">
 <!ENTITY updateAvailable.cancelButton.label "Ara no">
-<!ENTITY updateAvailable.cancelButton.accesskey "n">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Baixa l'actualització del &brandShorterName;">
 
 <!ENTITY updateManual.message "Baixeu una còpia nova del &brandShorterName; i us ajudarem a instal·lar-la.">
 <!ENTITY updateManual.whatsnew.label "Descobriu-ne les novetats.">
 <!ENTITY updateManual.header.message "El &brandShorterName; no s'ha pogut actualitzar a la versió més recent.">
 <!ENTITY updateManual.acceptButton.label "Baixa el &brandShorterName;">
-<!ENTITY updateManual.acceptButton.accesskey "B">
+<!ENTITY updateManual.acceptButton.accesskey "N">
 <!ENTITY updateManual.cancelButton.label "Ara no">
-<!ENTITY updateManual.cancelButton.accesskey "n">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Baixa una còpia nova del &brandShorterName;">
 
 <!ENTITY updateRestart.message "Un cop reiniciat, el &brandShorterName; restaurarà totes les pestanyes i finestres obertes.">
@@ -984,8 +984,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.label "Reinicia i restaura">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ara no">
-<!ENTITY updateRestart.cancelButton.accesskey "n">
-<!ENTITY updateRestart.panelUI.label2 "Reinicia per actualitzar el &brandShorterName;">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Restart to update &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">
 <!ENTITY pageAction.addToUrlbar.label "Afegeix a la barra d'adreces">
