@@ -53,9 +53,9 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "Nikdy nepřekládat tuto stránku">
-<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.neverForSite.accesskey "H">
 <!ENTITY translation.options.preferences.label  "Nastavení překladu">
-<!ENTITY translation.options.preferences.accesskey "t">
+<!ENTITY translation.options.preferences.accesskey "T">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
