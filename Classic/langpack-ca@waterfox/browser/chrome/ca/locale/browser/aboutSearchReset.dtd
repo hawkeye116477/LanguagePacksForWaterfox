@@ -7,17 +7,17 @@
 <!ENTITY searchreset.pageTitle      "Voleu restaurar els paràmetres de cerca?">
 
 <!ENTITY searchreset.pageInfo1      "És possible que els vostres paràmetres estiguin obsolets. El &brandShortName; pot ajudar-vos a restaurar els paràmetres de cerca per defecte.">
+
+
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
-
-
 <!ENTITY searchreset.selector.label "Això farà que el motor de cerca per defecte sigui">
+
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
-
 <!ENTITY searchreset.beforelink.pageInfo2 "Podeu canviar aquests paràmetres en qualsevol moment des de ">
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
