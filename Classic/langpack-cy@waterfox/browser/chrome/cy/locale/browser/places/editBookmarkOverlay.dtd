@@ -3,26 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editBookmarkOverlay.name.label                      "Enw:">
-<!ENTITY editBookmarkOverlay.name.accesskey                  "E">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Lleoliad:">
-<!ENTITY editBookmarkOverlay.location.accesskey              "L">
+<!ENTITY editBookmarkOverlay.location.accesskey              "F">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Lleoliad Llif:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "f">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Lleoliad Gwefan:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "L">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "A">
 <!ENTITY editBookmarkOverlay.folder.label                    "Ffolder:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Dangos pob ffolder nod tudalen">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Cuddio">
 <!ENTITY editBookmarkOverlay.tags.label                      "Tagiau:">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "G">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Gwahanu tagiau gydag atalnod">
 <!ENTITY editBookmarkOverlay.description.label               "Disgrifiad:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "D">
+<!ENTITY editBookmarkOverlay.description.accesskey           "P">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Allweddair:">
-<!ENTITY editBookmarkOverlay.keyword.accesskey               "A">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "B">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Dangos pob tag">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Llwytho'r nod tudalen i'r bar ochr">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "R">
 <!ENTITY editBookmarkOverlay.choose.label                    "Dewis…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Ffolder Newydd">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "C">
