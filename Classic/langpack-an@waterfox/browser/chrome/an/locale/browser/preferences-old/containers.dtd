@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addButton.label      "Anyader nuevo contenedor">
-<!ENTITY addButton.accesskey  "A">
+<!ENTITY addButton.accesskey  "d">
 <!ENTITY preferencesButton.label "Preferencias">
 <!ENTITY removeButton.label   "Borrar">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Tornar a Privacidat">
+<!ENTITY backLink.label       "« Tornar a Privacidat">
 
-<!ENTITY window.title         "Anyader Nuevo Contenedor">
+<!ENTITY window.title         "Anyader nuevo contenedor">
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "Nombre:">
@@ -18,9 +18,9 @@
 <!ENTITY icon.label           "Icono:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "Color:">
-<!ENTITY color.accesskey      "o">
-<!ENTITY windowClose.key      "w">
+<!ENTITY color.accesskey      "s">
+<!ENTITY windowClose.key      "f">
 
-<!ENTITY button.ok.label      "Feito">
-<!ENTITY button.ok.accesskey  "F">
+<!ENTITY button.ok.label      "Done">
+<!ENTITY button.ok.accesskey  "N">
 
