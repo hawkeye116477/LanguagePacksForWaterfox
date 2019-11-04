@@ -5,6 +5,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Indstillinger">
 <!ENTITY  prefWindow.title        "Indstillinger">
+<!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName;-indstillinger">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
@@ -14,7 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Generelt">
 <!ENTITY  paneTabs.title          "Faneblade">
-<!ENTITY  paneSearch.title        "Søgning">
+<!ENTITY  paneSearch.title        "Søgefelt">
 <!ENTITY  paneContent.title       "Indhold">
 <!ENTITY  paneApplications.title  "Programmer">
 <!ENTITY  panePrivacy.title       "Privatliv">
