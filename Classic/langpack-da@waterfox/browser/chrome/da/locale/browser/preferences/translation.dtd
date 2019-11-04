@@ -4,21 +4,21 @@
 
 <!ENTITY window.title                     "Undtagelser for oversættelse">
 <!ENTITY window.width                     "36em">
-<!ENTITY windowClose.key                  "w">
+<!ENTITY windowClose.key                  "V">
 
 <!ENTITY noTranslationForLanguages.label  "Der vil ikke blive tilbudt oversættelse for de følgende sprog:">
 <!ENTITY treehead.languageName.label      "Sprog">
 <!ENTITY removeLanguage.label             "Fjern sprog">
-<!ENTITY removeLanguage.accesskey         "F">
+<!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "Fjern alle sprog">
-<!ENTITY removeAllLanguages.accesskey     "a">
+<!ENTITY removeAllLanguages.accesskey     "s">
 
 <!ENTITY noTranslationForSites.label      "Oversættelse vil ikke blive tilbudt for de følgende websteder:">
-<!ENTITY treehead.siteName2.label          "Websteder">
+<!ENTITY treehead.siteName2.label         "Websteder">
 <!ENTITY removeSite.label                 "Fjern websted">
-<!ENTITY removeSite.accesskey             "j">
+<!ENTITY removeSite.accesskey             "I">
 <!ENTITY removeAllSites.label             "Fjern alle websteder">
-<!ENTITY removeAllSites.accesskey         "l">
+<!ENTITY removeAllSites.accesskey         "h">
 
 <!ENTITY button.close.label               "Luk">
-<!ENTITY button.close.accesskey           "u">
+<!ENTITY button.close.accesskey           "C">
