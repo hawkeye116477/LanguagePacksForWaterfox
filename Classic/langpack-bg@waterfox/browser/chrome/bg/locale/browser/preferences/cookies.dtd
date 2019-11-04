@@ -17,12 +17,12 @@
 <!ENTITY     props.container.label          "Контейнер:">
 
 <!ENTITY     window.title                   "Бисквитки">
-<!ENTITY     windowClose.key                "w">
+<!ENTITY     windowClose.key                "ф">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
+<!ENTITY     focusSearch2.key               "Р">
 
 <!ENTITY     searchFilter.label             "Търсене">
-<!ENTITY     searchFilter.accesskey         "Т">
+<!ENTITY     searchFilter.accesskey         "в">
 
 <!ENTITY     button.close.label             "Затваряне">
-<!ENTITY     button.close.accesskey         "З">
+<!ENTITY     button.close.accesskey         "C">
