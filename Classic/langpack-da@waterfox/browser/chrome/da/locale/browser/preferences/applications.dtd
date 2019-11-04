@@ -6,11 +6,12 @@
 <!ENTITY  applications.description "Vælg, hvordan &brandShortName; håndterer filer, du henter fra nettet, og de programmer, du bruger, når du browser.">
 
 <!ENTITY  typeColumn.label        "Indholdstype">
-<!ENTITY  typeColumn.accesskey    "I">
+<!ENTITY  typeColumn.accesskey    "T">
+
 <!ENTITY  actionColumn2.label     "Handling">
-<!ENTITY  actionColumn2.accesskey "H">
+<!ENTITY  actionColumn2.accesskey "O">
 
 <!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch2.key        "o">
 
 <!ENTITY  filter2.emptytext        "Søg efter filtyper eller programmer">
