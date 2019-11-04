@@ -7,74 +7,74 @@
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Redaktə">
-<!ENTITY organize.accesskey    "d">
+<!ENTITY organize.accesskey    "A">
 <!ENTITY organize.tooltip      "Əlfəcinləri idarə et">
 
-<!ENTITY file.close.label               "Bağla">
-<!ENTITY file.close.accesskey           "B">
-<!ENTITY cmd.close.key                  "w">
+<!ENTITY file.close.label               "Qapat">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "r">
 <!ENTITY views.label                    "Görünüş">
-<!ENTITY views.accesskey                "n">
+<!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Görünüşü dəyişdirin">
 <!ENTITY view.columns.label             "Sütunları göstər">
-<!ENTITY view.columns.accesskey         "S">
+<!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "Sırala">
-<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.sort.accesskey            "g">
 <!ENTITY view.unsorted.label            "Siniflənməmiş">
-<!ENTITY view.unsorted.accesskey        "f">
+<!ENTITY view.unsorted.accesskey        "g">
 <!ENTITY view.sortAscending.label       "A-dan Z-yə sırala">
-<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortAscending.accesskey   "H">
 <!ENTITY view.sortDescending.label      "Z-dən A-ya sırala">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "Əlfəcinləri HTML-dən idxal et…">
-<!ENTITY importBookmarksFromHTML.accesskey "i">
+<!ENTITY importBookmarksFromHTML.accesskey "S">
 <!ENTITY exportBookmarksToHTML.label       "Əlfəcinləri HTML olaraq ixrac et…">
-<!ENTITY exportBookmarksToHTML.accesskey   "i">
+<!ENTITY exportBookmarksToHTML.accesskey   "D">
 <!ENTITY importOtherBrowser.label          "Başqa səyyahdan məlumatları idxal et…">
-<!ENTITY importOtherBrowser.accesskey      "B">
+<!ENTITY importOtherBrowser.accesskey      "H">
 
 <!ENTITY cmd.backup.label               "Nüsxəsini çıxar…">
-<!ENTITY cmd.backup.accesskey           "N">
+<!ENTITY cmd.backup.accesskey           "Ə">
 <!ENTITY cmd.restore2.label             "Bərpa et">
-<!ENTITY cmd.restore2.accesskey         "e">
+<!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Fayl seç…">
-<!ENTITY cmd.restoreFromFile.accesskey  "s">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY cmd.deleteDomainData.label     "Bu saytı unut">
-<!ENTITY cmd.deleteDomainData.accesskey "u">
+<!ENTITY cmd.deleteDomainData.accesskey "T">
 
 <!ENTITY cmd.open.label                  "Aç">
 <!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.open_window.label           "Yeni Pəncərədə Aç">
-<!ENTITY cmd.open_window.accesskey       "Y">
+<!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_private_window.label     "Yeni Məxfi Pəncərədə Aç">
 <!ENTITY cmd.open_private_window.accesskey "M">
 <!ENTITY cmd.open_tab.label              "Yeni Vərəqdə Aç">
-<!ENTITY cmd.open_tab.accesskey          "Y">
-<!ENTITY cmd.open_all_in_tabs.label      "Hamısını Vərəqlərdə Aç">
+<!ENTITY cmd.open_tab.accesskey          "r">
+<!ENTITY cmd.open_all_in_tabs.label      "Hamısını Vərəqlərdə aç">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "A">
 
 <!ENTITY cmd.properties.label      "Xüsusiyyətlər">
-<!ENTITY cmd.properties.accesskey  "s">
+<!ENTITY cmd.properties.accesskey  "k">
 
 <!ENTITY cmd.sortby_name.label              "Ada görə sırala">
-<!ENTITY cmd.sortby_name.accesskey          "s">
-<!ENTITY cmd.context_sortby_name.accesskey  "k">
+<!ENTITY cmd.sortby_name.accesskey          "g">
+<!ENTITY cmd.context_sortby_name.accesskey  "y">
 
 <!ENTITY cmd.new_bookmark.label            "Yeni Əlfəcin…">
 <!ENTITY cmd.new_bookmark.accesskey        "Ə">
 <!ENTITY cmd.new_folder.label              "Yeni qovluq…">
-<!ENTITY cmd.new_folder.accesskey          "q">
-<!ENTITY cmd.context_new_folder.accesskey  "S">
+<!ENTITY cmd.new_folder.accesskey          "T">
+<!ENTITY cmd.context_new_folder.accesskey  "T">
 <!ENTITY cmd.new_separator.label           "Yeni mötərizə">
-<!ENTITY cmd.new_separator.accesskey       "Y">
+<!ENTITY cmd.new_separator.accesskey       "g">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Canlı Əlfəcini Yenilə">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "Y">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Köçür…">
-<!ENTITY cmd.moveBookmarks.accesskey              "K">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "Ad">
 <!ENTITY col.tags.label          "Etiketlər">
@@ -90,30 +90,30 @@
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "İdxal etmə və ehtiyatlama">
-<!ENTITY maintenance.accesskey  "y">
+<!ENTITY maintenance.accesskey  "S">
 <!ENTITY maintenance.tooltip    "Əlfəcinlərinizi idxal edin və yedəkləyin">
 
 <!ENTITY backButton.tooltip  "Geri get">
 
 <!ENTITY forwardButton.tooltip  "İrəli get">
 
-<!ENTITY detailsPane.more.label "Daha çox məlumat">
-<!ENTITY detailsPane.more.accesskey "a">
+<!ENTITY detailsPane.more.label "Ətraflı">
+<!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Daha az məlumat">
-<!ENTITY detailsPane.less.accesskey "a">
+<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Xüsusiyyətlərini görmək və dəyişmək üçün bir obyekt seçin">
 
 <!ENTITY view.label               "Görünüş">
-<!ENTITY view.accesskey           "G">
+<!ENTITY view.accesskey           "r">
 <!ENTITY byDate.label             "Tarix">
-<!ENTITY byDate.accesskey         "T">
+<!ENTITY byDate.accesskey         "D">
 <!ENTITY bySite.label             "Sayt">
-<!ENTITY bySite.accesskey         "S">
+<!ENTITY bySite.accesskey         "g">
 <!ENTITY byMostVisited.label      "Ən çox baxılanlar">
-<!ENTITY byMostVisited.accesskey  "Ə">
+<!ENTITY byMostVisited.accesskey  "V">
 <!ENTITY byLastVisited.label      "Son baxılanlar">
-<!ENTITY byLastVisited.accesskey  "S">
+<!ENTITY byLastVisited.accesskey  "L">
 <!ENTITY byDayAndSite.label       "Tarix və sayt">
-<!ENTITY byDayAndSite.accesskey   "T">
+<!ENTITY byDayAndSite.accesskey   "t">
 <!ENTITY col.parentfolder.label  "Parent Folder">
 <!ENTITY col.parentpath.label  "Parent Path">
