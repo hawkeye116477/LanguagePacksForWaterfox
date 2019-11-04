@@ -12,9 +12,9 @@
 <!ENTITY aboutWarningCheckbox.label "Amosar esti avisu la próxima vegada">
 
 <!ENTITY searchPrefs.label "Guetar:">
-<!ENTITY searchPrefs.accesskey "r">
-<!ENTITY focusSearch.key "r">
-<!ENTITY focusSearch2.key "f">
+<!ENTITY searchPrefs.accesskey "m">
+<!ENTITY focusSearch.key "m">
+<!ENTITY focusSearch2.key "c">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nome de preferencia">
@@ -31,20 +31,20 @@
 <!ENTITY copyPref.label "Copiar">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Copiar nome">
-<!ENTITY copyName.accesskey "N">
+<!ENTITY copyName.accesskey "n">
 <!ENTITY copyValue.label "Copiar valor">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Camudar">
 <!ENTITY modify.accesskey "m">
 <!ENTITY toggle.label "Alternar">
-<!ENTITY toggle.accesskey "t">
+<!ENTITY toggle.accesskey "i">
 <!ENTITY reset.label "Reafitar">
 <!ENTITY reset.accesskey "R">
-<!ENTITY new.label "Nuevu">
-<!ENTITY new.accesskey "u">
-<!ENTITY string.label "Cadena">
-<!ENTITY string.accesskey "C">
-<!ENTITY integer.label "Enteru">
-<!ENTITY integer.accesskey "E">
-<!ENTITY boolean.label "Lóxicu">
-<!ENTITY boolean.accesskey "L">
+<!ENTITY new.label "New">
+<!ENTITY new.accesskey "f">
+<!ENTITY string.label "String">
+<!ENTITY string.accesskey "U">
+<!ENTITY integer.label "Integer">
+<!ENTITY integer.accesskey "I">
+<!ENTITY boolean.label "Boolean">
+<!ENTITY boolean.accesskey "B">
