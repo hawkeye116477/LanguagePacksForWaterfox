@@ -6,4 +6,4 @@
 <!ENTITY window.style              "width: 36em; height: 18em;">
 <!ENTITY moveTo.label              "Titaq el pa:">
 <!ENTITY newFolderButton.label     "K'ak'a' yakwuj">
-<!ENTITY newFolderButton.accesskey "K">
+<!ENTITY newFolderButton.accesskey "N">
