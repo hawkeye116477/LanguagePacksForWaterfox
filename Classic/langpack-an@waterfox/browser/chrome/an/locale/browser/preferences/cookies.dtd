@@ -17,12 +17,12 @@
 <!ENTITY     props.container.label          "Contenedor:">
 
 <!ENTITY     window.title                   "Cookies">
-<!ENTITY     windowClose.key                "w">
+<!ENTITY     windowClose.key                "f">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
+<!ENTITY     focusSearch2.key               "d">
 
-<!ENTITY     searchFilter.label             "Mirar">
-<!ENTITY     searchFilter.accesskey         "M">
+<!ENTITY     searchFilter.label             "Search">
+<!ENTITY     searchFilter.accesskey         "v">
 
 <!ENTITY     button.close.label             "Zarrar">
-<!ENTITY     button.close.accesskey         "Z">
+<!ENTITY     button.close.accesskey         "C">
