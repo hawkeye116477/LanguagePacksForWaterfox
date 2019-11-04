@@ -15,15 +15,15 @@
 
 <!ENTITY  paneGeneral.title       "Cheneral">
 <!ENTITY  paneTabs.title          "Pestanyas">
-<!ENTITY  paneSearch.title        "Mirar">
+<!ENTITY  paneSearch.title        "Search">
 <!ENTITY  paneContent.title       "Conteniu">
 <!ENTITY  paneApplications.title  "Aplicacions">
 <!ENTITY  panePrivacy.title       "Privacidat">
 <!ENTITY  paneContainers.title    "Pestanyas contenederas">
 <!ENTITY  paneSecurity.title      "Seguranza">
 <!ENTITY  paneAdvanced.title      "Abanzau">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
 
 <!ENTITY  helpButton.label        "Aduya">
