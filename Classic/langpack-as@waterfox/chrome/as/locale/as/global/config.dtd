@@ -3,32 +3,32 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "ইয়াৰ বাবে আপোনাৰ ৱাৰেন্টি নোহোৱা হব পাৰে!">
 <!ENTITY aboutWarningText.label "এই উন্নত সংহতিসমূহ সলনি কৰাটো স্থিৰতা,সুৰক্ষা আৰু এই এপ্লিকেচনৰ কাৰ্য্যক্ষমতাৰ কাৰণে ক্ষতিকৰ হ'ব পাৰে। আপুনি যি কৰি আছে তাৰ বিষয়ে সুনিশ্চিত হৈ আগবাঢ়িব।">
-
+<!ENTITY aboutWarningButton2.label "I accept the risk!">
 <!ENTITY aboutWarningCheckbox.label "পিছৰ বাৰ এই সকিয়নি দেখুৱাব">
 
 <!ENTITY searchPrefs.label "সন্ধান কৰক:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
+<!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
-
 <!ENTITY prefColumn.label "পছন্দৰ নাম">
 <!ENTITY lockColumn.label "অৱস্থা">
 <!ENTITY typeColumn.label "ধৰণ">
 <!ENTITY valueColumn.label "মান">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "বাছিবলৈ টিপক"> 
 <!ENTITY columnChooser.tooltip "প্ৰদৰ্শনৰ বাবে স্তম্ভ নিৰ্বাচন কৰিবলৈ টিপক"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "কপি কৰক">
+<!ENTITY copyPref.label "Copy">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "নাম কপি কৰক">
 <!ENTITY copyName.accesskey "N">
@@ -38,17 +38,13 @@
 <!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "টগল কৰক">
 <!ENTITY toggle.accesskey "T">
-<!ENTITY reset.label "পুনৰ সংহতি কৰক">
+<!ENTITY reset.label "পুনৰ সংহতি">
 <!ENTITY reset.accesskey "R">
-<!ENTITY new.label "নতুন">
+<!ENTITY new.label "New">
 <!ENTITY new.accesskey "w">
-<!ENTITY string.label "স্ট্ৰিং">
+<!ENTITY string.label "String">
 <!ENTITY string.accesskey "S">
-<!ENTITY integer.label "পূৰ্ণ সংখ্যা">
+<!ENTITY integer.label "Integer">
 <!ENTITY integer.accesskey "I">
-<!ENTITY boolean.label "বুলিয়েন">
+<!ENTITY boolean.label "Boolean">
 <!ENTITY boolean.accesskey "B">
-
-<!ENTITY aboutWarningButton2.label "I accept the risk!">
-<!ENTITY focusSearch2.key "f">
-
