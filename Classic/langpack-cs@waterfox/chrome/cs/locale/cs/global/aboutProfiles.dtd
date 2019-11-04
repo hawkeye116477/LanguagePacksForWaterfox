@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "O profilech">
 <!ENTITY aboutProfiles.subtitle "Tato stránka vám pomůže spravovat vaše profily. Každý profil funguje jako zcela oddělený svět, obsahující oddělenou historii prohlížení, záložky, nastavení a doplňky.">
 <!ENTITY aboutProfiles.create "Vytvořit nový profil">
-<!ENTITY aboutProfiles.restart.title "Restartovat">
+<!ENTITY aboutProfiles.restart.title "Restart">
 <!ENTITY aboutProfiles.restart.inSafeMode "Restartovat se zakázanými doplňky…">
 <!ENTITY aboutProfiles.restart.normal "Restartovat obvyklým způsobem…">
