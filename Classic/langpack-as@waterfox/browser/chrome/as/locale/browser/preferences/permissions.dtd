@@ -3,37 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "ব্যতিক্ৰম">
+<!ENTITY window.width                 "45em">
 
-
+<!ENTITY treehead.sitename2.label     "Website">
 <!ENTITY treehead.status.label        "অৱস্থা">
-
-
-
-
+<!ENTITY removepermission2.label      "Remove Website">
+<!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.label  "Remove All Websites">
+<!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "ৱেব ছাইটৰ ঠিকনা:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "ৰোধ কৰক">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "অধিবেশনৰ বাবে অনুমতি দিয়ক">
+<!ENTITY session.label                "অধিবেশনৰ কাৰণে অনুমতি দিয়ক">
 <!ENTITY session.accesskey            "S">
 <!ENTITY allow.label                  "অনুমতি দিয়ক">
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-
-
-
-
-
-<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.cancel.label          "Cancel">
-<!ENTITY button.ok.accesskey          "S">
-
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Save Changes">
-<!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY removeallpermissions2.label  "Remove All Websites">
-<!ENTITY removepermission2.accesskey  "R">
-<!ENTITY removepermission2.label      "Remove Website">
-<!ENTITY treehead.sitename2.label     "Website">
-<!ENTITY window.width                 "45em">
+<!ENTITY button.ok.accesskey          "S">
 
