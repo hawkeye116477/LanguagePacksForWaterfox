@@ -5,10 +5,12 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Błąd wczytywania strony" >
+<!ENTITY loadError.label "Błąd wczytywania strony">
 <!ENTITY retry.label "Spróbuj ponownie">
 <!ENTITY returnToPreviousPage.label "Wróć do poprzedniej strony">
 <!ENTITY advanced.label "Zaawansowane">
+
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -30,6 +32,7 @@
 
 <!ENTITY captivePortal.title "Logowanie do sieci">
 <!ENTITY captivePortal.longDesc2 "<p>Ta sieć wymaga zalogowania, aby uzyskać dostęp do Internetu.</p>">
+
 <!ENTITY openPortalLoginPage.label2 "Zaloguj się do sieci">
 
 <!ENTITY malformedURI.title "Nieprawidłowy adres">
@@ -75,6 +78,9 @@
 <!ENTITY nssFailure2.longDesc2 "<ul><li>Żądana strona nie może zostać wyświetlona, ponieważ nie udało się potwierdzić autentyczności otrzymanych danych.</li><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY certerror.longpagetitle1 "Połączenie nie jest bezpieczne">
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 <!ENTITY certerror.introPara "Właściciel witryny <span class='hostname'/> niepoprawnie ją skonfigurował. Program &brandShortName; nie połączył się z nią, aby chronić użytkownika przed kradzieżą informacji.">
 
 <!ENTITY sharedLongDesc "<ul><li>Witryna może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.</li><li>Jeśli nie możesz otworzyć żadnej strony, sprawdź swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy program &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
@@ -85,6 +91,7 @@
 <!ENTITY corruptedContentErrorv2.title "Błąd: treść uszkodzona">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
+
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj wyjątek…">
 
 <!ENTITY errorReporting.automatic2 "Automatyczne zgłaszanie podobnych temu błędów (pomaga Mozilli identyfikować i blokować niebezpieczne strony)">
@@ -94,16 +101,23 @@
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Nie udało się nawiązać bezpiecznego połączenia">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Szczegóły: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 <!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; nie połączył się z <span id='wrongSystemTime_URL'/>, ponieważ zegar systemowy wydaje się wskazywać złą datę, co uniemożliwia bezpieczne połączenie.</p><p>Komputer ma ustawioną datę <span id='wrongSystemTime_systemDate'/>, gdy powinien mieć <span id='wrongSystemTime_actualDate'/>. Zmień ustawioną datę i czas na aktualne, aby rozwiązać ten problem.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nie połączył się z <span id='wrongSystemTimeWithoutReference_URL'/>, ponieważ zegar systemowy wydaje się wskazywać złą datę, co uniemożliwia bezpieczne połączenie.</p><p>Komputer ma ustawioną datę <span id='wrongSystemTimeWithoutReference_systemDate'/>. Zmień ustawioną datę i czas na aktualne, aby rozwiązać ten problem.</p>">
 
-<!ENTITY certerror.pagetitle1 "Niezabezpieczone połączenie">
+<!ENTITY certerror.pagetitle1  "Niezabezpieczone połączenie">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta strona określa poprzez HSTS (HTTP Strict Transport Security), że program &brandShortName; ma się z nią łączyć jedynie w sposób bezpieczny. W związku z tym, dodanie wyjątku dla tego certyfikatu jest niemożliwe.">
 <!ENTITY certerror.copyToClipboard.label "Kopiuj tekst do schowka">
 
-<!ENTITY inadequateSecurityError.title "Połączenie nie gwarantuje bezpieczeństwa">
+<!ENTITY inadequateSecurityError.title "Połączenie nie jest bezpieczne">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> używa przestarzałej i podatnej na ataki technologii bezpieczeństwa. Atakujący mógłby łatwo odszyfrować informacje, które miały być bezpieczne. Administrator strony musi naprawić serwer, zanim będzie można ją odwiedzić.</p><p>Kod błędu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY prefReset.longDesc "Może to być spowodowane zmienionymi ustawieniami przeglądarki dotyczącymi bezpieczeństwa sieci. Czy przywrócić domyślne ustawienia?">
