@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "El &brandShortName; està treballant fora de línia">
 <!ENTITY  offline.description             "Cal que el &brandShortName; es posi en línia per comprovar si hi ha actualitzacions disponibles dels vostres complements per fer-los compatibles amb aquesta versió.">
 <!ENTITY  offline.toggleOffline.label     "Posa en línia ara.">
-<!ENTITY  offline.toggleOffline.accesskey "P">
+<!ENTITY  offline.toggleOffline.accesskey "B">
 
 <!ENTITY  mismatch.win.title              "Complements incompatibles">
 <!ENTITY  mismatch.top.label              "Els següents complements no són compatibles amb la versió nova del &brandShortName; i s'han inhabilitat:">
@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "Seleccioneu els complements que voleu instal·lar:">
 <!ENTITY  found.disabledXPinstall.label   "No poden instal·lar-se aquestes actualitzacions perquè la instal·lació de programari està actualment inhabilitada. Podeu canviar aquest paràmetre a sota.">
 <!ENTITY  found.enableXPInstall.label     "Permet que els llocs web instal·lin programari">
-<!ENTITY  found.enableXPInstall.accesskey "P">
+<!ENTITY  found.enableXPInstall.accesskey "Q">
 
 <!ENTITY  installing.wizard.title         "S'estan instal·lant els complements compatibles">
 <!ENTITY  installing.top.label            "S'estan baixant i instal·lant les actualitzacions dels vostres complements…">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "S'han produït problemes en instal·lar les actualitzacions">
 <!ENTITY  installerrors.intro.label       "El &brandShortName; ha trobat problemes quan actualitzava alguns dels vostres complements.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Feu clic a Finalitza per continuar amb l'inici del &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Feu clic a Fet per continuar amb l'inici del &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permet que el &brandShortName; cerqui actualitzacions.">
