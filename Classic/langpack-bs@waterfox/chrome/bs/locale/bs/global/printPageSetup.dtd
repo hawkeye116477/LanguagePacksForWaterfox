@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "Postavke stranice">
 
@@ -12,16 +12,16 @@
 
 <!ENTITY orientation.label   "Orijentacija:">
 <!ENTITY portrait.label      "Uspravno">
-<!ENTITY portrait.accesskey  "p">
+<!ENTITY portrait.accesskey  "r">
 <!ENTITY landscape.label     "Položeno">
-<!ENTITY landscape.accesskey "l">
+<!ENTITY landscape.accesskey "K">
 
 <!ENTITY scale.label         "Razmjera:">
-<!ENTITY scale.accesskey     "R">
-<!ENTITY scalePercent        "&#037;">
+<!ENTITY scale.accesskey     "P">
+<!ENTITY scalePercent        "%">
 
 <!ENTITY shrinkToFit.label   "Skupi da stane širina stranice">
-<!ENTITY shrinkToFit.accesskey "S">
+<!ENTITY shrinkToFit.accesskey "P">
 
 <!ENTITY optionsGroup.label  "Opcije">
 
@@ -34,13 +34,13 @@
 <!ENTITY marginUnits.inches  "inča">
 <!ENTITY marginUnits.metric  "milimetara">
 <!ENTITY marginTop.label     "Gore:">
-<!ENTITY marginTop.accesskey "G">
+<!ENTITY marginTop.accesskey "I">
 <!ENTITY marginBottom.label  "Dolje:">
-<!ENTITY marginBottom.accesskey "D">
+<!ENTITY marginBottom.accesskey "b">
 <!ENTITY marginLeft.label    "Lijevo:">
-<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginLeft.accesskey "K">
 <!ENTITY marginRight.label   "Desno:">
-<!ENTITY marginRight.accesskey "D">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Zagljavlja &amp; Podnožja">
 
