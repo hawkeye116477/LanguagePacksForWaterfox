@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (translation.thisPageIsIn.label,
   -                     translation.translateThisPage.label):
   -  These 2 strings are used to construct a sentence that contains a dropdown
@@ -11,13 +12,13 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-
 <!ENTITY translation.thisPageIsIn.label         "Re ruxaq re' k'o pa">
 <!ENTITY translation.translateThisPage.label    "¿Titzalq'omïx re ruxaq re'?">
 <!ENTITY translation.translate.button           "Titzalq'omïx">
 <!ENTITY translation.notNow.button              "Wakami mani">
 
 <!ENTITY translation.translatingContent.label   "Titzalq'omïj rupam ruxaq k'amaya'l…">
+
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -33,7 +34,6 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-
 <!ENTITY translation.translatedFrom.label       "Tzalq'omin re ruxaq k'amaya'l re' pa">
 <!ENTITY translation.translatedTo.label         "richin">
 <!ENTITY translation.translatedToSuffix.label   "">
@@ -53,17 +53,18 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "Majub'ey titzalq'omïx re ruxaq k'amaya'l re'">
-<!ENTITY translation.options.neverForSite.accesskey "b">
+<!ENTITY translation.options.neverForSite.accesskey "i">
 <!ENTITY translation.options.preferences.label  "Taq rajowaxik tzalq'omanïk">
-<!ENTITY translation.options.preferences.accesskey "t">
+<!ENTITY translation.options.preferences.accesskey "E">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Tzalq'oman ruma">
 <!ENTITY translation.options.attribution.afterLogo "">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -71,5 +72,4 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
-
 <!ENTITY translation.options.attribution.yandexTranslate "Q'alajisan ruma Yandex.Translate">
