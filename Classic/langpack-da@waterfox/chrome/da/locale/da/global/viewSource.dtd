@@ -4,9 +4,9 @@
 
 <!-- extracted from content/viewSource.xul -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
@@ -15,18 +15,18 @@
 <!ENTITY fileMenu.label "Filer">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Gem side som…">
-<!ENTITY savePageCmd.accesskey "e">
-<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY savePageCmd.accesskey "O">
+<!ENTITY savePageCmd.commandkey "I">
 <!ENTITY pageSetupCmd.label "Sideopsætning…">
-<!ENTITY pageSetupCmd.accesskey "O">
+<!ENTITY pageSetupCmd.accesskey "S">
 <!ENTITY printPreviewCmd.label "Vis udskrift">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.accesskey "d">
 <!ENTITY printCmd.label "Udskriv…">
-<!ENTITY printCmd.accesskey "U">
-<!ENTITY printCmd.commandkey "P">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.commandkey "p">
 <!ENTITY closeCmd.label "Luk">
-<!ENTITY closeCmd.accesskey "L">
-<!ENTITY closeCmd.commandkey "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.commandkey "v">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -34,33 +34,33 @@ textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY textEnlarge.commandkey  "+">
+<!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
 <!ENTITY textEnlarge.commandkey3 "">
-<!ENTITY textReduce.commandkey   "-">
-<!ENTITY textReduce.commandkey2  "">
-<!ENTITY textReset.commandkey    "0">
-<!ENTITY textReset.commandkey2   "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Gå til linje…">
-<!ENTITY goToLineCmd.accesskey "å">
+<!ENTITY goToLineCmd.label "Go to Line…">
+<!ENTITY goToLineCmd.accesskey "e">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Vis">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "Genindlæs">
-<!ENTITY reloadCmd.accesskey "G">
-<!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Ombryd lange linjer">
-<!ENTITY menu_wrapLongLines.accesskey "O">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "D">
+<!ENTITY menu_wrapLongLines.title "Ombryd lange linjer"> 
+<!ENTITY menu_wrapLongLines.accesskey "v">
 <!ENTITY menu_highlightSyntax.label "Syntaksfremhævning">
-<!ENTITY menu_highlightSyntax.accesskey "S">
+<!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "Tekststørrelse">
-<!ENTITY menu_textSize.accesskey "e">
+<!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Forstør tekst">
-<!ENTITY menu_textEnlarge.accesskey "F">
+<!ENTITY menu_textEnlarge.accesskey "o">
 <!ENTITY menu_textReduce.label "Formindsk tekst">
-<!ENTITY menu_textReduce.accesskey "D">
+<!ENTITY menu_textReduce.accesskey "N">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
@@ -68,19 +68,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Find næste">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.accesskey "S">
+<!ENTITY findAgainCmd.commandkey "S">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+<!ENTITY findSelectionCmd.commandkey "s">
 
 <!ENTITY backCmd.label "Tilbage">
-<!ENTITY backCmd.accesskey "T">
+<!ENTITY backCmd.accesskey "B">
 <!ENTITY forwardCmd.label "Fremad">
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
 <!ENTITY copyLinkCmd.label "Kopier linkadresse">
-<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "Kopier mailadresse">
-<!ENTITY copyEmailCmd.accesskey "m">
+<!ENTITY copyEmailCmd.accesskey "R">
