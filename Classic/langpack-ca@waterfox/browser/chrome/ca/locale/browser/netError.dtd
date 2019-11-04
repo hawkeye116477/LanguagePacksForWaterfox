@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Torna-ho a provar">
 <!ENTITY returnToPreviousPage.label "Vés enrere">
 <!ENTITY advanced.label "Avançat">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "No s'ha pogut connectar">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informació avançada: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p>El &brandShortName; no s'ha connectat a <span id='wrongSystemTime_URL'/> perquè sembla que l'hora del rellotge de l'ordinador no és correcta, cosa que impedeix establir una connexió segura.</p> <p>Segons l'ordinador, la data i hora actuals són <span id='wrongSystemTime_systemDate'/>, però haurien de ser <span id='wrongSystemTime_actualDate'/>. Per solucionar aquest problema, canvieu els paràmetres de data i hora per tal que coincideixin amb la data i hora correctes.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>El &brandShortName; no s'ha connectat a <span id='wrongSystemTimeWithoutReference_URL'/> perquè sembla que l'hora del rellotge de l'ordinador no és correcta, cosa que impedeix establir una connexió segura.</p> <p>Segons l'ordinador, la data i hora actuals són <span id='wrongSystemTimeWithoutReference_systemDate'/>. Per solucionar aquest problema, canvieu els paràmetres de data i hora per tal que coincideixin amb la data i hora correctes.</p>">
 
