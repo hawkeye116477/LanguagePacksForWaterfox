@@ -7,10 +7,10 @@
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Dewis y peiriant chwilio ragosodedig i'w ddefnyddio yn y bar cyfeiriad a'r bar chwilio.">
 
 <!ENTITY provideSearchSuggestions.label        "Darparu awgrymiadau chwilio">
-<!ENTITY provideSearchSuggestions.accesskey    "c">
+<!ENTITY provideSearchSuggestions.accesskey    "R">
 
 <!ENTITY showURLBarSuggestions2.label           "Dangos awgrymiadau chwilio yng nghanlyniadau'r bar lleoliad">
-<!ENTITY showURLBarSuggestions2.accesskey       "D">
+<!ENTITY showURLBarSuggestions2.accesskey       "I">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu &brandShortName; i byth cofio hanes.">
 
 <!ENTITY oneClickSearchEngines.label           "Peiriannau Chwilio Un Clic">
@@ -21,9 +21,9 @@
 <!ENTITY engineKeywordColumn.label             "Allweddair">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Adfer Peiriannau Chwilio Rhagosodedig">
-<!ENTITY restoreDefaultSearchEngines.accesskey "A">
+<!ENTITY restoreDefaultSearchEngines.accesskey "F">
 
 <!ENTITY removeEngine.label                    "Tynnu">
-<!ENTITY removeEngine.accesskey                "T">
+<!ENTITY removeEngine.accesskey                "D">
 
 <!ENTITY findMoreSearchEngines.label           "Ychwanegu peiriannau chwilio eraill">
