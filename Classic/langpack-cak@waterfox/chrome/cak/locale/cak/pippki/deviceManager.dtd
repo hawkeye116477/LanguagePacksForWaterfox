@@ -9,28 +9,28 @@
 <!ENTITY devmgr.style2                          "width: 67em; height: 32em;">
 
 <!ENTITY devmgr.devlist.label                   "Taq rujuperaj jikomal chuqa' taq okisaxel">
-<!ENTITY devmgr.details.title                   "Kib'anikil">
+<!ENTITY devmgr.details.title                   "Taq rub'anikil">
 <!ENTITY devmgr.details.title2                  "Retal">
 
 <!ENTITY devmgr.button.login.label              "Titikirisäx molojri'ïl">
-<!ENTITY devmgr.button.login.accesskey          "t">
+<!ENTITY devmgr.button.login.accesskey          "o">
 <!ENTITY devmgr.button.logout.label             "Tik'isb'ëx molojri'ïl">
 <!ENTITY devmgr.button.logout.accesskey         "T">
 <!ENTITY devmgr.button.changepw.label           "Tijal ewan tzij">
-<!ENTITY devmgr.button.changepw.accesskey       "e">
+<!ENTITY devmgr.button.changepw.accesskey       "i">
 <!ENTITY devmgr.button.load.label               "Tisamajib'ëx">
-<!ENTITY devmgr.button.load.accesskey           "T">
+<!ENTITY devmgr.button.load.accesskey           "O">
 <!ENTITY devmgr.button.unload.label             "Tiqasäx">
 <!ENTITY devmgr.button.unload.accesskey         "T">
-<!ENTITY devmgr.button.fips.accesskey           "F">
+<!ENTITY devmgr.button.fips.accesskey           "c">
 
 <!ENTITY loaddevice.info                        "Tatz'ib'aj ri etamab'äl richin ri juperaj nawajo' natz'aqatisaj.">
 <!ENTITY loaddevice.modname                     "Rub'i' juperaj:">
-<!ENTITY loaddevice.modname.accesskey           "K">
+<!ENTITY loaddevice.modname.accesskey           "c">
 <!ENTITY loaddevice.modname.default             "K'ak'a' PKCS#11 Juperaj">
 <!ENTITY loaddevice.filename                    "Ruyakb'al juperaj:">
-<!ENTITY loaddevice.filename.accesskey          "a">
+<!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "Tinik'öx…">
-<!ENTITY loaddevice.browse.accesskey            "B">
+<!ENTITY loaddevice.browse.accesskey            "K">
 
 <!ENTITY loaddevice.title2                      "Tisamajib'ëx PKCS#11 Okisaxel Chajinel">
