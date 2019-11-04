@@ -2,47 +2,48 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY connectionsDialog.title "Ustawienia połączenia">
-<!ENTITY window.width2 "49em">
-<!ENTITY window.macWidth2 "45em">
+
+<!ENTITY  connectionsDialog.title       "Ustawienia połączenia">
+<!ENTITY  window.width2                 "49em">
+<!ENTITY  window.macWidth2              "45em">
 
 <!ENTITY  proxyTitle.label              "Konfiguracja serwerów proxy do połączenia z Internetem">
 <!ENTITY  noProxyTypeRadio.label        "Bez serwera proxy">
-<!ENTITY noProxyTypeRadio.accesskey "">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Używaj systemowych ustawień serwerów proxy">
-<!ENTITY systemTypeRadio.accesskey "">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Automatycznie wykrywaj ustawienia serwerów proxy dla tej sieci">
-<!ENTITY WPADTypeRadio.accesskey "">
+<!ENTITY  WPADTypeRadio.accesskey       "t">
 <!ENTITY  manualTypeRadio.label         "Ręczna konfiguracja serwerów proxy:">
-<!ENTITY manualTypeRadio.accesskey "">
+<!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "Adres URL automatycznej konfiguracji proxy:">
-<!ENTITY autoTypeRadio.accesskey "">
+<!ENTITY  autoTypeRadio.accesskey       "O">
 <!ENTITY  reload.label                  "Odśwież">
-<!ENTITY reload.accesskey "">
+<!ENTITY  reload.accesskey              "F">
 <!ENTITY  ftp.label                     "Serwer proxy FTP:">
-<!ENTITY ftp.accesskey "">
+<!ENTITY  ftp.accesskey                 "T">
 <!ENTITY  http.label                    "Serwer proxy HTTP:">
-<!ENTITY http.accesskey "">
+<!ENTITY  http.accesskey                "k">
 <!ENTITY  ssl.label                     "Serwer proxy SSL:">
-<!ENTITY ssl.accesskey "">
+<!ENTITY  ssl.accesskey                 "D">
 <!ENTITY  socks.label                   "Host SOCKS:">
-<!ENTITY socks.accesskey "">
+<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY socks4.accesskey "">
+<!ENTITY  socks4.accesskey              "S">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY socks5.accesskey "">
-<!ENTITY socksRemoteDNS.label2 "Proxy DNS podczas używania SOCKS v5">
-<!ENTITY socksRemoteDNS.accesskey "">
-<!ENTITY port.label "Port:">
-<!ENTITY HTTPport.accesskey "">
-<!ENTITY SSLport.accesskey "">
-<!ENTITY FTPport.accesskey "">
-<!ENTITY SOCKSport.accesskey "">
+<!ENTITY  socks5.accesskey              "g">
+<!ENTITY  socksRemoteDNS.label2         "Proxy DNS podczas używania SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "m">
+<!ENTITY  port.label                    "Port:">
+<!ENTITY  HTTPport.accesskey            "O">
+<!ENTITY  SSLport.accesskey             "r">
+<!ENTITY  FTPport.accesskey             "s">
+<!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Nie używaj proxy dla:">
-<!ENTITY noproxy.accesskey "">
+<!ENTITY  noproxy.accesskey             "r">
 <!ENTITY  noproxyExplain.label          "Przykład: .mozilla.org, .com.pl, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Użyj tego serwera proxy dla wszystkich protokołów">
-<!ENTITY shareproxy.accesskey "">
-<!ENTITY autologinproxy.label "Nie pytaj o uwierzytelnianie jeśli istnieje zachowane hasło">
-<!ENTITY autologinproxy.accesskey "">
-<!ENTITY autologinproxy.tooltip "Umożliwia automatyczne uwierzytelnianie na serwerach proxy, jeśli wcześniej zostały zachowane dane logowania. W przypadku nieudanego uwierzytelniania zostanie wyświetlone standardowe pytanie.">
+<!ENTITY  shareproxy.accesskey          "U">
+<!ENTITY  autologinproxy.label          "Nie pytaj o uwierzytelnianie jeśli istnieje zachowane hasło">
+<!ENTITY  autologinproxy.accesskey      "p">
+<!ENTITY  autologinproxy.tooltip        "Umożliwia automatyczne uwierzytelnianie na serwerach proxy, jeśli wcześniej zostały zachowane dane logowania. W przypadku nieudanego uwierzytelniania zostanie wyświetlone standardowe pytanie.">
