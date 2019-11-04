@@ -9,27 +9,27 @@
 <!ENTITY undoCmd.accesskey         "P">
 <!ENTITY redoCmd.label             "Ponovi">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "P">
+<!ENTITY redoCmd.accesskey         "s">
 <!ENTITY cutCmd.label              "Isjeci">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "I">
+<!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Kopiraj">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "K">
+<!ENTITY copyCmd.accesskey         "Z">
 <!ENTITY pasteCmd.label            "Zalijepi">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Obriši">
-<!ENTITY deleteCmd.accesskey       "O">
+<!ENTITY deleteCmd.accesskey       "Z">
 <!ENTITY selectAllCmd.label        "Označi sve">
-<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.key          "O">
 <!ENTITY selectAllCmd.accesskey    "a">
-<!ENTITY findCmd.label             "Traži">
+<!ENTITY findCmd.label             "Find">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "T">
+<!ENTITY findCmd.accesskey         "F">
 <!ENTITY findAgainCmd.label        "Pronađi ponovo">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "P">
+<!ENTITY findAgainCmd.accesskey    "a">
 <!ENTITY findPreviousCmd.label     "Pronađi prethodno">
 <!ENTITY findPreviousCmd.accesskey "P">
