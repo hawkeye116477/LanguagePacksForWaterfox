@@ -10,4 +10,4 @@
 <!ENTITY copyCmd.label    "Copia">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "Q">
