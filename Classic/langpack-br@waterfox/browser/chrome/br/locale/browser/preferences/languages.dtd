@@ -7,12 +7,12 @@
 <!ENTITY languages.customize.Header                     "Yezhoù">
 <!ENTITY languages.customize.description                "A-wechoù e vez kinniget pajennadoù Web e meur a yezh. Diuzit e peseurt yezh e vo skrammet ar pajennadoù web-mañ, dre urzh ho tibab :">
 <!ENTITY languages.customize.moveUp.label               "Davit ar c'hrec'h">
-<!ENTITY languages.customize.moveUp.accesskey           "D">
+<!ENTITY languages.customize.moveUp.accesskey           "z">
 <!ENTITY languages.customize.moveDown.label             "Davit an traoñ">
-<!ENTITY languages.customize.moveDown.accesskey         "a">
-<!ENTITY languages.customize.deleteButton.label         "Dilemel">
-<!ENTITY languages.customize.deleteButton.accesskey     "i">
+<!ENTITY languages.customize.moveDown.accesskey         "n">
+<!ENTITY languages.customize.deleteButton.label         "Lemel kuit">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
 <!ENTITY languages.customize.selectLanguage.label       "Diuzañ ur yezh da ouzhpennañ…">
 <!ENTITY languages.customize.addButton.label            "Ouzhpennañ">
-<!ENTITY languages.customize.addButton.accesskey        "O">
+<!ENTITY languages.customize.addButton.accesskey        "A">
 
