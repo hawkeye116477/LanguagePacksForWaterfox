@@ -5,6 +5,7 @@
 <!ENTITY tabCrashed.closeTab "أغلق هذا اللسان">
 <!ENTITY tabCrashed.restoreTab "استعِد هذا اللسان">
 <!ENTITY tabCrashed.restoreAll "استعِد كل الألسنة التي تحطمت">
+
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
      are using it to communicate in an informal way that it is both
@@ -12,7 +13,6 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
 <!ENTITY tabCrashed.header2 "انهار اللسان!">
 <!ENTITY tabCrashed.offerHelp "يمكننا مساعدتك.">
 <!ENTITY tabCrashed.single.offerHelpMessage "اختر &tabCrashed.restoreTab; لإعادة تحميل محتوى الصفحة.">
