@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "This site uses a plugin that may slow &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Calca equí p'activar la estensión.">
 <!ENTITY clickToActivatePlugin                               "Activar estensión.">
-<!ENTITY checkForUpdates                                     "Comprobar anovamientos…">
+<!ENTITY checkForUpdates                                     "Guetar anovamientos…">
 <!ENTITY blockedPlugin.label                                 "Bloquióse esta estensicón pa la to proteición.">
 <!ENTITY hidePluginBtn.label                                 "Anubrir estensión">
 <!ENTITY managePlugins                                       "Xestionar estensiones…">
@@ -29,6 +30,4 @@
 <!ENTITY plugin.file                                         "Ficheru">
 <!ENTITY plugin.mimeTypes                                    "Tribes MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Habilitar mou protexíu d'Adobe Flash">
-
 <!ENTITY plugin.enableBlocklists.label                       "Block dangerous and intrusive Flash content">
-<!ENTITY pluginActivationWarning                             "This site uses a plugin that may slow &brandShortName;.">
