@@ -13,7 +13,7 @@
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Обновяване">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Опресняване">
-<!ENTITY aboutUrlClassifier.cacheClearBtn               "Изчистване">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Clear">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Име на таблица">
 <!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Брой на отрицателни записи в кеша">
 <!ENTITY aboutUrlClassifier.cachePCacheEntries          "Брой на положителни записи в кеша">
