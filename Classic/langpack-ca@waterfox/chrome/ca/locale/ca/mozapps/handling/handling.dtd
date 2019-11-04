@@ -6,5 +6,5 @@
 <!ENTITY window.emHeight "31em">
 <!ENTITY ChooseOtherApp.description "Trieu una altra aplicació">
 <!ENTITY ChooseApp.label "Trieu…">
-<!ENTITY ChooseApp.accessKey "T">
+<!ENTITY ChooseApp.accessKey "C">
 <!ENTITY accept "Obre l'enllaç">
