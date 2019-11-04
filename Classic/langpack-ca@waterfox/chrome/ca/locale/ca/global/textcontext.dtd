@@ -5,33 +5,33 @@
 <!ENTITY cutCmd.label "Retalla">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copia">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Enganxa">
-<!ENTITY pasteCmd.accesskey "x">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Desfés">
-<!ENTITY undoCmd.accesskey "D">
+<!ENTITY undoCmd.accesskey "g">
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Suprimeix">
-<!ENTITY deleteCmd.accesskey "u">
+<!ENTITY deleteCmd.accesskey "f">
 
 <!ENTITY spellAddToDictionary.label "Afegeix al diccionari">
-<!ENTITY spellAddToDictionary.accesskey "d">
+<!ENTITY spellAddToDictionary.accesskey "V">
 <!ENTITY spellUndoAddToDictionary.label "Desfés l'acció d'afegir al diccionari">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Verifica l'ortografia">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.accesskey "a">
 <!ENTITY spellNoSuggestions.label "(No hi ha cap suggeriment)">
 <!ENTITY spellDictionaries.label "Llengües">
-<!ENTITY spellDictionaries.accesskey "L">
+<!ENTITY spellDictionaries.accesskey "l">
 
-<!ENTITY searchTextBox.clear.label "Esborra">
+<!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "Emplena l'inici de sessió">
-<!ENTITY fillLoginMenu.accesskey      "m">
+<!ENTITY fillLoginMenu.accesskey      "p">
 <!ENTITY fillPasswordMenu.label       "Emplena la contrasenya">
-<!ENTITY fillPasswordMenu.accesskey   "m">
+<!ENTITY fillPasswordMenu.accesskey   "p">
 <!ENTITY fillUsernameMenu.label       "Emplena el nom d'usuari">
-<!ENTITY fillUsernameMenu.accesskey   "m">
+<!ENTITY fillUsernameMenu.accesskey   "p">
 <!ENTITY noLoginSuggestions.label     "(No hi ha cap suggeriment d'inici de sessió)">
 <!ENTITY viewSavedLogins.label        "Mostra els inicis de sessió desats">
