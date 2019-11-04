@@ -3,26 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addButton.label      "Ouzhpennañ un endalc'her nevez">
-<!ENTITY addButton.accesskey  "O">
+<!ENTITY addButton.accesskey  "A">
 <!ENTITY preferencesButton.label "Gwellvezioù">
 <!ENTITY removeButton.label   "Lemel kuit">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "« Go Back">
 
 <!ENTITY window.title         "Ouzhpennañ un endalc'her nevez">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Anv:">
-<!ENTITY name.accesskey       "A">
+<!ENTITY name.label           "Anv :">
+<!ENTITY name.accesskey       "N">
 <!ENTITY name.placeholder     "Enankit anv un endalc'her">
 <!ENTITY icon.label           "Arlun:">
-<!ENTITY icon.accesskey       "r">
+<!ENTITY icon.accesskey       "t">
 <!ENTITY color.label          "Liv:">
-<!ENTITY color.accesskey      "L">
-<!ENTITY windowClose.key      "w">
+<!ENTITY color.accesskey      "G">
+<!ENTITY windowClose.key      "d">
 
-<!ENTITY button.ok.label      "Mat eo">
-<!ENTITY button.ok.accesskey  "M">
-
-
-<!ENTITY backLink2.label      "&#171; Go Back">
+<!ENTITY button.ok.label      "Graet">
+<!ENTITY button.ok.accesskey  "n">
 
