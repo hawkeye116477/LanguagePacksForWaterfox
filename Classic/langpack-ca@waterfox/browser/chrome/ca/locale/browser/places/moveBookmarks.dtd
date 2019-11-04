@@ -6,4 +6,4 @@
 <!ENTITY window.style              "width: 46em; height: 28em;">
 <!ENTITY moveTo.label              "Moveu-ho a:">
 <!ENTITY newFolderButton.label     "Crea una carpeta">
-<!ENTITY newFolderButton.accesskey "n">
+<!ENTITY newFolderButton.accesskey "N">
