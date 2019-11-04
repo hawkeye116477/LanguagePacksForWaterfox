@@ -9,5 +9,5 @@
 <!ENTITY later           "আপুনি সদায় আপোনাৰ চিন্তা যিকোনো সময়তে এড-অনসমূহ ব্যৱস্থাপকলে গৈ সলনি কৰিব পাৰিব।">
 <!ENTITY continue        "আগবাঢ়ক">
 <!ENTITY restartMessage  "এই এড-অনৰ ইনস্টল সম্পূৰ্ণ কৰিবলে আপুনি &brandShortName; পুনৰাম্ভ কৰিব লাগিব।">
-<!ENTITY restartButton   "&brandShortName; পুনৰাম্ভ কৰক">
-<!ENTITY cancelButton    "বাতিল কৰক">
+<!ENTITY restartButton   "&brandShortName; পুনাৰম্ভ কৰক">
+<!ENTITY cancelButton    "Cancel">
