@@ -17,12 +17,12 @@
 <!ENTITY     props.container.label          "Endalc'her:">
 
 <!ENTITY     window.title                   "Toupinoù">
-<!ENTITY     windowClose.key                "w">
+<!ENTITY     windowClose.key                "d">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
+<!ENTITY     focusSearch2.key               "z">
 
 <!ENTITY     searchFilter.label             "Klask">
-<!ENTITY     searchFilter.accesskey         "K">
+<!ENTITY     searchFilter.accesskey         "m">
 
 <!ENTITY     button.close.label             "Serriñ">
-<!ENTITY     button.close.accesskey         "S">
+<!ENTITY     button.close.accesskey         "C">
