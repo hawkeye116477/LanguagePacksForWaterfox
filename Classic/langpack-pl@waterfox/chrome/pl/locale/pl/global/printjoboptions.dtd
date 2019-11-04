@@ -2,26 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY printJobOptions.title "Właściwości drukarki" >
+<!-- extracted from printjoboptions.xul -->
 
-<!ENTITY paperInput.label "Rozmiar papieru:" >
-<!ENTITY paperInput.accesskey "R">
+<!ENTITY printJobOptions.title "Właściwości drukarki">
+
+<!ENTITY paperInput.label "Rozmiar papieru:">
+<!ENTITY paperInput.accesskey "O">
 
 <!ENTITY jobTitleInput.label "Nazwa zadania:">
-<!ENTITY jobTitleInput.accesskey "N">
+<!ENTITY jobTitleInput.accesskey "J">
 
-<!ENTITY colorGroup.label "Druk:" >
-<!ENTITY grayRadio.label "w odcieniach szarości" >
-<!ENTITY grayRadio.accesskey "o">
-<!ENTITY colorRadio.label "w kolorze" >
-<!ENTITY colorRadio.accesskey "k">
+<!ENTITY colorGroup.label "Kolor:">
+<!ENTITY grayRadio.label "w odcieniach szarości">
+<!ENTITY grayRadio.accesskey "P">
+<!ENTITY colorRadio.label "w kolorze">
+<!ENTITY colorRadio.accesskey "C">
 
-<!ENTITY edgeMarginInput.label "Odstęp pomiędzy brzegiem kartki a marginesem (w calach)" >
-<!ENTITY topInput.label "Górny:" >
-<!ENTITY topInput.accesskey "G">
-<!ENTITY bottomInput.label "Dolny:" >
-<!ENTITY bottomInput.accesskey "D">
-<!ENTITY leftInput.label "Lewy:" >
-<!ENTITY leftInput.accesskey "L">
-<!ENTITY rightInput.label "Prawy:" >
-<!ENTITY rightInput.accesskey "P">
+<!ENTITY edgeMarginInput.label "Odstęp pomiędzy brzegiem kartki a marginesem (w calach)">
+<!ENTITY topInput.label "Górny:">
+<!ENTITY topInput.accesskey "n">
+<!ENTITY bottomInput.label "Dolny:">
+<!ENTITY bottomInput.accesskey "z">
+<!ENTITY leftInput.label "Lewy:">
+<!ENTITY leftInput.accesskey "D">
+<!ENTITY rightInput.label "Prawy:">
+<!ENTITY rightInput.accesskey "R">
