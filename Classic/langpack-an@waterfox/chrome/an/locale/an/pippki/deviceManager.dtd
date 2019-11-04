@@ -10,19 +10,19 @@
 
 <!ENTITY devmgr.devlist.label                   "Modulos y dispositivos de seguranza">
 <!ENTITY devmgr.details.title                   "Detalles">
-<!ENTITY devmgr.details.title2                  "Valor">
+<!ENTITY devmgr.details.title2                  "Valura">
 
 <!ENTITY devmgr.button.login.label              "Encetar una sesión">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Rematar a sesión">
-<!ENTITY devmgr.button.logout.accesskey         "R">
+<!ENTITY devmgr.button.logout.accesskey         "U">
 <!ENTITY devmgr.button.changepw.label           "Cambiar a clau">
-<!ENTITY devmgr.button.changepw.accesskey       "C">
+<!ENTITY devmgr.button.changepw.accesskey       "p">
 <!ENTITY devmgr.button.load.label               "Cargar">
-<!ENTITY devmgr.button.load.accesskey           "C">
+<!ENTITY devmgr.button.load.accesskey           "L">
 <!ENTITY devmgr.button.unload.label             "Descargar">
 <!ENTITY devmgr.button.unload.accesskey         "D">
-<!ENTITY devmgr.button.fips.accesskey           "F">
+<!ENTITY devmgr.button.fips.accesskey           "p">
 
 <!ENTITY loaddevice.info                        "Introduzca la información d'o modulo que quiere adhibir.">
 <!ENTITY loaddevice.modname                     "Nombre d'o modulo:">
@@ -30,7 +30,7 @@
 <!ENTITY loaddevice.modname.default             "Nuevo modulo PKCS#11">
 <!ENTITY loaddevice.filename                    "Nombre de fichero d'o modulo:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Navegar…">
-<!ENTITY loaddevice.browse.accesskey            "N">
+<!ENTITY loaddevice.browse                      "Examinar…">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title2                      "Cargar lo Driver de Dispositivo PKCS#11">
