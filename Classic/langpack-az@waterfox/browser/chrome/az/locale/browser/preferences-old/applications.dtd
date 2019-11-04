@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "Məzmun formatı">
-<!ENTITY  typeColumn.accesskey    "t">
+<!ENTITY  typeColumn.accesskey    "P">
 
 <!ENTITY  actionColumn2.label     "Əməliyyat">
-<!ENTITY  actionColumn2.accesskey "Ə">
+<!ENTITY  actionColumn2.accesskey "H">
 
 <!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch2.key        "l">
 
 <!ENTITY  filter.emptytext        "Axtar">
