@@ -7,7 +7,7 @@
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Trieu el motor de cerca per defecte que s'utilitzarà en la barra d'adreces i de cerca.">
 
 <!ENTITY provideSearchSuggestions.label        "Mostra suggeriments de cerca">
-<!ENTITY provideSearchSuggestions.accesskey    "s">
+<!ENTITY provideSearchSuggestions.accesskey    "C">
 
 <!ENTITY showURLBarSuggestions2.label           "Mostra suggeriments de cerca als resultats de la barra d'adreces">
 <!ENTITY showURLBarSuggestions2.accesskey       "l">
@@ -21,9 +21,9 @@
 <!ENTITY engineKeywordColumn.label             "Paraula clau">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Restaura els motors de cerca per defecte">
-<!ENTITY restoreDefaultSearchEngines.accesskey "R">
+<!ENTITY restoreDefaultSearchEngines.accesskey "f">
 
 <!ENTITY removeEngine.label                    "Elimina">
-<!ENTITY removeEngine.accesskey                "E">
+<!ENTITY removeEngine.accesskey                "i">
 
 <!ENTITY findMoreSearchEngines.label           "Afegiu més motors de cerca">
