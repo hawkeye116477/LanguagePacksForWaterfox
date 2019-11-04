@@ -7,7 +7,7 @@
 <!ENTITY refreshProfile.dialog.description2  "Bu işin edəcəyi:">
 <!ENTITY refreshProfile.dialog.items.label1  "Əlavə və özəlləşdirmələrinizi siləcək">
 <!ENTITY refreshProfile.dialog.items.label2  "Səyyahınızın tənzimləmələrini sıfırlayacaq">
-<!ENTITY refreshProfile.dialog.button.label  "&brandShortName; səyyahınızı yeniləyəcək">
+<!ENTITY refreshProfile.dialog.button.label  "&brandShortName; Səyyahını Yenilə">
 
 <!ENTITY refreshProfile.title                "&brandShortName; səyyahınızı sürətləndirin">
 <!ENTITY refreshProfile.button.label         "&brandShortName; səyyahını yenilə…">
