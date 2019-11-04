@@ -7,11 +7,11 @@
 <!ENTITY  actionQuestion.label        "Šta bi &brandShortName; trebao učiniti sa ovim fajlom?">
 
 <!ENTITY  openWith.label              "Otvori pomoću">
-<!ENTITY  openWith.accesskey          "O">
+<!ENTITY  openWith.accesskey          "o">
 <!ENTITY  other.label                 "Ostalo…">
 
 <!ENTITY  saveFile.label              "Spasi fajl">
-<!ENTITY  saveFile.accesskey          "S">
+<!ENTITY  saveFile.accesskey          "s">
 
 <!ENTITY  rememberChoice.label        "Od sada ovo čini automatski za fajlove poput ovog.">
 <!ENTITY  rememberChoice.accesskey    "a">
@@ -19,8 +19,8 @@
 <!ENTITY  whichIs.label              "što je:">
 
 <!ENTITY  chooseHandlerMac.label      "Izaberi…">
-<!ENTITY  chooseHandlerMac.accesskey  "I">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Pregled…">
-<!ENTITY  chooseHandler.accesskey     "P">
+<!ENTITY  chooseHandler.accesskey     "b">
 
 <!ENTITY  unknownPromptText.label     "Da li želite spasiti ovaj fajl?">
