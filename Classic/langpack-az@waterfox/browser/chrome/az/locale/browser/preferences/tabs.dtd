@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab son istifadə etmə sırasına görə vərəqlər arasında dönsün">
-<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "P">
 
 <!ENTITY newWindowsAsTabs.label       "Yeni pəncərələri yeni vərəq olaraq aç">
-<!ENTITY newWindowsAsTabs.accesskey   "i">
+<!ENTITY newWindowsAsTabs.accesskey   "r">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Birdən çox vərəq bağlarkən xəbərdar olun">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Çoxlu vərəq açmağın &brandShortName; səyyahını yavaşlada biləcəyindən xəbərdar olun">
-<!ENTITY warnOnOpenManyTabs.accesskey   "d">
+<!ENTITY warnOnOpenManyTabs.accesskey   "r">
 
 <!ENTITY switchLinksToNewTabs.label        "Keçidi yeni vərəqdə açdığımda, dərhal o vərəqə keç">
-<!ENTITY switchLinksToNewTabs.accesskey    "h">
+<!ENTITY switchLinksToNewTabs.accesskey    "a">
 
 <!ENTITY showTabsInTaskbar.label          "Vərəqlərə ön baxışı Windows tapşırıq panelində göstər">
-<!ENTITY showTabsInTaskbar.accesskey      "e">
+<!ENTITY showTabsInTaskbar.accesskey      "l">
 <!ENTITY tabsGroup.label          "Vərəqlər">
