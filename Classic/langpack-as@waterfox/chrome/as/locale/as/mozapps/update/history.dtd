@@ -12,5 +12,5 @@
 <!ENTITY  name.header               "আপডেইটৰ নাম">
 <!ENTITY  date.header               "ইনস্টলৰ তাৰিখ">
 <!ENTITY  type.header               "ধৰণ">
-<!ENTITY  state.header              "অবস্থা">
+<!ENTITY  state.header              "State">
 
