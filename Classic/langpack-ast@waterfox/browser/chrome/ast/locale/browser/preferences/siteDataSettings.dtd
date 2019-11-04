@@ -6,15 +6,14 @@
 <!ENTITY     hostCol.label                 "Sitiu">
 <!ENTITY     statusCol.label               "Estáu">
 <!ENTITY     usageCol.label                "Almacenamientu">
-
-<!ENTITY     cancel.accesskey              "C">
-<!ENTITY     cancel.label                  "Cancel">
-<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     searchTextboxPlaceHolder             "Search websites">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "U">
 <!ENTITY     removeSelected.label          "Remove Selected">
+<!ENTITY     removeSelected.accesskey      "m">
+<!ENTITY     save.label                    "Guardar cambeos">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Encaboxar">
+<!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Removing Site Data">
 <!ENTITY     removingSelected.description  "Removing site data will also remove related cookies and offline web content. This may log you out of websites. Are you sure you want to make the changes?">
-<!ENTITY     save.accesskey                "a">
-<!ENTITY     save.label                    "Save Changes">
-<!ENTITY     searchTextboxPlaceHolder             "Search websites">
-<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     siteTree.label                "The following website cookies will be removed:">
