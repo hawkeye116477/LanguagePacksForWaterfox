@@ -15,7 +15,7 @@
 <!ENTITY translation.thisPageIsIn.label         "Esta páxina ta en ">
 <!ENTITY translation.translateThisPage.label    "¿Traducir esta páxina?">
 <!ENTITY translation.translate.button           "Traducir">
-<!ENTITY translation.notNow.button              "Agora non">
+<!ENTITY translation.notNow.button              "Not Now">
 
 <!ENTITY translation.translatingContent.label   "Traduciendo conteníu de la páxina…">
 
@@ -42,7 +42,7 @@
 <!ENTITY translation.showTranslation.button     "Amosar traducción">
 
 <!ENTITY translation.errorTranslating.label     "Hebo un fallu al traducir esta páxina.">
-<!ENTITY translation.tryAgain.button            "Reintentar">
+<!ENTITY translation.tryAgain.button            "Tentar de nueves">
 
 <!ENTITY translation.serviceUnavailable.label   "Nun hai traducción disponible nesti momentu. Inténtalo dempués.">
 
@@ -53,9 +53,9 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "Nun traducir nunca esti sitiu">
-<!ENTITY translation.options.neverForSite.accesskey "N">
+<!ENTITY translation.options.neverForSite.accesskey "S">
 <!ENTITY translation.options.preferences.label  "Preferencies de traducción">
-<!ENTITY translation.options.preferences.accesskey "P">
+<!ENTITY translation.options.preferences.accesskey "i">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
