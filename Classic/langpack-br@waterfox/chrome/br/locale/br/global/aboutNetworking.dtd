@@ -23,14 +23,14 @@
 <!ENTITY aboutNetworking.sent                  "Kaset">
 <!ENTITY aboutNetworking.received              "Degemeret">
 <!ENTITY aboutNetworking.family                "Familh">
-<!ENTITY aboutNetworking.addresses             "Chomlec'hioù">
+<!ENTITY aboutNetworking.addresses             "Addresses">
 <!ENTITY aboutNetworking.expires               "Deiziad termen (eilennoù)">
 <!ENTITY aboutNetworking.messagesSent          "Kemennadennoù kaset">
 <!ENTITY aboutNetworking.messagesReceived      "Kemennadennoù degemeret">
 <!ENTITY aboutNetworking.bytesSent             "Eizhbitoù kaset">
 <!ENTITY aboutNetworking.bytesReceived         "Eizhbitoù degemeret">
-<!ENTITY aboutNetworking.logging               "Kerzhlevr">
-<!ENTITY aboutNetworking.logTutorial           "Lennit <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Kerzhlevriñ HTTP</a> evit ditouroú war an doare da arverañ an ostilh-mañ.">
+<!ENTITY aboutNetworking.logging               "Logging">
+<!ENTITY aboutNetworking.logTutorial           "Lennit {[=-a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'-=]}Kerzhlevriñ HTTP</a> evit ditouroú war an doare da arverañ an ostilh-mañ.">
 <!ENTITY aboutNetworking.currentLogFile        "Restr kerzhlevr bremanel:">
 <!ENTITY aboutNetworking.currentLogModules     "Molladoù kerzhlevr bremanel:">
 <!ENTITY aboutNetworking.setLogFile            "Lakaat ar restr kerzhlevr">
@@ -45,26 +45,14 @@
 <!ENTITY aboutNetworking.rcwnStatus            "Satud RCWN">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Konter berzhioù ar c'hrubuilh">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Konter berzhioù web">
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY aboutNetworking.rcwnAvgLong           "Long Average">
-<!ENTITY aboutNetworking.rcwnAvgShort          "Short Average">
-<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cache not slow count">
-<!ENTITY aboutNetworking.rcwnCacheSlow         "Cache slow count">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Total network request count">
 <!ENTITY aboutNetworking.rcwnOperation         "Cache Operation">
-<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entry Open">
-<!ENTITY aboutNetworking.rcwnPerfOpen          "Open">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Digeriñ">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Read">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Write">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entry Open">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Short Average">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Long Average">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Long Standard Deviation">
-<!ENTITY aboutNetworking.totalNetworkRequests  "Total network request count">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Cache slow count">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cache not slow count">
