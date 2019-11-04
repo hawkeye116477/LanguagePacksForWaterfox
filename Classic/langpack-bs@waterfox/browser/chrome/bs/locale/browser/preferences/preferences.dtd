@@ -15,21 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Rezultati pretrage">
 <!ENTITY  paneGeneral.title             "Opće">
-<!ENTITY  paneSearch.title              "Traži">
+<!ENTITY  paneSearch.title              "Search">
 <!ENTITY  paneFilesApplications.title   "Fajlovi &amp; aplikacije">
 <!ENTITY  panePrivacySecurity.title     "Privatnost &amp; sigurnost">
 <!ENTITY  paneContainers.title          "Container tabovi">
 <!ENTITY  paneUpdates.title             "Nadogradnje">
 
-
-
-<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
-
-<!ENTITY  paneSync1.title          "Waterfox račun">
-
-
+<!ENTITY  languageAndAppearance.label   "Language and Appearance">
+<!ENTITY  filesAndApplications.label    "Files and Applications">
 <!ENTITY  browserPrivacy.label          "Browser Privacy">
 
-<!ENTITY  filesAndApplications.label    "Files and Applications">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Waterfox račun">
+
 <!ENTITY  helpButton2.label        "&brandShortName; Support">
-<!ENTITY  languageAndAppearance.label   "Language and Appearance">
