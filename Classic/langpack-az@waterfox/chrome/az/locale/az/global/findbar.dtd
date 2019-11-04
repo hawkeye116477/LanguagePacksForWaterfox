@@ -12,8 +12,8 @@
 <!ENTITY highlightAll.accesskey "l">
 <!ENTITY highlightAll.tooltiptext "Mətndə uyğun gələn bütün ifadələri işıqlandır">
 <!ENTITY caseSensitive.label "Reqistri nəzərə al">
-<!ENTITY caseSensitive.accesskey "n">
+<!ENTITY caseSensitive.accesskey "Q">
 <!ENTITY caseSensitive.tooltiptext "Böyük/kiçik hərf həssaslığı ilə axtar">
 <!ENTITY entireWord.label "Tam Sözlər">
-<!ENTITY entireWord.accesskey "T">
+<!ENTITY entireWord.accesskey "r">
 <!ENTITY entireWord.tooltiptext "Sadəcə tam sözləri axtar">
