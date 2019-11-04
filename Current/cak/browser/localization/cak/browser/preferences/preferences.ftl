@@ -889,3 +889,43 @@ loadImages-checkbox =
 
 enableJavaScript-checkbox =
     .label = Enable JavaScript
+
+sendRefererHeaderopt0 =
+    .label = Never send the referrer header
+
+sendRefererHeaderopt1 =
+    .label = Send the referrer header only when clicking on links and similar elements
+
+sendRefererHeaderopt2 =
+    .label = Send the referrer header on all requests (Default)
+
+webrtcp2preference =
+    .label = Enable WebRTC peer connection
+
+new-tab-thumbnail =
+    .label = Disable thumbnail capturing on new tab page
+
+statusBar-header = Status Bar
+
+show-status-bar =
+    .label = Show Status Bar
+
+show-status-overlay =
+    .label = Show Status Info Overlay
+
+hide-status-bar =
+    .label = Hide Status Bar
+
+show-btn-range =
+    .label = Use buttons in range control
+
+tab-bar-position = Tab Bar Position
+
+tab-top-above-ab =
+    .label = Top above address bar
+
+tab-top-under-ab =
+    .label = Top under address bar
+
+tab-bottom =
+    .label = Bottom

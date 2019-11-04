@@ -914,3 +914,43 @@ loadImages-checkbox =
 
 enableJavaScript-checkbox =
     .label = Włącz obsługę JavaScript
+
+sendRefererHeaderopt0 =
+    .label = Nigdy nie będzie wysyłał nagłówka odsyłającego
+
+sendRefererHeaderopt1 =
+    .label = Będzie wysyłał nagłówek odsyłający, jedynie podczas klikania na linki i podobne elementy
+
+sendRefererHeaderopt2 =
+    .label = Będzie wysyłał nagłówek odsyłający w przypadku wszystkich żądań (Domyślnie)
+
+webrtcp2preference =
+    .label = Włącz połączenie WebRTC P2P
+
+new-tab-thumbnail =
+    .label = Wyłącz przechwytywanie miniatur na stronie nowej karty
+
+statusBar-header = Pasek stanu
+
+show-status-bar =
+    .label = Wyświetlaj pasek stanu
+
+show-status-overlay =
+    .label = Wyświetlaj nakładkę z informacjami o stanie
+
+hide-status-bar =
+    .label = Nigdy nie wyświetlaj stanu
+
+show-btn-range =
+    .label = Używaj przycisków w kontrolce zakresu
+
+tab-bar-position = Położenie paska kart
+
+tab-top-above-ab =
+    .label = Na górze nad paskiem adresu
+
+tab-top-under-ab =
+    .label = Na górze pod paskiem adresu
+
+tab-bottom =
+    .label = Na dole
