@@ -8,9 +8,9 @@
 
 <!-- An example (from Waterfox):
 
-<!ENTITY securityOverride.linkText "Or you can add an exception…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
+<!ENTITY securityOverride.linkText "Tikirel chuqa' natz'aqatisaj jun man relik ta…">
+<!ENTITY securityOverride.getMeOutOfHereButton "¡Kinel el wawe!">
+<!ENTITY securityOverride.exceptionButtonLabel "Titz'aqatisäx jun man relik ta…">
 
 <!ENTITY securityOverride.warningContent "
 <p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
