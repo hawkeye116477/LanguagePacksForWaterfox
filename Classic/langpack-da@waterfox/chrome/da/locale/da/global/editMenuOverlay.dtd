@@ -3,33 +3,33 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "Rediger">
-<!ENTITY editMenu.accesskey        "R">
+<!ENTITY editMenu.accesskey        "s">
 <!ENTITY undoCmd.label             "Fortryd">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "F">
-<!ENTITY redoCmd.label             "Gentag">
+<!ENTITY undoCmd.accesskey         "S">
+<!ENTITY redoCmd.label             "Gendan">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "G">
+<!ENTITY redoCmd.accesskey         "D">
 <!ENTITY cutCmd.label              "Klip">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "K">
+<!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Kopier">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "o">
+<!ENTITY copyCmd.accesskey         "u">
 <!ENTITY pasteCmd.label            "Indsæt">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "æ">
+<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Slet">
-<!ENTITY deleteCmd.accesskey       "S">
+<!ENTITY deleteCmd.accesskey       "k">
 <!ENTITY selectAllCmd.label        "Marker alt">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "M">
+<!ENTITY selectAllCmd.key          "O">
+<!ENTITY selectAllCmd.accesskey    "d">
 <!ENTITY findCmd.label             "Find">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "n">
+<!ENTITY findCmd.accesskey         "F">
 <!ENTITY findAgainCmd.label        "Find næste">
-<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key          "e">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "d">
+<!ENTITY findAgainCmd.accesskey    "S">
 <!ENTITY findPreviousCmd.label     "Find forrige">
-<!ENTITY findPreviousCmd.accesskey "o">
+<!ENTITY findPreviousCmd.accesskey "d">
