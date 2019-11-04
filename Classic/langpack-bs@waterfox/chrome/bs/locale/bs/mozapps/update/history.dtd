@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  history.title             "Historijat nadogradnji">
+<!ENTITY  history.title             "Historija nadogradnji">
 <!ENTITY  history.intro             "Sljedeći updatei su instalirani:">
 <!ENTITY  closebutton.label         "Zatvori">
                                      
@@ -12,5 +12,5 @@
 <!ENTITY  name.header               "Ime updatea">
 <!ENTITY  date.header               "Datum instalacije">
 <!ENTITY  type.header               "Tip">
-<!ENTITY  state.header              "Stanje">
+<!ENTITY  state.header              "State">
 
