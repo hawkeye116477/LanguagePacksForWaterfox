@@ -4,21 +4,21 @@
 
 <!ENTITY  trackingProtectionHeader.label       "Používat ochranu proti sledování">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
-<!ENTITY  trackingProtectionAlways.accesskey   "V">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Pouze v anonymních oknech">
-<!ENTITY  trackingProtectionPrivate.accesskey  "o">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Nikdy">
-<!ENTITY  trackingProtectionNever.accesskey    "d">
-<!ENTITY  trackingProtectionLearnMore.label    "Zjistit více">
+<!ENTITY  trackingProtectionNever.accesskey    "v">
+<!ENTITY  trackingProtectionLearnMore.label    "Learn more">
 <!ENTITY  trackingProtectionExceptions.label   "Výjimky…">
-<!ENTITY  trackingProtectionExceptions.accesskey "j">
+<!ENTITY  trackingProtectionExceptions.accesskey "k">
 
 <!ENTITY tracking.label                 "Sledování">
 <!ENTITY trackingProtectionPBM5.label         "Používat ochranu proti sledování v anonymním okně">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "Zjistit více">
+<!ENTITY trackingProtectionPBM5.accesskey     "h">
+<!ENTITY trackingProtectionPBMLearnMore.label "Learn more">
 <!ENTITY changeBlockList.label          "Změnit seznam blokací">
-<!ENTITY changeBlockList.accesskey      "m">
+<!ENTITY changeBlockList.accesskey      "C">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
@@ -31,41 +31,41 @@
 <!ENTITY  locationBar.label             "Adresní řádek">
 
 <!ENTITY  locbar.suggest.label          "Při použití adresního řádku našeptávat:">
-<!ENTITY  locbar.history.label          "Historii">
-<!ENTITY  locbar.history.accesskey      "i">
+<!ENTITY  locbar.history.label          "Historie">
+<!ENTITY  locbar.history.accesskey      "v">
 <!ENTITY  locbar.bookmarks.label        "Záložky">
-<!ENTITY  locbar.bookmarks.accesskey    "Z">
+<!ENTITY  locbar.bookmarks.accesskey    "l">
 <!ENTITY  locbar.openpage.label         "Otevřené panely">
-<!ENTITY  locbar.openpage.accesskey     "e">
+<!ENTITY  locbar.openpage.accesskey     "s">
 <!ENTITY  locbar.searches.label         "Související vyhledávání od výchozího vyhledávacího modulu">
 <!ENTITY  locbar.searches.accesskey     "v">
 
 <!ENTITY  suggestionSettings.label      "Změnit předvolby našeptávání vyhledávače…">
-<!ENTITY  suggestionSettings.accesskey  "y">
+<!ENTITY  suggestionSettings.accesskey  "e">
 
 <!ENTITY  acceptCookies2.label          "Povolit serverům nastavovat cookies">
-<!ENTITY  acceptCookies2.accesskey      "c">
+<!ENTITY  acceptCookies2.accesskey      "O">
 
 <!ENTITY  acceptThirdParty.pre.label      "Povolit cookies třetích stran:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "a">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "Vždy">
 <!ENTITY  acceptThirdParty.never.label    "Nikdy">
 <!ENTITY  acceptThirdParty.visited.label  "Pouze navštívené">
 
 <!ENTITY  keepUntil.label               "Ponechat do:">
-<!ENTITY  keepUntil.accesskey           "d">
+<!ENTITY  keepUntil.accesskey           "V">
 
 <!ENTITY  expire.label                  "konce doby platnosti">
 <!ENTITY  close.label                   "ukončení aplikace &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Výjimky…">
-<!ENTITY  cookieExceptions.accesskey    "k">
+<!ENTITY  cookieExceptions.accesskey    "a">
 
 <!ENTITY  showCookies.label             "Správce cookies…">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.accesskey         "d">
 
 <!ENTITY  historyHeader.pre.label          "Nastavení historie:">
-<!ENTITY  historyHeader.pre.accesskey      "N">
+<!ENTITY  historyHeader.pre.accesskey      "b">
 <!ENTITY  historyHeader.remember.label     "Pamatovat si historii">
 <!ENTITY  historyHeader.dontremember.label "Nikdy si nepamatovat historii">
 <!ENTITY  historyHeader.custom.label       "Použít pro historii vlastní nastavení">
@@ -91,26 +91,26 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Vždy použít režim anonymního prohlížení">
-<!ENTITY  privateBrowsingPermanent2.accesskey "r">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Pamatovat si historii stránek a stahování">
-<!ENTITY  rememberHistory2.accesskey  "h">
+<!ENTITY  rememberHistory2.accesskey  "a">
 
 <!ENTITY  rememberSearchForm.label       "Pamatovat si historii hledání a formulářů">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Při ukončení aplikace &brandShortName; vymazat historii">
-<!ENTITY  clearOnClose.accesskey         "u">
+<!ENTITY  clearOnClose.accesskey         "S">
 
 <!ENTITY  clearOnCloseSettings.label     "Nastavení…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "Kontejnery">
-<!ENTITY  browserContainersLearnMore.label      "Zjistit více">
+<!ENTITY  browserContainersHeader.label         "Kontejnerové panely">
+<!ENTITY  browserContainersLearnMore.label      "Learn more">
 <!ENTITY  browserContainersEnabled.label        "Povolit kontejnerové panely">
-<!ENTITY  browserContainersEnabled.accesskey    "y">
+<!ENTITY  browserContainersEnabled.accesskey    "v">
 <!ENTITY  browserContainersSettings.label        "Nastavení…">
-<!ENTITY  browserContainersSettings.accesskey    "í">
+<!ENTITY  browserContainersSettings.accesskey    "n">
 
 <!-- Geo Location Via Checkbox Tweak -->
 <!ENTITY  geographicalLocation.label            "Geographical Location">
