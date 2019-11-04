@@ -15,14 +15,14 @@
 <!ENTITY devmgr.button.login.label              "Inicia la sessió">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Finalitza la sessió">
-<!ENTITY devmgr.button.logout.accesskey         "z">
+<!ENTITY devmgr.button.logout.accesskey         "O">
 <!ENTITY devmgr.button.changepw.label           "Canvia la contrasenya">
-<!ENTITY devmgr.button.changepw.accesskey       "y">
+<!ENTITY devmgr.button.changepw.accesskey       "p">
 <!ENTITY devmgr.button.load.label               "Carrega">
-<!ENTITY devmgr.button.load.accesskey           "g">
+<!ENTITY devmgr.button.load.accesskey           "S">
 <!ENTITY devmgr.button.unload.label             "Descarrega">
 <!ENTITY devmgr.button.unload.accesskey         "D">
-<!ENTITY devmgr.button.fips.accesskey           "F">
+<!ENTITY devmgr.button.fips.accesskey           "p">
 
 <!ENTITY loaddevice.info                        "Introduïu la informació del mòdul que voleu afegir.">
 <!ENTITY loaddevice.modname                     "Nom del mòdul:">
@@ -31,6 +31,6 @@
 <!ENTITY loaddevice.filename                    "Nom de fitxer del mòdul:">
 <!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "Navega…">
-<!ENTITY loaddevice.browse.accesskey            "N">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title2                      "Carrega el controlador de dispositiu PKCS#11">
