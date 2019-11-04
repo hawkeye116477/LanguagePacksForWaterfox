@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
-<!ENTITY downloads.title                  "Filhentning">
+<!ENTITY downloads.title                  "Filhentninger">
 
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
@@ -19,9 +19,11 @@
 
      For example, in English, a long string would be:
 
-     59 minutes, 59 seconds remaining - 1022 of 1023 KB
+     59m 59s left - 1022 of 1023 KB (120.5 KB/sec)
 
-     That's 50 characters, so we set the width at 50ch.
+     Since Downloads Panel is redesigned to show the detail string including
+     the hovering case for an item or an action button.
+     Bug 1328519 is for discussing the detail rule of `downloadDetails.width`.
      -->
 <!ENTITY downloadDetails.width            "50ch">
 
@@ -30,20 +32,20 @@
      which is displayed at the bottom of the Downloads Panel if the
      number of downloads exceeds the limit that the panel can display.
 
-     A good rule of thumb here is to look at the otherDownloads string
+     A good rule of thumb here is to look at the otherDownloads3 string
      in downloads.properties, and make a reasonable estimate of its
-     maximum length. For Danish, this seems like a reasonable limit:
+     maximum length. For English, this seems like a reasonable limit:
 
-     + 999 andre aktive filhentninger
-     that's 32 characters, so we, for reasons long forgotten, set the minimum width to 38ch.
+     999 files downloading
+
+     that's 21 characters, so we set the minimum width to 21ch.
      -->
-
-<!ENTITY downloadsSummary.minWidth2        "38ch">
+<!ENTITY downloadsSummary.minWidth2       "38ch">
 
 <!ENTITY cmd.pause.label                  "Pause">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.accesskey              "p">
 <!ENTITY cmd.resume.label                 "Genoptag">
-<!ENTITY cmd.resume.accesskey             "G">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Annuller">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
@@ -51,25 +53,25 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                   "Åbn hentningsmappe">
-<!ENTITY cmd.show.accesskey               "h">
+<!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Vis i Finder">
-<!ENTITY cmd.showMac.accesskey            "V">
+<!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Prøv igen">
 <!ENTITY cmd.goToDownloadPage.label       "Gå til siden, filen blev hentet fra">
-<!ENTITY cmd.goToDownloadPage.accesskey   "t">
+<!ENTITY cmd.goToDownloadPage.accesskey   "e">
 <!ENTITY cmd.copyDownloadLink.label       "Kopier linkadresse">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "Fjern fra historik">
-<!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.copyDownloadLink.accesskey   "K">
-<!ENTITY cmd.clearList2.label              "Ryd liste">
-<!ENTITY cmd.clearList2.accesskey          "R">
+<!ENTITY cmd.removeFromHistory.accesskey  "s">
+<!ENTITY cmd.clearList2.label             "Ryd liste">
+<!ENTITY cmd.clearList2.accesskey         "d">
 <!ENTITY cmd.clearDownloads.label         "Ryd filhentninger">
-<!ENTITY cmd.clearDownloads.accesskey     "f">
+<!ENTITY cmd.clearDownloads.accesskey     "N">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "Tillad filhentning">
-<!ENTITY cmd.unblock2.accesskey           "T">
+<!ENTITY cmd.unblock2.accesskey           "R">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -130,9 +132,13 @@
      the panel at all.
      -->
 <!ENTITY downloadsHistory.label           "Vis alle filhentninger">
-<!ENTITY downloadsHistory.accesskey       "V">
+<!ENTITY downloadsHistory.accesskey       "I">
 
-<!ENTITY openDownloadsFolder.label       "Åbn mappen med filhentninger">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Åbn mappen med filhentninger">
 
 <!ENTITY clearDownloadsButton.label       "Ryd filhentninger">
 <!ENTITY clearDownloadsButton.tooltip     "Fjerner afsluttede, afbrudte og mislykkedes filhentninger">
