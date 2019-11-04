@@ -5,42 +5,42 @@
 <!ENTITY  permissions.label           "Oprávnění">
 
 <!ENTITY  blockPopups.label           "Blokovat vyskakovací okna">
-<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  blockPopups.accesskey       "z">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Zjistit více">
+<!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
 <!ENTITY  notificationsPolicyDesc4.label       "Vyberte, které servery vám mohou posílat oznámení">
-<!ENTITY  notificationsPolicyButton.accesskey  "y">
+<!ENTITY  notificationsPolicyButton.accesskey  "S">
 <!ENTITY  notificationsPolicyButton.label      "Vybrat…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nerušit mě">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Dokud aplikaci &brandShortName; nerestartujete, žádná oznámení se nezobrazí">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "v">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Dokud nerestartujete aplikaci &brandShortName;, žádná oznámení se nezobrazí">
 
 <!ENTITY  popupExceptions.label       "Výjimky…">
-<!ENTITY  popupExceptions.accesskey   "k">
+<!ENTITY  popupExceptions.accesskey   "a">
 
 <!ENTITY  fontsAndColors.label        "Písma a barvy">
 
 <!ENTITY  defaultFont2.label          "Výchozí písmo">
-<!ENTITY  defaultFont2.accesskey      "p">
+<!ENTITY  defaultFont2.accesskey      "N">
 <!ENTITY  defaultSize2.label          "Velikost">
-<!ENTITY  defaultSize2.accesskey      "V">
+<!ENTITY  defaultSize2.accesskey      "d">
 
 <!ENTITY  advancedFonts.label         "Rozšířené…">
-<!ENTITY  advancedFonts.accesskey     "o">
+<!ENTITY  advancedFonts.accesskey     "O">
 
 <!ENTITY  colors.label                "Barvy…">
-<!ENTITY  colors.accesskey            "y">
+<!ENTITY  colors.accesskey            "C">
 
 
 <!ENTITY language2.label              "Jazyk">
 <!ENTITY chooseLanguage.label         "Vyberte jazyky pro zobrazování webových stránek">
-<!ENTITY chooseButton.label           "Vybrat jazyky…">
-<!ENTITY chooseButton.accesskey       "j">
+<!ENTITY chooseButton.label           "Vybrat…">
+<!ENTITY chooseButton.accesskey       "P">
 
 <!ENTITY translateWebPages.label      "Překládat webové stránky">
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Výjimky…">
-<!ENTITY translateExceptions.accesskey "V">
+<!ENTITY translateExceptions.accesskey "k">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -55,5 +55,5 @@
 <!ENTITY  drmContent2.label              "Obsah chráněný pomocí Digital Rights Management (DRM)">
 
 <!ENTITY  playDRMContent2.label          "Přehrávat obsah chráněný pomocí DRM">
-<!ENTITY  playDRMContent2.accesskey      "P">
-<!ENTITY  playDRMContent.learnMore.label "Zjistit více">
+<!ENTITY  playDRMContent2.accesskey      "a">
+<!ENTITY  playDRMContent.learnMore.label "Learn more">
