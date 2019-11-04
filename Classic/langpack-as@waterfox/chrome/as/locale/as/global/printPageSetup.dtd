@@ -1,14 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "পৃষ্ঠা সংস্থাপন">
 
 <!ENTITY basic.tab           "ফৰমেট &amp; বিকল্পসমূহ">
 
-<!ENTITY formatGroup.label   "ফৰমেট">
+<!ENTITY formatGroup.label   "Format">
 
 <!ENTITY orientation.label   "দিশনিৰ্ণয়:">
 <!ENTITY portrait.label      "পট্ৰেইট">
@@ -18,7 +18,7 @@
 
 <!ENTITY scale.label         "স্কেইল:">
 <!ENTITY scale.accesskey     "S">
-<!ENTITY scalePercent        "&#037;">
+<!ENTITY scalePercent        "%">
 
 <!ENTITY shrinkToFit.label   "পৃষ্ঠাৰ প্ৰস্থত খাপ খুৱাবলৈ সৰু কৰক">
 <!ENTITY shrinkToFit.accesskey "W">
