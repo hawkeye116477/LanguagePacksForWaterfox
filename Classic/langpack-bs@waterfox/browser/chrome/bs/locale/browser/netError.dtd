@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Pokušaj ponovo">
 <!ENTITY returnToPreviousPage.label "Idi nazad">
 <!ENTITY advanced.label "Napredno">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Neuspješno povezivanje">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Napredna info: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; se nije povezao na <span id='wrongSystemTime_URL'/> jer sat vašeg računara pokazuje pogrešno vrijeme i to spriječava sigurno povezivanje.</p> <p>Vaš računar je podešen na <span id='wrongSystemTime_systemDate'/>, a trebao bi biti podešen na <span id='wrongSystemTime_actualDate'/>. Da riješite problem, podesite tačan datum i vrijeme vašeg računara.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; se nije povezao na <span id='wrongSystemTimeWithoutReference_URL'/> jer sat vašeg računara pokazuje pogrešno vrijeme i to spriječava sigurno povezivanje.</p> <p>Vaš računar je podešen na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Da riješite problem, podesite tačan datum i vrijeme vašeg računara.</p>">
 
