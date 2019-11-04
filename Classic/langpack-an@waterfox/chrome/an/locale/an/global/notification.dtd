@@ -6,7 +6,7 @@
 
 <!ENTITY checkForUpdates "Mirar actualizacions…">
 
-<!ENTITY learnMore "Saber-ne mas…">
+<!ENTITY learnMore "Saber-ne &amp;mas…">
 
 <!ENTITY defaultButton.label "OK!">
-<!ENTITY defaultButton.accesskey "O">
+<!ENTITY defaultButton.accesskey "U">
