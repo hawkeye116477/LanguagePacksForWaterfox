@@ -2,34 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "تحرير">
-<!ENTITY editMenu.accesskey        "ح">
+<!ENTITY editMenu.label            "حرّر">
+<!ENTITY editMenu.accesskey        "ق">
 <!ENTITY undoCmd.label             "تراجع">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "ر">
+<!ENTITY undoCmd.accesskey         "ع">
 <!ENTITY redoCmd.label             "أعِد">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "ع">
+<!ENTITY redoCmd.accesskey         "ش">
 <!ENTITY cutCmd.label              "قصّ">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "ق">
+<!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "انسخ">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "ن">
+<!ENTITY copyCmd.accesskey         "غ">
 <!ENTITY pasteCmd.label            "ألصق">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "ل">
+<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "احذف">
-<!ENTITY deleteCmd.accesskey       "ذ">
+<!ENTITY deleteCmd.accesskey       "ن">
 <!ENTITY selectAllCmd.label        "اختر الكل">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "ك">
-<!ENTITY findCmd.label             "ابحث">
-<!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "ب">
+<!ENTITY selectAllCmd.key          "ع">
+<!ENTITY selectAllCmd.accesskey    "ڤ">
+<!ENTITY findCmd.label             "Find">
+<!ENTITY findCmd.key               "ش">
+<!ENTITY findCmd.accesskey         "ش">
 <!ENTITY findAgainCmd.label        "ابحث مجددًا">
-<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key          "ح">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "ب">
+<!ENTITY findAgainCmd.accesskey    "ص">
 <!ENTITY findPreviousCmd.label     "ابحث عن السابق">
-<!ENTITY findPreviousCmd.accesskey "س">
+<!ENTITY findPreviousCmd.accesskey "ط">
