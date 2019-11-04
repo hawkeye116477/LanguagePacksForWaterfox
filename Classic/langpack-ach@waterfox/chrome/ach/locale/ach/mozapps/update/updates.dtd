@@ -30,7 +30,7 @@
 
 <!ENTITY  viewDetails.tooltip             "Nen matut ikom ngec manyen man">
 
-<!ENTITY  details.link                    "Lok yore kiyore">
+<!ENTITY  details.link                    "Lok matut">
 
 <!ENTITY  error.title                     "Ngec manyen Pe olare">
 
@@ -51,6 +51,6 @@
 <!ENTITY  finishedBackground.more         "Ngec manyen biketo ikare mabino teke &brandShortName; ocake. I romo cako &brandShortName; odoco kombedi, onyo mede ki tic kadong i cako odoco lacen.">
 <!ENTITY  finishedBackground.moreElevated "Ngec manyen man mito twero pa laloc. Ki biketo ngec manyen ne lacen ka &brandShortName; ocake. Itwero nwoyo cako &brandShortName; kombedi, mede ki tic kadong i cako lacen, onyo kwero ngec manyen man.">
 
-<!ENTITY  update.details.label            "Matut">
+<!ENTITY  update.details.label            "Lok matut">
 <!ENTITY  update.installedOn.label        "Kiketo iwi:">
 <!ENTITY  update.status.label             "Kite:">
