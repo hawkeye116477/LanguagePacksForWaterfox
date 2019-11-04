@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate            "Du befinder dig ikke i et privat vindue.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Åbn et privat vindue">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Du befinder dig ikke i et privat vindue.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Åbn et privat vindue">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Privat browsing">
@@ -24,7 +24,7 @@
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "sikrer ikke din anonymitet">
 <!ENTITY aboutPrivateBrowsing.note.after                 " på internettet. Din arbejdsgiver eller internetudbyder kan stadig finde ud af, hvilke sider du besøger.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Læs mere om ">
-<!ENTITY aboutPrivateBrowsing.learnMore3.title           "privat browsing">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Privat browsing">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Beskyttelse mod sporing">
