@@ -6,12 +6,12 @@
 <!ENTITY  applications.description "Изберете как &brandShortName; да управлява изтеглените файлове или приложенията, които използвате докато разглеждате.">
 
 <!ENTITY  typeColumn.label        "Вид съдържание">
-<!ENTITY  typeColumn.accesskey    "В">
+<!ENTITY  typeColumn.accesskey    "И">
 
 <!ENTITY  actionColumn2.label     "Действие">
-<!ENTITY  actionColumn2.accesskey "Д">
+<!ENTITY  actionColumn2.accesskey "О">
 
 <!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch2.key        "Р">
 
 <!ENTITY  filter2.emptytext        "Търсене на видове файлове и приложения">
