@@ -22,12 +22,12 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "Pan fydda i'n gadael &brandShortName;, dylai glirio popeth yn awtomatig:">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Cyfnod i'w glirio: ">
-<!ENTITY clearTimeDuration.accesskey      "C">
+<!ENTITY clearTimeDuration.accesskey      "G">
 <!ENTITY clearTimeDuration.lastHour       "Awr Diwethaf">
 <!ENTITY clearTimeDuration.last2Hours     "Dwy Awr Diwethaf">
 <!ENTITY clearTimeDuration.last4Hours     "Pedair Awr Diwethaf">
@@ -36,32 +36,32 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Manylion">
-<!ENTITY detailsProgressiveDisclosure.accesskey "M">
+<!ENTITY detailsProgressiveDisclosure.accesskey "A">
 
 <!ENTITY historySection.label         "Hanes">
 <!ENTITY dataSection.label            "Data">
 
 <!ENTITY itemHistoryAndDownloads.label     "Hanes Pori a Llwytho i Lawr">
-<!ENTITY itemHistoryAndDownloads.accesskey "H">
+<!ENTITY itemHistoryAndDownloads.accesskey "N">
 <!ENTITY itemFormSearchHistory.label       "Hanes Ffurflenni a Chwilio">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemFormSearchHistory.accesskey   "S">
 <!ENTITY itemCookies.label                 "Cwcis">
-<!ENTITY itemCookies.accesskey             "w">
+<!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Storfa">
-<!ENTITY itemCache.accesskey               "S">
+<!ENTITY itemCache.accesskey               "n">
 <!ENTITY itemOfflineApps.label             "Data Gwefan All-lein">
-<!ENTITY itemOfflineApps.accesskey         "D">
+<!ENTITY itemOfflineApps.accesskey         "F">
 <!ENTITY itemActiveLogins.label            "Mewngofnodion Gweithredol">
-<!ENTITY itemActiveLogins.accesskey        "M">
+<!ENTITY itemActiveLogins.accesskey        "F">
 <!ENTITY itemSitePreferences.label         "Dewisiadau'r Wefan">
-<!ENTITY itemSitePreferences.accesskey     "D">
+<!ENTITY itemSitePreferences.accesskey     "A">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Nid oes modd dadwneud y weithred.">
