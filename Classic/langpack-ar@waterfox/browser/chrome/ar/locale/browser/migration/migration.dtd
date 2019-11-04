@@ -10,21 +10,21 @@
 <!ENTITY importFromBookmarks.label      "استورد العلامات من:">
 
 <!ENTITY importFromIE.label             "ميكروسوفت إنترنت إكسبلورر">
-<!ENTITY importFromIE.accesskey         "م">
+<!ENTITY importFromIE.accesskey         "ق">
 <!ENTITY importFromEdge.label           "ميكروسوفت إدج">
-<!ENTITY importFromEdge.accesskey       "ج">
+<!ENTITY importFromEdge.accesskey       "ح">
 <!ENTITY importFromNothing.label        "لا تستورد أي شيء">
 <!ENTITY importFromNothing.accesskey    "ت">
 <!ENTITY importFromSafari.label         "سافاري">
-<!ENTITY importFromSafari.accesskey     "س">
+<!ENTITY importFromSafari.accesskey     "ر">
 <!ENTITY importFromCanary.label         "كروم كناري">
-<!ENTITY importFromCanary.accesskey     "ن">
+<!ENTITY importFromCanary.accesskey     "ف">
 <!ENTITY importFromChrome.label         "كروم">
-<!ENTITY importFromChrome.accesskey     "ك">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "كروميوم">
-<!ENTITY importFromChromium.accesskey   "م">
-<!ENTITY importFromWaterfox.label        "فيَرفُكس">
-<!ENTITY importFromWaterfox.accesskey    "ف">
+<!ENTITY importFromChromium.accesskey   "ع">
+<!ENTITY importFromWaterfox.label        "Waterfox">
+<!ENTITY importFromWaterfox.accesskey    "X">
 <!ENTITY importFrom360se.label          "متصفح ٣٦٠ الآمن">
 <!ENTITY importFrom360se.accesskey      "٣">
 
