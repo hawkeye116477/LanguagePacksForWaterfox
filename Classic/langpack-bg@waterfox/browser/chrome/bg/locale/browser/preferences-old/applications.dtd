@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "Вид съдържание">
-<!ENTITY  typeColumn.accesskey    "В">
+<!ENTITY  typeColumn.accesskey    "И">
 
 <!ENTITY  actionColumn2.label     "Действие">
-<!ENTITY  actionColumn2.accesskey "Д">
+<!ENTITY  actionColumn2.accesskey "О">
 
 <!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch2.key        "Р">
 
 <!ENTITY  filter.emptytext        "Търсене">
