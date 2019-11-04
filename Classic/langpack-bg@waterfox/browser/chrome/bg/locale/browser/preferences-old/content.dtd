@@ -5,43 +5,43 @@
 <!ENTITY  popups.label                "Изскачащи прозорци">
 
 <!ENTITY  blockPopups.label           "Спиране на изскачащите прозорци">
-<!ENTITY  blockPopups.accesskey       "С">
+<!ENTITY  blockPopups.accesskey       "о">
 
 <!ENTITY  notificationsPolicy.label            "Известия">
-<!ENTITY  notificationsPolicyLearnMore.label   "Научете повече">
+<!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
 <!ENTITY  notificationsPolicyDesc4.label       "Изберете на кои уебстраници разрешавате да ви изпращат известия">
-<!ENTITY  notificationsPolicyButton.accesskey  "И">
+<!ENTITY  notificationsPolicyButton.accesskey  "С">
 <!ENTITY  notificationsPolicyButton.label      "Избиране…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не ме безпокойте">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "з">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "Н">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Няма да бъдат показвани известия до следващ рестарт на &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Изключения…">
-<!ENTITY  popupExceptions.accesskey   "з">
+<!ENTITY  popupExceptions.accesskey   "Р">
 
 <!ENTITY  fontsAndColors.label        "Шрифтове и цветове">
 
 <!ENTITY  defaultFont.label           "Стандартен шрифт:">
-<!ENTITY  defaultFont.accesskey       "С">
+<!ENTITY  defaultFont.accesskey       "Б">
 <!ENTITY  defaultSize.label           "Големина:">
-<!ENTITY  defaultSize.accesskey       "Г">
+<!ENTITY  defaultSize.accesskey       "в">
 
 <!ENTITY  advancedFonts.label         "Разширени…">
-<!ENTITY  advancedFonts.accesskey     "Р">
+<!ENTITY  advancedFonts.accesskey     "О">
 
 <!ENTITY  colors.label                "Цветове…">
-<!ENTITY  colors.accesskey            "Ц">
+<!ENTITY  colors.accesskey            "C">
 
 
 <!ENTITY languages.label              "Езици">
 <!ENTITY chooseLanguage.label         "Избор на език при показване на многоезични страници">
 <!ENTITY chooseButton.label           "Избиране…">
-<!ENTITY chooseButton.accesskey       "И">
+<!ENTITY chooseButton.accesskey       "б">
 
 <!ENTITY translateWebPages.label      "Превеждане на съдържанието на страниците">
-<!ENTITY translateWebPages.accesskey  "П">
+<!ENTITY translateWebPages.accesskey  "И">
 <!ENTITY translateExceptions.label    "Изключения…">
-<!ENTITY translateExceptions.accesskey "з">
+<!ENTITY translateExceptions.accesskey "х">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -56,8 +56,8 @@
 <!ENTITY  drmContent.label             "Съдържание с DRM">
 
 <!ENTITY  playDRMContent.label         "Използване на съдържание с DRM">
-<!ENTITY  playDRMContent.accesskey     "И">
-<!ENTITY  playDRMContent.learnMore.label "Научете повече">
+<!ENTITY  playDRMContent.accesskey     "О">
+<!ENTITY  playDRMContent.learnMore.label "Learn more">
 
 <!ENTITY images.label "Images">
 <!ENTITY loadImages.label "Load images automatically">
