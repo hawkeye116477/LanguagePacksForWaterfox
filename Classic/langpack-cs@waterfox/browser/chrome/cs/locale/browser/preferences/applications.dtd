@@ -9,9 +9,9 @@
 <!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "Akce">
-<!ENTITY  actionColumn2.accesskey "A">
+<!ENTITY  actionColumn2.accesskey "O">
 
 <!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch2.key        "l">
 
 <!ENTITY  filter2.emptytext        "Hledat typ souboru nebo aplikaci">
