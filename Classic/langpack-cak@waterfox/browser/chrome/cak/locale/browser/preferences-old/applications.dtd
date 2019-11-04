@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "Ruwäch rupam">
-<!ENTITY  typeColumn.accesskey    "R">
+<!ENTITY  typeColumn.accesskey    "E">
 
 <!ENTITY  actionColumn2.label     "B'anoj">
-<!ENTITY  actionColumn2.accesskey "B">
+<!ENTITY  actionColumn2.accesskey "C">
 
-<!ENTITY  focusSearch1.key        "p">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "m">
 
 <!ENTITY  filter.emptytext        "Tikanöx">
