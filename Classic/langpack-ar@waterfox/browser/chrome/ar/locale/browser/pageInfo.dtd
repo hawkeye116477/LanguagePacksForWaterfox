@@ -7,14 +7,14 @@
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "انسخ">
-<!ENTITY  copy.accesskey        "ن">
-<!ENTITY  selectall.key         "A">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "ع">
 <!ENTITY  selectall.label       "اختر الكل">
-<!ENTITY  selectall.accesskey   "ك">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  selectall.accesskey   "ع">
+<!ENTITY  closeWindow.key       "خ">
 
 <!ENTITY  generalTab            "عام">
-<!ENTITY  generalTab.accesskey  "ع">
+<!ENTITY  generalTab.accesskey  "ح">
 <!ENTITY  generalTitle          "العنوان:">
 <!ENTITY  generalURL            "العنوان:">
 <!ENTITY  generalType           "النوع:">
@@ -28,7 +28,7 @@
 <!ENTITY  generalMetaContent    "المحتوى">
 
 <!ENTITY  mediaTab              "الوسائط">
-<!ENTITY  mediaTab.accesskey    "و">
+<!ENTITY  mediaTab.accesskey    "ق">
 <!ENTITY  mediaLocation         "المكان:">
 <!ENTITY  mediaText             "النص المرتبط:">
 <!ENTITY  mediaAltHeader        "النصّ البديل">
@@ -38,19 +38,19 @@
 <!ENTITY  mediaCount            "العدد">
 <!ENTITY  mediaDimension        "الأبعاد:">
 <!ENTITY  mediaLongdesc         "الوصف المطوّل:">
-<!ENTITY  mediaBlockImage.accesskey "ص">
+<!ENTITY  mediaBlockImage.accesskey "ش">
 <!ENTITY  mediaSaveAs           "احفظ باسم…">
-<!ENTITY  mediaSaveAs.accesskey "س">
-<!ENTITY  mediaSaveAs2.accesskey "س">
+<!ENTITY  mediaSaveAs.accesskey "ع">
+<!ENTITY  mediaSaveAs2.accesskey "ق">
 <!ENTITY  mediaPreview          "معاينة الوسائط:">
 
 <!ENTITY  feedTab               "التلقيمات">
-<!ENTITY  feedTab.accesskey     "ت">
+<!ENTITY  feedTab.accesskey     "ش">
 <!ENTITY  feedSubscribe         "اشترِك">
-<!ENTITY  feedSubscribe.accesskey "ش">
+<!ENTITY  feedSubscribe.accesskey "ع">
 
 <!ENTITY  permTab               "التّصاريح">
-<!ENTITY  permTab.accesskey     "ص">
+<!ENTITY  permTab.accesskey     "خ">
 <!ENTITY  permUseDefault        "استخدم المبدئي">
 <!ENTITY  permAskAlways         "اسأل دائمًا">
 <!ENTITY  permAllow             "اسمح">
@@ -60,12 +60,12 @@
 <!ENTITY  permPlugins           "تفعيل الملحقات">
 
 <!ENTITY  permClearStorage           "امسح المخزون">
-<!ENTITY  permClearStorage.accesskey "ح">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "السريّة">
-<!ENTITY  securityTab.accesskey "س">
+<!ENTITY  securityTab.accesskey "ر">
 <!ENTITY  securityView.certView "اعرض الشهادة">
-<!ENTITY  securityView.accesskey "ع">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "مجهول">
 
 
@@ -82,7 +82,7 @@
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "ع">
 <!ENTITY  securityView.privacy.passwords                "هل حفظتُ أي كلمات سر لهذا الموقع؟">
 <!ENTITY  securityView.privacy.viewPasswords            "اعرض كلمات السر المحفوظة">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "ك">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "خ">
 
 <!ENTITY  securityView.technical.header                 "التفاصيل التقنية">
 
