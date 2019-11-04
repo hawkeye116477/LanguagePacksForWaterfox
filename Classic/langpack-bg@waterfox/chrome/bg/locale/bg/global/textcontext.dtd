@@ -3,35 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "Изрязване">
-<!ENTITY cutCmd.accesskey "И">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Копиране">
-<!ENTITY copyCmd.accesskey "К">
+<!ENTITY copyCmd.accesskey "З">
 <!ENTITY pasteCmd.label "Поставяне">
-<!ENTITY pasteCmd.accesskey "П">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Отмяна">
-<!ENTITY undoCmd.accesskey "О">
+<!ENTITY undoCmd.accesskey "Н">
 <!ENTITY selectAllCmd.label "Избиране на всичко">
-<!ENTITY selectAllCmd.accesskey "в">
+<!ENTITY selectAllCmd.accesskey "т">
 <!ENTITY deleteCmd.label "Изтриване">
-<!ENTITY deleteCmd.accesskey "т">
+<!ENTITY deleteCmd.accesskey "п">
 
 <!ENTITY spellAddToDictionary.label "Добавяне към речник">
-<!ENTITY spellAddToDictionary.accesskey "р">
+<!ENTITY spellAddToDictionary.accesskey "б">
 <!ENTITY spellUndoAddToDictionary.label "Отмяна на добавянето към речник">
-<!ENTITY spellUndoAddToDictionary.accesskey "О">
+<!ENTITY spellUndoAddToDictionary.accesskey "Н">
 <!ENTITY spellCheckToggle.label "Проверка на правописа">
-<!ENTITY spellCheckToggle.accesskey "П">
+<!ENTITY spellCheckToggle.accesskey "ж">
 <!ENTITY spellNoSuggestions.label "(Няма предложения за правопис)">
 <!ENTITY spellDictionaries.label "Езици">
-<!ENTITY spellDictionaries.accesskey "Е">
+<!ENTITY spellDictionaries.accesskey "l">
 
-<!ENTITY searchTextBox.clear.label "Изчистване">
+<!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "Запълване на регистрирано име">
-<!ENTITY fillLoginMenu.accesskey      "р">
+<!ENTITY fillLoginMenu.accesskey      "ц">
 <!ENTITY fillPasswordMenu.label       "Запълване на парола">
-<!ENTITY fillPasswordMenu.accesskey   "п">
+<!ENTITY fillPasswordMenu.accesskey   "ц">
 <!ENTITY fillUsernameMenu.label       "Запълване на потребителско име">
-<!ENTITY fillUsernameMenu.accesskey   "п">
+<!ENTITY fillUsernameMenu.accesskey   "ц">
 <!ENTITY noLoginSuggestions.label     "(Няма предложения за регистрирано име)">
 <!ENTITY viewSavedLogins.label        "Преглед на запазените регистрирани имена">
