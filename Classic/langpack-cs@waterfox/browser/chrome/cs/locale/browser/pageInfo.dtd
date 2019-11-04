@@ -7,14 +7,14 @@
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Kopírovat">
-<!ENTITY  copy.accesskey        "K">
-<!ENTITY  selectall.key         "A">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "O">
 <!ENTITY  selectall.label       "Vybrat vše">
-<!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  selectall.accesskey   "O">
+<!ENTITY  closeWindow.key       "b">
 
 <!ENTITY  generalTab            "Obecné">
-<!ENTITY  generalTab.accesskey  "O">
+<!ENTITY  generalTab.accesskey  "Z">
 <!ENTITY  generalTitle          "Nadpis:">
 <!ENTITY  generalURL            "Adresa:">
 <!ENTITY  generalType           "Typ:">
@@ -28,7 +28,7 @@
 <!ENTITY  generalMetaContent    "Obsah">
 
 <!ENTITY  mediaTab              "Média">
-<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaTab.accesskey    "H">
 <!ENTITY  mediaLocation         "Adresa:">
 <!ENTITY  mediaText             "Přidružený text:">
 <!ENTITY  mediaAltHeader        "Alternativní text">
@@ -38,19 +38,19 @@
 <!ENTITY  mediaCount            "Počet">
 <!ENTITY  mediaDimension        "Rozměry:">
 <!ENTITY  mediaLongdesc         "Dlouhý popis:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "z">
 <!ENTITY  mediaSaveAs           "Uložit jako…">
-<!ENTITY  mediaSaveAs.accesskey "j">
-<!ENTITY  mediaSaveAs2.accesskey "a">
+<!ENTITY  mediaSaveAs.accesskey "O">
+<!ENTITY  mediaSaveAs2.accesskey "H">
 <!ENTITY  mediaPreview          "Náhled:">
 
 <!ENTITY  feedTab               "Kanály">
-<!ENTITY  feedTab.accesskey     "K">
+<!ENTITY  feedTab.accesskey     "r">
 <!ENTITY  feedSubscribe         "Odebírat">
-<!ENTITY  feedSubscribe.accesskey "O">
+<!ENTITY  feedSubscribe.accesskey "V">
 
 <!ENTITY  permTab               "Oprávnění">
-<!ENTITY  permTab.accesskey     "p">
+<!ENTITY  permTab.accesskey     "a">
 <!ENTITY  permUseDefault        "Použít výchozí">
 <!ENTITY  permAskAlways         "Vždy se zeptat">
 <!ENTITY  permAllow             "Povolit">
@@ -60,12 +60,12 @@
 <!ENTITY  permPlugins           "Spouštět zásuvné moduly">
 
 <!ENTITY  permClearStorage           "Vymazat úložiště">
-<!ENTITY  permClearStorage.accesskey "m">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Zabezpečení">
-<!ENTITY  securityTab.accesskey "b">
+<!ENTITY  securityTab.accesskey "d">
 <!ENTITY  securityView.certView "Zobrazit certifikát">
-<!ENTITY  securityView.accesskey "c">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Neznámý">
 
 
@@ -79,10 +79,10 @@
 <!ENTITY  securityView.privacy.history                  "Navštívil jsem už někdy tento server?">
 <!ENTITY  securityView.privacy.cookies                  "Má tento server na mém počítači uloženy nějaké cookies?">
 <!ENTITY  securityView.privacy.viewCookies              "Zobrazit cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "Z">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "l">
 <!ENTITY  securityView.privacy.passwords                "Mám pro tento server uložená hesla?">
 <!ENTITY  securityView.privacy.viewPasswords            "Zobrazit uložená hesla">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "h">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "b">
 
 <!ENTITY  securityView.technical.header                 "Technické detaily">
 
