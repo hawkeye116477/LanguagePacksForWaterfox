@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Klask en-dro">
 <!ENTITY returnToPreviousPage.label "Distreiñ">
 <!ENTITY advanced.label "Kempleshoc'h">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "N'haller ket kennaskañ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Titouroù kempleshoc'h : SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; n'eo ket kennasket da <span id='wrongSystemTime_URL'/> peogwir n'eo ket d'an eur horolaj hoc'h urzhiataer, ar pezh a vir da gaout ur c'hennask diogel.</p><p><span id='wrongSystemTime_systemDate'/> eo war hoc'h urzhiataer padel e rankfe bezañ <span id='wrongSystemTime_actualDate'/>. Evit diskoulmañ ar gudenn-mañ, kemmit ho teiziad evit ma vefe d'an eur reizh.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; n'eo ket kennasket da <span id='wrongSystemTimeWithoutReference_URL'/> peogwir n'eo ket d'an eur horolaj hoc'h urzhiataer, ar pezh a vir da gaout ur c'hennask diogel.</p><p><span id='wrongSystemTimeWithoutReference_systemDate'/> eo war hoc'h urzhiataer. Evit reizhañ ar gudenn-mañ, kemmit hoc'h arventennoù deiziad hag eur evit lakaat an eur dereat.</p>">
 
