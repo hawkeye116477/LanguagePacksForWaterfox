@@ -7,14 +7,14 @@
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Kopiraj">
-<!ENTITY  copy.accesskey        "K">
-<!ENTITY  selectall.key         "A">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "O">
 <!ENTITY  selectall.label       "Označi sve">
-<!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  selectall.accesskey   "O">
+<!ENTITY  closeWindow.key       "P">
 
 <!ENTITY  generalTab            "Opće">
-<!ENTITY  generalTab.accesskey  "O">
+<!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalTitle          "Naslov:">
 <!ENTITY  generalURL            "Adresa:">
 <!ENTITY  generalType           "Tip:">
@@ -28,7 +28,7 @@
 <!ENTITY  generalMetaContent    "Sadržaj">
 
 <!ENTITY  mediaTab              "Mediji">
-<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaTab.accesskey    "m">
 <!ENTITY  mediaLocation         "Lokacija:">
 <!ENTITY  mediaText             "Pridruženi tekst:">
 <!ENTITY  mediaAltHeader        "Alternativni tekst">
@@ -38,9 +38,9 @@
 <!ENTITY  mediaCount            "Ukupno">
 <!ENTITY  mediaDimension        "Dimenzije:">
 <!ENTITY  mediaLongdesc         "Dugi opis:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "b">
 <!ENTITY  mediaSaveAs           "Spasi kao…">
-<!ENTITY  mediaSaveAs.accesskey "a">
+<!ENTITY  mediaSaveAs.accesskey "O">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Pregled medija:">
 
@@ -49,8 +49,8 @@
 <!ENTITY  feedSubscribe         "Preplati se">
 <!ENTITY  feedSubscribe.accesskey "P">
 
-<!ENTITY  permTab               "Dozvole">
-<!ENTITY  permTab.accesskey     "D">
+<!ENTITY  permTab               "Permisije">
+<!ENTITY  permTab.accesskey     "r">
 <!ENTITY  permUseDefault        "Koristi izvorno">
 <!ENTITY  permAskAlways         "Uvijek pitaj">
 <!ENTITY  permAllow             "Dozvoli">
@@ -60,10 +60,10 @@
 <!ENTITY  permPlugins           "Aktiviraj plugine">
 
 <!ENTITY  permClearStorage           "Očisti spremište">
-<!ENTITY  permClearStorage.accesskey "O">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Sigurnost">
-<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityTab.accesskey "P">
 <!ENTITY  securityView.certView "Prikaži certifikat">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Nepoznato">
@@ -73,20 +73,17 @@
 <!ENTITY  securityView.identity.owner    "Vlasnik:">
 <!ENTITY  securityView.identity.domain   "Web stranica:">
 <!ENTITY  securityView.identity.verifier "Ovjerio:">
-
+<!ENTITY  securityView.identity.validity "Expires on:">
 
 <!ENTITY  securityView.privacy.header                   "Privatnost &amp; Historija">
 <!ENTITY  securityView.privacy.history                  "Da li sam posjetio ovu web stranicu ranije danas?">
 <!ENTITY  securityView.privacy.cookies                  "Da li ova web stranica čuva podatke (kolačiće) na mom računaru?">
 <!ENTITY  securityView.privacy.viewCookies              "Prikaži kolačiće">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "R">
 <!ENTITY  securityView.privacy.passwords                "Da li sam spasio ijednu lozinku za ovu web stranicu?">
 <!ENTITY  securityView.privacy.viewPasswords            "Prikaži spašene lozinke">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "P">
 
 <!ENTITY  securityView.technical.header                 "Tehnički detalji">
 
 <!ENTITY  helpButton.label                              "Pomoć">
-
-<!ENTITY  securityView.identity.validity "Expires on:">
-
