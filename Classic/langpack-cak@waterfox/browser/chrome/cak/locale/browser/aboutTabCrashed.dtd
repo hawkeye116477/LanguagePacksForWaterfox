@@ -5,6 +5,7 @@
 <!ENTITY tabCrashed.closeTab "Titz'apïx re ruwi' re'">
 <!ENTITY tabCrashed.restoreTab "Titzolïx ruwäch re ruwi' re'">
 <!ENTITY tabCrashed.restoreAll "Ketzolïx kiwäch konojel ri man etikirinäq ta taq ruwi'">
+
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
      are using it to communicate in an informal way that it is both
@@ -12,7 +13,6 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
 <!ENTITY tabCrashed.header2 "Uy. Xqa ruchuq'a' ruwi'.">
 <!ENTITY tabCrashed.offerHelp "¡Yojtikïr yatqato'!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Ticha' &tabCrashed.restoreTab; richin nisamajib'ëx chik ri rupam ruxaq.">
