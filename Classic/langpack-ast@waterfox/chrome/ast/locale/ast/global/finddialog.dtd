@@ -6,17 +6,17 @@
 
 <!ENTITY findDialog.title "Alcontrar nesta páxina">
 <!ENTITY findField.label "Qué guetar:">
-<!ENTITY findField.accesskey "Q">
+<!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Concasar mayúscules">
-<!ENTITY caseSensitiveCheckbox.accesskey "C">
+<!ENTITY caseSensitiveCheckbox.accesskey "Z">
 <!ENTITY wrapCheckbox.label "Axustar">
-<!ENTITY wrapCheckbox.accesskey "A">
+<!ENTITY wrapCheckbox.accesskey "V">
 <!ENTITY findButton.label "Guetar siguiente">
-<!ENTITY findButton.accesskey "G">
+<!ENTITY findButton.accesskey "P">
 <!ENTITY cancelButton.label "Encaboxar">
 <!ENTITY closeButton.label "Zarrar">
 <!ENTITY up.label "Arriba">
-<!ENTITY up.accesskey "r">
+<!ENTITY up.accesskey "D">
 <!ENTITY down.label "Abaxo">
-<!ENTITY down.accesskey "A">
+<!ENTITY down.accesskey "N">
 <!ENTITY direction.label "Direición">
