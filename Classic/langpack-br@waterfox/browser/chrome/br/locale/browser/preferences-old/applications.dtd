@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "Rizh an endalc'had">
-<!ENTITY  typeColumn.accesskey    "R">
+<!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "Gwezh">
-<!ENTITY  actionColumn2.accesskey "w">
+<!ENTITY  actionColumn2.accesskey "A">
 
 <!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch2.key        "z">
 
 <!ENTITY  filter.emptytext        "Klask">
