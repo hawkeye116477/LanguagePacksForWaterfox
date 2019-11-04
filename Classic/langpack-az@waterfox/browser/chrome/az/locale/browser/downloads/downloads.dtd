@@ -43,9 +43,9 @@
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "Dayandır">
-<!ENTITY cmd.pause.accesskey              "y">
+<!ENTITY cmd.pause.accesskey              "M">
 <!ENTITY cmd.resume.label                 "Davam et">
-<!ENTITY cmd.resume.accesskey             "D">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Ləğv et">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
@@ -53,25 +53,25 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                   "Yerləşdiyi Qovluğu Aç">
-<!ENTITY cmd.show.accesskey               "Q">
+<!ENTITY cmd.show.accesskey               "T">
 <!ENTITY cmd.showMac.label                "Finderdə göstər">
-<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showMac.accesskey            "T">
 <!ENTITY cmd.retry.label                  "Təkrar yoxla">
 <!ENTITY cmd.goToDownloadPage.label       "Endirmə səhifəsinə get">
-<!ENTITY cmd.goToDownloadPage.accesskey   "g">
+<!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "Endirmə keçidini köçür">
-<!ENTITY cmd.copyDownloadLink.accesskey   "k">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "Siyahıdan sil">
-<!ENTITY cmd.removeFromHistory.accesskey  "S">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList2.label             "Ön baxış panelini təmizlə">
-<!ENTITY cmd.clearList2.accesskey         "a">
+<!ENTITY cmd.clearList2.accesskey         "V">
 <!ENTITY cmd.clearDownloads.label         "Yüklənənləri təmizlə">
-<!ENTITY cmd.clearDownloads.accesskey     "t">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "Endirməyə icazə ver">
-<!ENTITY cmd.unblock2.accesskey           "i">
+<!ENTITY cmd.unblock2.accesskey           "T">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -132,9 +132,13 @@
      the panel at all.
      -->
 <!ENTITY downloadsHistory.label           "Bütün endirmələri göstər">
-<!ENTITY downloadsHistory.accesskey       "s">
+<!ENTITY downloadsHistory.accesskey       "g">
 
-<!ENTITY openDownloadsFolder.label       "Endirmələr Qovluğunu Aç">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Endirmələr Qovluğunu Aç">
 
 <!ENTITY clearDownloadsButton.label       "Yüklənənləri təmizlə">
 <!ENTITY clearDownloadsButton.tooltip     "Tamamlanan, ləğv edilən və uğursuz olan endirmələr təmizləyir">
