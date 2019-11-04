@@ -7,9 +7,9 @@
 <!ENTITY     statusCol.label               "Estat">
 <!ENTITY     usageCol.label                "Emmagatzematge">
 <!ENTITY     searchTextboxPlaceHolder             "Cerca llocs web">
-<!ENTITY     searchTextboxPlaceHolder.accesskey   "r">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "T">
 <!ENTITY     removeSelected.label          "Elimina la selecció">
-<!ENTITY     removeSelected.accesskey      "l">
+<!ENTITY     removeSelected.accesskey      "i">
 <!ENTITY     save.label                    "Desa els canvis">
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Cancel·la">
