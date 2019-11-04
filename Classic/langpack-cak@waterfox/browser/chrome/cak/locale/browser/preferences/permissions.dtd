@@ -8,21 +8,21 @@
 <!ENTITY treehead.sitename2.label     "Ruxaq Ajk'amaya'l">
 <!ENTITY treehead.status.label        "B'anikil:">
 <!ENTITY removepermission2.label      "Tiyuj Ruxaq Ajk'amaya'l">
-<!ENTITY removepermission2.accesskey  "T">
+<!ENTITY removepermission2.accesskey  "R">
 <!ENTITY removeallpermissions2.label  "Keyuj el konojel ri Taq Ruxaq Ajk'amaya'l">
-<!ENTITY removeallpermissions2.accesskey "y">
+<!ENTITY removeallpermissions2.accesskey "i">
 <!ENTITY address.label                "Rochochib'al ri ruxaq k'amaya'l:">
-<!ENTITY address.accesskey            "o">
+<!ENTITY address.accesskey            "w">
 <!ENTITY block.label                  "Tiq'eleb'ëx">
-<!ENTITY block.accesskey              "T">
+<!ENTITY block.accesskey              "K">
 <!ENTITY session.label                "Tiya' q'ij pa re molojri'ïl re'">
-<!ENTITY session.accesskey            "m">
+<!ENTITY session.accesskey            "K">
 <!ENTITY allow.label                  "Tiya' q'ij">
-<!ENTITY allow.accesskey              "T">
-<!ENTITY windowClose.key              "w">
+<!ENTITY allow.accesskey              "C">
+<!ENTITY windowClose.key              "c">
 
 <!ENTITY button.cancel.label          "Tiq'at">
-<!ENTITY button.cancel.accesskey      "T">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Keyak taq jaloj">
 <!ENTITY button.ok.accesskey          "K">
 
