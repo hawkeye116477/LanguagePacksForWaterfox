@@ -9,7 +9,7 @@
                                            disponible pa los tos add-ons pa facelos compatible con esta
                                            versión.">
 <!ENTITY  offline.toggleOffline.label     "Pasar a mou con conexón agora.">
-<!ENTITY  offline.toggleOffline.accesskey "P">
+<!ENTITY  offline.toggleOffline.accesskey "C">
 
 <!ENTITY  mismatch.win.title              "Complementos incompatibles">
 <!ENTITY  mismatch.top.label              "Los add-ons de darréu nun son compatibles con esta versión de
@@ -27,7 +27,7 @@
                                            ta desactivada nesti intre. Pues camudar esta
                                            configuración debaxo.">
 <!ENTITY  found.enableXPInstall.label     "Permitir que los sitios web instalen software">
-<!ENTITY  found.enableXPInstall.accesskey "P">
+<!ENTITY  found.enableXPInstall.accesskey "T">
 
 <!ENTITY  installing.wizard.title         "Instalando complementos compatibles">
 <!ENTITY  installing.top.label            "Descargando ya instalando anovamientos a los sos complementos…">
