@@ -12,19 +12,19 @@
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
-<!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdge.accesskey       "D">
 <!ENTITY importFromNothing.label        "Heç nə idxal etmə">
-<!ENTITY importFromNothing.accesskey    "m">
+<!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
-<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromSafari.accesskey     "g">
 <!ENTITY importFromCanary.label         "Chrome Canary">
-<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromCanary.accesskey     "i">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "Chromium">
-<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromChromium.accesskey   "ı">
 <!ENTITY importFromWaterfox.label        "Waterfox">
-<!ENTITY importFromWaterfox.accesskey    "x">
+<!ENTITY importFromWaterfox.accesskey    "X">
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
