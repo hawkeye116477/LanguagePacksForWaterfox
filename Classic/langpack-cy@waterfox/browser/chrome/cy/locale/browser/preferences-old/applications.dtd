@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "Math o Gynnwys">
-<!ENTITY  typeColumn.accesskey    "M">
+<!ENTITY  typeColumn.accesskey    "G">
 
 <!ENTITY  actionColumn2.label     "Gweithred">
-<!ENTITY  actionColumn2.accesskey "G">
+<!ENTITY  actionColumn2.accesskey "n">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch1.key        "S">
+<!ENTITY  focusSearch2.key        "w">
 
 <!ENTITY  filter.emptytext        "Chwilio">
