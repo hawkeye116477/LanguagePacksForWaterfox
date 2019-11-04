@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "&brandShortName; ye en modo sin connexión">
 <!ENTITY  offline.description             "Cal que &brandShortName; pase a modo con connexión ta comprebar si i hai actualizacions disponibles d'os suyos complementos ta fer-los compatibles con ista versión.">
 <!ENTITY  offline.toggleOffline.label     "Pasar a modo con connexión agora.">
-<!ENTITY  offline.toggleOffline.accesskey "P">
+<!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "Complementos incompatibles">
 <!ENTITY  mismatch.top.label              "Os siguients complementos no son compatibles con a nueva versión de &brandShortName; y s'han desactivau:">
@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "Seleccione os complementos que quiere instalar:">
 <!ENTITY  found.disabledXPinstall.label   "No pueden instalar-se istas actualizacions porque a instalación de software ye desactivada en iste momento. Puede cambiar ista configuración debaixo.">
 <!ENTITY  found.enableXPInstall.label     "Permitir que os puestos web instalen software">
-<!ENTITY  found.enableXPInstall.accesskey "P">
+<!ENTITY  found.enableXPInstall.accesskey "d">
 
 <!ENTITY  installing.wizard.title         "Se son instalando os complementos compatibles">
 <!ENTITY  installing.top.label            "Se son descargando y instalando as actualizacions d'os suyos complementos…">
@@ -41,12 +41,12 @@
 
 <!ENTITY  versioninfo.wizard.title        "Se ye comprebando a compatibilidad d'os complementos">
 <!ENTITY  versioninfo.top.label           "Se ye comprebando si i hai complementos compatibles con ista versión de &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "Isto puede tardar uns menutos…">
+<!ENTITY  versioninfo.waiting             "Isto podría tardar bells minutos…">
 
 <!ENTITY  installerrors.wizard.title      "S'han produciu problemas en instalar as actualizacions">
 <!ENTITY  installerrors.intro.label       "&brandShortName; ha trobau problemas en actualizar qualques d'os suyos complementos.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Prete Finalizar ta continar con l'inicio de &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Prete Rematau ta continar con l'inicio de &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permitir que &brandShortName; mire actualizacions.">
