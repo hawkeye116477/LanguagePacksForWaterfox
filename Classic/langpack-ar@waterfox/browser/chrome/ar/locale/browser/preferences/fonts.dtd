@@ -5,24 +5,24 @@
 <!ENTITY  fontsDialog.title                       "الخطوط">
 
 <!ENTITY  language.label                          "خطوط‍:">
-<!ENTITY  language.accesskey                      "خ">
+<!ENTITY  language.accesskey                      "ش">
 
 <!ENTITY  size.label                              "الحجم:">
 <!ENTITY  sizeProportional.accesskey              "م">
-<!ENTITY  sizeMonospace.accesskey                 "ح">
+<!ENTITY  sizeMonospace.accesskey                 "ق">
 
 <!ENTITY  proportional.label                      "متناسب:">
-<!ENTITY  proportional.accesskey                  "ت">
+<!ENTITY  proportional.accesskey                  "خ">
 
 <!ENTITY  serif.label                             "مذيّل:">
-<!ENTITY  serif.accesskey                         "ذ">
+<!ENTITY  serif.accesskey                         "ر">
 <!ENTITY  sans-serif.label                        "غير مذيّل:">
-<!ENTITY  sans-serif.accesskey                    "غ">
+<!ENTITY  sans-serif.accesskey                    "ف">
 <!ENTITY  monospace.label                         "ثابت العرض:">
-<!ENTITY  monospace.accesskey                     "ث">
+<!ENTITY  monospace.accesskey                     "ق">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "اللاتينية">
 <!ENTITY  font.langGroup.japanese                 "اليابانية">
 <!ENTITY  font.langGroup.trad-chinese             "الصينية التقليدية (تايوان)">
@@ -54,25 +54,25 @@
 <!ENTITY  font.langGroup.tibetan                  "التبتية">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "الحجم الأدنى للخط:">
-<!ENTITY minSize.accesskey                        "ط">
+<!ENTITY minSize.accesskey                        "ل">
 <!ENTITY minSize.none                             "لا شيء">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "مذيل">
 <!ENTITY  useDefaultFontSansSerif.label           "غير مذيل">
 
 <!ENTITY  allowPagesToUseOwn.label                "اسمح للصفحات باستعمال خطوطها الخاصة، عوضًا عن اختياراتي في الأعلى">
-<!ENTITY  allowPagesToUseOwn.accesskey            "س">
+<!ENTITY  allowPagesToUseOwn.accesskey            "ع">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ترميز النص للمحتوى العتيق">
 <!ENTITY languages.customize.Fallback2.label      "ترميز النص الاحتياط:">
-<!ENTITY languages.customize.Fallback2.accesskey  "ر">
+<!ENTITY languages.customize.Fallback2.accesskey  "ط">
 <!ENTITY languages.customize.Fallback2.desc       "يُستخدم ترميز النص هذا مع المحتوى العتيق الذي لا يُحدِّد ترميزه.">
 
 <!ENTITY languages.customize.Fallback.auto        "المبدئي من لغة البرنامج">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.arabic      "عربي">
+<!ENTITY languages.customize.Fallback.arabic      "العربية">
 <!ENTITY languages.customize.Fallback.baltic      "بلطيقي">
 <!ENTITY languages.customize.Fallback.ceiso       "وسط أوروبي، أيزو">
 <!ENTITY languages.customize.Fallback.cewindows   "وسط أوروبي، ميكروسوفت">
@@ -82,22 +82,22 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "صيني تقليدي">
-<!ENTITY languages.customize.Fallback.cyrillic    "سريلي">
+<!ENTITY languages.customize.Fallback.cyrillic    "السريلية">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "يوناني">
+<!ENTITY languages.customize.Fallback.greek       "اليونانية">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "عبري">
+<!ENTITY languages.customize.Fallback.hebrew      "العبرية">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "ياباني">
+<!ENTITY languages.customize.Fallback.japanese    "اليابانية">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "كوري">
+<!ENTITY languages.customize.Fallback.korean      "الكورية">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.thai        "تايلاندي">
+<!ENTITY languages.customize.Fallback.thai        "التايلاندية">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.turkish     "تركي">
