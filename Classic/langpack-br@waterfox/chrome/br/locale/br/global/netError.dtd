@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Kudenn o kargañ ar bajennad">
 <!ENTITY retry.label "Klask en-dro">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "N'haller ket kennaskañ">
 <!ENTITY connectionFailure.longDesc "<p>Al lec'hienn a hañval bezañ talvoudek, koulskoude n'eo ket ar merdeer evit kennaskañ.</p><ul><li>Ha dihegerz e vefe al lec'hienn evit un nebeud amzer ? Klaskit en-dro diwezhatoc'h.</li><li>N'oc'h ket gouest da verdeiñ war lec'hiennoù all ? Gwiriit kennaskañ hoc'h urzhiataer ouzh ar rouedad.</li><li>Gwaredet eo hoc'h urzhiataer pe ho rouedad gant un tanvoger pe ur proksi ? Arventennoù direizh a rouestl ar merdeiñ marteze.</li></ul>">
@@ -77,7 +77,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Ar merdeer en deus harzet kargadur ar bajennad-mañ gant an doare-mañ rak difennet eo gant ur reolenn diogelroez a-fet endalc'hadoù eus ar bajennad.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Fazi a-fet endalc'had bet kontronet">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p> <ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL a-bell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
