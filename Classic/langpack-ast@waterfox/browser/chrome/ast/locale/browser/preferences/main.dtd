@@ -4,49 +4,43 @@
 
 <!ENTITY startup.label             "Aniciu">
 
+<!ENTITY startupPage2.label        "When &brandShortName; starts">
+<!ENTITY startupPage2.accesskey    "c">
 <!ENTITY startupUserHomePage.label "Amosar la to páxina d'aniciu">
 <!ENTITY startupBlankPage.label    "Amosar una páxina balera">
+<!ENTITY startupPrevSession.label  "Show your windows and tabs from last time">
 
+<!ENTITY homepage2.label           "Home page">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Usar páxina actual">
-<!ENTITY useCurrentPage.accesskey  "U">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Usar páxines actuales">
 <!ENTITY chooseBookmark.label      "Usar marcador…">
-<!ENTITY chooseBookmark.accesskey  "m">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Reafitar valores">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Descargues">
 
 <!ENTITY saveTo.label "Guardar ficheros en">
-<!ENTITY saveTo.accesskey "G">
+<!ENTITY saveTo.accesskey "P">
 <!ENTITY chooseFolderWin.label        "Restolar…">
-<!ENTITY chooseFolderWin.accesskey    "l">
+<!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Escoyer…">
-<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY chooseFolderMac.accesskey    "S">
+<!ENTITY alwaysAskWhere.label         "Always ask you where to save files">
+<!ENTITY alwaysAskWhere.accesskey     "T">
 
 <!ENTITY alwaysCheckDefault2.label        "Comprobar siempres si &brandShortName; ye'l to restolador por defeutu">
-<!ENTITY alwaysCheckDefault2.accesskey    "o">
-<!ENTITY setAsMyDefaultBrowser2.label     "Predeterminar">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
+<!ENTITY setAsMyDefaultBrowser3.label     "Make Default…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "N">
 <!ENTITY isDefault.label                  "&brandShortName; ye'l to restolador web predetermináu">
 <!ENTITY isNotDefault.label               "&brandShortName; nun ye'l to restolador web predetermináu">
 
 <!ENTITY separateProfileMode.label        "Permitir a &brandShortName; y Waterfox executase al empar">
 <!ENTITY useWaterfoxSync.label             "Conseyu: esto usa perfiles separtaos. Usa Sync pa compartir datos ente ellos.">
+<!ENTITY getStarted.notloggedin.label     "Sign in to &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Abrir preferencies de &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Habilitar el multiprocesu de &brandShortName;">
-
-<!ENTITY alwaysAskWhere.accesskey     "A">
-
-<!ENTITY alwaysAskWhere.label         "Always ask you where to save files">
-<!ENTITY getStarted.configured.label      "Open &syncBrand.shortName.label; preferences">
-
-<!ENTITY getStarted.notloggedin.label     "Sign in to &syncBrand.shortName.label;…">
-<!ENTITY homepage2.accesskey       "P">
-<!ENTITY homepage2.label           "Home page">
-<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
-<!ENTITY setAsMyDefaultBrowser3.label     "Make Default…">
-<!ENTITY startupPage2.accesskey    "s">
-<!ENTITY startupPage2.label        "When &brandShortName; starts">
-<!ENTITY startupPrevSession.label  "Show your windows and tabs from last time">
-
