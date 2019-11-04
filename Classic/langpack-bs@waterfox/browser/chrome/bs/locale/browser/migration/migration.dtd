@@ -10,21 +10,21 @@
 <!ENTITY importFromBookmarks.label      "Uvezi zabilješke iz:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromIE.accesskey         "m">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
-<!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdge.accesskey       "e">
 <!ENTITY importFromNothing.label        "Ne uvozi ništa">
 <!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSafari.label         "Safari">
-<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromSafari.accesskey     "P">
 <!ENTITY importFromCanary.label         "Chrome Canary">
-<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromCanary.accesskey     "P">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "Chromium">
-<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromChromium.accesskey   "P">
 <!ENTITY importFromWaterfox.label        "Waterfox">
-<!ENTITY importFromWaterfox.accesskey    "x">
+<!ENTITY importFromWaterfox.accesskey    "X">
 <!ENTITY importFrom360se.label          "360 sigurni browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
