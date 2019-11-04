@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "A-zivout an aeladoù">
 <!ENTITY aboutProfiles.subtitle "Ar bajenn-mañ a skoazell ac'hanoc'h da ardeiñ hoc'h aeladoù. Pep aelad a zo ur bed disheñvel gant pep a roll istor, sinedoù, arventennoù hag askouezhioù.">
 <!ENTITY aboutProfiles.create "Krouiñ un aelad nevez">
-<!ENTITY aboutProfiles.restart.title "Adloc'hañ">
+<!ENTITY aboutProfiles.restart.title "Restart">
 <!ENTITY aboutProfiles.restart.inSafeMode "Adloc'hañ gant an askouezhioù diweredekaet…">
 <!ENTITY aboutProfiles.restart.normal "Adloc'hañ ordinal...">
