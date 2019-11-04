@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors.label        "استبدل الألوان التي تحددها الصفحات باختياراتي أعلاه:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "س">
+<!ENTITY  overrideDefaultPageColors.accesskey    "ف">
 
 <!ENTITY  overrideDefaultPageColors.always.label "دائمًا">
 <!ENTITY  overrideDefaultPageColors.auto.label   "مع السمات عالية التباين فقط">
@@ -15,16 +15,16 @@
 
 <!ENTITY  color                           "النّصّ و الخلفيّة">
 <!ENTITY  textColor.label                 "النّص:">
-<!ENTITY  textColor.accesskey             "ن">
+<!ENTITY  textColor.accesskey             "ط">
 <!ENTITY  backgroundColor.label           "الخلفية:">
-<!ENTITY  backgroundColor.accesskey       "خ">
+<!ENTITY  backgroundColor.accesskey       "ش">
 <!ENTITY  useSystemColors.label           "استخدم ألوان النظام">
-<!ENTITY  useSystemColors.accesskey       "ظ">
+<!ENTITY  useSystemColors.accesskey       "ش">
 
 <!ENTITY  underlineLinks.label            "سطّر الروابط">
-<!ENTITY  underlineLinks.accesskey        "ط">
+<!ENTITY  underlineLinks.accesskey        "د">
 <!ENTITY  links                           "ألوان الروابط">
 <!ENTITY  linkColor.label                 "الروابط غير المزارة:">
-<!ENTITY  linkColor.accesskey             "غ">
+<!ENTITY  linkColor.accesskey             "ه">
 <!ENTITY  visitedLinkColor.label          "الروابط المزارة:">
-<!ENTITY  visitedLinkColor.accesskey      "م">
+<!ENTITY  visitedLinkColor.accesskey      "V">
