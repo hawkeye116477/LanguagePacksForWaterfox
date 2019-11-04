@@ -2,18 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-<!ENTITY  typeColumn.label        "Mena de conteníu">
-<!ENTITY  typeColumn.accesskey    "M">
-
-<!ENTITY  actionColumn2.label     "Aición">
-<!ENTITY  actionColumn2.accesskey "A">
-
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
-
-
+<!ENTITY  applications.label       "Aplicaciones">
 <!ENTITY  applications.description "Choose how &brandShortName; handles the files you download from the web or the applications you use while browsing.">
 
-<!ENTITY  applications.label       "Applications">
+<!ENTITY  typeColumn.label        "Mena de conteníu">
+<!ENTITY  typeColumn.accesskey    "i">
+
+<!ENTITY  actionColumn2.label     "Aición">
+<!ENTITY  actionColumn2.accesskey "T">
+
+<!ENTITY  focusSearch1.key        "c">
+<!ENTITY  focusSearch2.key        "y">
+
 <!ENTITY  filter2.emptytext        "Search file types or applications">
