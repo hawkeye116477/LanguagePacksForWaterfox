@@ -10,21 +10,21 @@
 <!ENTITY importFromBookmarks.label      "Внасяне на отметки от:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromIE.accesskey         "м">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
-<!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdge.accesskey       "Р">
 <!ENTITY importFromNothing.label        "Без внасяне на каквото и да е">
 <!ENTITY importFromNothing.accesskey    "Б">
 <!ENTITY importFromSafari.label         "Safari">
-<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromSafari.accesskey     "в">
 <!ENTITY importFromCanary.label         "Chrome Canary">
-<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromCanary.accesskey     "Н">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "Chromium">
-<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromChromium.accesskey   "Н">
 <!ENTITY importFromWaterfox.label        "Waterfox">
-<!ENTITY importFromWaterfox.accesskey    "x">
+<!ENTITY importFromWaterfox.accesskey    "X">
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
