@@ -3,33 +3,33 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "Golygu">
-<!ENTITY editMenu.accesskey        "G">
+<!ENTITY editMenu.accesskey        "A">
 <!ENTITY undoCmd.label             "Dadwneud">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "D">
+<!ENTITY undoCmd.accesskey         "o">
 <!ENTITY redoCmd.label             "Ailwneud">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "A">
+<!ENTITY redoCmd.accesskey         "D">
 <!ENTITY cutCmd.label              "Torri">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "T">
+<!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Copïo">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "C">
 <!ENTITY pasteCmd.label            "Gludo">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "G">
+<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Dileu">
-<!ENTITY deleteCmd.accesskey       "D">
+<!ENTITY deleteCmd.accesskey       "F">
 <!ENTITY selectAllCmd.label        "Dewis Popeth">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "P">
-<!ENTITY findCmd.label             "Canfod">
-<!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "f">
+<!ENTITY selectAllCmd.key          "n">
+<!ENTITY selectAllCmd.accesskey    "F">
+<!ENTITY findCmd.label             "Find">
+<!ENTITY findCmd.key               "S">
+<!ENTITY findCmd.accesskey         "S">
 <!ENTITY findAgainCmd.label        "Canfod Eto">
-<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key          "E">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "a">
+<!ENTITY findAgainCmd.accesskey    "D">
 <!ENTITY findPreviousCmd.label     "Canfod Blaenorol">
-<!ENTITY findPreviousCmd.accesskey "B">
+<!ENTITY findPreviousCmd.accesskey "R">
