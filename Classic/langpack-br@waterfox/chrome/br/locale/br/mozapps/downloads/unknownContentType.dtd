@@ -7,20 +7,20 @@
 <!ENTITY  actionQuestion.label        "Petra a zlefe ober &brandShortName; gant a restr-se ?">
 
 <!ENTITY  openWith.label              "Digeriñ gant">
-<!ENTITY  openWith.accesskey          "g">
+<!ENTITY  openWith.accesskey          "G">
 <!ENTITY  other.label                 "All…">
 
 <!ENTITY  saveFile.label              "Enrollañ ar restr">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.accesskey          "R">
 
 <!ENTITY  rememberChoice.label        "Ober an dra-se ent emgefreek evit restroù a rizh-se adalek bremañ.">
-<!ENTITY  rememberChoice.accesskey    "a">
+<!ENTITY  rememberChoice.accesskey    "K">
 
 <!ENTITY  whichIs.label              "hag a zo ur :">
 
 <!ENTITY  chooseHandlerMac.label      "Dibab…">
-<!ENTITY  chooseHandlerMac.accesskey  "D">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Furchal…">
-<!ENTITY  chooseHandler.accesskey     "F">
+<!ENTITY  chooseHandler.accesskey     "s">
 
 <!ENTITY  unknownPromptText.label     "Ha fellout a ra deoc'h enrollañ ar restr-mañ ?">
