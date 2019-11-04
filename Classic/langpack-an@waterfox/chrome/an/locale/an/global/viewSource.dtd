@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/viewSource.xul -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -13,26 +13,26 @@
 <!ENTITY mainWindow.preface "Codigo fuent de: ">
 
 <!ENTITY fileMenu.label "Fichero">
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.accesskey "p">
 <!ENTITY savePageCmd.label "Alzar a pachina como…">
-<!ENTITY savePageCmd.accesskey "A">
-<!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Configuración d'a pachina…">
-<!ENTITY pageSetupCmd.accesskey "g">
+<!ENTITY savePageCmd.accesskey "d">
+<!ENTITY savePageCmd.commandkey "v">
+<!ENTITY pageSetupCmd.label "Configurar pachina…">
+<!ENTITY pageSetupCmd.accesskey "f">
 <!ENTITY printPreviewCmd.label "Anvista preliminar">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Imprentar…">
 <!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.commandkey "P">
+<!ENTITY printCmd.commandkey "p">
 <!ENTITY closeCmd.label "Zarrar">
-<!ENTITY closeCmd.accesskey "Z">
-<!ENTITY closeCmd.commandkey "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.commandkey "v">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -42,45 +42,45 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Ir t'a linia…">
-<!ENTITY goToLineCmd.accesskey "I">
+<!ENTITY goToLineCmd.label "Go to Line…">
+<!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Veyer">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
-<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadCmd.commandkey "t">
 <!ENTITY menu_wrapLongLines.title "Achustar as linias largas"> 
-<!ENTITY menu_wrapLongLines.accesskey "c">
+<!ENTITY menu_wrapLongLines.accesskey "v">
 <!ENTITY menu_highlightSyntax.label "Resaltar sintaxi">
-<!ENTITY menu_highlightSyntax.accesskey "R">
+<!ENTITY menu_highlightSyntax.accesskey "u">
 <!ENTITY menu_textSize.label "Mida d'o texto">
-<!ENTITY menu_textSize.accesskey "M">
+<!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Aumentar">
-<!ENTITY menu_textEnlarge.accesskey "A">
+<!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "Reducir">
-<!ENTITY menu_textReduce.accesskey "d">
+<!ENTITY menu_textReduce.accesskey "N">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Mirar en ista pachina…">
-<!ENTITY findOnCmd.accesskey "M">
+<!ENTITY findOnCmd.label     "Trobar en ista pachina…">
+<!ENTITY findOnCmd.accesskey "p">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Tornar a mirar">
-<!ENTITY findAgainCmd.accesskey "T">
-<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.accesskey "a">
+<!ENTITY findAgainCmd.commandkey "a">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "Enta zaga">
-<!ENTITY backCmd.accesskey "t">
+<!ENTITY backCmd.accesskey "B">
 <!ENTITY forwardCmd.label "Enta debant">
-<!ENTITY forwardCmd.accesskey "b">
+<!ENTITY forwardCmd.accesskey "p">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "Copiar a ubicación d'o vinclo">
-<!ENTITY copyLinkCmd.accesskey "v">
-<!ENTITY copyEmailCmd.label "Copiar l'adreza de correu">
-<!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY copyLinkCmd.label "Copiar l'adreza d'o vinclo">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "Copiar l'adreza de correu electronico">
+<!ENTITY copyEmailCmd.accesskey "E">
