@@ -4,23 +4,21 @@
 
 <!ENTITY window.title                     "Nemedennoù - Troidigezh">
 <!ENTITY window.width                     "36em">
-<!ENTITY windowClose.key                  "w">
+<!ENTITY windowClose.key                  "d">
 
 <!ENTITY noTranslationForLanguages.label  "An droidigezh ne vo ket kinniget evit ar yezhoù da-heul :">
 <!ENTITY treehead.languageName.label      "Yezhoù">
 <!ENTITY removeLanguage.label             "Lemel ar yezh">
-<!ENTITY removeLanguage.accesskey         "y">
+<!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "Lemel an holl yezhoù">
-<!ENTITY removeAllLanguages.accesskey     "h">
+<!ENTITY removeAllLanguages.accesskey     "y">
 
 <!ENTITY noTranslationForSites.label      "An droidigezh ne vo ket kinniget evit al lec'hiennoù da-heul :">
-
+<!ENTITY treehead.siteName2.label         "Websites">
 <!ENTITY removeSite.label                 "Lemel al lec'hienn">
-<!ENTITY removeSite.accesskey             "a">
+<!ENTITY removeSite.accesskey             "m">
 <!ENTITY removeAllSites.label             "Lemel an holl lec'hiennoù">
-<!ENTITY removeAllSites.accesskey         "l">
+<!ENTITY removeAllSites.accesskey         "i">
 
 <!ENTITY button.close.label               "Serriñ">
-<!ENTITY button.close.accesskey           "S">
-
-<!ENTITY treehead.siteName2.label         "Websites">
+<!ENTITY button.close.accesskey           "C">
