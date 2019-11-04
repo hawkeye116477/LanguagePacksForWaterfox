@@ -10,21 +10,21 @@
 <!ENTITY importFromBookmarks.label      "Enporzhiañ sinedoù diouzh :">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromIE.accesskey         "B">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "Na enporzhiañ tra ebet">
-<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromNothing.accesskey    "n">
 <!ENTITY importFromSafari.label         "Safari">
-<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromSafari.accesskey     "m">
 <!ENTITY importFromCanary.label         "Chrome Canary">
-<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromCanary.accesskey     "l">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "Chromium">
-<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromChromium.accesskey   "A">
 <!ENTITY importFromWaterfox.label        "Waterfox">
-<!ENTITY importFromWaterfox.accesskey    "x">
+<!ENTITY importFromWaterfox.accesskey    "X">
 <!ENTITY importFrom360se.label          "Merdeer diogel 360">
 <!ENTITY importFrom360se.accesskey      "3">
 
