@@ -3,24 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab circula pente les llingüetes nel orde según el so usu recién">
-<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "i">
 
 <!ENTITY newWindowsAsTabs.label       "Abrir ventanes nueves nuna llingüeta nueva">
-<!ENTITY newWindowsAsTabs.accesskey   "v">
-
-
-
-
-<!ENTITY showTabsInTaskbar.label          "Amosar previsualizaciones de llingüetes na barra de xeres de Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "m">
-<!ENTITY tabsGroup.label          "Llingüetes">
-
-<!ENTITY switchLinksToNewTabs.accesskey    "h">
-
-<!ENTITY switchLinksToNewTabs.label        "When you open a link in a new tab, switch to it immediately">
-<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
+<!ENTITY newWindowsAsTabs.accesskey   "f">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Warn you when closing multiple tabs">
-<!ENTITY warnOnOpenManyTabs.accesskey   "d">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Warn you when opening multiple tabs might slow down &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "v">
+
+<!ENTITY switchLinksToNewTabs.label        "When you open a link in a new tab, switch to it immediately">
+<!ENTITY switchLinksToNewTabs.accesskey    "n">
+
+<!ENTITY showTabsInTaskbar.label          "Amosar previsualizaciones de llingüetes na barra de xeres de Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "y">
+<!ENTITY tabsGroup.label          "Llingüetes">
