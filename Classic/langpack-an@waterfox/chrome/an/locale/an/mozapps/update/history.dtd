@@ -11,6 +11,6 @@
 
 <!ENTITY  name.header               "Nombre de l'actualización">
 <!ENTITY  date.header               "Calendata de l'instalación">
-<!ENTITY  type.header               "Mena">
-<!ENTITY  state.header              "Estau">
+<!ENTITY  type.header               "Tipo">
+<!ENTITY  state.header              "State">
 
