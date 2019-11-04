@@ -11,22 +11,22 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-
-
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "একো ইমপোৰ্ট নকৰিব">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-
-
+<!ENTITY importFromCanary.label         "Chrome Canary">
+<!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
-
-
+<!ENTITY importFromChromium.label       "Chromium">
+<!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromWaterfox.label        "Waterfox">
-<!ENTITY importFromWaterfox.accesskey    "x">
-
-
+<!ENTITY importFromWaterfox.accesskey    "X">
+<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "পত্ৰচিহ্ন, ইতিহাস বা পাছৱৰ্ডৰ তথ্য থকা কোনো এপ্লিকেচন পোৱা ন'গ'ল।">
 
@@ -43,15 +43,5 @@
 <!ENTITY done.title                     "ইমপোৰ্ট সম্পূৰ্ণ হ'ল">
 <!ENTITY done.label                     "নিম্নলিখিত বস্তু সফলভাবে ইমপোৰ্ট কৰা হ'ল:">
 
-
 <!ENTITY closeSourceBrowser.label       "Please ensure the selected browser is closed before continuing.">
-<!ENTITY importFrom360se.accesskey      "3">
-
-<!ENTITY importFrom360se.label          "360 Secure Browser">
-<!ENTITY importFromCanary.accesskey     "n">
-<!ENTITY importFromCanary.label         "Chrome Canary">
-<!ENTITY importFromChromium.accesskey   "u">
-<!ENTITY importFromChromium.label       "Chromium">
-<!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY migrationWizard.text1          "Waterfox now uses its own profile location to store your personal data. If you are coming from an older version of Waterfox, you will need to import your existing Waterfox data as previously this data was shared with your Firefox profile.">
