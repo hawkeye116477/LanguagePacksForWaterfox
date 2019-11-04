@@ -8,21 +8,21 @@
 <!ENTITY treehead.sitename2.label     "Gwefan">
 <!ENTITY treehead.status.label        "Statws">
 <!ENTITY removepermission2.label      "Tynnu Gwefan">
-<!ENTITY removepermission2.accesskey  "T">
+<!ENTITY removepermission2.accesskey  "R">
 <!ENTITY removeallpermissions2.label  "Tynnu Pob Gwefan">
-<!ENTITY removeallpermissions2.accesskey "G">
+<!ENTITY removeallpermissions2.accesskey "A">
 <!ENTITY address.label                "Cyfeiriad y wefan:">
-<!ENTITY address.accesskey            "y">
+<!ENTITY address.accesskey            "F">
 <!ENTITY block.label                  "Rhwystro">
-<!ENTITY block.accesskey              "R">
-<!ENTITY session.label                "Caniatâu ar gyfer y Sesiwn">
-<!ENTITY session.accesskey            "S">
+<!ENTITY block.accesskey              "N">
+<!ENTITY session.label                "Caniatáu ar gyfer y Sesiwn">
+<!ENTITY session.accesskey            "A">
 <!ENTITY allow.label                  "Caniatáu">
-<!ENTITY allow.accesskey              "a">
-<!ENTITY windowClose.key              "w">
+<!ENTITY allow.accesskey              "n">
+<!ENTITY windowClose.key              "G">
 
 <!ENTITY button.cancel.label          "Diddymu">
-<!ENTITY button.cancel.accesskey      "D">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Cadw Newidiadau">
-<!ENTITY button.ok.accesskey          "N">
+<!ENTITY button.ok.accesskey          "A">
 
