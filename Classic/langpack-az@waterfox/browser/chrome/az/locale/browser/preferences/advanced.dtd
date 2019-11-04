@@ -7,18 +7,18 @@
 <!ENTITY generalTab.label                "Ümumi">
 
 <!ENTITY useCursorNavigation.label       "Səhifələrdə hərəkət edərkən yazi kursorundan istifadə et">
-<!ENTITY useCursorNavigation.accesskey   "S">
+<!ENTITY useCursorNavigation.accesskey   "Q">
 <!ENTITY searchOnStartTyping.label       "Yazmağa başladığınız zaman söz axtarılsın">
-<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY searchOnStartTyping.accesskey   "ı">
 <!ENTITY useOnScreenKeyboard.label       "Lazım olduqda toxunmalı klaviaturanı göstər">
-<!ENTITY useOnScreenKeyboard.accesskey   "k">
+<!ENTITY useOnScreenKeyboard.accesskey   "l">
 
 <!ENTITY browsing.label                  "Səyahət">
 
 <!ENTITY useAutoScroll.label             "Avtomatik sürüşdürmədən istifadə et">
-<!ENTITY useAutoScroll.accesskey         "A">
+<!ENTITY useAutoScroll.accesskey         "V">
 <!ENTITY useSmoothScrolling.label        "Axıcı sürüşdürmədən istifadə et">
-<!ENTITY useSmoothScrolling.accesskey    "c">
+<!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY checkUserSpelling.label         "Hərf səhvləriniz siz yazdıqca yoxlanılsın">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -30,16 +30,16 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb">
 
 <!ENTITY enableHealthReport1.label       "&brandShortName; səyyahına avtomatik Mozillaya texniki və qarşılıqlı əlaqə məlumatlarını göndərməyə icazə ver">
-<!ENTITY enableHealthReport1.accesskey   "r">
-<!ENTITY healthReportLearnMore.label     "Ətraflı">
+<!ENTITY enableHealthReport1.accesskey   "y">
+<!ENTITY healthReportLearnMore.label     "Learn more">
 
 <!ENTITY dataCollection.label            "&brandShortName; məlumat toplama və istifadəsi">
 <!ENTITY dataCollectionDesc.label        "&brandShortName; səyyahını hamı üçün yaxşılaşdırmağa lazım olacaq məlumatları yığıb sizi ən yaxşı seçimlərlə təmin etmək üçün işləyirik. Şəxsi məlumatları almazdan əvvəl hər dəfə sizdən icazə istəyirik.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Məxfilik Bildirişi">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; səyyahına Mozillaya xəta hesabatlarını göndərməyə icazə ver">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
-<!ENTITY crashReporterLearnMore.label    "Daha Ətraflı">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "Q">
+<!ENTITY crashReporterLearnMore.label    "Learn more">
 
 <!ENTITY networkTab.label                "Şəbəkə">
 
@@ -47,7 +47,7 @@ available. -->
 
 <!ENTITY connectionDesc.label            "&brandShortName; səyyahının internetə necə qoşulacağını nizamlayın">
 <!ENTITY connectionSettings.label        "Nizamlar…">
-<!ENTITY connectionSettings.accesskey    "a">
+<!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Yaddaşda saxlanılmış web məzmunu">
 
@@ -57,9 +57,9 @@ available. -->
 <!ENTITY siteData.label                  "Sayt Məlumatları">
 <!ENTITY clearSiteData.label             "Bütün Məlumatları təmizlə">
 <!ENTITY clearSiteData.accesskey         "l">
-<!ENTITY siteDataSettings.label          "Tənzimləmələr…">
-<!ENTITY siteDataSettings.accesskey      "i">
-<!ENTITY siteDataLearnMoreLink.label     "Ətraflı öyrən">
+<!ENTITY siteDataSettings.label          "Nizamlar…">
+<!ENTITY siteDataSettings.accesskey      "k">
+<!ENTITY siteDataLearnMoreLink.label     "Learn more">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -68,14 +68,14 @@ available. -->
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Keş yaddaşı limiti">
-<!ENTITY limitCacheSizeBefore.accesskey  "l">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB yer">
 <!ENTITY clearCacheNow.label             "İndi təmizlə">
-<!ENTITY clearCacheNow.accesskey         "z">
+<!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "İndi təmizlə">
-<!ENTITY clearOfflineAppCacheNow.accesskey "t">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Avtomatik saxlama yaddaşı nəzarətini söndür">
-<!ENTITY overrideSmartCacheSize.accesskey "o">
+<!ENTITY overrideSmartCacheSize.accesskey "A">
 
 <!ENTITY updateTab.label                 "Yenilə">
 
@@ -90,11 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Keep &brandShortName; up to date for the best performance, stability, and security.">
 <!ENTITY updateApplication.version.pre   "Buraxılış ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; səyyahı">
-<!ENTITY updateAuto2.label               "Yeniləmələri avtomatik olaraq qursun (təhlükəsizlik üçün məsləhətlidir)">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto3.label               "Automatically install updates (recommended)">
+<!ENTITY updateAuto3.accesskey           "H">
 <!ENTITY updateCheckChoose2.label        "Yeniləmələri yoxlasın amma qurma qərasını sizə versin">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Yeniləmələri heç vaxt yoxlamasın (məsləhətli deyil)">
@@ -104,34 +106,34 @@ available. -->
 <!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et">
-<!ENTITY useService.accesskey            "a">
+<!ENTITY useService.accesskey            "t">
 
 <!ENTITY enableSearchUpdate2.label       "Axtarış mühərriklərini avtomatik yenilə">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY offlineStorageNotify.label               "Sayt oflayn istifadə üçün məlumat saxlamaq istədiyində mənə bildir">
-<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotify.accesskey           "P">
 <!ENTITY offlineStorageNotifyExceptions.label     "İstisnalar…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "ı">
 
 <!ENTITY offlineAppsList2.label          "Aşağıdakı saytlara oflayn istifadə üçün məlumat saxlamağa icazə verilib:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Sil…">
-<!ENTITY offlineAppsListRemove.accesskey "S">
+<!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Oflayn məlumatlarını sil">
 
 <!ENTITY certificateTab.label            "Sertifikatlar">
 <!ENTITY certPersonal2.description       "Hər hansı bir server şəxsi sertifikatınızı istədikdə">
 <!ENTITY selectCerts.auto                "Birini avtomatik seç">
-<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.auto.accesskey      "g">
 <!ENTITY selectCerts.ask                 "Hər dəfə soruş">
-<!ENTITY selectCerts.ask.accesskey       "A">
+<!ENTITY selectCerts.ask.accesskey       "H">
 <!ENTITY enableOCSP.label                "Sertifikatların keçərliliyini təsdiqləmək üçün OCSP cavabdehlik serverlərinə Sorğu göndər">
-<!ENTITY enableOCSP.accesskey            "S">
-<!ENTITY viewCerts.label                 "Sertifikatları göstər">
-<!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewSecurityDevices.label       "Təhlükəsizlik Cihazları">
-<!ENTITY viewSecurityDevices.accesskey   "C">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts2.label                "View Certificates…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Security Devices…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Məhsuldarlıq">
 <!ENTITY useRecommendedPerformanceSettings2.label
@@ -139,9 +141,9 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "Bu tənzimləmələr kompüterinizin avadanlığı və əməliyyat sistemi üçün hazırlanıb.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
-                                         "U">
+                                         "g">
 <!ENTITY performanceSettingsLearnMore.label
-                                         "Ətraflı öyrən">
+                                         "Learn more">
 <!ENTITY limitContentProcessOption.label "Məzmun proses limiti">
 <!ENTITY limitContentProcessOption.description
                                          "Əlavə məzmun prosesləri çox vərəq işlətdikdə məhsuldarlığı artıra bilərlər, amma daha çox yaddaş işlədəcəklər.">
@@ -151,14 +153,4 @@ available. -->
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
                                          "Çox-prosesliliyin aktiv olmasını necə yoxlayacağınızı görün">
 <!ENTITY allowHWAccel.label              "Mümkün olduğu vaxt təchizat sürətlənməsindən istifadə et">
-<!ENTITY allowHWAccel.accesskey          "d">
-
-<!ENTITY updateApplicationDescription.label
-                                         "Keep &brandShortName; up to date for the best performance, stability, and security.">
-<!ENTITY updateAuto3.accesskey           "A">
-<!ENTITY updateAuto3.label               "Automatically install updates (recommended)">
-<!ENTITY viewCerts2.accesskey            "C">
-<!ENTITY viewCerts2.label                "View Certificates…">
-<!ENTITY viewSecurityDevices2.accesskey  "D">
-
-<!ENTITY viewSecurityDevices2.label      "Security Devices…">
+<!ENTITY allowHWAccel.accesskey          "y">
