@@ -5,36 +5,36 @@
 <!ENTITY startup.label             "Opstart">
 
 <!ENTITY startupPage.label         "Når &brandShortName; starter:">
-<!ENTITY startupPage.accesskey     "t">
-<!ENTITY startupUserHomePage.label     "Vis min startside">
+<!ENTITY startupPage.accesskey     "D">
+<!ENTITY startupUserHomePage.label "Vis min startside">
 <!ENTITY startupBlankPage.label    "Vis en tom side">
 <!ENTITY startupPrevSession.label  "Vis mine vinduer og faneblade fra sidste gang">
 
 <!ENTITY homepage.label            "Startside:">
-<!ENTITY homepage.accesskey        "S">
+<!ENTITY homepage.accesskey        "p">
 <!ENTITY useCurrentPage.label      "Anvend nuværende side">
-<!ENTITY useCurrentPage.accesskey  "n">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Anvend nuværende sider">
 <!ENTITY chooseBookmark.label      "Anvend bogmærke…">
-<!ENTITY chooseBookmark.accesskey  "b">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Gendan standard">
-<!ENTITY restoreDefault.accesskey  "G">
+<!ENTITY restoreDefault.accesskey  "R">
 
-<!ENTITY downloads.label     "Filhentning">
+<!ENTITY downloads.label     "Filhentninger">
 
 <!ENTITY saveTo.label "Gem filer i">
-<!ENTITY saveTo.accesskey "m">
+<!ENTITY saveTo.accesskey "d">
 <!ENTITY chooseFolderWin.label        "Gennemse…">
-<!ENTITY chooseFolderWin.accesskey    "e">
+<!ENTITY chooseFolderWin.accesskey    "R">
 <!ENTITY chooseFolderMac.label        "Vælg…">
-<!ENTITY chooseFolderMac.accesskey    "æ">
-<!ENTITY alwaysAskWhere.label "Spørg mig altid, hvor filer skal gemmes">
-<!ENTITY alwaysAskWhere.accesskey "a">
+<!ENTITY chooseFolderMac.accesskey    "s">
+<!ENTITY alwaysAskWhere.label         "Spørg mig altid, hvor filer skal gemmes">
+<!ENTITY alwaysAskWhere.accesskey     "O">
 
 <!ENTITY alwaysCheckDefault2.label        "Undersøg altid om &brandShortName; er din standardbrowser">
-<!ENTITY alwaysCheckDefault2.accesskey    "U">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Sæt som standard">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "N">
 <!ENTITY isDefault.label                  "&brandShortName; er sat som din standardbrowser">
 <!ENTITY isNotDefault.label               "&brandShortName; er ikke din standardbrowser">
 
@@ -47,7 +47,7 @@
 
 <!ENTITY localeSelect.label               "Locale Select">
 
-<!ENTITY newtabsoptions.label "New Tab">
+<!ENTITY newtabsoptions.label "Nyt faneblad">
 <!ENTITY newtabenabled.label "Enable new tab page">
 <!ENTITY newtabsearch.label "Enable search bar on New Tab (reload page)">
 <!ENTITY newtabthumbnail.label "Disable thumbnail capturing on new tab page">
