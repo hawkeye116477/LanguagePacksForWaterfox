@@ -13,24 +13,24 @@
 <!ENTITY devmgr.details.title2                  "Hodnota">
 
 <!ENTITY devmgr.button.login.label              "Přihlásit">
-<!ENTITY devmgr.button.login.accesskey          "P">
+<!ENTITY devmgr.button.login.accesskey          "v">
 <!ENTITY devmgr.button.logout.label             "Odhlásit">
-<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.logout.accesskey         "s">
 <!ENTITY devmgr.button.changepw.label           "Změnit heslo">
-<!ENTITY devmgr.button.changepw.accesskey       "h">
+<!ENTITY devmgr.button.changepw.accesskey       "a">
 <!ENTITY devmgr.button.load.label               "Načíst">
-<!ENTITY devmgr.button.load.accesskey           "N">
+<!ENTITY devmgr.button.load.accesskey           "P">
 <!ENTITY devmgr.button.unload.label             "Uvolnit">
-<!ENTITY devmgr.button.unload.accesskey         "U">
-<!ENTITY devmgr.button.fips.accesskey           "F">
+<!ENTITY devmgr.button.unload.accesskey         "t">
+<!ENTITY devmgr.button.fips.accesskey           "r">
 
 <!ENTITY loaddevice.info                        "Zadejte informace o modulu, který chcete přidat.">
 <!ENTITY loaddevice.modname                     "Jméno modulu:">
-<!ENTITY loaddevice.modname.accesskey           "m">
+<!ENTITY loaddevice.modname.accesskey           "H">
 <!ENTITY loaddevice.modname.default             "Nový modul PKCS#11">
 <!ENTITY loaddevice.filename                    "Název souboru modulu:">
-<!ENTITY loaddevice.filename.accesskey          "N">
+<!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "Procházet…">
-<!ENTITY loaddevice.browse.accesskey            "P">
+<!ENTITY loaddevice.browse.accesskey            "z">
 
 <!ENTITY loaddevice.title2                      "Načíst ovladač PKCS#11 zařízení">
