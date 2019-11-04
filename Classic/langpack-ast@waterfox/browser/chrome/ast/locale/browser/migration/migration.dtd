@@ -10,19 +10,19 @@
 <!ENTITY importFromBookmarks.label      "Importar marcadores de:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromIE.accesskey         "m">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "Nun importar nada">
-<!ENTITY importFromNothing.accesskey    "p">
+<!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSafari.label         "Safari">
-<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromSafari.accesskey     "U">
 <!ENTITY importFromCanary.label         "Chrome Canary">
 <!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "Chromium">
-<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromChromium.accesskey   "C">
 <!ENTITY importFromWaterfox.label        "Waterfox">
 <!ENTITY importFromWaterfox.accesskey    "X">
 <!ENTITY importFrom360se.label          "360 Secure Browser">
