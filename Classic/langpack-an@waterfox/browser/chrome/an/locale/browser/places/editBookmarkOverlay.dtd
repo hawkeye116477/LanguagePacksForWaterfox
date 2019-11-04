@@ -4,25 +4,25 @@
 
 <!ENTITY editBookmarkOverlay.name.label                      "Nombre:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
-<!ENTITY editBookmarkOverlay.location.label                  "Ubicación:">
-<!ENTITY editBookmarkOverlay.location.accesskey              "c">
+<!ENTITY editBookmarkOverlay.location.label                  "Adreza:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "L">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Adreza d'a canal:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "z">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "p">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adreza d'o puesto:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "e">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "v">
 <!ENTITY editBookmarkOverlay.folder.label                    "Carpeta:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Amostrar todas as carpetas de marcapachinas">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Amagar">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiquetas:">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "f">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Desepare as etiquetas con comas">
 <!ENTITY editBookmarkOverlay.description.label               "Descripción:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "D">
+<!ENTITY editBookmarkOverlay.description.accesskey           "N">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Parola clau:">
-<!ENTITY editBookmarkOverlay.keyword.accesskey               "l">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "t">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Amostrar todas as etiquetas">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Cargar iste marcapachinas en o panel lateral">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "m">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "l">
 <!ENTITY editBookmarkOverlay.choose.label                    "Trigar…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nueva carpeta">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "t">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "s">
