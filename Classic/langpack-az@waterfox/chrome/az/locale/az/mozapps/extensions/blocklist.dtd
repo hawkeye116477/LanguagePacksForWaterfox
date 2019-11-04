@@ -11,7 +11,7 @@
 <!ENTITY blocklist.moreinfo          "Daha çox məlumat">
 
 <!ENTITY blocklist.accept.label      "&brandShortName; yenidən başlasın">
-<!ENTITY blocklist.accept.accesskey  "b">
+<!ENTITY blocklist.accept.accesskey  "R">
 
 <!ENTITY blocklist.blocked.label     "İcazə verilmədi">
 <!ENTITY blocklist.checkbox.label    "Söndür">
