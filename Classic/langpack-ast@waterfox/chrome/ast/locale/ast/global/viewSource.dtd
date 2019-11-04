@@ -13,20 +13,20 @@
 <!ENTITY mainWindow.preface "Códigu fonte de:">
 
 <!ENTITY fileMenu.label "Ficheru">
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.accesskey "P">
 <!ENTITY savePageCmd.label "Guardar páxina como…">
-<!ENTITY savePageCmd.accesskey "x">
-<!ENTITY savePageCmd.commandkey "G">
+<!ENTITY savePageCmd.accesskey "T">
+<!ENTITY savePageCmd.commandkey "U">
 <!ENTITY pageSetupCmd.label "Configuración de páxina…">
-<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY pageSetupCmd.accesskey "C">
 <!ENTITY printPreviewCmd.label "Previsualización">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.accesskey "P">
 <!ENTITY printCmd.label "Imprentar…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.commandkey "I">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Zarrar">
 <!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.commandkey "W">
+<!ENTITY closeCmd.commandkey "V">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -42,45 +42,45 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Dir a la llinia…">
-<!ENTITY goToLineCmd.accesskey "D">
+<!ENTITY goToLineCmd.label "Go to Line…">
+<!ENTITY goToLineCmd.accesskey "C">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Ver">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
-<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadCmd.commandkey "m">
 <!ENTITY menu_wrapLongLines.title "Axustar llinies llargues"> 
-<!ENTITY menu_wrapLongLines.accesskey "x">
+<!ENTITY menu_wrapLongLines.accesskey "V">
 <!ENTITY menu_highlightSyntax.label "Resaltar sintaxis">
-<!ENTITY menu_highlightSyntax.accesskey "R">
+<!ENTITY menu_highlightSyntax.accesskey "A">
 <!ENTITY menu_textSize.label "Tamañu del testu">
-<!ENTITY menu_textSize.accesskey "m">
+<!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Aumentar">
-<!ENTITY menu_textEnlarge.accesskey "A">
+<!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "Amenorgar">
-<!ENTITY menu_textReduce.accesskey "m">
+<!ENTITY menu_textReduce.accesskey "N">
 <!ENTITY menu_textReset.label "Normal">
-<!ENTITY menu_textReset.accesskey "N">
+<!ENTITY menu_textReset.accesskey "n">
 
-<!ENTITY findOnCmd.label     "Guetar nesta páxina">
-<!ENTITY findOnCmd.accesskey "G">
-<!ENTITY findOnCmd.commandkey "t">
-<!ENTITY findAgainCmd.label  "Repitir gueta">
-<!ENTITY findAgainCmd.accesskey "R">
-<!ENTITY findAgainCmd.commandkey "R">
+<!ENTITY findOnCmd.label     "Alcontrar nesta páxina…">
+<!ENTITY findOnCmd.accesskey "P">
+<!ENTITY findOnCmd.commandkey "c">
+<!ENTITY findAgainCmd.label  "Alcontrar de nueves">
+<!ENTITY findAgainCmd.accesskey "a">
+<!ENTITY findAgainCmd.commandkey "a">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+<!ENTITY findSelectionCmd.commandkey "S">
 
 <!ENTITY backCmd.label "Atrás">
-<!ENTITY backCmd.accesskey "s">
+<!ENTITY backCmd.accesskey "B">
 <!ENTITY forwardCmd.label "Alantre">
-<!ENTITY forwardCmd.accesskey "t">
+<!ENTITY forwardCmd.accesskey "P">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
 <!ENTITY copyLinkCmd.label "Copiar allugamientu d'enllaz">
-<!ENTITY copyLinkCmd.accesskey "d">
-<!ENTITY copyEmailCmd.label "Copiar direición de corréu">
-<!ENTITY copyEmailCmd.accesskey "a">
+<!ENTITY copyLinkCmd.accesskey "g">
+<!ENTITY copyEmailCmd.label "Copiar direición de corréu-e">
+<!ENTITY copyEmailCmd.accesskey "E">
