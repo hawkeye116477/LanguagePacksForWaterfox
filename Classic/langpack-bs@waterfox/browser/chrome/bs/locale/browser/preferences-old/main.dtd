@@ -11,30 +11,30 @@
 <!ENTITY startupPrevSession.label  "Prikazati vaše prozore i tabove od zadnjeg puta">
 
 <!ENTITY homepage.label            "Početna stranica:">
-<!ENTITY homepage.accesskey        "č">
+<!ENTITY homepage.accesskey        "r">
 <!ENTITY useCurrentPage.label      "Koristi trenutnu stranicu">
-<!ENTITY useCurrentPage.accesskey  "c">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Koristi trenutne stranice">
 <!ENTITY chooseBookmark.label      "Koristi zabilješku…">
 <!ENTITY chooseBookmark.accesskey  "b">
 <!ENTITY restoreDefault.label      "Vrati na izvorne vrijednosti">
-<!ENTITY restoreDefault.accesskey  "r">
+<!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Preuzimanja">
 
 <!ENTITY saveTo.label "Spasi fajlove u">
-<!ENTITY saveTo.accesskey "v">
+<!ENTITY saveTo.accesskey "P">
 <!ENTITY chooseFolderWin.label        "Pregled…">
-<!ENTITY chooseFolderWin.accesskey    "P">
+<!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Izaberi…">
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAskWhere.label         "Uvijek vas pitati gdje želite spasiti fajl">
-<!ENTITY alwaysAskWhere.accesskey     "a">
+<!ENTITY alwaysAskWhere.accesskey     "O">
 
 <!ENTITY alwaysCheckDefault2.label        "Uvijek provjeravaj da li je &brandShortName; glavni browser">
-<!ENTITY alwaysCheckDefault2.accesskey    "g">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Učini izvornim">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "i">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "N">
 <!ENTITY isDefault.label                  "&brandShortName; je trenutno vaš glavni browser">
 <!ENTITY isNotDefault.label               "&brandShortName; trenutno nije vaš glavni browser">
 
@@ -47,7 +47,7 @@
 
 <!ENTITY localeSelect.label               "Locale Select">
 
-<!ENTITY newtabsoptions.label "New Tab">
+<!ENTITY newtabsoptions.label "Novi tab">
 <!ENTITY newtabenabled.label "Enable new tab page">
 <!ENTITY newtabsearch.label "Enable search bar on New Tab (reload page)">
 <!ENTITY newtabthumbnail.label "Disable thumbnail capturing on new tab page">
