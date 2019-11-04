@@ -21,9 +21,9 @@
 <!ENTITY  panePrivacy.title       "Buhez prevez">
 <!ENTITY  paneContainers.title    "Ivinelloù endalc'her">
 <!ENTITY  paneSecurity.title      "Diogelroez">
-<!ENTITY  paneAdvanced.title      "Kempleshoc'h…">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneAdvanced.title      "Kempleshoc'h">
 
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
 
 <!ENTITY  helpButton.label        "Skoazell">
