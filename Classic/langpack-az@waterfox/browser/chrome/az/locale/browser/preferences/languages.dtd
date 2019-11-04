@@ -7,12 +7,12 @@
 <!ENTITY languages.customize.Header                     "Dillər">
 <!ENTITY languages.customize.description                "Bəzi səhifələr birdən çox dil dəstəyi verə bilər. Göstəriləcək dil sıralamasını aşağıdakı pəncərədən seçə bilərsiniz.">
 <!ENTITY languages.customize.moveUp.label               "Yuxarıya">
-<!ENTITY languages.customize.moveUp.accesskey           "u">
+<!ENTITY languages.customize.moveUp.accesskey           "g">
 <!ENTITY languages.customize.moveDown.label             "Aşağı apar">
-<!ENTITY languages.customize.moveDown.accesskey         "A">
+<!ENTITY languages.customize.moveDown.accesskey         "D">
 <!ENTITY languages.customize.deleteButton.label         "Sil">
-<!ENTITY languages.customize.deleteButton.accesskey     "S">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
 <!ENTITY languages.customize.selectLanguage.label       "Əlavə ediləcək dili seçin…">
 <!ENTITY languages.customize.addButton.label            "Əlavə et">
-<!ENTITY languages.customize.addButton.accesskey        "a">
+<!ENTITY languages.customize.addButton.accesskey        "H">
 
