@@ -4,20 +4,21 @@
 
 <!ENTITY  general.label                 "Opće">
 
+<!ENTITY  warnOnAddonInstall2.label       "Warn you when websites try to install add-ons">
+<!ENTITY  warnOnAddonInstall2.accesskey   "P">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
 <!ENTITY  enableSafeBrowsing.label        "Blokiraj opasan i obmanjujući sadržaj">
-<!ENTITY  enableSafeBrowsing.accesskey    "B">
+<!ENTITY  enableSafeBrowsing.accesskey    "b">
 
 <!ENTITY  blockDownloads.label            "Blokiraj opasna preuzimanja">
-<!ENTITY  blockDownloads.accesskey        "o">
+<!ENTITY  blockDownloads.accesskey        "N">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "Upozoriti vas na neželjene ili neobične programe">
-<!ENTITY  blockUncommonAndUnwanted.accesskey "g">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "Izuzeci…">
 <!ENTITY  addonExceptions.accesskey     "e">
@@ -25,20 +26,15 @@
 
 <!ENTITY  logins.label                  "Prijave">
 
-
+<!ENTITY  rememberLogins2.label         "Remember logins for websites">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Izuzeci…">
-<!ENTITY  passwordExceptions.accesskey  "I">
+<!ENTITY  passwordExceptions.accesskey  "z">
 
 <!ENTITY  useMasterPassword.label        "Koristi glavnu lozinku…">
-<!ENTITY  useMasterPassword.accesskey    "g">
+<!ENTITY  useMasterPassword.accesskey    "V">
 <!ENTITY  changeMasterPassword.label     "Promijeni glavnu lozinku…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
 <!ENTITY  savedLogins.label              "Spašene prijave…">
-<!ENTITY  savedLogins.accesskey          "j">
-
-<!ENTITY  rememberLogins2.accesskey     "R">
-<!ENTITY  rememberLogins2.label         "Remember logins for websites">
-<!ENTITY  warnOnAddonInstall2.accesskey   "W">
-
-<!ENTITY  warnOnAddonInstall2.label       "Warn you when websites try to install add-ons">
+<!ENTITY  savedLogins.accesskey          "K">
