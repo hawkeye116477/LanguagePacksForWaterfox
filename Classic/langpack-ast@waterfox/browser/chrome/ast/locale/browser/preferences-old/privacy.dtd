@@ -4,19 +4,19 @@
 
 <!ENTITY  trackingProtectionHeader.label       "Usar proteición de rastrexu">
 <!ENTITY  trackingProtectionAlways.label       "Siempres">
-<!ENTITY  trackingProtectionAlways.accesskey   "i">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Namái en ventanes privaes">
-<!ENTITY  trackingProtectionPrivate.accesskey  "m">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Enxamás">
-<!ENTITY  trackingProtectionNever.accesskey    "x">
-<!ENTITY  trackingProtectionLearnMore.label    "Deprender más">
-<!ENTITY  trackingProtectionExceptions.label   "Esceiciones…">
-<!ENTITY  trackingProtectionExceptions.accesskey "s">
+<!ENTITY  trackingProtectionNever.accesskey    "n">
+<!ENTITY  trackingProtectionLearnMore.label    "Learn more">
+<!ENTITY  trackingProtectionExceptions.label   "Exceptions…">
+<!ENTITY  trackingProtectionExceptions.accesskey "c">
 
-<!ENTITY tracking.label                 "Siguir">
+<!ENTITY tracking.label                 "Rastrexu">
 <!ENTITY trackingProtectionPBM5.label         "Usar proteición de rastrexu en Ventanes Privaes">
-<!ENTITY trackingProtectionPBM5.accesskey     "r">
-<!ENTITY trackingProtectionPBMLearnMore.label "Deprender más">
+<!ENTITY trackingProtectionPBM5.accesskey     "P">
+<!ENTITY trackingProtectionPBMLearnMore.label "Learn more">
 <!ENTITY changeBlockList.label          "Camudar llista de bloquéu">
 <!ENTITY changeBlockList.accesskey      "C">
 
@@ -32,40 +32,40 @@
 
 <!ENTITY  locbar.suggest.label          "Al usar la barra de direiciones, suxerir:">
 <!ENTITY  locbar.history.label          "Historial">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.history.accesskey      "A">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
-<!ENTITY  locbar.bookmarks.accesskey    "M">
+<!ENTITY  locbar.bookmarks.accesskey    "y">
 <!ENTITY  locbar.openpage.label         "Abrir llingüetes">
 <!ENTITY  locbar.openpage.accesskey     "A">
 <!ENTITY  locbar.searches.label         "Guetes rellacionaes dende'l guetador por defeutu">
-<!ENTITY  locbar.searches.accesskey     "s">
+<!ENTITY  locbar.searches.accesskey     "v">
 
 <!ENTITY  suggestionSettings.label      "Camudar preferencies pa les suxerencies del motor de gueta…">
-<!ENTITY  suggestionSettings.accesskey  "d">
+<!ENTITY  suggestionSettings.accesskey  "a">
 
-<!ENTITY  acceptCookies.label           "Aceutar cookies de les webs">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies2.label          "Accept cookies from websites">
+<!ENTITY  acceptCookies2.accesskey      "T">
 
 <!ENTITY  acceptThirdParty.pre.label      "Aceutar les cookies de terceres partes:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Siempre">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+<!ENTITY  acceptThirdParty.always.label   "Siempres">
 <!ENTITY  acceptThirdParty.never.label    "Enxamás">
 <!ENTITY  acceptThirdParty.visited.label  "De los visitaos">
 
 <!ENTITY  keepUntil.label               "Caltener hasta que:">
-<!ENTITY  keepUntil.accesskey           "h">
+<!ENTITY  keepUntil.accesskey           "C">
 
 <!ENTITY  expire.label                  "caduquen">
 <!ENTITY  close.label                   "zarre &brandShortName;">
 
-<!ENTITY  cookieExceptions.label        "Esceiciones…">
+<!ENTITY  cookieExceptions.label        "Exceptions…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
 <!ENTITY  showCookies.label             "Amosar cookies…">
-<!ENTITY  showCookies.accesskey         "s">
+<!ENTITY  showCookies.accesskey         "U">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; podría:">
-<!ENTITY  historyHeader.pre.accesskey      "p">
+<!ENTITY  historyHeader.pre.accesskey      "f">
 <!ENTITY  historyHeader.remember.label     "Recordar l'historial">
 <!ENTITY  historyHeader.dontremember.label "Nun recordar historial">
 <!ENTITY  historyHeader.custom.label       "Usar una configuración personalizada pal historial">
@@ -91,30 +91,26 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Usar siempres el mou Restolar en privao">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.accesskey "i">
 
 <!ENTITY  rememberHistory2.label      "Recordar el mio historial de descargues y navegación">
-<!ENTITY  rememberHistory2.accesskey  "o">
+<!ENTITY  rememberHistory2.accesskey  "x">
 
 <!ENTITY  rememberSearchForm.label       "Recordar l'historial de formularios y guetes">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "c">
 
 <!ENTITY  clearOnClose.label             "Llimpiar l'historial cuando &brandShortName; se zarre">
-<!ENTITY  clearOnClose.accesskey         "r">
+<!ENTITY  clearOnClose.accesskey         "m">
 
-<!ENTITY  clearOnCloseSettings.label     "Axustes…">
-<!ENTITY  clearOnCloseSettings.accesskey "C">
+<!ENTITY  clearOnCloseSettings.label     "Configuración…">
+<!ENTITY  clearOnCloseSettings.accesskey "l">
 
-<!ENTITY  browserContainersHeader.label         "Llingüetes contenedores">
-<!ENTITY  browserContainersLearnMore.label      "Deprendi más">
+<!ENTITY  browserContainersHeader.label         "Llingüetes contenedor">
+<!ENTITY  browserContainersLearnMore.label      "Learn more">
 <!ENTITY  browserContainersEnabled.label        "Habilitar llingüetes contenedores">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
-<!ENTITY  browserContainersSettings.label        "Axustes…">
-<!ENTITY  browserContainersSettings.accesskey    "u">
-
-<!ENTITY  acceptCookies2.accesskey      "A">
-
-<!ENTITY  acceptCookies2.label          "Accept cookies from websites">
+<!ENTITY  browserContainersSettings.label        "Configuración…">
+<!ENTITY  browserContainersSettings.accesskey    "e">
 
 <!-- Geo Location Via Checkbox Tweak -->
 <!ENTITY  geographicalLocation.label            "Geographical Location">
