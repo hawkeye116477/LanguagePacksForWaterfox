@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "&brandShortName; trenutno radi offline">
 <!ENTITY  offline.description             "&brandShortName; treba da ide online kako bi provjerio da li postoji ikakav update dostupan za vaše add-one koji bi ih učinio kompatibilnim sa ovom verzijom.">
 <!ENTITY  offline.toggleOffline.label     "Idi online sada.">
-<!ENTITY  offline.toggleOffline.accesskey "I">
+<!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "Nekompatibilni Add-oni">
 <!ENTITY  mismatch.top.label              "Sljedeći add-oni nisu kompatibilni sa ovom verzijom &brandShortName;a i stoga su onemogućeni:">
@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "Izaberite add-one koje želite instalirati:">
 <!ENTITY  found.disabledXPinstall.label   "Ovi updatei ne mogu biti instalirani zato što je instalacija softvera trenutno onemogućena. Ovu postavku možete promijeniti ispod.">
 <!ENTITY  found.enableXPInstall.label     "Dozvolite web stranicama da instaliraju softver">
-<!ENTITY  found.enableXPInstall.accesskey "a">
+<!ENTITY  found.enableXPInstall.accesskey "O">
 
 <!ENTITY  installing.wizard.title         "Instaliram kompatibilne add-one">
 <!ENTITY  installing.top.label            "Preuzimam i instaliram update za vaše add-one…">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Problemi prilikom instaliranja updatea">
 <!ENTITY  installerrors.intro.label       "&brandShortName; je uočio određene probleme za vrijeme updatea nekih vaših add-ona.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Kliknite &quot;Završi&quot; kako biste nastavili pokretanje &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Kliknite &quot;Gotovo&quot; za nastavak pokretanja &brandShortName;.">
 <!ENTITY  enableChecking.label            "Dozvoli &brandShortName;u da provjerava ima li updatea.">
