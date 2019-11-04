@@ -5,30 +5,30 @@
 <!-- The page shown when logged in... -->
 
 <!ENTITY engine.bookmarks.label     "Bogmærker">
-<!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Åbne faneblade">
-<!ENTITY engine.tabs.accesskey      "f">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Historik">
-<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.history.accesskey   "D">
 <!ENTITY engine.logins.label        "Logins">
 <!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Indstillinger">
 <!ENTITY engine.prefs.accesskey     "I">
 <!ENTITY engine.addons.label        "Tilføjelser">
-<!ENTITY engine.addons.accesskey    "T">
+<!ENTITY engine.addons.accesskey    "O">
 <!ENTITY engine.addresses.label     "Adresser">
-<!ENTITY engine.addresses.accesskey "A">
+<!ENTITY engine.addresses.accesskey "s">
 <!ENTITY engine.creditcards.label   "Betalingskort">
-<!ENTITY engine.creditcards.accesskey "e">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Enhedens navn">
 <!ENTITY changeSyncDeviceName2.label "Skift navn for enheden…">
-<!ENTITY changeSyncDeviceName2.accesskey "k">
+<!ENTITY changeSyncDeviceName2.accesskey "l">
 <!ENTITY cancelChangeSyncDeviceName.label "Annuller">
-<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "I">
 <!ENTITY saveChangeSyncDeviceName.label "Gem">
-<!ENTITY saveChangeSyncDeviceName.accesskey "G">
+<!ENTITY saveChangeSyncDeviceName.accesskey "d">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjenestevilkår">
@@ -52,24 +52,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Du er ikke logget ind.">
 <!ENTITY signIn.label                "Log ind">
-<!ENTITY signIn.accesskey            "L">
+<!ENTITY signIn.accesskey            "S">
 <!ENTITY profilePicture.tooltip      "Skift profilbillede">
 <!ENTITY verifiedManage.label        "Håndter konto">
-<!ENTITY verifiedManage.accesskey    "H">
-<!ENTITY disconnect3.label            "Afbryd…">
-<!ENTITY disconnect3.accesskey        "A">
+<!ENTITY verifiedManage.accesskey    "R">
+<!ENTITY disconnect3.label           "Afbryd…">
+<!ENTITY disconnect3.accesskey       "N">
 <!ENTITY verify.label                "Bekræft mailadresse">
-<!ENTITY verify.accesskey            "B">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Glem denne mailadresse">
-<!ENTITY forget.accesskey            "G">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY signedOut.caption            "Tag dit net med dig">
 <!ENTITY signedOut.description        "Synkroniser dine bogmærker, historik, faneblade, adgangskoder, tilføjelser og indstillinger mellem alle dine enheder.">
 <!ENTITY signedOut.accountBox.title   "Opret forbindelse med en &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Opret en konto">
-<!ENTITY signedOut.accountBox.create.accesskey  "O">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Log ind">
-<!ENTITY signedOut.accountBox.signin.accesskey  "i">
+<!ENTITY signedOut.accountBox.signin.accesskey  "o">
 
 <!ENTITY signedIn.settings.label       "Indstillinger for synkronisering">
 <!ENTITY signedIn.settings.description "Vælg, hvad der skal synkroniseres på dine enheder med &brandShortName; installeret.">
