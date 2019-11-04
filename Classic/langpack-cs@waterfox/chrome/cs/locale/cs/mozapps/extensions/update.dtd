@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "&brandShortName; je v režimu offline">
 <!ENTITY  offline.description             "&brandShortName; potřebuje přejít do režimu online, aby mohla zkontrolovat dostupnost aktualizací doplňků kompatibilních s touto verzí.">
 <!ENTITY  offline.toggleOffline.label     "Přejít do režimu online.">
-<!ENTITY  offline.toggleOffline.accesskey "P">
+<!ENTITY  offline.toggleOffline.accesskey "Z">
 
 <!ENTITY  mismatch.win.title              "Nekompatibilní doplňky">
 <!ENTITY  mismatch.top.label              "Následující doplňky nejsou kompatibilní s touto verzí aplikace &brandShortName; a byly proto zakázány:">
@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "Zvolte doplňky, které chcete nainstalovat:">
 <!ENTITY  found.disabledXPinstall.label   "Tyto aktualizace nelze nainstalovat, protože je zakázáno instalovat software. Toto nastavení můžete změnit níže.">
 <!ENTITY  found.enableXPInstall.label     "Povolit stránkám instalovat software">
-<!ENTITY  found.enableXPInstall.accesskey "P">
+<!ENTITY  found.enableXPInstall.accesskey "O">
 
 <!ENTITY  installing.wizard.title         "Instalace kompatibilních doplňků">
 <!ENTITY  installing.top.label            "Stahování a instalace aktualizací vašich doplňků…">
