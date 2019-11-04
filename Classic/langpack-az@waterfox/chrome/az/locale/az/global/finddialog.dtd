@@ -1,22 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from finddialog.xul -->
 
+<!-- extracted from finddialog.xul -->
 
 <!ENTITY findDialog.title "Bu sayfada ara">
 <!ENTITY findField.label "Mətn Tap:">
-<!ENTITY findField.accesskey "n">
+<!ENTITY findField.accesskey "i">
 <!ENTITY caseSensitiveCheckbox.label "Böyük/kiçik hərfə həssaslıq">
-<!ENTITY caseSensitiveCheckbox.accesskey "B">
+<!ENTITY caseSensitiveCheckbox.accesskey "Q">
 <!ENTITY wrapCheckbox.label "Başdan başla">
-<!ENTITY wrapCheckbox.accesskey "l">
+<!ENTITY wrapCheckbox.accesskey "p">
 <!ENTITY findButton.label "Sonrakını Tap">
 <!ENTITY findButton.accesskey "T">
-<!ENTITY cancelButton.label "ləğv et">
+<!ENTITY cancelButton.label "Ləğv et">
 <!ENTITY closeButton.label "Qapat">
 <!ENTITY up.label "Yukarı">
-<!ENTITY up.accesskey "r">
+<!ENTITY up.accesskey "g">
 <!ENTITY down.label "Aşağı">
-<!ENTITY down.accesskey "A">
+<!ENTITY down.accesskey "D">
 <!ENTITY direction.label "İstiqamət">
