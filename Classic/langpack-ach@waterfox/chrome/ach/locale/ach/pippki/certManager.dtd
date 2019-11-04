@@ -16,10 +16,10 @@
 <!ENTITY certmgr.cas                          "I tye ki waraga i kom pwail ma nyutu twero me waraga:">
 <!ENTITY certmgr.orphans                      "I tye ki waraga i kom pwail ma pe moko i kwon gin mo:">
 
-<!ENTITY certmgr.detail.general_tab.title     "Weng">
-<!ENTITY certmgr.detail.general_tab.accesskey "W">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Lok kore kikore">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "L">
+<!ENTITY certmgr.detail.general_tab.title     "Lumuku">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Lok matut">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                "Kombedi tye ka moko waraga…">
 <!ENTITY certmgr.subjectinfo.label            "Kimino Bot">
@@ -43,46 +43,46 @@
 <!ENTITY certmgr.deletecert.title             "Kwany Waraga">
 
 <!ENTITY certmgr.certname                     "Nying Waraga">
-<!ENTITY certmgr.certserver                   "Lapok tic">
+<!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Kare me kwo">
-<!ENTITY certmgr.tokenname                    "Nyonyo me Gwoko tic">
+<!ENTITY certmgr.tokenname                    "Nyonyo me Gwoko kuc">
 <!ENTITY certmgr.begins                       "Cake ikom">
 <!ENTITY certmgr.expires                      "Kare ne kato Inino">
 <!ENTITY certmgr.email                        "Kanonge me email">
 <!ENTITY certmgr.serial                       "Nying Namba">
 
-<!ENTITY certmgr.close.label                  "Lo">
-<!ENTITY certmgr.close.accesskey              "L">
+<!ENTITY certmgr.close.label                  "Lor">
+<!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Nen…">
-<!ENTITY certmgr.view2.accesskey              "N">
+<!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Yub Gen…">
 <!ENTITY certmgr.edit3.accesskey              "Y">
 <!ENTITY certmgr.export.label                 "Kel ki woko…">
-<!ENTITY certmgr.export.accesskey             "e">
+<!ENTITY certmgr.export.accesskey             "a">
 <!ENTITY certmgr.delete2.label                "Kwany…">
-<!ENTITY certmgr.delete2.accesskey            "K">
+<!ENTITY certmgr.delete2.accesskey            "D">
 <!ENTITY certmgr.delete_builtin.label         "Kwany onyo Pe igen…">
-<!ENTITY certmgr.delete_builtin.accesskey     "K">
-<!ENTITY certmgr.backup2.label                "Gwok…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.backup2.label                "Gwok kamukene…">
 <!ENTITY certmgr.backup2.accesskey            "G">
 <!ENTITY certmgr.backupall2.label             "Gwok Weng…">
-<!ENTITY certmgr.backupall2.accesskey         "o">
-<!ENTITY certmgr.restore2.label               "Kel ki woko…">
-<!ENTITY certmgr.restore2.accesskey           "e">
+<!ENTITY certmgr.backupall2.accesskey         "T">
+<!ENTITY certmgr.restore2.label               "Import…">
+<!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Di bar me Waraga">
-<!ENTITY certmgr.details.accesskey            "W">
+<!ENTITY certmgr.details.accesskey            "w">
 <!ENTITY certmgr.fields.label                 "Wel Di bar">
-<!ENTITY certmgr.fields.accesskey             "D">
+<!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Rwom me Catibiket">
-<!ENTITY certmgr.hierarchy.accesskey2         "H">
-<!ENTITY certmgr.addException.label           "Med Weko…">
-<!ENTITY certmgr.addException.accesskey       "e">
+<!ENTITY certmgr.hierarchy.accesskey2         "K">
+<!ENTITY certmgr.addException.label           "Med ma Kikwanyo…">
+<!ENTITY certmgr.addException.accesskey       "a">
 
 <!ENTITY exceptionMgr.title                   "Med Weko Gwoko tic">
 <!ENTITY exceptionMgr.exceptionButton.label   "Mok Weko Gwoko kuc">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "M">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Bank matiyo, citowa, ki di bar pa lwak pe bi penyi me timo ma eni ni.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Lapok tic">
+<!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Kabedo:">
 <!ENTITY exceptionMgr.certlocation.download   "Nong Waraga">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
@@ -90,4 +90,4 @@
 <!ENTITY exceptionMgr.certstatus.viewCert     "Nen…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Gwok ma eni matwal">
-<!ENTITY exceptionMgr.permanent.accesskey     "G">
+<!ENTITY exceptionMgr.permanent.accesskey     "m">
