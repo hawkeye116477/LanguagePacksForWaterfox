@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "সমস্যমুক্তিৰ তথ্য">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageTitle "সমস্যামুক্তিৰ তথ্য">
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  এই পৃষ্ঠাত কাৰিকৰী তথ্য আছে যোনটো লাভদায়ক হব পাৰে যদি আপুনি এটা সমস্যা সমাধান কৰিব বিচাৰিছে। যদি আপুনি &brandShortName; ৰ সাধাৰণ প্ৰশ্ন কিছুমানৰ উত্তৰ বিচাৰিছে, আমাৰ সমৰ্থন ৱেবছাইট <a id='supportLink'>সমৰ্থন ৱেবছাইট</a> চাওক।">
 
 <!ENTITY aboutSupport.crashes.title "স্খলন সংবাদসমূহ">
@@ -18,12 +18,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionsTitle "প্ৰসাৰনসমূহ">
 <!ENTITY aboutSupport.extensionName "নাম">
 <!ENTITY aboutSupport.extensionEnabled "সামৰ্থবান কৰা আছে">
-<!ENTITY aboutSupport.extensionVersion "সংস্কৰণ">
+<!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Features">
+<!ENTITY aboutSupport.featureName "নাম">
+<!ENTITY aboutSupport.featureVersion "Version">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "পৰীক্ষামূলক বৈশিষ্ট্যসমূহ">
 <!ENTITY aboutSupport.experimentName "নাম">
@@ -32,14 +33,16 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "সক্ৰিয়">
 <!ENTITY aboutSupport.experimentEndDate "অন্তিম তাৰিখ">
 <!ENTITY aboutSupport.experimentHomepage "ঘৰপৃষ্ঠা">
-
+<!ENTITY aboutSupport.experimentBranch "Branch">
 
 <!ENTITY aboutSupport.appBasicsTitle "এপ্লিকেচন মৌলিকসমূহ">
 <!ENTITY aboutSupport.appBasicsName "নাম">
-<!ENTITY aboutSupport.appBasicsVersion "সংস্কৰণ">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Update Channel">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ইতিহাস আপডেইট কৰক">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "আপডেইটৰ ইতিহাস দেখুৱাওক">
 
@@ -52,17 +55,23 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "সামৰ্থবান কৰি থোৱা প্লাগিনসমূহ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "সংৰূপ নিৰ্মাণ কৰক">
 <!ENTITY aboutSupport.appBasicsUserAgent "ব্যৱহাৰকাৰী সহায়ক">
-
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমৰিৰ ব্যৱহাৰ">
+<!ENTITY aboutSupport.appBasicsPerformance "Performance">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Registered Service Workers">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Profiles">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "বহুপ্ৰক্ৰিয়া Windows">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Web Content Processes">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
 
-
+<!ENTITY aboutSupport.appBasicsSafeMode "Safe Mode">
 
 <!ENTITY aboutSupport.showDir.label "ডাইৰেকটৰি খোলক">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -71,14 +80,15 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "সন্ধানকাৰীত দেখুৱাওক">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Open Folder">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "গুৰুত্বপূৰ্ণ পৰিৱৰ্তিত পছন্দসমূহ">
 <!ENTITY aboutSupport.modifiedPrefsName "নাম">
 <!ENTITY aboutSupport.modifiedPrefsValue "মান">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js পছন্দসমূহ">
-<!ENTITY aboutSupport.userJSDescription "আপোনাৰ আলেখ্য ফোল্ডাৰত এটা <a id='prefs-user-js-link'>user.js file</a> আছে, যি &brandShortName; দ্বাৰা সৃষ্টি নকৰা পছন্দসমূহ অন্তৰ্ভুক্ত কৰে।">
+<!ENTITY aboutSupport.userJSDescription "আপোনাৰ আলেখ্য ফোল্ডাৰত এটা {[=-a id='prefs-user-js-link'-=]}user.js file</a> আছে, যি &brandShortName; দ্বাৰা সৃষ্টি নকৰা পছন্দসমূহ অন্তৰ্ভুক্ত কৰে।">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "গুৰুত্বপূৰ্ণ লক্ড পছন্দসমূহ">
 <!ENTITY aboutSupport.lockedPrefsName "নাম">
@@ -86,8 +96,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "গ্ৰাফিকসমূহ">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "Places Database">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integrity">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verify Integrity">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "বৃদ্ধিত GC">
@@ -95,112 +106,49 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "অভিগম্যতা">
 <!ENTITY aboutSupport.a11yActivated "সক্ৰিয়">
 <!ENTITY aboutSupport.a11yForceDisabled "অভিগম্যতা প্ৰতিৰোধ কৰক">
-
+<!ENTITY aboutSupport.a11yHandlerUsed "Accessible Handler Used">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "লাইব্ৰেৰী সংস্কৰণসমূহ">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ইনস্টল ইতিহাস">
 <!ENTITY aboutSupport.updateHistoryTitle "ইতিহাস আপডেইট কৰক">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "লিখনিক ক্লিপবৰ্ডলে কপি কৰক">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copy text to clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ৰ' তথ্যক ক্লিপবৰ্ডলে কপি কৰক">
 
 <!ENTITY aboutSupport.sandboxTitle "চেণ্ডবক্স">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY aboutSupport.a11yHandlerUsed "Accessible Handler Used">
-
-<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
-
-<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
-<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
-
-<!ENTITY aboutSupport.appBasicsOS "OS">
-<!ENTITY aboutSupport.appBasicsPerformance "Performance">
-
-<!ENTITY aboutSupport.appBasicsProcessCount "Web Content Processes">
-
-<!ENTITY aboutSupport.appBasicsProfiles "Profiles">
-
-<!ENTITY aboutSupport.appBasicsSafeMode "Safe Mode">
-
-<!ENTITY aboutSupport.appBasicsServiceWorkers "Registered Service Workers">
-
-<!ENTITY aboutSupport.appBasicsUpdateChannel "Update Channel">
-<!ENTITY aboutSupport.experimentBranch "Branch">
-
-<!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.featureName "Name">
-<!ENTITY aboutSupport.featureVersion "Version">
-<!ENTITY aboutSupport.featuresTitle "&brandShortName; Features">
-<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Crash Guard Disabled Features">
-<!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">
-<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostics">
-<!ENTITY aboutSupport.graphicsFailureLogTitle "Failure Log">
-<!ENTITY aboutSupport.graphicsFeaturesTitle "Features">
-<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
-<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
-
-<!ENTITY aboutSupport.mediaDeviceChannels "Channels">
-<!ENTITY aboutSupport.mediaDeviceFormat "Format">
-<!ENTITY aboutSupport.mediaDeviceGroup "Group">
-<!ENTITY aboutSupport.mediaDeviceLatency "Latency">
-<!ENTITY aboutSupport.mediaDeviceName "Name">
-<!ENTITY aboutSupport.mediaDevicePreferred "Preferred">
-<!ENTITY aboutSupport.mediaDeviceRate "Rate">
-<!ENTITY aboutSupport.mediaDeviceState "State">
-<!ENTITY aboutSupport.mediaDeviceVendor "Vendor">
-<!ENTITY aboutSupport.mediaInputDevicesTitle "Input Devices">
-<!ENTITY aboutSupport.mediaOutputDevicesTitle "Output Devices">
-<!ENTITY aboutSupport.mediaTitle "Media">
-<!ENTITY aboutSupport.placeDatabaseIntegrity "Integrity">
-<!ENTITY aboutSupport.placeDatabaseTitle "Places Database">
-<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verify Integrity">
-
-<!ENTITY aboutSupport.restartInSafeMode.label "Restart with Add-ons Disabled…">
-
-<!ENTITY aboutSupport.safeModeTitle "Try Safe Mode">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Rejected System Calls">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Seconds Ago">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Process Type">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
-<!ENTITY aboutSupport.sandboxSyscallIndex "#">
-<!ENTITY aboutSupport.sandboxSyscallLogTitle "Rejected System Calls">
-<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
-<!ENTITY aboutSupport.sandboxSyscallPID "PID">
-<!ENTITY aboutSupport.sandboxSyscallProcType "Process Type">
-<!ENTITY aboutSupport.sandboxSyscallTID "TID">
-<!ENTITY aboutSupport.showWin2.label "Open Folder">
+<!ENTITY aboutSupport.safeModeTitle "Try Safe Mode">
+<!ENTITY aboutSupport.restartInSafeMode.label "এড-অন সমূহ অসামৰ্থবান থকাকে পুনৰাম্ভ কৰক…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Features">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostics">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Failure Log">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Crash Guard Disabled Features">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
+
+<!ENTITY aboutSupport.mediaTitle "মাধ্যম">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Output Devices">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Input Devices">
+<!ENTITY aboutSupport.mediaDeviceName "নাম">
+<!ENTITY aboutSupport.mediaDeviceGroup "Group">
+<!ENTITY aboutSupport.mediaDeviceVendor "Vendor">
+<!ENTITY aboutSupport.mediaDeviceState "State">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferred">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Channels">
+<!ENTITY aboutSupport.mediaDeviceRate "Rate">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latency">
 
 <!ENTITY aboutSupport.appBasicsBinary "Application Binary">
