@@ -12,9 +12,9 @@
 <!ENTITY aboutWarningCheckbox.label "Zobrazit příště toto varování">
 
 <!ENTITY searchPrefs.label "Hledat:">
-<!ENTITY searchPrefs.accesskey "H">
-<!ENTITY focusSearch.key "r">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY searchPrefs.accesskey "S">
+<!ENTITY focusSearch.key "S">
+<!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Název předvolby">
@@ -29,22 +29,22 @@
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopírovat">
-<!ENTITY copyPref.accesskey "K">
+<!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Kopírovat název">
-<!ENTITY copyName.accesskey "z">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Kopírovat hodnotu">
-<!ENTITY copyValue.accesskey "K">
+<!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Změnit">
-<!ENTITY modify.accesskey "m">
+<!ENTITY modify.accesskey "H">
 <!ENTITY toggle.label "Přepnout">
-<!ENTITY toggle.accesskey "t">
-<!ENTITY reset.label "Obnovit">
-<!ENTITY reset.accesskey "O">
-<!ENTITY new.label "Nová předvolba">
-<!ENTITY new.accesskey "N">
-<!ENTITY string.label "Řetězec">
-<!ENTITY string.accesskey "t">
-<!ENTITY integer.label "Číslo">
-<!ENTITY integer.accesskey "s">
-<!ENTITY boolean.label "Logická hodnota">
-<!ENTITY boolean.accesskey "g">
+<!ENTITY toggle.accesskey "T">
+<!ENTITY reset.label "Výchozí">
+<!ENTITY reset.accesskey "R">
+<!ENTITY new.label "New">
+<!ENTITY new.accesskey "b">
+<!ENTITY string.label "String">
+<!ENTITY string.accesskey "d">
+<!ENTITY integer.label "Integer">
+<!ENTITY integer.accesskey "I">
+<!ENTITY boolean.label "Boolean">
+<!ENTITY boolean.accesskey "z">
