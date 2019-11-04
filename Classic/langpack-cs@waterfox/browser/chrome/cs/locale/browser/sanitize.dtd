@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Časové období mazání: ">
-<!ENTITY clearTimeDuration.accesskey      "o">
+<!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "Poslední hodina">
 <!ENTITY clearTimeDuration.last2Hours     "Poslední dvě hodiny">
 <!ENTITY clearTimeDuration.last4Hours     "Poslední čtyři hodiny">
@@ -41,25 +41,25 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Podrobnosti">
-<!ENTITY detailsProgressiveDisclosure.accesskey "P">
+<!ENTITY detailsProgressiveDisclosure.accesskey "H">
 
 <!ENTITY historySection.label         "Historie">
 <!ENTITY dataSection.label            "Data">
 
 <!ENTITY itemHistoryAndDownloads.label     "Historie prohlížení a stahování">
-<!ENTITY itemHistoryAndDownloads.accesskey "H">
+<!ENTITY itemHistoryAndDownloads.accesskey "z">
 <!ENTITY itemFormSearchHistory.label       "Historie formulářů a hledání">
-<!ENTITY itemFormSearchHistory.accesskey   "f">
-<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemFormSearchHistory.accesskey   "r">
+<!ENTITY itemCookies.label                 "Správce cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Mezipaměť">
-<!ENTITY itemCache.accesskey               "a">
+<!ENTITY itemCache.accesskey               "O">
 <!ENTITY itemOfflineApps.label             "Offline obsah">
-<!ENTITY itemOfflineApps.accesskey         "O">
+<!ENTITY itemOfflineApps.accesskey         "s">
 <!ENTITY itemActiveLogins.label            "Aktivní přihlášení">
-<!ENTITY itemActiveLogins.accesskey        "l">
+<!ENTITY itemActiveLogins.accesskey        "P">
 <!ENTITY itemSitePreferences.label         "Nastavení pro daný server">
-<!ENTITY itemSitePreferences.accesskey     "s">
+<!ENTITY itemSitePreferences.accesskey     "d">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
