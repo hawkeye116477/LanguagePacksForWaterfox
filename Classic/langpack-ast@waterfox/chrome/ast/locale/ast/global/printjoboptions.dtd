@@ -10,11 +10,11 @@
 <!ENTITY paperInput.accesskey "P">
 
 <!ENTITY jobTitleInput.label "Títulu del trabayu:">
-<!ENTITY jobTitleInput.accesskey "t">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Color:">
 <!ENTITY grayRadio.label "Escala de buxos">
-<!ENTITY grayRadio.accesskey "b">
+<!ENTITY grayRadio.accesskey "C">
 <!ENTITY colorRadio.label "Color">
 <!ENTITY colorRadio.accesskey "C">
 
@@ -24,6 +24,6 @@
 <!ENTITY bottomInput.label "Baxero:">
 <!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "Izquierda:">
-<!ENTITY leftInput.accesskey "z">
+<!ENTITY leftInput.accesskey "g">
 <!ENTITY rightInput.label "Drecha:">
-<!ENTITY rightInput.accesskey "D">
+<!ENTITY rightInput.accesskey "R">
