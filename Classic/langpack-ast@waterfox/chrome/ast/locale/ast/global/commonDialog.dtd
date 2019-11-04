@@ -10,4 +10,4 @@
 <!ENTITY copyCmd.label    "Copiar">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Esbillar too">
-<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY selectAllCmd.accesskey "T">
