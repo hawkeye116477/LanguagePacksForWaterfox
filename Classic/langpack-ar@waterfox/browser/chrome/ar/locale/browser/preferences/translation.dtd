@@ -4,21 +4,21 @@
 
 <!ENTITY window.title                     "الاستثناءات - الترجمة">
 <!ENTITY window.width                     "36em">
-<!ENTITY windowClose.key                  "w">
+<!ENTITY windowClose.key                  "خ">
 
 <!ENTITY noTranslationForLanguages.label  "لن يُقترح ترجمة للغات التالية:">
-<!ENTITY treehead.languageName.label      "اللغات">
+<!ENTITY treehead.languageName.label      "اللّغات">
 <!ENTITY removeLanguage.label             "احذف اللغة">
-<!ENTITY removeLanguage.accesskey         "ح">
+<!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "احذف جميع اللغات">
-<!ENTITY removeAllLanguages.accesskey     "ذ">
+<!ENTITY removeAllLanguages.accesskey     "ق">
 
 <!ENTITY noTranslationForSites.label      "لن يُقترح ترجمة للمواقع التالية:">
 <!ENTITY treehead.siteName2.label         "مواقع وِب">
 <!ENTITY removeSite.label                 "احذف الموقع">
-<!ENTITY removeSite.accesskey             "ح">
+<!ENTITY removeSite.accesskey             "ر">
 <!ENTITY removeAllSites.label             "احذف كل المواقع">
-<!ENTITY removeAllSites.accesskey         "ذ">
+<!ENTITY removeAllSites.accesskey         "س">
 
-<!ENTITY button.close.label               "أغلق">
-<!ENTITY button.close.accesskey           "غ">
+<!ENTITY button.close.label               "أغلِق">
+<!ENTITY button.close.accesskey           "C">
