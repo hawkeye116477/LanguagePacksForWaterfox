@@ -6,11 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.label        "Override the colors specified by the page with your selections above:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
-
-<!ENTITY  overrideDefaultPageColors.always.label "সদায়">
-
-<!ENTITY  overrideDefaultPageColors.never.label  "কেতিয়াও নহয়">
+<!ENTITY  overrideDefaultPageColors.always.label "Always">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Only with High Contrast themes">
+<!ENTITY  overrideDefaultPageColors.never.label  "Never">
 
 <!ENTITY  color                           "আখৰ আৰু পৃষ্ঠভূমি">
 <!ENTITY  textColor.label                 "আখৰ:">
@@ -27,8 +28,3 @@
 <!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "ভ্ৰমণ কৰা সংযোগ:">
 <!ENTITY  visitedLinkColor.accesskey      "V">
-
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
-
-<!ENTITY  overrideDefaultPageColors.auto.label   "Only with High Contrast themes">
-<!ENTITY  overrideDefaultPageColors.label        "Override the colors specified by the page with your selections above:">
