@@ -68,12 +68,10 @@
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Obtén els noms de les funcions per a les piles">
 
-
-<!ENTITY aboutTelemetry.filterText "  Filtra (cadenes o /regexp/)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Càrrega útil">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "
   Show raw stack data
 ">
 
+<!ENTITY aboutTelemetry.filterText "  Filtra (cadenes o /regexp/)">
+
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Càrrega útil">
