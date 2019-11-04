@@ -9,11 +9,11 @@
 <!ENTITY previous.tooltip "Alcuentra l'apaición previa de la fras">
 <!ENTITY findCloseButton.tooltip "Zarra la barra de gueta">
 <!ENTITY highlightAll.label "Resaltar too">
-<!ENTITY highlightAll.accesskey "R">
+<!ENTITY highlightAll.accesskey "l">
 <!ENTITY highlightAll.tooltiptext "Resalta toles apaiciones de la fras">
 <!ENTITY caseSensitive.label "Concasar mayúscules">
-<!ENTITY caseSensitive.accesskey "C">
+<!ENTITY caseSensitive.accesskey "Z">
 <!ENTITY caseSensitive.tooltiptext "Fai concasar les mayúscules">
 <!ENTITY entireWord.label "Pallabres completes">
-<!ENTITY entireWord.accesskey "a">
+<!ENTITY entireWord.accesskey "f">
 <!ENTITY entireWord.tooltiptext "Guetar namái pallabres completes">
