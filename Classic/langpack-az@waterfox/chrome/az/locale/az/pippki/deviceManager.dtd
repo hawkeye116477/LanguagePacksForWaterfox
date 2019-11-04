@@ -13,24 +13,24 @@
 <!ENTITY devmgr.details.title2                  "Dəyər">
 
 <!ENTITY devmgr.button.login.label              "Giriş yap">
-<!ENTITY devmgr.button.login.accesskey          "p">
+<!ENTITY devmgr.button.login.accesskey          "i">
 <!ENTITY devmgr.button.logout.label             "Hesabdan çıx">
-<!ENTITY devmgr.button.logout.accesskey         "x">
+<!ENTITY devmgr.button.logout.accesskey         "A">
 <!ENTITY devmgr.button.changepw.label           "Şifrəni dəyiş">
-<!ENTITY devmgr.button.changepw.accesskey       "Ş">
+<!ENTITY devmgr.button.changepw.accesskey       "M">
 <!ENTITY devmgr.button.load.label               "Yükle">
-<!ENTITY devmgr.button.load.accesskey           "l">
+<!ENTITY devmgr.button.load.accesskey           "L">
 <!ENTITY devmgr.button.unload.label             "Boşalt">
-<!ENTITY devmgr.button.unload.accesskey         "B">
-<!ENTITY devmgr.button.fips.accesskey           "S">
+<!ENTITY devmgr.button.unload.accesskey         "g">
+<!ENTITY devmgr.button.fips.accesskey           "T">
 
 <!ENTITY loaddevice.info                        "Əlavə etmək istədiyiniz modulla bağlı məlumatı daxil edin.">
 <!ENTITY loaddevice.modname                     "Modulun Adı:">
 <!ENTITY loaddevice.modname.accesskey           "M">
 <!ENTITY loaddevice.modname.default             "Yeni PKCS#11 Modülü">
 <!ENTITY loaddevice.filename                    "Modul faylı:">
-<!ENTITY loaddevice.filename.accesskey          "d">
+<!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "Bax…">
-<!ENTITY loaddevice.browse.accesskey            "G">
+<!ENTITY loaddevice.browse.accesskey            "Ə">
 
 <!ENTITY loaddevice.title2                      "PKCS#11 cihaz sürücüsünü yüklə">
