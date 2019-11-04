@@ -3,32 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Esceiciones">
-<!ENTITY window.width                 "36em">
+<!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Sitiu">
+<!ENTITY treehead.sitename2.label     "Website">
 <!ENTITY treehead.status.label        "Estáu">
-<!ENTITY removepermission.label       "Desaniciar sitiu">
-<!ENTITY removepermission.accesskey   "e">
-<!ENTITY removeallpermissions.label   "Desaniciar tolos sitios">
-<!ENTITY removeallpermissions.accesskey "l">
+<!ENTITY removepermission2.label      "Remove Website">
+<!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.label  "Remove All Websites">
+<!ENTITY removeallpermissions2.accesskey "S">
 <!ENTITY address.label                "Direición del sitiu web:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address.accesskey            "v">
 <!ENTITY block.label                  "Bloquiar">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "Permitir na sesión">
-<!ENTITY session.accesskey            "s">
+<!ENTITY session.label                "Permitir nesta sesión">
+<!ENTITY session.accesskey            "U">
 <!ENTITY allow.label                  "Permitir">
-<!ENTITY allow.accesskey              "P">
-<!ENTITY windowClose.key              "w">
+<!ENTITY allow.accesskey              "T">
+<!ENTITY windowClose.key              "f">
 
 <!ENTITY button.cancel.label          "Encaboxar">
-<!ENTITY button.cancel.accesskey      "E">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Guardar cambeos">
-<!ENTITY button.ok.accesskey          "G">
+<!ENTITY button.ok.accesskey          "U">
 
-
-<!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY removeallpermissions2.label  "Remove All Websites">
-<!ENTITY removepermission2.accesskey  "R">
-<!ENTITY removepermission2.label      "Remove Website">
-<!ENTITY treehead.sitename2.label     "Website">
