@@ -4,21 +4,21 @@
 
 <!ENTITY  trackingProtectionHeader.label       "Brug beskyttelse mod sporing">
 <!ENTITY  trackingProtectionAlways.label       "Altid">
-<!ENTITY  trackingProtectionAlways.accesskey   "A">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Kun i private vinduer">
-<!ENTITY  trackingProtectionPrivate.accesskey  "p">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Aldrig">
-<!ENTITY  trackingProtectionNever.accesskey    "l">
-<!ENTITY  trackingProtectionLearnMore.label    "Læs mere">
+<!ENTITY  trackingProtectionNever.accesskey    "I">
+<!ENTITY  trackingProtectionLearnMore.label    "Learn more">
 <!ENTITY  trackingProtectionExceptions.label   "Undtagelser…">
-<!ENTITY  trackingProtectionExceptions.accesskey "u">
+<!ENTITY  trackingProtectionExceptions.accesskey "A">
 
 <!ENTITY tracking.label                 "Sporing">
 <!ENTITY trackingProtectionPBM5.label         "Brug beskyttelse mod sporing i private vinduer">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "Læs mere">
+<!ENTITY trackingProtectionPBM5.accesskey     "d">
+<!ENTITY trackingProtectionPBMLearnMore.label "Learn more">
 <!ENTITY changeBlockList.label          "Skift blokerings-liste">
-<!ENTITY changeBlockList.accesskey      "S">
+<!ENTITY changeBlockList.accesskey      "C">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
@@ -34,38 +34,38 @@
 <!ENTITY  locbar.history.label          "Historik">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bogmærker">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.bookmarks.accesskey    "o">
 <!ENTITY  locbar.openpage.label         "Åbne faneblade">
-<!ENTITY  locbar.openpage.accesskey     "f">
+<!ENTITY  locbar.openpage.accesskey     "b">
 <!ENTITY  locbar.searches.label         "Relaterede søgninger med standard-søgetjenesten">
-<!ENTITY  locbar.searches.accesskey     "R">
+<!ENTITY  locbar.searches.accesskey     "k">
 
 <!ENTITY  suggestionSettings.label      "Skift indstillinger for søgeforslag…">
-<!ENTITY  suggestionSettings.accesskey  "g">
+<!ENTITY  suggestionSettings.accesskey  "S">
 
 <!ENTITY  acceptCookies2.label          "Accepter cookies fra websteder">
-<!ENTITY  acceptCookies2.accesskey      "c">
+<!ENTITY  acceptCookies2.accesskey      "O">
 
 <!ENTITY  acceptThirdParty.pre.label      "Accepter tredjeparts cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "Altid">
 <!ENTITY  acceptThirdParty.never.label    "Aldrig">
 <!ENTITY  acceptThirdParty.visited.label  "Fra besøgte">
 
 <!ENTITY  keepUntil.label               "Behold indtil:">
-<!ENTITY  keepUntil.accesskey           "e">
+<!ENTITY  keepUntil.accesskey           "S">
 
 <!ENTITY  expire.label                  "De udløber">
 <!ENTITY  close.label                   "Jeg lukker &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Undtagelser…">
-<!ENTITY  cookieExceptions.accesskey    "U">
+<!ENTITY  cookieExceptions.accesskey    "R">
 
 <!ENTITY  showCookies.label             "Vis cookies…">
-<!ENTITY  showCookies.accesskey         "V">
+<!ENTITY  showCookies.accesskey         "I">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; vil:">
-<!ENTITY  historyHeader.pre.accesskey      "i">
+<!ENTITY  historyHeader.pre.accesskey      "V">
 <!ENTITY  historyHeader.remember.label     "Gemme historik">
 <!ENTITY  historyHeader.dontremember.label "Aldrig gemme historik">
 <!ENTITY  historyHeader.custom.label       "Bruge tilpassede indstillinger for historik">
@@ -91,26 +91,26 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Brug altid privat browsing-tilstand">
-<!ENTITY  privateBrowsingPermanent2.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Husk min browser- og filhentningshistorik">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.accesskey  "F">
 
 <!ENTITY  rememberSearchForm.label       "Husk formular- og søgehistorik">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Ryd historik når &brandShortName; lukkes">
-<!ENTITY  clearOnClose.accesskey         "R">
+<!ENTITY  clearOnClose.accesskey         "D">
 
 <!ENTITY  clearOnCloseSettings.label     "Indstillinger…">
-<!ENTITY  clearOnCloseSettings.accesskey "I">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersHeader.label         "Kontekst-faneblade">
-<!ENTITY  browserContainersLearnMore.label      "Læs mere">
+<!ENTITY  browserContainersLearnMore.label      "Learn more">
 <!ENTITY  browserContainersEnabled.label        "Aktiver kontekst-faneblade">
-<!ENTITY  browserContainersEnabled.accesskey    "A">
+<!ENTITY  browserContainersEnabled.accesskey    "I">
 <!ENTITY  browserContainersSettings.label        "Indstillinger…">
-<!ENTITY  browserContainersSettings.accesskey    "n">
+<!ENTITY  browserContainersSettings.accesskey    "h">
 
 <!-- Geo Location Via Checkbox Tweak -->
 <!ENTITY  geographicalLocation.label            "Geographical Location">
