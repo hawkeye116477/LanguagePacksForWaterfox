@@ -16,14 +16,14 @@
 <!ENTITY  paneGeneral.title       "Chijun">
 <!ENTITY  paneTabs.title          "Taq ruwi'">
 <!ENTITY  paneSearch.title        "Tikanöx">
-<!ENTITY  paneContent.title       "Rupam">
+<!ENTITY  paneContent.title       "rupam">
 <!ENTITY  paneApplications.title  "Taq chokoy">
 <!ENTITY  panePrivacy.title       "Ichinanem">
 <!ENTITY  paneContainers.title    "Ajk'wayöl taq ruwi'">
 <!ENTITY  paneSecurity.title      "Chajinïk">
 <!ENTITY  paneAdvanced.title      "Q'axinäq">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
 
 <!ENTITY  helpButton.label        "To'ïk">
