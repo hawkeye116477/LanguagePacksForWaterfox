@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/viewSource.xul -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -13,26 +13,26 @@
 <!ENTITY mainWindow.preface "Kama nonge iye pa: ">
 
 <!ENTITY fileMenu.label "Pwail">
-<!ENTITY fileMenu.accesskey "P">
-<!ENTITY savePageCmd.label "Gwok Pot buk Calo…">
-<!ENTITY savePageCmd.accesskey "C">
-<!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Tero pot buk…">
-<!ENTITY pageSetupCmd.accesskey "k">
+<!ENTITY fileMenu.accesskey "w">
+<!ENTITY savePageCmd.label "Gwok pot buk calo…">
+<!ENTITY savePageCmd.accesskey "I">
+<!ENTITY savePageCmd.commandkey "C">
+<!ENTITY pageSetupCmd.label "Tero Pot Buk…">
+<!ENTITY pageSetupCmd.accesskey "t">
 <!ENTITY printPreviewCmd.label "Nen kit ma obibedo ka ki goyo">
 <!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Go…">
-<!ENTITY printCmd.accesskey "G">
-<!ENTITY printCmd.commandkey "P">
+<!ENTITY printCmd.accesskey "m">
+<!ENTITY printCmd.commandkey "m">
 <!ENTITY closeCmd.label "Lor">
-<!ENTITY closeCmd.accesskey "L">
-<!ENTITY closeCmd.commandkey "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.commandkey "d">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -42,45 +42,45 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Cit i Rek…">
-<!ENTITY goToLineCmd.accesskey "C">
-<!ENTITY goToLineCmd.commandkey "1">
+<!ENTITY goToLineCmd.label "Go to Line…">
+<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Nen">
-<!ENTITY viewMenu.accesskey       "N">
-<!ENTITY reloadCmd.label "Pang nitit">
-<!ENTITY reloadCmd.accesskey "P">
-<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY reloadCmd.label "Nwo cano">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "w">
 <!ENTITY menu_wrapLongLines.title "Bo Rek Mabor"> 
-<!ENTITY menu_wrapLongLines.accesskey "B">
+<!ENTITY menu_wrapLongLines.accesskey "d">
 <!ENTITY menu_highlightSyntax.label "Syntax Puyo">
-<!ENTITY menu_highlightSyntax.accesskey "P">
+<!ENTITY menu_highlightSyntax.accesskey "K">
 <!ENTITY menu_textSize.label "Dit pa nyig Coc">
-<!ENTITY menu_textSize.accesskey "t">
+<!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Medi">
-<!ENTITY menu_textEnlarge.accesskey "M">
+<!ENTITY menu_textEnlarge.accesskey "N">
 <!ENTITY menu_textReduce.label "Dwok welle piny">
 <!ENTITY menu_textReduce.accesskey "D">
-<!ENTITY menu_textReset.label "Pwod tye kwo">
-<!ENTITY menu_textReset.accesskey "P">
+<!ENTITY menu_textReset.label "Normal">
+<!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Nong i Pot Buk Man…">
-<!ENTITY findOnCmd.accesskey "N">
+<!ENTITY findOnCmd.label     "Nong i pot buk man…">
+<!ENTITY findOnCmd.accesskey "w">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Nong Doki">
-<!ENTITY findAgainCmd.accesskey "o">
-<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.label  "Nong doki">
+<!ENTITY findAgainCmd.accesskey "l">
+<!ENTITY findAgainCmd.commandkey "l">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+<!ENTITY findSelectionCmd.commandkey "i">
 
 <!ENTITY backCmd.label "Cen">
-<!ENTITY backCmd.accesskey "C">
-<!ENTITY forwardCmd.label "Cwal">
-<!ENTITY forwardCmd.accesskey "C">
+<!ENTITY backCmd.accesskey "G">
+<!ENTITY forwardCmd.label "Anyim">
+<!ENTITY forwardCmd.accesskey "w">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "Lok Kabedo me kube">
-<!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY copyEmailCmd.label "Lok Kanonge me Email">
-<!ENTITY copyEmailCmd.accesskey "K">
+<!ENTITY copyLinkCmd.label "Lok kabedo me kakube">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "Lok kanonge me email">
+<!ENTITY copyEmailCmd.accesskey "Y">
