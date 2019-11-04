@@ -43,9 +43,9 @@
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "Пауза">
-<!ENTITY cmd.pause.accesskey              "П">
+<!ENTITY cmd.pause.accesskey              "О">
 <!ENTITY cmd.resume.label                 "Продължаване">
-<!ENTITY cmd.resume.accesskey             "П">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Прекъсване">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
@@ -53,25 +53,25 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                   "Отваряне на съдържащата папка">
-<!ENTITY cmd.show.accesskey               "п">
+<!ENTITY cmd.show.accesskey               "ц">
 <!ENTITY cmd.showMac.label                "Показване във Finder">
-<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showMac.accesskey            "ц">
 <!ENTITY cmd.retry.label                  "Повторен опит">
 <!ENTITY cmd.goToDownloadPage.label       "Отваряне на целевата страница">
-<!ENTITY cmd.goToDownloadPage.accesskey   "О">
+<!ENTITY cmd.goToDownloadPage.accesskey   "т">
 <!ENTITY cmd.copyDownloadLink.label       "Копиране на препратка за изтегляне">
-<!ENTITY cmd.copyDownloadLink.accesskey   "К">
+<!ENTITY cmd.copyDownloadLink.accesskey   "Н">
 <!ENTITY cmd.removeFromHistory.label      "Премахване от списъка">
-<!ENTITY cmd.removeFromHistory.accesskey  "П">
+<!ENTITY cmd.removeFromHistory.accesskey  "Д">
 <!ENTITY cmd.clearList2.label             "Изчистване на списъка">
-<!ENTITY cmd.clearList2.accesskey         "п">
+<!ENTITY cmd.clearList2.accesskey         "т">
 <!ENTITY cmd.clearDownloads.label         "Изчистване на списъка">
-<!ENTITY cmd.clearDownloads.accesskey     "И">
+<!ENTITY cmd.clearDownloads.accesskey     "Б">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "Разрешаване на изтеглянето">
-<!ENTITY cmd.unblock2.accesskey           "Р">
+<!ENTITY cmd.unblock2.accesskey           "б">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
