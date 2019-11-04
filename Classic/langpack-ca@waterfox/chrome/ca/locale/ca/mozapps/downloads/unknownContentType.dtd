@@ -7,11 +7,11 @@
 <!ENTITY  actionQuestion.label        "Què hauria de fer el &brandShortName; amb aquest fitxer?">
 
 <!ENTITY  openWith.label              "Obre amb">
-<!ENTITY  openWith.accesskey          "O">
+<!ENTITY  openWith.accesskey          "V">
 <!ENTITY  other.label                 "Altres…">
 
 <!ENTITY  saveFile.label              "Desa el fitxer">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.accesskey          "C">
 
 <!ENTITY  rememberChoice.label        "Fes-ho automàticament per a fitxers com aquests a partir d'ara.">
 <!ENTITY  rememberChoice.accesskey    "a">
@@ -19,8 +19,8 @@
 <!ENTITY  whichIs.label              "que és:">
 
 <!ENTITY  chooseHandlerMac.label      "Trieu…">
-<!ENTITY  chooseHandlerMac.accesskey  "T">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Navega…">
-<!ENTITY  chooseHandler.accesskey     "N">
+<!ENTITY  chooseHandler.accesskey     "B">
 
 <!ENTITY  unknownPromptText.label     "Voleu desar aquest fitxer?">
