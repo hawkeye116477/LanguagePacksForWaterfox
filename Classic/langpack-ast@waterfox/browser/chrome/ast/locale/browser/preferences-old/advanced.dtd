@@ -9,33 +9,44 @@
 <!ENTITY accessibility.label             "Accesibilidá">
 
 <!ENTITY useCursorNavigation.label       "Usar siempre les tecles del cursor pa restolar dientro de les páxines">
-<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY useCursorNavigation.accesskey   "Z">
+<!ENTITY searchOnStartTyping.label       "Search for text when you start typing">
+<!ENTITY searchOnStartTyping.accesskey   "c">
+<!ENTITY blockAutoReload.label           "Warn you when websites try to redirect or reload the page">
+<!ENTITY blockAutoReload.accesskey       "x">
 <!ENTITY useOnScreenKeyboard.label       "Amosar un tecláu en pantalla cuando seya necesario">
-<!ENTITY useOnScreenKeyboard.accesskey   "t">
+<!ENTITY useOnScreenKeyboard.accesskey   "y">
 
 <!ENTITY browsing.label                  "Restolar">
 
 <!ENTITY useAutoScroll.label             "Usar desplazamientu automáticu">
-<!ENTITY useAutoScroll.accesskey         "d">
+<!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Usar desplazamientu sele">
-<!ENTITY useSmoothScrolling.accesskey    "l">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkUserSpelling.label         "Check your spelling as you type">
+<!ENTITY checkUserSpelling.accesskey     "l">
 
 <!ENTITY dataChoicesTab.label            "Eleición de datos">
+
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Data reporting is disabled for this build configuration">
 
 <!ENTITY healthReportDesc.label          "Ayúdate a entender el rindimientu'l to restolador y comparte datos con &vendorShortName; tocante a la so salú">
 <!ENTITY enableHealthReport.label        "Activar l'informe de salú de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Deprender más">
+<!ENTITY healthReportLearnMore.label     "Learn more">
 
 <!ENTITY telemetryDesc.label             "Comparte'l rindimientu, usu, hardware y personalización de datos tocante al to restolador con &vendorShortName; p'ameyorar &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Compartir datos adicionales (p.ex., Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "C">
-<!ENTITY telemetryLearnMore.label        "Deprender más">
+<!ENTITY enableTelemetryData.accesskey   "i">
+<!ENTITY telemetryLearnMore.label        "Learn more">
 
 <!ENTITY crashReporterDesc2.label         "Los informes de fallu ayuden a &vendorShortName; a iguar problemes y facer más estable y seguru'l to restolador.">
 <!ENTITY alwaysSubmitCrashReports.label   "Permitir que &brandShortName; unvie casques atrasaos nel to nome">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Deprender más">
+<!ENTITY alwaysSubmitCrashReports.accesskey "Z">
+<!ENTITY crashReporterLearnMore.label     "Learn more">
 
 <!ENTITY networkTab.label                "Rede">
 
@@ -43,13 +54,19 @@
 
 <!ENTITY connectionDesc.label            "Configurar cómo se coneuta &brandShortName; a Internet">
 <!ENTITY connectionSettings.label        "Configuración…">
-<!ENTITY connectionSettings.accesskey    "o">
+<!ENTITY connectionSettings.accesskey    "S">
 
 <!ENTITY httpCache.label                 "Conteníu web na caché">
 
 <!ENTITY offlineStorage2.label           "Conteníu web y datos d'usuariu en mou ensin conexón">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Site Data">
+<!ENTITY clearSiteData.label             "Clear All Data">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Configuración…">
+<!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteDataLearnMoreLink.label     "Learn more">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -58,97 +75,79 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Llimitar el caché a">
-<!ENTITY limitCacheSizeBefore.accesskey  "m">
+<!ENTITY limitCacheSizeBefore.accesskey  "g">
 <!ENTITY limitCacheSizeAfter.label       "MB d'espaciu">
 <!ENTITY clearCacheNow.label             "Llimpiar agora">
-<!ENTITY clearCacheNow.accesskey         "g">
+<!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "Llimpiar agora">
-<!ENTITY clearOfflineAppCacheNow.accesskey "r">
+<!ENTITY clearOfflineAppCacheNow.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label    "Inorar l'alministración automática de caché">
-<!ENTITY overrideSmartCacheSize.accesskey "n">
+<!ENTITY overrideSmartCacheSize.accesskey "A">
 
 <!ENTITY updateTab.label                 "Anovar">
 
+<!ENTITY updateApplication.label         "&brandShortName; Updates">
 <!ENTITY updateAuto1.label               "Instalar anovamientos automáticamente (recomendáu: meyora la seguridá)">
-<!ENTITY updateAuto1.accesskey           "I">
+<!ENTITY updateAuto1.accesskey           "T">
+<!ENTITY updateCheckChoose.label         "Check for updates, but let you choose whether to install them">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "Nun comprobar anovamientos (nun se recomienda: riesgu na seguridá)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateManual.accesskey          "n">
 
 <!ENTITY updateHistory.label             "Amosar historial d'anovamientos">
-<!ENTITY updateHistory.accesskey         "m">
+<!ENTITY updateHistory.accesskey         "i">
 
 <!ENTITY useService.label                "Usar serviciu en segundu planu pa instalar los anovamientos">
-<!ENTITY useService.accesskey            "v">
+<!ENTITY useService.accesskey            "x">
 
+<!ENTITY autoUpdateOthers.label          "Automatically Update">
 <!ENTITY enableSearchUpdate.label        "Guetadores">
-<!ENTITY enableSearchUpdate.accesskey    "G">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 
+<!ENTITY offlineStorageNotify.label               "Tell you when a website asks to store data for offline use">
+<!ENTITY offlineStorageNotify.accesskey           "i">
+<!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "c">
 
 <!ENTITY offlineAppsList2.label          "Los siguientes sitios tienen permisu pa guardar datos pal mou ensin conexón:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Desaniciar...">
-<!ENTITY offlineAppsListRemove.accesskey "i">
+<!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Desaniciar conteníu en mou desconeutáu">
 
 <!ENTITY certificateTab.label            "Certificaos">
 <!ENTITY certPersonal.label              "Solicitúes">
-<!ENTITY enableOCSP.label                "Consultar a los sirvidores respondedores OCSP pa confirmar la validez actual de los certificaos">
-<!ENTITY enableOCSP.accesskey            "u">
-<!ENTITY viewCerts.label                 "Ver certificaos">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewSecurityDevices.label       "Preseos de seguridá">
-<!ENTITY viewSecurityDevices.accesskey   "o">
-
-<!ENTITY allowHWAccel.label              "Usar aceleración de hardware cuando tea disponible">
-<!ENTITY allowHWAccel.accesskey          "h">
-
-<!ENTITY autoUpdateOthers.label          "Automatically Update">
-<!ENTITY blockAutoReload.accesskey       "b">
-<!ENTITY blockAutoReload.label           "Warn you when websites try to redirect or reload the page">
 <!ENTITY certPersonal.description        "When a server requests your personal certificate:">
-<!ENTITY checkUserSpelling.accesskey     "t">
+<!ENTITY selectCerts.auto                "Select one automatically">
+<!ENTITY selectCerts.auto.accesskey      "U">
+<!ENTITY selectCerts.ask                 "Ask you every time">
+<!ENTITY selectCerts.ask.accesskey       "T">
+<!ENTITY enableOCSP.label                "Consultar a los sirvidores respondedores OCSP pa confirmar la validez actual de los certificaos">
+<!ENTITY enableOCSP.accesskey            "n">
+<!ENTITY viewCerts.label                 "Ver certificaos">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewSecurityDevices.label       "Preseos de seguridá">
+<!ENTITY viewSecurityDevices.accesskey   "N">
 
-<!ENTITY checkUserSpelling.label         "Check your spelling as you type">
-<!ENTITY clearSiteData.accesskey         "l">
-<!ENTITY clearSiteData.label             "Clear All Data">
-<!ENTITY healthReportingDisabled.label   "Data reporting is disabled for this build configuration">
-
-<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY performance.label               "Performance">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Use recommended performance settings">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "These settings are tailored to your computer’s hardware and operating system.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "D">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Learn more">
+<!ENTITY limitContentProcessOption.label "Content process limit">
 <!ENTITY limitContentProcessOption.description
                                          "Additional content processes can improve performance when using multiple tabs, but will also use more memory.">
+<!ENTITY limitContentProcessOption.accesskey   "g">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "Modifying the number of content processes is only possible with multiprocess &brandShortName;.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
                                          "Learn how to check if multiprocess is enabled">
-<!ENTITY limitContentProcessOption.label "Content process limit">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotify.label               "Tell you when a website asks to store data for offline use">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
-<!ENTITY performance.label               "Performance">
-<!ENTITY performanceSettingsLearnMore.label
-                                         "Learn more">
-<!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY searchOnStartTyping.label       "Search for text when you start typing">
-<!ENTITY selectCerts.ask                 "Ask you every time">
-<!ENTITY selectCerts.ask.accesskey       "A">
-<!ENTITY selectCerts.auto                "Select one automatically">
-<!ENTITY selectCerts.auto.accesskey      "S">
-<!ENTITY siteData.label                  "Site Data">
-<!ENTITY siteDataLearnMoreLink.label     "Learn more">
-
-<!ENTITY siteDataSettings.accesskey      "i">
-<!ENTITY siteDataSettings.label          "Settings…">
-<!ENTITY updateApplication.label         "&brandShortName; Updates">
-<!ENTITY updateCheckChoose.accesskey     "C">
-<!ENTITY updateCheckChoose.label         "Check for updates, but let you choose whether to install them">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "U">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "These settings are tailored to your computer’s hardware and operating system.">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Use recommended performance settings">
+<!ENTITY allowHWAccel.label              "Usar aceleración de hardware cuando tea disponible">
+<!ENTITY allowHWAccel.accesskey          "m">
 
 <!ENTITY featuresTab.label               "Features">
 <!ENTITY cleanFastRestartCache.label     "Clear fast restart cache on browser restart">
