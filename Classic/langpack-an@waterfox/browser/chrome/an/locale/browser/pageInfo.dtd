@@ -8,10 +8,10 @@
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Copiar">
 <!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.key         "d">
 <!ENTITY  selectall.label       "Seleccionar-lo tot">
-<!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  selectall.accesskey   "d">
+<!ENTITY  closeWindow.key       "f">
 
 <!ENTITY  generalTab            "Cheneral">
 <!ENTITY  generalTab.accesskey  "G">
@@ -28,7 +28,7 @@
 <!ENTITY  generalMetaContent    "Conteniu">
 
 <!ENTITY  mediaTab              "Meyos">
-<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaTab.accesskey    "m">
 <!ENTITY  mediaLocation         "Adreza:">
 <!ENTITY  mediaText             "Texto asociau:">
 <!ENTITY  mediaAltHeader        "Texto alternativo">
@@ -40,17 +40,17 @@
 <!ENTITY  mediaLongdesc         "Descripción larga:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Alzar como…">
-<!ENTITY  mediaSaveAs.accesskey "c">
-<!ENTITY  mediaSaveAs2.accesskey "u">
+<!ENTITY  mediaSaveAs.accesskey "d">
+<!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Vista preliminar d'o fichero multimedia:">
 
 <!ENTITY  feedTab               "Canals">
-<!ENTITY  feedTab.accesskey     "C">
+<!ENTITY  feedTab.accesskey     "p">
 <!ENTITY  feedSubscribe         "Conducir-se">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedSubscribe.accesskey "f">
 
 <!ENTITY  permTab               "Permisos">
-<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permTab.accesskey     "p">
 <!ENTITY  permUseDefault        "Usar as valuras por defecto">
 <!ENTITY  permAskAlways         "Preguntar siempre">
 <!ENTITY  permAllow             "Permitir">
@@ -60,10 +60,10 @@
 <!ENTITY  permPlugins           "Activar os plugins">
 
 <!ENTITY  permClearStorage           "Limpiar l'almagazenamiento">
-<!ENTITY  permClearStorage.accesskey "c">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Seguranza">
-<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityTab.accesskey "v">
 <!ENTITY  securityView.certView "Veyer o certificau">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Desconoixiu">
@@ -73,20 +73,17 @@
 <!ENTITY  securityView.identity.owner    "Propietario:">
 <!ENTITY  securityView.identity.domain   "Puesto web:">
 <!ENTITY  securityView.identity.verifier "Verificau por:">
-
+<!ENTITY  securityView.identity.validity "Expires on:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidat y historia">
 <!ENTITY  securityView.privacy.history                  "He visitau iste puesto web antes de hue?">
 <!ENTITY  securityView.privacy.cookies                  "Iste puesto web almagazena información (cookies) en o mío ordinador?">
 <!ENTITY  securityView.privacy.viewCookies              "Veyer as cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "d">
 <!ENTITY  securityView.privacy.passwords                "Ha alzau garra clau d'iste puesto web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Veyer as claus alzadas">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "f">
 
 <!ENTITY  securityView.technical.header                 "Detalles tecnicos">
 
 <!ENTITY  helpButton.label                              "Aduya">
-
-<!ENTITY  securityView.identity.validity "Expires on:">
-
