@@ -5,43 +5,44 @@
 <!ENTITY  popups.label                "Llamlenni">
 
 <!ENTITY  blockPopups.label           "Rhwystro ffenestri llamlen">
-<!ENTITY  blockPopups.accesskey       "R">
+<!ENTITY  blockPopups.accesskey       "N">
 
 <!ENTITY  notificationsPolicy.label            "Hysbysiadau">
-<!ENTITY  notificationsPolicyLearnMore.label   "Dysgu rhagor">
+<!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
 <!ENTITY  notificationsPolicyDesc4.label       "Dewis pa wefannau sy'n cael anfon hysbysiadau atoch">
-<!ENTITY  notificationsPolicyButton.accesskey  "D">
+<!ENTITY  notificationsPolicyButton.accesskey  "R">
 <!ENTITY  notificationsPolicyButton.label      "Dewis…">
 <!ENTITY  notificationsDoNotDisturb.label      "Peidiwch â tharfu">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "t">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "w">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ni fydd hysbysiadau'n cael eu dangos nes i chi ailgychwyn &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Eithriadau…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.accesskey   "G">
 
 <!ENTITY  fontsAndColors.label        "Ffontiau a Lliwiau">
 
 <!ENTITY  defaultFont.label           "Ffont rhagosodedig:">
-<!ENTITY  defaultFont.accesskey       "F">
+<!ENTITY  defaultFont.accesskey       "P">
 <!ENTITY  defaultSize.label           "Maint:">
-<!ENTITY  defaultSize.accesskey       "M">
+<!ENTITY  defaultSize.accesskey       "A">
 
 <!ENTITY  advancedFonts.label         "Uwch…">
-<!ENTITY  advancedFonts.accesskey     "w">
+<!ENTITY  advancedFonts.accesskey     "n">
 
 <!ENTITY  colors.label                "Lliwiau…">
-<!ENTITY  colors.accesskey            "i">
+<!ENTITY  colors.accesskey            "C">
 
 
 <!ENTITY languages.label              "Iaith">
 <!ENTITY chooseLanguage.label         "Dewis eich iaith ar gyfer dangos tudalennau">
 <!ENTITY chooseButton.label           "Dewis…">
-<!ENTITY chooseButton.accesskey       "D">
+<!ENTITY chooseButton.accesskey       "C">
 
 <!ENTITY translateWebPages.label      "Cyfieithu cynnwys gwe">
-<!ENTITY translateWebPages.accesskey  "C">
+<!ENTITY translateWebPages.accesskey  "G">
 <!ENTITY translateExceptions.label    "Eithriadau…">
-<!ENTITY translateExceptions.accesskey "i">
+<!ENTITY translateExceptions.accesskey "G">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -49,15 +50,14 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Cyfieithiadau gan">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY  drmContent.label             "Cynnwys DRM">
 
 <!ENTITY  playDRMContent.label         "Chwarae cynnwys DRM">
-<!ENTITY  playDRMContent.accesskey     "C">
-<!ENTITY  playDRMContent.learnMore.label "Dysgu rhagor">
+<!ENTITY  playDRMContent.accesskey     "F">
+<!ENTITY  playDRMContent.learnMore.label "Learn more">
 
 <!ENTITY images.label "Images">
 <!ENTITY loadImages.label "Load images automatically">
