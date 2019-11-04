@@ -16,10 +16,10 @@
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text      "Pokud vytváříte profily, musíte si je nějak nazvat. Můžete použít buď předvolený název nebo si zvolit vlastní.">
 <!ENTITY profilePrompt.label            "Zadejte nový název profilu:">
-<!ENTITY profilePrompt.accesskey        "n">
+<!ENTITY profilePrompt.accesskey        "a">
 <!ENTITY profileDirectoryExplanation.text   "Vaše uživatelské nastavení, předvolby a další uživatelská data budou uložena v:">
 <!ENTITY profileDefaultName             "Nepojmenovaný">
 <!ENTITY button.choosefolder.label      "Vybrat složku…">
-<!ENTITY button.choosefolder.accesskey  "V">
+<!ENTITY button.choosefolder.accesskey  "C">
 <!ENTITY button.usedefault.label        "Použít výchozí složku">
-<!ENTITY button.usedefault.accesskey    "u">
+<!ENTITY button.usedefault.accesskey    "t">
