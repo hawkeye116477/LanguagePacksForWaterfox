@@ -51,7 +51,11 @@
 ">
 
 <!ENTITY captivePortal.title "Aniciu de sesión na rede">
+<!ENTITY captivePortal.longDesc2 "
+<p>You must log in to this network before you can access the Internet.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Open Network Login Page">
 
 <!ENTITY malformedURI.title "La direición nun ye válida">
 <!ENTITY malformedURI.longDesc "
@@ -86,12 +90,12 @@
 <!ENTITY unsafeContentType.title "Triba de ficheru insegura">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li>
+  <li>Contauta colos dueños del sitiu pa informa-yos d'esti problema, por favor.</li>
 </ul>
 ">
 
 <!ENTITY netReset.title "Reanicióse la conexón">
-<!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse mientres se negociaba una conexón. Por favor, vuelvi a intentalo.</p>">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Escosó'l tiempu de conexón">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
@@ -187,6 +191,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; did not connect to <span id='wrongSystemTime_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; did not connect to <span id='wrongSystemTimeWithoutReference_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTimeWithoutReference_systemDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexón insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Esti sitiu usa HTTP
@@ -202,13 +208,3 @@ esti certificáu.">
 
 <!ENTITY prefReset.longDesc "Paez que los tos axustes de seguranza de rede puen tar causando esto. ¿Quies reafitalos?">
 <!ENTITY prefReset.label "Reafitar axustes">
-
-<!ENTITY captivePortal.longDesc2 "
-<p>You must log in to this network before you can access the Internet.</p>
-">
-
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; did not connect to <span id='wrongSystemTime_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; did not connect to <span id='wrongSystemTimeWithoutReference_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTimeWithoutReference_systemDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
-
-<!ENTITY openPortalLoginPage.label2 "Open Network Login Page">
-
