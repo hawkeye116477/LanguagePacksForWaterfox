@@ -10,27 +10,27 @@
 
 <!ENTITY devmgr.devlist.label                   "وحدات الأمن وأجهزته">
 <!ENTITY devmgr.details.title                   "التفاصيل">
-<!ENTITY devmgr.details.title2                  "القيمة">
+<!ENTITY devmgr.details.title2                  "قيمة">
 
 <!ENTITY devmgr.button.login.label              "لُج">
-<!ENTITY devmgr.button.login.accesskey          "ل">
+<!ENTITY devmgr.button.login.accesskey          "ف">
 <!ENTITY devmgr.button.logout.label             "اخرج">
-<!ENTITY devmgr.button.logout.accesskey         "خ">
+<!ENTITY devmgr.button.logout.accesskey         "ف">
 <!ENTITY devmgr.button.changepw.label           "غيّر كلمة السرّ">
-<!ENTITY devmgr.button.changepw.accesskey       "غ">
+<!ENTITY devmgr.button.changepw.accesskey       "خ">
 <!ENTITY devmgr.button.load.label               "حمِّل">
-<!ENTITY devmgr.button.load.accesskey           "ح">
+<!ENTITY devmgr.button.load.accesskey           "ه">
 <!ENTITY devmgr.button.unload.label             "ألغِ التّحميل">
-<!ENTITY devmgr.button.unload.accesskey         "غ">
-<!ENTITY devmgr.button.fips.accesskey           "م">
+<!ENTITY devmgr.button.unload.accesskey         "د">
+<!ENTITY devmgr.button.fips.accesskey           "ش">
 
 <!ENTITY loaddevice.info                        "أدخل معلومات الوحدة التي تريد إضافتها.">
 <!ENTITY loaddevice.modname                     "اسم الوحدة:">
-<!ENTITY loaddevice.modname.accesskey           "د">
+<!ENTITY loaddevice.modname.accesskey           "ق">
 <!ENTITY loaddevice.modname.default             "وحدة PKCS#11 جديدة">
 <!ENTITY loaddevice.filename                    "اسم ملفّ الوحدة:">
-<!ENTITY loaddevice.filename.accesskey          "م">
+<!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "تصفّح…">
-<!ENTITY loaddevice.browse.accesskey            "ص">
+<!ENTITY loaddevice.browse.accesskey            "ش">
 
 <!ENTITY loaddevice.title2                      "حمِّل مشغّل جهاز PKCS#11">
