@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "Fallu de carga de páxina">
-<!ENTITY retry.label "Retentar">
+<!ENTITY retry.label "Tentar de nueves">
 
 <!-- Specific error messages -->
 
@@ -19,7 +19,7 @@
 <!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Ye dable que l'elementu se renomase, desaniciase o camudase'l so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru fallu al escribir la direición?</li><li>¿Tienes privilexos d'accesu pal elementu solicitáu?</li></ul>">
 
-<!ENTITY fileAccessDenied.title "Ñegóse l'accesu al ficheru">
+<!ENTITY fileAccessDenied.title "Ñegose l'accesu al ficheru">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Quiciabes tea desaniciáu, movíu o que los permisos del ficheru tean evitando l'accesu.</li>
@@ -44,10 +44,12 @@
 <!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
 <!ENTITY contentEncodingError.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque usa una forma non válida o non almitía de compresión.</p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Tipu de ficheru non seguru">
-<!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li>
-</ul>">
+<!ENTITY unsafeContentType.title "Triba de ficheru insegura">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Contauta colos dueños del sitiu pa informa-yos d'esti problema, por favor.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Conexón interrumpida">
 <!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse entrín se negociaba una conexón. Volvi tentalo, por favor.</p>">
@@ -86,16 +88,16 @@
 <p>Si entá deseyes amestar una esceición pa esti sitiu, pues facelo nos tos axustes de cifráu avanzáu.</p>
 ">
 
-<!ENTITY cspBlocked.title "Bloquiáu por polítiques de seguridá de conteníu">
+<!ENTITY cspBlocked.title "Bloquiáu pola política de seguranza de conteníu">
 <!ENTITY cspBlocked.longDesc "<p>El restolador torgó qu'esta páxina se cargue d'esti mou porque la páxina tien una política de seguridá de conteníu que lo impide.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque deteutóse un fallu na tresmisión de los datos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti fallu.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Contauta colos dueños del sitiu pa informa-yos d'esti problema, por favor.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Remotu">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "La to conexón nun ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría revelar cenciellamente información que cuidabes que taba segura. L'alministrador del sitiu web precisará iguar primero'l sirvidor enantes que pueas visitalu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría, de mou cenciellu, revelar información personal que pensabes que taba segura. L'alministrador del sitiu web precisará iguar el sirvidor enantes que pueas visitalu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
