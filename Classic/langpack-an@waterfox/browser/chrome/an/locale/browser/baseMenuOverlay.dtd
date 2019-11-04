@@ -17,7 +17,7 @@
 <!ENTITY aboutProduct2.label      "Arredol d'o &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "d">
 <!ENTITY productHelp2.label       "Aduya d'o &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "A">
+<!ENTITY productHelp2.accesskey   "u">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Alcorces de teclau">
@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Servicios">
 
 <!ENTITY hideThisAppCmdMac2.label       "Amagar o &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "g">
+<!ENTITY hideThisAppCmdMac2.commandkey  "u">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Amagar os atros">
-<!ENTITY hideOtherAppsCmdMac.commandkey "g">
+<!ENTITY hideOtherAppsCmdMac.commandkey "u">
 
 <!ENTITY showAllAppsCmdMac.label        "Amostrar-lo tot">
