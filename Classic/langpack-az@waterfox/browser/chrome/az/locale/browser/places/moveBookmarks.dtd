@@ -6,4 +6,4 @@
 <!ENTITY window.style              "width: 36em; height: 18em;">
 <!ENTITY moveTo.label              "Bura köçür:">
 <!ENTITY newFolderButton.label     "Yeni qovluq">
-<!ENTITY newFolderButton.accesskey "q">
+<!ENTITY newFolderButton.accesskey "N">
