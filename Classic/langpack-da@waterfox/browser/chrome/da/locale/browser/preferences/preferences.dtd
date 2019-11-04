@@ -15,7 +15,7 @@
 
 <!ENTITY  paneSearchResults.title       "Søgeresultater">
 <!ENTITY  paneGeneral.title             "Generelt">
-<!ENTITY  paneSearch.title              "Søgning">
+<!ENTITY  paneSearch.title              "Søgefelt">
 <!ENTITY  paneFilesApplications.title   "Filer &amp; programmer">
 <!ENTITY  panePrivacySecurity.title     "Privatliv &amp; sikkerhed">
 <!ENTITY  paneContainers.title          "Kontekst-faneblade">
@@ -25,7 +25,7 @@
 <!ENTITY  filesAndApplications.label    "Filer og programmer">
 <!ENTITY  browserPrivacy.label          "Beskyttelse af privatliv">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Waterfox-konto">
 
 <!ENTITY  helpButton2.label        "Hjælp til &brandShortName;">
