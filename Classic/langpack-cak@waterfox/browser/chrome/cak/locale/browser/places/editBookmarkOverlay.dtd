@@ -3,26 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editBookmarkOverlay.name.label                      "b'i'aj:">
-<!ENTITY editBookmarkOverlay.name.accesskey                  "b">
-<!ENTITY editBookmarkOverlay.location.label                  "Ochochib'äl">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
+<!ENTITY editBookmarkOverlay.location.label                  "Ochochib'al:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "O">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Rochochib'al ri KANAL:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "i">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "c">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Rub'ey ruxaq k'amaya'l">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "b">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "K">
 <!ENTITY editBookmarkOverlay.folder.label                    "Yakwuj:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Kek'ut pe konojel ri taq kiyakwuj  yaketal ">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Tewäx">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etal:">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "a">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "E">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Ke'ajacha' taq etal rik'in KOMA">
 <!ENTITY editBookmarkOverlay.description.label               "Cholonem">
-<!ENTITY editBookmarkOverlay.description.accesskey           "C">
+<!ENTITY editBookmarkOverlay.description.accesskey           "M">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Ruk'u'x tzij:">
-<!ENTITY editBookmarkOverlay.keyword.accesskey               "k">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Kek'ut ronojel ri taq etal">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Tijotob'äx el re jun etal re' pa PANEL LATERAL">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "e">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "k">
 <!ENTITY editBookmarkOverlay.choose.label                    "Ticha'…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "K'ak'a' yakwuj">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "w">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "n">
