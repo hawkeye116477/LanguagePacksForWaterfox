@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  typeColumn.label        "نوع المحتوى">
-<!ENTITY  typeColumn.accesskey    "ن">
+<!ENTITY  typeColumn.accesskey    "ط">
 
 <!ENTITY  actionColumn2.label     "الإجراء">
-<!ENTITY  actionColumn2.accesskey "ج">
+<!ENTITY  actionColumn2.accesskey "ع">
 
 <!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
+<!ENTITY  focusSearch2.key        "ع">
 
 <!ENTITY  filter.emptytext        "ابحث">
