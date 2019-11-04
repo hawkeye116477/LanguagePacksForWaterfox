@@ -11,7 +11,7 @@
 <!ENTITY blocklist.moreinfo          "Повече информация">
 
 <!ENTITY blocklist.accept.label      "Рестартиране на &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "Р">
+<!ENTITY blocklist.accept.accesskey  "R">
 
 <!ENTITY blocklist.blocked.label     "Блокирано">
 <!ENTITY blocklist.checkbox.label    "Изключване">
