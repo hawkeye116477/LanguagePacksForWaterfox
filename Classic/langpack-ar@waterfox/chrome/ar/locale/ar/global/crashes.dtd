@@ -5,7 +5,7 @@
 <!ENTITY crashReports.title         "بلاغات الانهيار">
 <!ENTITY crashesUnsubmitted.label   "بلاغات الانهيار غير المُرسلة">
 <!ENTITY crashesSubmitted.label     "بلاغات الانهيار المُرسلة">
-<!ENTITY id.heading                 "معرّف الانهيار">
+<!ENTITY id.heading                 "معرّف البلاغ">
 <!ENTITY dateCrashed.heading        "تاريخ الانهيار">
 <!ENTITY dateSubmitted.heading      "تاريخ الإرسال">
 <!ENTITY noReports.label            "لم تُرسل أي بلاغات بانهيار.">
