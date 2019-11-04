@@ -8,13 +8,13 @@
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Copïo">
 <!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.key         "n">
 <!ENTITY  selectall.label       "Dewis Popeth">
-<!ENTITY  selectall.accesskey   "P">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  selectall.accesskey   "n">
+<!ENTITY  closeWindow.key       "G">
 
 <!ENTITY  generalTab            "Cyffredinol">
-<!ENTITY  generalTab.accesskey  "C">
+<!ENTITY  generalTab.accesskey  "E">
 <!ENTITY  generalTitle          "Teitl:">
 <!ENTITY  generalURL            "Cyfeiriad:">
 <!ENTITY  generalType           "Math:">
@@ -28,7 +28,7 @@
 <!ENTITY  generalMetaContent    "Cynnwys">
 
 <!ENTITY  mediaTab              "Cyfrwng">
-<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaTab.accesskey    "B">
 <!ENTITY  mediaLocation         "Lleoliad:">
 <!ENTITY  mediaText             "Testun Cysylltiedig:">
 <!ENTITY  mediaAltHeader        "Testun Arall">
@@ -38,19 +38,19 @@
 <!ENTITY  mediaCount            "Cyfrif">
 <!ENTITY  mediaDimension        "Maint:">
 <!ENTITY  mediaLongdesc         "Disgrifiad Hir:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "N">
 <!ENTITY  mediaSaveAs           "Cadw Fel…">
-<!ENTITY  mediaSaveAs.accesskey "A">
-<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaSaveAs.accesskey "n">
+<!ENTITY  mediaSaveAs2.accesskey "A">
 <!ENTITY  mediaPreview          "Rhagolwg Cyfrwng:">
 
 <!ENTITY  feedTab               "Llif">
-<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedTab.accesskey     "S">
 <!ENTITY  feedSubscribe         "Tanysgrifio">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedSubscribe.accesskey "o">
 
 <!ENTITY  permTab               "Caniatâd">
-<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permTab.accesskey     "F">
 <!ENTITY  permUseDefault        "Defnyddio'r Rhagosodedig">
 <!ENTITY  permAskAlways         "Gofyn bob tro">
 <!ENTITY  permAllow             "Caniatáu">
@@ -63,9 +63,9 @@
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Diogelwch">
-<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityTab.accesskey "A">
 <!ENTITY  securityView.certView "Darllen y Dystysgrif">
-<!ENTITY  securityView.accesskey "D">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Anhysbys">
 
 
@@ -79,10 +79,10 @@
 <!ENTITY  securityView.privacy.history                  "A ydw i wedi ymweld â'r wefan hon cyn heddiw?">
 <!ENTITY  securityView.privacy.cookies                  "A yw'r wefan yma'n cadw gwybodaeth (cwcis) ar fy nghyfrifiadur?">
 <!ENTITY  securityView.privacy.viewCookies              "Gweld y Cwcis">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "C">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "w">
 <!ENTITY  securityView.privacy.passwords                "A ydw i wedi cadw unrhyw gyfrineiriau ar gyfer y wefan yma?">
 <!ENTITY  securityView.privacy.viewPasswords            "Gweld y Cyfrineiriau wedi eu Cadw">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "G">
 
 <!ENTITY  securityView.technical.header                 "Manylion Technegol">
 
