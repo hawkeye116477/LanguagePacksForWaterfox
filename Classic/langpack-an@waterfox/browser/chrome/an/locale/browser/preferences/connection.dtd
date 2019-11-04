@@ -11,39 +11,39 @@
 <!ENTITY  noProxyTypeRadio.label        "Sin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Usar a configuración d'o proxy d'o sistema">
-<!ENTITY  systemTypeRadio.accesskey     "s">
+<!ENTITY  systemTypeRadio.accesskey     "f">
 <!ENTITY  WPADTypeRadio.label           "Detectar automaticament a configuración d'o proxy ta iste ret">
-<!ENTITY  WPADTypeRadio.accesskey       "e">
+<!ENTITY  WPADTypeRadio.accesskey       "f">
 <!ENTITY  manualTypeRadio.label         "Configuración manual d'o proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL de configuración automatica d'o proxy:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  reload.label                  "Esviellar">
-<!ENTITY  reload.accesskey              "E">
+<!ENTITY  autoTypeRadio.accesskey       "d">
+<!ENTITY  reload.label                  "Recargar">
+<!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "Proxy FTP:">
-<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  ftp.accesskey                 "p">
 <!ENTITY  http.label                    "Proxy HTTP:">
-<!ENTITY  http.accesskey                "x">
+<!ENTITY  http.accesskey                "S">
 <!ENTITY  ssl.label                     "Proxy SSL:">
 <!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "Servidor SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "t">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "r">
 <!ENTITY  socksRemoteDNS.label2         "Servidor intermediario DNS quan se fa servir SOCKS v6">
-<!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  socksRemoteDNS.accesskey      "f">
 <!ENTITY  port.label                    "Puerto:">
-<!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.accesskey             "s">
+<!ENTITY  FTPport.accesskey             "t">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "No usar o proxy ta:">
-<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Eixemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Usar o mesmo proxy ta totz os protocolos">
-<!ENTITY  shareproxy.accesskey          "s">
+<!ENTITY  shareproxy.accesskey          "t">
 <!ENTITY  autologinproxy.label          "No demandar identificación si a clau ye alzada">
-<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.accesskey      "a">
 <!ENTITY  autologinproxy.tooltip        "Ista opción le identifica de traza silenciosa debant d'os proxys quan ha alzau as credencials ta ells. Se le demandará a clau si falla a identificación.">
