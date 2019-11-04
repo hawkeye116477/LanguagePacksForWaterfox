@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addButton.label      "Yeni konteyner əlavə et">
-<!ENTITY addButton.accesskey  "A">
+<!ENTITY addButton.accesskey  "H">
 <!ENTITY preferencesButton.label "Nizamlamalar">
 <!ENTITY removeButton.label   "Sil">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Məxfiliyə geri get">
+<!ENTITY backLink.label       "« Məxfiliyə geri get">
 
 <!ENTITY window.title         "Yeni konteyner əlavə et">
 <!ENTITY window.width         "45em">
@@ -16,11 +16,11 @@
 <!ENTITY name.accesskey       "N">
 <!ENTITY name.placeholder     "Konteyner adını daxil edin">
 <!ENTITY icon.label           "İkon:">
-<!ENTITY icon.accesskey       "I">
+<!ENTITY icon.accesskey       "S">
 <!ENTITY color.label          "Rəng:">
-<!ENTITY color.accesskey      "o">
-<!ENTITY windowClose.key      "w">
+<!ENTITY color.accesskey      "T">
+<!ENTITY windowClose.key      "r">
 
-<!ENTITY button.ok.label      "Hazır">
+<!ENTITY button.ok.label      "Bitdi">
 <!ENTITY button.ok.accesskey  "D">
 
