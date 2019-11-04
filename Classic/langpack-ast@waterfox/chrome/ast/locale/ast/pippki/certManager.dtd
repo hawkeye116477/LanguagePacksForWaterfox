@@ -17,9 +17,9 @@
 <!ENTITY certmgr.orphans                      "Tienes certificaos archivaos que nun encaxen en nenguna de les demás categoríes:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Xeneral">
-<!ENTITY certmgr.detail.general_tab.accesskey "X">
+<!ENTITY certmgr.detail.general_tab.accesskey "C">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detalles">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "N">
 
 <!ENTITY certmgr.pending.label                "Verificando agora'l certificáu…">
 <!ENTITY certmgr.subjectinfo.label            "Emitíu pa">
@@ -43,51 +43,51 @@
 <!ENTITY certmgr.deletecert.title             "Desaniciar certificáu">
 
 <!ENTITY certmgr.certname                     "Nome del certificáu">
-<!ENTITY certmgr.certserver                   "Sirvidor">
+<!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Vida útil">
-<!ENTITY certmgr.tokenname                    "Preséu de seguridá">
+<!ENTITY certmgr.tokenname                    "Preséu de seguranza">
 <!ENTITY certmgr.begins                       "Entama'l">
 <!ENTITY certmgr.expires                      "Espira el">
 <!ENTITY certmgr.email                        "Direición de corréu electrónicu.">
 <!ENTITY certmgr.serial                       "Númberu de serie">
 
 <!ENTITY certmgr.close.label                  "Zarrar">
-<!ENTITY certmgr.close.accesskey              "Z">
+<!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Ver…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Editar confianza…">
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.export.label                 "Esportar…">
-<!ENTITY certmgr.export.accesskey             "s">
+<!ENTITY certmgr.export.accesskey             "c">
 <!ENTITY certmgr.delete2.label                "Desaniciar…">
-<!ENTITY certmgr.delete2.accesskey            "e">
+<!ENTITY certmgr.delete2.accesskey            "N">
 <!ENTITY certmgr.delete_builtin.label         "Desaniciar o dexar de confiar…">
-<!ENTITY certmgr.delete_builtin.accesskey     "n">
-<!ENTITY certmgr.backup2.label                "Facer copia…">
-<!ENTITY certmgr.backup2.accesskey            "F">
+<!ENTITY certmgr.delete_builtin.accesskey     "N">
+<!ENTITY certmgr.backup2.label                "Copiar…">
+<!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "Facer copia de too…">
-<!ENTITY certmgr.backupall2.accesskey         "c">
-<!ENTITY certmgr.restore2.label               "Importar…">
+<!ENTITY certmgr.backupall2.accesskey         "y">
+<!ENTITY certmgr.restore2.label               "Import…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Campos del certificáu">
-<!ENTITY certmgr.details.accesskey            "p">
+<!ENTITY certmgr.details.accesskey            "P">
 <!ENTITY certmgr.fields.label                 "Valor del campu">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Xerarquía de certificaos">
-<!ENTITY certmgr.hierarchy.accesskey2         "J">
+<!ENTITY certmgr.hierarchy.accesskey2         "A">
 <!ENTITY certmgr.addException.label           "Amestar esceición…">
-<!ENTITY certmgr.addException.accesskey       "e">
+<!ENTITY certmgr.addException.accesskey       "c">
 
 <!ENTITY exceptionMgr.title                   "Amestar esceición de seguridá">
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirmar esceición de seguridá">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Los bancos, tiendes y otros sitios públicos llexítimos nun-y van pidir facer esto.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Sirvidor">
+<!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Direición:">
 <!ENTITY exceptionMgr.certlocation.download   "Obtener certificáu">
-<!ENTITY exceptionMgr.certlocation.accesskey  "O">
+<!ENTITY exceptionMgr.certlocation.accesskey  "C">
 <!ENTITY exceptionMgr.certstatus.caption      "Estáu del certificáu">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Ver…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Atroxar esta esceición de mou permanente">
-<!ENTITY exceptionMgr.permanent.accesskey     "t">
+<!ENTITY exceptionMgr.permanent.accesskey     "P">
