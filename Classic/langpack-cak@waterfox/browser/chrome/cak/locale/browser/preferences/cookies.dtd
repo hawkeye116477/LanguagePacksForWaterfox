@@ -8,7 +8,7 @@
 <!ENTITY     cookiename.label               "Rub'i' ri kuki">
 <!ENTITY     cookiedomain.label             "Ruxaq k'amaya'l">
 
-<!ENTITY     props.name.label               "B'i'aj:">
+<!ENTITY     props.name.label               "b'i'aj:">
 <!ENTITY     props.value.label              "Rupam:">
 <!ENTITY     props.domain.label             "Ruk'u'x Samaj:">
 <!ENTITY     props.path.label               "B'ey:">
@@ -17,12 +17,12 @@
 <!ENTITY     props.container.label          "K'ojlib'äl:">
 
 <!ENTITY     window.title                   "Taq kaxlanwey">
-<!ENTITY     windowClose.key                "w">
-<!ENTITY     focusSearch1.key               "p">
-<!ENTITY     focusSearch2.key               "k">
+<!ENTITY     windowClose.key                "c">
+<!ENTITY     focusSearch1.key               "f">
+<!ENTITY     focusSearch2.key               "m">
 
-<!ENTITY     searchFilter.label             "Tikanöx:">
-<!ENTITY     searchFilter.accesskey         "k">
+<!ENTITY     searchFilter.label             "Tikanöx">
+<!ENTITY     searchFilter.accesskey         "K">
 
 <!ENTITY     button.close.label             "Titz'apïx">
-<!ENTITY     button.close.accesskey         "T">
+<!ENTITY     button.close.accesskey         "C">
