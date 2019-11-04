@@ -18,12 +18,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionsTitle "Разширения">
 <!ENTITY aboutSupport.extensionName "Име">
 <!ENTITY aboutSupport.extensionEnabled "Включено">
-<!ENTITY aboutSupport.extensionVersion "Версия">
+<!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.featuresTitle "Възможности на &brandShortName;">
 <!ENTITY aboutSupport.featureName "Име">
-<!ENTITY aboutSupport.featureVersion "Версия">
+<!ENTITY aboutSupport.featureVersion "Version">
 <!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Експериментални възможности">
@@ -37,7 +37,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.appBasicsTitle "Основни за приложението">
 <!ENTITY aboutSupport.appBasicsName "Име">
-<!ENTITY aboutSupport.appBasicsVersion "Версия">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsBuildID "Build идентификатор">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
@@ -88,7 +88,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Настройки от user.js">
-<!ENTITY aboutSupport.userJSDescription "Папката с вашия профил съдържа файла <a id='prefs-user-js-link'>user.js</a>, в който има потребителски, не създадени от &brandShortName; настройки.">
+<!ENTITY aboutSupport.userJSDescription "Папката с вашия профил съдържа файла {[=-a id='prefs-user-js-link'-=]}user.js</a>, в който има потребителски, не създадени от &brandShortName; настройки.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Важни заключени настройки">
 <!ENTITY aboutSupport.lockedPrefsName "Име">
@@ -129,7 +129,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Пробвайте надеждния режим">
 <!ENTITY aboutSupport.restartInSafeMode.label "Рестартиране с изключени добавки…">
 
-<!ENTITY aboutSupport.graphicsFeaturesTitle "Възможности">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Features">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Диагностика">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Журнал на грешките">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
@@ -141,7 +141,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaTitle "Медия">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "Изходни устройства">
 <!ENTITY aboutSupport.mediaInputDevicesTitle "Входни устройства">
-<!ENTITY aboutSupport.mediaDeviceName "Наименование">
+<!ENTITY aboutSupport.mediaDeviceName "Име">
 <!ENTITY aboutSupport.mediaDeviceGroup "Група">
 <!ENTITY aboutSupport.mediaDeviceVendor "Производител">
 <!ENTITY aboutSupport.mediaDeviceState "Състояние">
