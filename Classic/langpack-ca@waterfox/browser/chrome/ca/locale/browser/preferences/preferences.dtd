@@ -24,8 +24,8 @@
 <!ENTITY  languageAndAppearance.label   "Llengua i aparença">
 <!ENTITY  filesAndApplications.label    "Fitxers i aplicacions">
 <!ENTITY  browserPrivacy.label          "Privadesa del navegador">
-<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Compte del Waterfox">
 
 <!ENTITY  helpButton2.label        "Assistència del &brandShortName;">
