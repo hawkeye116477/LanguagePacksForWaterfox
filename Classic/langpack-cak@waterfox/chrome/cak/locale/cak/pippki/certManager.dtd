@@ -17,9 +17,9 @@
 <!ENTITY certmgr.orphans                      "K'o taq ruwujil ab'i' pa ri yakb'äl, ri man nikik'äm ta ki' pa nijun chi ke ri ch'aqa' chik taq ruwäch:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Chijun">
-<!ENTITY certmgr.detail.general_tab.accesskey "C">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Kib'anikil">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "K">
+<!ENTITY certmgr.detail.general_tab.accesskey "K">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Taq rub'anikil">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "M">
 
 <!ENTITY certmgr.pending.label                "Tajin ninik'öx wakami ri ruwujil b'i'aj…">
 <!ENTITY certmgr.subjectinfo.label            "Elesan richin">
@@ -43,7 +43,7 @@
 <!ENTITY certmgr.deletecert.title             "Tiyuj ruwujil b'i'aj">
 
 <!ENTITY certmgr.certname                     "Rub'i' ruwujil b'i'aj">
-<!ENTITY certmgr.certserver                   "Ruk'u'x samaj">
+<!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Rutzil k'aslem">
 <!ENTITY certmgr.tokenname                    "Okisaxel richin jikomal">
 <!ENTITY certmgr.begins                       "Tatikirisaj pa">
@@ -52,42 +52,42 @@
 <!ENTITY certmgr.serial                       "Rucholajem rajilab'al">
 
 <!ENTITY certmgr.close.label                  "Titz'apïx">
-<!ENTITY certmgr.close.accesskey              "T">
+<!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Titz'et…">
-<!ENTITY certmgr.view2.accesskey              "T">
+<!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Tinuk' kuqub'äl k'u'x…">
-<!ENTITY certmgr.edit3.accesskey              "T">
+<!ENTITY certmgr.edit3.accesskey              "e">
 <!ENTITY certmgr.export.label                 "Tik'wäx el…">
-<!ENTITY certmgr.export.accesskey             "k">
+<!ENTITY certmgr.export.accesskey             "e">
 <!ENTITY certmgr.delete2.label                "Tiyuj…">
-<!ENTITY certmgr.delete2.accesskey            "T">
+<!ENTITY certmgr.delete2.accesskey            "M">
 <!ENTITY certmgr.delete_builtin.label         "Tiyuj o man takuqub'a' ta chik ak'u'x chi rij…">
-<!ENTITY certmgr.delete_builtin.accesskey     "T">
+<!ENTITY certmgr.delete_builtin.accesskey     "M">
 <!ENTITY certmgr.backup2.label                "Tiwachib'ëx…">
-<!ENTITY certmgr.backup2.accesskey            "T">
+<!ENTITY certmgr.backup2.accesskey            "K">
 <!ENTITY certmgr.backupall2.label             "Tiwachib'ëx ronojel…">
-<!ENTITY certmgr.backupall2.accesskey         "i">
-<!ENTITY certmgr.restore2.label               "Tijik' pe…">
-<!ENTITY certmgr.restore2.accesskey           "i">
+<!ENTITY certmgr.backupall2.accesskey         "m">
+<!ENTITY certmgr.restore2.label               "Import…">
+<!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Taq ruk'ojlib'al ruwujil b'i'aj">
-<!ENTITY certmgr.details.accesskey            "r">
+<!ENTITY certmgr.details.accesskey            "c">
 <!ENTITY certmgr.fields.label                 "Rejqalem k'ojlib'äl">
-<!ENTITY certmgr.fields.accesskey             "R">
+<!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Ruwujil b'i'aj ach'alanïk">
-<!ENTITY certmgr.hierarchy.accesskey2         "O">
-<!ENTITY certmgr.addException.label           "Titz'aqtisäx man relik ta…">
+<!ENTITY certmgr.hierarchy.accesskey2         "T">
+<!ENTITY certmgr.addException.label           "Titz'aqatisäx jun man relik ta…">
 <!ENTITY certmgr.addException.accesskey       "e">
 
 <!ENTITY exceptionMgr.title                   "Tz'aqatisäx me'elik ta jikomal">
 <!ENTITY exceptionMgr.exceptionButton.label   "Tijikib'äl man relik ta richin jikomal">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "T">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Ri qitzij taq pwaqb'äl, taq k'ayij chuqa' juley chik aj winäq ruxaq k'amaya'l, man xtikik'utuj ta chawe chi xtab'än re'.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Ruk'u'x samaj">
-<!ENTITY exceptionMgr.certlocation.url        "Rochochib'al:">
+<!ENTITY exceptionMgr.certlocation.caption2   "Server">
+<!ENTITY exceptionMgr.certlocation.url        "Ochochib'al:">
 <!ENTITY exceptionMgr.certlocation.download   "Tik'ul ruwujil b'i'aj">
-<!ENTITY exceptionMgr.certlocation.accesskey  "O">
+<!ENTITY exceptionMgr.certlocation.accesskey  "K">
 <!ENTITY exceptionMgr.certstatus.caption      "Rub'anikil ruwujil b'i'aj">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Titz'et…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "W">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Jumul tiyak kan re me'elik re'">
-<!ENTITY exceptionMgr.permanent.accesskey     "J">
+<!ENTITY exceptionMgr.permanent.accesskey     "i">
