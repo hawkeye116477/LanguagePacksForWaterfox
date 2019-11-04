@@ -5,27 +5,27 @@
 <!ENTITY cutCmd.label "Retallar">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
+<!ENTITY copyCmd.accesskey "t">
 <!ENTITY pasteCmd.label "Apegar">
-<!ENTITY pasteCmd.accesskey "A">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Desfer">
-<!ENTITY undoCmd.accesskey "D">
-<!ENTITY selectAllCmd.label "Seleccionar tot">
+<!ENTITY undoCmd.accesskey "f">
+<!ENTITY selectAllCmd.label "Seleccionar-lo tot">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "E">
+<!ENTITY deleteCmd.accesskey "f">
 
 <!ENTITY spellAddToDictionary.label "Adhibir ta o diccionario">
-<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellAddToDictionary.accesskey "s">
 <!ENTITY spellUndoAddToDictionary.label "Desfer l'acción d'adhibir a o diccionario">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Comprebar a ortografía">
-<!ENTITY spellCheckToggle.accesskey "o">
+<!ENTITY spellCheckToggle.accesskey "a">
 <!ENTITY spellNoSuggestions.label "(No i hai garra sucherencia d'ortografía)">
 <!ENTITY spellDictionaries.label "Luengas">
-<!ENTITY spellDictionaries.accesskey "L">
+<!ENTITY spellDictionaries.accesskey "l">
 
-<!ENTITY searchTextBox.clear.label "Limpiar">
+<!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "Replena o inicio de sesión">
 <!ENTITY fillLoginMenu.accesskey      "p">
