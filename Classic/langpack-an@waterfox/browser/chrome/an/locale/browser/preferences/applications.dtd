@@ -3,18 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Aplicacions">
-
-
-<!ENTITY  typeColumn.label        "Mena de conteniu">
-<!ENTITY  typeColumn.accesskey    "M">
-
-<!ENTITY  actionColumn2.label     "Acción">
-<!ENTITY  actionColumn2.accesskey "A">
-
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
-
-<!ENTITY  filter2.emptytext        "Mirar los tipos de fichers u aplicacions">
-
 <!ENTITY  applications.description "Choose how &brandShortName; handles the files you download from the web or the applications you use while browsing.">
 
+<!ENTITY  typeColumn.label        "Mena de conteniu">
+<!ENTITY  typeColumn.accesskey    "f">
+
+<!ENTITY  actionColumn2.label     "Acción">
+<!ENTITY  actionColumn2.accesskey "d">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "d">
+
+<!ENTITY  filter2.emptytext        "Mirar los tipos de fichers u aplicacions">
