@@ -3,33 +3,33 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "K'exonïk">
-<!ENTITY editMenu.accesskey        "e">
+<!ENTITY editMenu.accesskey        "i">
 <!ENTITY undoCmd.label             "Titzolïx">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "T">
+<!ENTITY undoCmd.accesskey         "n">
 <!ENTITY redoCmd.label             "Rukamuluxik">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "m">
+<!ENTITY redoCmd.accesskey         "k">
 <!ENTITY cutCmd.label              "Tiqupïx">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "q">
-<!ENTITY copyCmd.label             "Wachib'exïk">
-<!ENTITY copyCmd.key               "K">
-<!ENTITY copyCmd.accesskey         "c">
-<!ENTITY pasteCmd.label            "Tiz'ajb'äx">
-<!ENTITY pasteCmd.key              "W">
-<!ENTITY pasteCmd.accesskey        "T">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label             "Tiwachib'ëx">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "T">
+<!ENTITY pasteCmd.label            "Titz'ajb'äx">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Tiyuj">
-<!ENTITY deleteCmd.accesskey       "T">
+<!ENTITY deleteCmd.accesskey       "w">
 <!ENTITY selectAllCmd.label        "Ticha' ronojel">
-<!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "r">
-<!ENTITY findCmd.label             "Tikanöx">
-<!ENTITY findCmd.key               "P">
-<!ENTITY findCmd.accesskey         "T">
+<!ENTITY selectAllCmd.key          "C">
+<!ENTITY selectAllCmd.accesskey    "i">
+<!ENTITY findCmd.label             "Find">
+<!ENTITY findCmd.key               "c">
+<!ENTITY findCmd.accesskey         "c">
 <!ENTITY findAgainCmd.label        "Rukamuluxik ri rukanoxik">
-<!ENTITY findAgainCmd.key          "W">
+<!ENTITY findAgainCmd.key          "K">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "k">
+<!ENTITY findAgainCmd.accesskey    "i">
 <!ENTITY findPreviousCmd.label     "Tikanöx ri jun xik'o kan">
-<!ENTITY findPreviousCmd.accesskey "x">
+<!ENTITY findPreviousCmd.accesskey "e">
