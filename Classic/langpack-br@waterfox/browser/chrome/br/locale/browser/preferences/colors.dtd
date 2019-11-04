@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors.label        "Eillec'hiañ al livioù erspizet war ar bajenn gant va diuzadoù a-us:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "E">
+<!ENTITY  overrideDefaultPageColors.accesskey    "D">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Atav">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Gant neuzioù a Dargemm Uhel hepken">
@@ -17,14 +17,14 @@
 <!ENTITY  textColor.label                 "Testenn :">
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "Drekleur :">
-<!ENTITY  backgroundColor.accesskey       "D">
+<!ENTITY  backgroundColor.accesskey       "s">
 <!ENTITY  useSystemColors.label           "Arverañ livioù ar reizhiad">
-<!ENTITY  useSystemColors.accesskey       "r">
+<!ENTITY  useSystemColors.accesskey       "R">
 
 <!ENTITY  underlineLinks.label            "Islinennañ an Ereoù ">
-<!ENTITY  underlineLinks.accesskey        "I">
+<!ENTITY  underlineLinks.accesskey        "z">
 <!ENTITY  links                           "Livioù an ereoù">
 <!ENTITY  linkColor.label                 "Ereoù diweladennet :">
-<!ENTITY  linkColor.accesskey             "E">
+<!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Ereoù gweladennet :">
-<!ENTITY  visitedLinkColor.accesskey      "o">
+<!ENTITY  visitedLinkColor.accesskey      "V">
