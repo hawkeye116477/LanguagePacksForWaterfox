@@ -4,12 +4,12 @@
 <!ENTITY addons.windowTitle                   "Upravnik add-onima">
 
 <!ENTITY search.placeholder                   "Pretraži sve add-one">
-<!ENTITY search.buttonlabel                   "Traži">
+<!ENTITY search.buttonlabel                   "Search">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Učitavanje…">
+<!ENTITY loading.label                        "Loading…">
 <!ENTITY listEmpty.installed.label            "Vi nemate instaliranih add-ona ovog tipa">
 <!ENTITY listEmpty.availableUpdates.label     "Nijedan update nije pronađen">
 <!ENTITY listEmpty.recentUpdates.label        "Odavno niste vršili update add-ona">
@@ -17,7 +17,7 @@
 <!ENTITY listEmpty.search.label               "Nisam uspio pronaći odgovarajuće add-one">
 <!ENTITY listEmpty.button.label               "Naučite više o add-onima">
 <!ENTITY installAddonFromFile.label           "Instaliraj Add-on iz fajla…">
-<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY installAddonFromFile.accesskey       "i">
 <!ENTITY toolsMenu.tooltip                    "Alati za sve add-one">
 
 <!ENTITY getThemes.description                "Želite personalizovati vaš browser?">
@@ -30,8 +30,8 @@
 <!ENTITY showAllExtensions.button.label       "Prikaži sve ekstenzije">
 <!ENTITY debugAddons.label                    "Debagiranje add-ona">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Svi add-oni su onemogućeni od strane sigurnog režima.">
 <!ENTITY warning.checkcompatibility.label          "Provjera kompatibilnosti add-ona je onemogućena. Možda imate nekompatibilnih add-ona.">
 <!ENTITY warning.checkcompatibility.enable.label   "Omogući">
@@ -39,23 +39,23 @@
 <!ENTITY warning.updatesecurity.label              "Sigurnosna provjera updatea za add-one je onemogućena. Možete biti kompromitovani putem updatea.">
 <!ENTITY warning.updatesecurity.enable.label       "Omogući">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Omogući provjeravanje sigurnosti update-a add-ona">
-<!-- categories / views -->
 
-<!ENTITY view.search.label                    "Traži">
+<!-- categories / views -->
+<!ENTITY view.search.label                    "Search">
 <!ENTITY view.discover.label                  "Dobavi Add-one">
 <!ENTITY view.recentUpdates.label             "Nedavni update-i">
 <!ENTITY view.availableUpdates.label          "Dostupni update-i">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Provjeri za update">
-<!ENTITY updates.checkForUpdates.accesskey    "P">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Prikaži nedavne update-e">
-<!ENTITY updates.viewUpdates.accesskey        "v">
+<!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Automatski vrši update add-ona">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "O">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -63,9 +63,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Postavi sve add-one da vrše update automatski">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "r">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "Postavi sve add-one da vrše update ručno">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "r">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Vršim update add-ona">
 <!ENTITY updates.installed.label              "Izvršen je update vaših add-ona.">
 <!ENTITY updates.downloaded.label             "Updatei za vaše add-one su preuzeti.">
@@ -74,25 +74,25 @@
 <!ENTITY updates.manualUpdatesFound.label     "Prikaži dostupne update-e">
 <!ENTITY updates.updateSelected.label         "Instaliraj update">
 <!ENTITY updates.updateSelected.tooltip       "Instaliraj dostupne update-e na ovoj listi">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Prikaži više informacija">
 <!ENTITY cmd.showDetails.accesskey            "P">
 <!ENTITY cmd.findUpdates.label                "Pronađi update">
-<!ENTITY cmd.findUpdates.accesskey            "P">
+<!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "Opcije">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Postavke">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.preferencesUnix.accesskey        "r">
 <!ENTITY cmd.about.label                      "O">
 <!ENTITY cmd.about.accesskey                  "O">
 
 <!ENTITY cmd.enableAddon.label                "Omogući">
-<!ENTITY cmd.enableAddon.accesskey            "O">
+<!ENTITY cmd.enableAddon.accesskey            "e">
 <!ENTITY cmd.disableAddon.label               "Onemogući">
-<!ENTITY cmd.disableAddon.accesskey           "O">
+<!ENTITY cmd.disableAddon.accesskey           "N">
 <!ENTITY cmd.enableTheme.label                "Obuci temu">
-<!ENTITY cmd.enableTheme.accesskey            "O">
+<!ENTITY cmd.enableTheme.accesskey            "P">
 <!ENTITY cmd.disableTheme.label               "Prestani nositi temu">
 <!ENTITY cmd.disableTheme.accesskey           "P">
 <!ENTITY cmd.askToActivate.label              "Pitaj za aktivaciju">
@@ -103,32 +103,32 @@
 <!ENTITY cmd.neverActivate.tooltip            "Nikada ne koristi ovaj add-on">
 <!ENTITY cmd.stateMenu.tooltip                "Promijeni kada se ovaj add-on koristi">
 <!ENTITY cmd.installAddon.label               "Instaliraj">
-<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Ukloni">
-<!ENTITY cmd.uninstallAddon.accesskey         "U">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Opcije">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Promijeni opcije ovog add-ona">
 <!ENTITY cmd.showPreferencesUnix.label        "Postavke">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Promijeni postavke ovog add-ona">
 <!ENTITY cmd.contribute.label                 "Doprinesite">
-<!ENTITY cmd.contribute.accesskey             "D">
+<!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Doprinesite razvoju ovog add-ona">
 
 <!ENTITY cmd.showReleaseNotes.label           "Prikaži napomene o izdanju">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži napomene o izdanju za ovaj update">
 <!ENTITY cmd.hideReleaseNotes.label           "Sakrij napomene o izdanju">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sakrij napomene o izdanju za ovaj update">
+<!ENTITY cmd.findReplacement.label            "Find a Replacement">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Šta su Add-oni?">
 <!ENTITY discover.description2                "Add-oni su aplikacije koje vam omogućavaju da personalizirate &brandShortName; sa dodatnom funkcionalnošću ili stilom. Probajte vremensku prognozu ili tematiziran izgled da uljepšate &brandShortName;.">
 <!ENTITY discover.footer                      "Kada ste konektovani na internet, ovaj panel će prikazivati neke od najboljih i najpopularnijih add-ona koje možete isprobati.">
-<!-- detail view -->
 
-<!ENTITY detail.version.label                 "Verzija">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Zadnji update">
 <!ENTITY detail.creator.label                 "Developer">
 <!ENTITY detail.homepage.label                "Web stranica">
@@ -137,7 +137,7 @@
 <!ENTITY detail.contributions.description     "Developer ovog add-ona vas je zamolio da podržite njegov dalji razvoj davanjem malog doprinosa.">
 
 <!ENTITY detail.updateType                    "Automatski update-i">
-<!ENTITY detail.updateDefault.label           "Izvorno">
+<!ENTITY detail.updateDefault.label           "Default">
 <!ENTITY detail.updateDefault.tooltip         "Automatski instaliraj update samo ako je to izvorna postavka">
 <!ENTITY detail.updateAutomatic.label         "Uključeno">
 <!ENTITY detail.updateAutomatic.tooltip       "Automatski instaliraj update">
@@ -148,25 +148,25 @@
 <!ENTITY detail.size                          "Veličina">
 
 <!ENTITY detail.checkForUpdates.label         "Provjeri za update">
-<!ENTITY detail.checkForUpdates.accesskey     "P">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "Provjeri za update za ovaj add-on">
 <!ENTITY detail.showPreferencesWin.label      "Opcije">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "Promijeni opcije ovog add-ona">
 <!ENTITY detail.showPreferencesUnix.label     "Postavke">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.accesskey "r">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Promijeni postavke ovog add-ona">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Ocjena">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pauza">
 <!ENTITY progress.cancel.tooltip              "Otkaži">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Naziv">
 <!ENTITY sort.name.tooltip                    "Sortiraj po nazivu">
 <!ENTITY sort.dateUpdated.label               "Zadnji update">
@@ -183,12 +183,13 @@
 <!ENTITY search.filter2.available.tooltip     "Prikaži add-one dostupne za instalaciju">
 
 <!ENTITY addon.homepage                       "Web stranica">
-<!ENTITY addon.details.label                  "Više">
+<!ENTITY addon.details.label                  "More">
 <!ENTITY addon.details.tooltip                "Prikaži više informacija o ovom add-onu">
 <!ENTITY addon.unknownDate                    "Nepoznato">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Waterfox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -209,9 +210,9 @@
 <!ENTITY addon.updateNow.tooltip              "Instaliraj update za ovaj add-on">
 <!ENTITY addon.includeUpdate.label            "Uključi u Update">
 <!ENTITY addon.updateAvailable.label          "Update je dostupan">
-<!ENTITY addon.checkingForUpdates.label       "Provjeravam za update…">
+<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
 <!ENTITY addon.releaseNotes.label             "Napomene o izdanju:">
-<!ENTITY addon.loadingReleaseNotes.label      "Učitavanje…">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Oprostite, ali došlo je do greške prilikom učitavanja napomena o izdanju.">
 
 <!ENTITY addon.createdBy.label                "Od ">
@@ -222,17 +223,17 @@
 <!ENTITY eula.accept                          "Prihvati i instaliraj…">
 
 <!ENTITY settings.path.button.label           "Pregled…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Šta je ovo? Telemetrija može instalirati i pokretati eksperimente s vremena na vrijeme.">
 <!ENTITY experiment.info.learnmore "Saznajte više">
-<!ENTITY experiment.info.learnmore.accesskey "z">
+<!ENTITY experiment.info.learnmore.accesskey "K">
 <!ENTITY experiment.info.changetelemetry "Postavke telemetrije">
-<!ENTITY experiment.info.changetelemetry.accesskey "t">
+<!ENTITY experiment.info.changetelemetry.accesskey "I">
 
 <!ENTITY setting.learnmore "Saznajte više…">
 
@@ -254,16 +255,8 @@
 <!ENTITY pluginDeprecation.description "Fali vam nešto? Neki plugini više nisu podržani od strane &brandShortName;a.">
 <!ENTITY pluginDeprecation.learnMore "Saznajte više.">
 
-
-
-
-
-
-<!ENTITY addon.legacy.label                   "LEGACY">
-<!ENTITY cmd.findReplacement.label            "Find a Replacement">
-
-<!ENTITY legacyExtensions.description "These extensions do not meet current &brandShortName; standards so they have been deactivated.">
-<!ENTITY legacyExtensions.learnMore "Learn about the changes to add-ons">
-<!ENTITY legacyExtensions.title "Legacy Extensions">
 <!ENTITY legacyWarning.description "Missing something? Some extensions are no longer supported by &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Show legacy extensions">
+<!ENTITY legacyExtensions.title "Legacy Extensions">
+<!ENTITY legacyExtensions.description "These extensions do not meet current &brandShortName; standards so they have been deactivated.">
+<!ENTITY legacyExtensions.learnMore "Learn about the changes to add-ons">
