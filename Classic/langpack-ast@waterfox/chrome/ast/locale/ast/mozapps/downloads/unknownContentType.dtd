@@ -7,11 +7,11 @@
 <!ENTITY  actionQuestion.label        "¿Qué debería facer &brandShortName; con esti ficheru?">
 
 <!ENTITY  openWith.label              "Abrir con">
-<!ENTITY  openWith.accesskey          "A">
+<!ENTITY  openWith.accesskey          "P">
 <!ENTITY  other.label                 "Otru…">
 
 <!ENTITY  saveFile.label              "Guardar ficheru">
-<!ENTITY  saveFile.accesskey          "G">
+<!ENTITY  saveFile.accesskey          "c">
 
 <!ENTITY  rememberChoice.label        "Facer automáticamente esto dende agora con ficheros como esti.">
 <!ENTITY  rememberChoice.accesskey    "a">
@@ -19,8 +19,8 @@
 <!ENTITY  whichIs.label              "que ye:">
 
 <!ENTITY  chooseHandlerMac.label      "Escoyer…">
-<!ENTITY  chooseHandlerMac.accesskey  "E">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Restolar…">
-<!ENTITY  chooseHandler.accesskey     "R">
+<!ENTITY  chooseHandler.accesskey     "B">
 
 <!ENTITY  unknownPromptText.label     "¿Prestaríate guardar esti ficheru?">
