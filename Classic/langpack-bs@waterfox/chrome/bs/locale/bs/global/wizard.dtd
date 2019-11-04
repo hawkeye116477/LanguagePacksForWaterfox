@@ -3,22 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  button-back-mac.label        "Idi nazad">
-<!ENTITY  button-back-mac.accesskey    "I">
+<!ENTITY  button-back-mac.accesskey    "b">
 <!ENTITY  button-next-mac.label        "Nastavi">
-<!ENTITY  button-next-mac.accesskey    "N">
-<!ENTITY  button-finish-mac.label      "Gotovo">
+<!ENTITY  button-next-mac.accesskey    "C">
+<!ENTITY  button-finish-mac.label      "Done">
 <!ENTITY  button-cancel-mac.label      "Otkaži">
 
 <!ENTITY  button-back-unix.label       "Nazad">
-<!ENTITY  button-back-unix.accesskey   "N">
+<!ENTITY  button-back-unix.accesskey   "b">
 <!ENTITY  button-next-unix.label       "Sljedeće">
-<!ENTITY  button-next-unix.accesskey   "S">
+<!ENTITY  button-next-unix.accesskey   "N">
 <!ENTITY  button-finish-unix.label     "Završi">
 <!ENTITY  button-cancel-unix.label     "Otkaži">
 
 <!ENTITY  button-back-win.label        "&lt; Nazad">
-<!ENTITY  button-back-win.accesskey    "N">
+<!ENTITY  button-back-win.accesskey    "b">
 <!ENTITY  button-next-win.label        "Sljedeće &gt;">
-<!ENTITY  button-next-win.accesskey    "S">
+<!ENTITY  button-next-win.accesskey    "N">
 <!ENTITY  button-finish-win.label      "Završi">
 <!ENTITY  button-cancel-win.label      "Otkaži">
