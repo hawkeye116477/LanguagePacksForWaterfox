@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Torna-lo a probar">
 <!ENTITY returnToPreviousPage.label "Ir enta zaga">
 <!ENTITY advanced.label "Abanzau">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "No s'ha puesto connectar">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -95,7 +95,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Adhibir una excepción…">
 
 <!ENTITY errorReporting.automatic2 "Informa d'errors como iste pa aduyar a Mozilla a identificar y blocar puestos dolents.">
-<!ENTITY errorReporting.learnMore "Saber-ne mas…">
+<!ENTITY errorReporting.learnMore "Saber-ne &amp;mas…">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Meta-se en contacto con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul></p>">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información abanzada: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; no s'ha connectau a <span id='wrongSystemTime_URL'/> porque lo reloch d'o suyo ordinador pareix que amuestra un tiempo incorrecto y isto priva una connexión segura.</p> <p>O suyo ordinador indica <span id='wrongSystemTime_systemDate'/>, quan habría d'estar <span id='wrongSystemTime_actualDate'/>. Ta apanyar iste problema, cambia los achustes de data y hora pa meter lo sistema en hora.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; no s'ha connectau a <span id='wrongSystemTimeWithoutReference_URL'/> porque lo reloch d'o suyo ordinador pareix que amuestra un tiempo incorrecto y isto priva una connexión segura.</p> <p>Lo suyo ordinador indica <span id='wrongSystemTimeWithoutReference_systemDate'/>. Ta apanyar iste problema, cambia los achustes de data y hora pa meter-lo en hora.</p>">
 
@@ -115,7 +115,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste puesto fa servir HTTP Strict Transport Security (HSTS) pa especificar que &brandShortName; nomás se pueda connectar a ell de traza segura. A resultas d'isto, no ye posible anyader una excepción a iste certificau.">
 <!ENTITY certerror.copyToClipboard.label "Copiar lo texto en lo portafuellas">
 
-<!ENTITY inadequateSecurityError.title "La connexion no ye pas segura">
+<!ENTITY inadequateSecurityError.title "La connexion no ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> fa servir technolochía de seguranza que ye obsoleta y vulnerable debant d'un ataque. Un acatant podría revelar información que vusté creyeba segura. L'administrador d'o puesto web habrá de fixar lo servidor antes que vusté pueda vesitar lo puesto.</p><p>Codigo d'error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
