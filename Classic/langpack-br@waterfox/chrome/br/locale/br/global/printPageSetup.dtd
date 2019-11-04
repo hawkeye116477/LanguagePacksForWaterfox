@@ -1,32 +1,32 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "Pajennaozañ">
 
 <!ENTITY basic.tab           "Mentrezh ha Dibarzhioù">
 
-<!ENTITY formatGroup.label   "Mentrezh">
+<!ENTITY formatGroup.label   "Format">
 
 <!ENTITY orientation.label   "Reteradur :">
 <!ENTITY portrait.label      "Poltred">
-<!ENTITY portrait.accesskey  "P">
+<!ENTITY portrait.accesskey  "p">
 <!ENTITY landscape.label     "Gweledva">
-<!ENTITY landscape.accesskey "G">
+<!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "Skeul :">
-<!ENTITY scale.accesskey     "S">
-<!ENTITY scalePercent        "&#037;">
+<!ENTITY scale.accesskey     "m">
+<!ENTITY scalePercent        "%">
 
 <!ENTITY shrinkToFit.label   "Strishaat evit kenglotañ gant led ar bajenn">
-<!ENTITY shrinkToFit.accesskey "t">
+<!ENTITY shrinkToFit.accesskey "D">
 
 <!ENTITY optionsGroup.label  "Dibarzhioù">
 
 <!ENTITY printBG.label       "Moullañ an drekleur (livioù ha skeudennoù)">
-<!ENTITY printBG.accesskey   "M">
+<!ENTITY printBG.accesskey   "s">
 
 <!ENTITY advanced.tab        "Marzioù ha talbennoù/diaz-pajenn">
 
@@ -34,13 +34,13 @@
 <!ENTITY marginUnits.inches  "a veutadoù">
 <!ENTITY marginUnits.metric  "a vilimetroù">
 <!ENTITY marginTop.label     "Krec'h :">
-<!ENTITY marginTop.accesskey "K">
+<!ENTITY marginTop.accesskey "T">
 <!ENTITY marginBottom.label  "Diaz :">
-<!ENTITY marginBottom.accesskey "D">
+<!ENTITY marginBottom.accesskey "s">
 <!ENTITY marginLeft.label    "Kleiz :">
-<!ENTITY marginLeft.accesskey "l">
+<!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "Dehou :">
-<!ENTITY marginRight.accesskey "D">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "Talbennoù ha Diaz-pajenn">
 
