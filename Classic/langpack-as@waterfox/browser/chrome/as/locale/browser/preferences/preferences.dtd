@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  prefWindow.titleWin     "বিকল্প">
+<!ENTITY  prefWindow.titleWin     "বিকল্পসমূহ">
 <!ENTITY  prefWindow.title        "পছন্দসমূহ">
 <!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; পছন্দ">
@@ -13,28 +13,19 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!ENTITY  paneSearchResults.title       "Search Results">
 <!ENTITY  paneGeneral.title             "সাধাৰণ">
-<!ENTITY  paneSearch.title              "সন্ধান কৰক">
-
-
-
-
-
-
-
-<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
-
-
-<!ENTITY  browserPrivacy.label          "Browser Privacy">
-
-<!ENTITY  filesAndApplications.label    "Files and Applications">
-<!ENTITY  helpButton2.label        "&brandShortName; Support">
-<!ENTITY  languageAndAppearance.label   "Language and Appearance">
-<!ENTITY  paneContainers.title          "Container Tabs">
+<!ENTITY  paneSearch.title              "Search">
 <!ENTITY  paneFilesApplications.title   "Files &amp; Applications">
 <!ENTITY  panePrivacySecurity.title     "Privacy &amp; Security">
-<!ENTITY  paneSearchResults.title       "Search Results">
-<!ENTITY  paneSync1.title          "Waterfox Account">
-
+<!ENTITY  paneContainers.title          "Container Tabs">
 <!ENTITY  paneUpdates.title             "Updates">
 
+<!ENTITY  languageAndAppearance.label   "Language and Appearance">
+<!ENTITY  filesAndApplications.label    "Files and Applications">
+<!ENTITY  browserPrivacy.label          "Browser Privacy">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Waterfox Account">
+
+<!ENTITY  helpButton2.label        "&brandShortName; Support">
