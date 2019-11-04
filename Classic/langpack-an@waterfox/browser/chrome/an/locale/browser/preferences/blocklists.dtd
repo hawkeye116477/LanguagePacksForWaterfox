@@ -6,9 +6,9 @@
 <!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "Lista">
-<!ENTITY windowClose.key              "w">
+<!ENTITY windowClose.key              "f">
 
 <!ENTITY button.cancel.label          "Cancelar">
 <!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Alzar os cambios">
-<!ENTITY button.ok.accesskey          "A">
+<!ENTITY button.ok.accesskey          "v">
