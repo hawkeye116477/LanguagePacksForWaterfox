@@ -8,6 +8,6 @@
 <!ENTITY editfield1.label "Парола:"> 
 <!ENTITY checkbox.label   "отметка">
 <!ENTITY copyCmd.label    "Копиране">
-<!ENTITY copyCmd.accesskey "К">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Избиране на всичко">
-<!ENTITY selectAllCmd.accesskey "в">
+<!ENTITY selectAllCmd.accesskey "О">
