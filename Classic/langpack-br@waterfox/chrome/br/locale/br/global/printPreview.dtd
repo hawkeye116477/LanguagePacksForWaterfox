@@ -3,37 +3,37 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY print.label          "Moullañ…">
-<!ENTITY print.accesskey      "M">
-<!ENTITY pageSetup.label      "Pajennaozañ…">
-<!ENTITY pageSetup.accesskey  "P">
+<!ENTITY print.accesskey      "p">
+<!ENTITY pageSetup.label      "Arventennoù ar bajenn…">
+<!ENTITY pageSetup.accesskey  "A">
 <!ENTITY page.label           "Pajennad :">
-<!ENTITY page.accesskey       "a">
+<!ENTITY page.accesskey       "K">
 <!ENTITY of.label             "eus">
 <!ENTITY scale.label          "Skeul :">
-<!ENTITY scale.accesskey      "S">
+<!ENTITY scale.accesskey      "m">
 <!ENTITY portrait.label       "Poltred">
-<!ENTITY portrait.accesskey   "P">
+<!ENTITY portrait.accesskey   "G">
 <!ENTITY landscape.label      "Gweledva">
-<!ENTITY landscape.accesskey  "w">
+<!ENTITY landscape.accesskey  "L">
 <!ENTITY close.label          "Serriñ">
-<!ENTITY close.accesskey      "S">
-<!ENTITY p30.label            "30&#037;">
-<!ENTITY p40.label            "40&#037;">
-<!ENTITY p50.label            "50&#037;">
-<!ENTITY p60.label            "60&#037;">
-<!ENTITY p70.label            "70&#037;">
-<!ENTITY p80.label            "80&#037;">
-<!ENTITY p90.label            "90&#037;">
-<!ENTITY p100.label           "100&#037;">
-<!ENTITY p125.label           "125&#037;">
-<!ENTITY p150.label           "150&#037;">
-<!ENTITY p175.label           "175&#037;">
-<!ENTITY p200.label           "200&#037;">
+<!ENTITY close.accesskey      "C">
+<!ENTITY p30.label            "30%">
+<!ENTITY p40.label            "40%">
+<!ENTITY p50.label            "50%">
+<!ENTITY p60.label            "60%">
+<!ENTITY p70.label            "70%">
+<!ENTITY p80.label            "80%">
+<!ENTITY p90.label            "90%">
+<!ENTITY p100.label           "100%">
+<!ENTITY p125.label           "125%">
+<!ENTITY p150.label           "150%">
+<!ENTITY p175.label           "175%">
+<!ENTITY p200.label           "200%">
 <!ENTITY Custom.label         "Personelaat…">
 <!ENTITY ShrinkToFit.label    "Strishaat evit kenglotañ">
 <!ENTITY customPrompt.title   "Personelaat ar skeul…">
 <!ENTITY simplifyPage.label   "Eeunaat ar bajenn">
-<!ENTITY simplifyPage.accesskey "E">
+<!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "Kemmañ aozadur ar bajenn evit lenn aesoc'h">
 <!ENTITY simplifyPage.disabled.tooltip "N'hall ket ar bajenn-mañ bezañ eeunaet emgefreek">
 
