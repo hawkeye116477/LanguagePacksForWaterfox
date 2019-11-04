@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "&brandShortName; tye ka tic mape okube iwi yamo">
 <!ENTITY  offline.description             "&brandShortName; mito cito iyamo me neno kace ngec manyen tye pi med-ikome mamegi me weko gi rwate me tic ki kit man.">
 <!ENTITY  offline.toggleOffline.label     "Woti iwi yamo kombedi.">
-<!ENTITY  offline.toggleOffline.accesskey "W">
+<!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "Med-ikome mape rwate me tic">
 <!ENTITY  mismatch.top.label              "Med-ikome magi pe rwate me tic ki kit &brandShortName; man kadong kijuko woko:">
@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "Yer med-ikome ma imito keto:">
 <!ENTITY  found.disabledXPinstall.label   "Ngec manyen magi pe kitwero keto gi pien keto purugram kombedi kigengo woko. Itwero loko ter man piny.">
 <!ENTITY  found.enableXPInstall.label     "Wek kakube me web ket purugram me kompiuta">
-<!ENTITY  found.enableXPInstall.accesskey "W">
+<!ENTITY  found.enableXPInstall.accesskey "I">
 
 <!ENTITY  installing.wizard.title         "Keto med-ikome marwate">
 <!ENTITY  installing.top.label            "Tye ka gamo kadong keto ngec manyen iye med-ikome mamegi…">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Peki mogo ononge i kare me keto En manyen">
 <!ENTITY  installerrors.intro.label       "&brandShortName; orwate ki peko ma onongo tye ka keto ngec manyen iye med-ikome mamegi mogo.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Dii Tyeko ki mede cako &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Dii Otum ki made cako &brandShortName;.">
 <!ENTITY  enableChecking.label            "Weki &brandShortName; ki irot pi en manyen.">
