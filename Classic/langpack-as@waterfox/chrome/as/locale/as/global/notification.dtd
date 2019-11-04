@@ -6,9 +6,7 @@
 
 <!ENTITY checkForUpdates "আপডেইটসমূহৰ বাবে নীৰিক্ষণ কৰক…">
 
-<!ENTITY learnMore "অধিক জানক…">
+<!ENTITY learnMore "Learn more…">
 
-
-
-<!ENTITY defaultButton.accesskey "O">
 <!ENTITY defaultButton.label "OK!">
+<!ENTITY defaultButton.accesskey "O">
