@@ -6,27 +6,27 @@
 <!ENTITY  trackingProtection2.description      "Sporing betyder, at data om i dine vaner på nettet indsamles på tværs af websteder. Sporing kan bruges til at vise dig indhold på baggrund af disse data og dine personlige informationer">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Brug beskyttelse mod sporing for at blokere kendte sporings-tjenester">
 <!ENTITY  trackingProtectionAlways.label       "Altid">
-<!ENTITY  trackingProtectionAlways.accesskey   "A">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Kun i private vinduer">
-<!ENTITY  trackingProtectionPrivate.accesskey  "p">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Aldrig">
-<!ENTITY  trackingProtectionNever.accesskey    "l">
-<!ENTITY  trackingProtectionLearnMore.label    "Læs mere">
+<!ENTITY  trackingProtectionNever.accesskey    "I">
+<!ENTITY  trackingProtectionLearnMore.label    "Learn more">
 <!ENTITY  trackingProtectionExceptions.label   "Undtagelser…">
-<!ENTITY  trackingProtectionExceptions.accesskey "u">
+<!ENTITY  trackingProtectionExceptions.accesskey "A">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Brug beskyttelse mod sporing i private vinduer">
-<!ENTITY trackingProtectionPBM5.accesskey     "p">
+<!ENTITY trackingProtectionPBM5.accesskey     "d">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Brug beskyttelse mod sporing i privat browsing for at blokere kendte sporings-tjenester">
-<!ENTITY trackingProtectionPBM6.accesskey     "p">
-<!ENTITY trackingProtectionPBMLearnMore.label "Læs mere">
-<!ENTITY changeBlockList2.label          "Skift blokerings-liste">
-<!ENTITY changeBlockList2.accesskey      "S">
+<!ENTITY trackingProtectionPBM6.accesskey     "d">
+<!ENTITY trackingProtectionPBMLearnMore.label "Learn more">
+<!ENTITY changeBlockList2.label               "Skift blokerings-liste">
+<!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.description        "Send websteder signalet 'Spor mig ikke' ('Do not track') for at fortælle, at du ikke vil spores">
-<!ENTITY  doNotTrack.learnMore.label    "Læs mere">
+<!ENTITY  doNotTrack.learnMore.label    "Learn more">
 <!ENTITY  doNotTrack.default.label      "Kun når jeg bruger beskyttelse mod sporing">
 <!ENTITY  doNotTrack.always.label       "Altid">
 
@@ -35,40 +35,40 @@
 
 <!ENTITY  addressBar.label              "Adresselinje">
 <!ENTITY  addressBar.suggest.label      "Når jeg bruger adresselinjen ønsker jeg forslag fra">
-<!ENTITY  locbar.history2.label          "Historik">
-<!ENTITY  locbar.history2.accesskey      "H">
+<!ENTITY  locbar.history2.label         "Historik">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Bogmærker">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.bookmarks.accesskey    "o">
 <!ENTITY  locbar.openpage.label         "Åbne faneblade">
-<!ENTITY  locbar.openpage.accesskey     "f">
+<!ENTITY  locbar.openpage.accesskey     "b">
 <!ENTITY  locbar.searches.label         "Relaterede søgninger med standard-søgetjenesten">
-<!ENTITY  locbar.searches.accesskey     "R">
+<!ENTITY  locbar.searches.accesskey     "k">
 
-<!ENTITY  suggestionSettings2.label      "Skift indstillinger for søgeforslag">
+<!ENTITY  suggestionSettings2.label     "Skift indstillinger for søgeforslag">
 
-<!ENTITY  acceptCookies2.label           "Accepter cookies fra websteder">
-<!ENTITY  acceptCookies2.accesskey       "c">
+<!ENTITY  acceptCookies2.label          "Accepter cookies fra websteder">
+<!ENTITY  acceptCookies2.accesskey      "O">
 
 <!ENTITY  acceptThirdParty.pre.label      "Accepter tredjeparts cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "Altid">
 <!ENTITY  acceptThirdParty.never.label    "Aldrig">
 <!ENTITY  acceptThirdParty.visited.label  "Fra besøgte">
 
 <!ENTITY  keepUntil.label               "Behold indtil:">
-<!ENTITY  keepUntil.accesskey           "e">
+<!ENTITY  keepUntil.accesskey           "S">
 
 <!ENTITY  expire.label                  "De udløber">
 <!ENTITY  close.label                   "Jeg lukker &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Undtagelser…">
-<!ENTITY  cookieExceptions.accesskey    "U">
+<!ENTITY  cookieExceptions.accesskey    "R">
 
 <!ENTITY  showCookies.label             "Vis cookies…">
-<!ENTITY  showCookies.accesskey         "V">
+<!ENTITY  showCookies.accesskey         "I">
 
-<!ENTITY  historyHeader2.pre.label          "&brandShortName; vil:">
-<!ENTITY  historyHeader2.pre.accesskey      "i">
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; vil:">
+<!ENTITY  historyHeader2.pre.accesskey     "V">
 <!ENTITY  historyHeader.remember.label     "Gemme historik">
 <!ENTITY  historyHeader.dontremember.label "Aldrig gemme historik">
 <!ENTITY  historyHeader.custom.label       "Bruge tilpassede indstillinger for historik">
@@ -94,22 +94,22 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Brug altid privat browsing-tilstand">
-<!ENTITY  privateBrowsingPermanent2.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Husk min browser- og filhentningshistorik">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.accesskey  "F">
 
 <!ENTITY  rememberSearchForm.label       "Husk formular- og søgehistorik">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
 <!ENTITY  clearOnClose.label             "Ryd historik når &brandShortName; lukkes">
-<!ENTITY  clearOnClose.accesskey         "R">
+<!ENTITY  clearOnClose.accesskey         "D">
 
 <!ENTITY  clearOnCloseSettings.label     "Indstillinger…">
-<!ENTITY  clearOnCloseSettings.accesskey "I">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersLearnMore.label      "Læs mere">
+<!ENTITY  browserContainersLearnMore.label      "Learn more">
 <!ENTITY  browserContainersEnabled.label        "Aktiver kontekst-faneblade">
-<!ENTITY  browserContainersEnabled.accesskey    "A">
+<!ENTITY  browserContainersEnabled.accesskey    "I">
 <!ENTITY  browserContainersSettings.label        "Indstillinger…">
-<!ENTITY  browserContainersSettings.accesskey    "n">
+<!ENTITY  browserContainersSettings.accesskey    "h">
