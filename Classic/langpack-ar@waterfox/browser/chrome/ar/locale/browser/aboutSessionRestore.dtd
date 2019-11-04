@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "استعد الجلسة">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-
 <!ENTITY restorepage.errorTitle     "هذا محرِج.">
 <!ENTITY restorepage.problemDesc    "يواجه &brandShortName; مشكلة في استرجاع نوافذك وألسنتك. عادة ما يكون هذا بسبب صفحة وب فتحتها مؤخرًا.">
 <!ENTITY restorepage.tryThis        "يمكنك تجربة:">
@@ -13,18 +13,18 @@
 <!ENTITY restorepage.startNew       "بدء جلسة تصفح جديدة">
 
 <!ENTITY restorepage.tryagainButton "استعِد">
-<!ENTITY restorepage.restore.access "س">
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "أغلِق">
-<!ENTITY restorepage.close.access   "غ">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "استعِد">
 <!ENTITY restorepage.listHeader     "النوافذ و الألسنة">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "النافذة &#037;S">
+<!ENTITY restorepage.windowLabel    "النافذة %S">
+
+
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
 
 <!ENTITY welcomeback2.restoreButton  "هيا بنا">
 <!ENTITY welcomeback2.restoreButton.access "ه">
@@ -36,16 +36,16 @@
 
 <!ENTITY welcomeback2.restoreAll.label  "استعد كل الألسنة و النوافذ">
 <!ENTITY welcomeback2.restoreSome.label "استعد ما تريده فقط">
+
+
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
 <!ENTITY welcomeback2.beforelink.pageInfo2  "أزيلت تخصيصاتك و إضافاتك و استرجعت إعدادات متصفحك المبدئية. إذا لم يُصلح هذا المشكلة، ">
-<!ENTITY welcomeback2.afterlink.pageInfo2   "​">
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "تعلم أكثر عما يمكنك فعله.">
 
