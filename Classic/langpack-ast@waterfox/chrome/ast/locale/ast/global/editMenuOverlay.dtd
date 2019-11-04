@@ -3,33 +3,33 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "Editar">
-<!ENTITY editMenu.accesskey        "t">
+<!ENTITY editMenu.accesskey        "S">
 <!ENTITY undoCmd.label             "Desfacer">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "E">
+<!ENTITY undoCmd.accesskey         "C">
 <!ENTITY redoCmd.label             "Refacer">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "r">
+<!ENTITY redoCmd.accesskey         "m">
 <!ENTITY cutCmd.label              "Cortar">
 <!ENTITY cutCmd.key                "X">
-<!ENTITY cutCmd.accesskey          "r">
+<!ENTITY cutCmd.accesskey          "l">
 <!ENTITY copyCmd.label             "Copiar">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "Pegar">
+<!ENTITY copyCmd.accesskey         "Z">
+<!ENTITY pasteCmd.label            "Apegar">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY pasteCmd.accesskey        "i">
 <!ENTITY deleteCmd.label           "Desaniciar">
-<!ENTITY deleteCmd.accesskey       "e">
+<!ENTITY deleteCmd.accesskey       "v">
 <!ENTITY selectAllCmd.label        "Esbillar too">
-<!ENTITY selectAllCmd.key          "t">
+<!ENTITY selectAllCmd.key          "T">
 <!ENTITY selectAllCmd.accesskey    "a">
-<!ENTITY findCmd.label             "Guetar">
-<!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "G">
-<!ENTITY findAgainCmd.label        "Repetir la gueta">
-<!ENTITY findAgainCmd.key          "r">
+<!ENTITY findCmd.label             "Find">
+<!ENTITY findCmd.key               "P">
+<!ENTITY findCmd.accesskey         "P">
+<!ENTITY findAgainCmd.label        "Alcontrar de nueves">
+<!ENTITY findAgainCmd.key          "C">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "g">
+<!ENTITY findAgainCmd.accesskey    "a">
 <!ENTITY findPreviousCmd.label     "Guetar anterior">
-<!ENTITY findPreviousCmd.accesskey "a">
+<!ENTITY findPreviousCmd.accesskey "P">
