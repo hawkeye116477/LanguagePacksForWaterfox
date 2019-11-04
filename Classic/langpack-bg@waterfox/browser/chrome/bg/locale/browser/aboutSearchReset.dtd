@@ -27,4 +27,4 @@ their language. -->
 <!ENTITY searchreset.noChangeButton.access "Б">
 
 <!ENTITY searchreset.changeEngineButton        "Промяна на търсачката">
-<!ENTITY searchreset.changeEngineButton.access "П">
+<!ENTITY searchreset.changeEngineButton.access "C">
