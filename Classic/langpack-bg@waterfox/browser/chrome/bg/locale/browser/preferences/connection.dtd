@@ -9,41 +9,41 @@
 
 <!ENTITY  proxyTitle.label              "Настройване на прокси за достъп до Интернет">
 <!ENTITY  noProxyTypeRadio.label        "Без прокси">
-<!ENTITY  noProxyTypeRadio.accesskey    "Б">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Използване на системните настройки за прокси">
-<!ENTITY  systemTypeRadio.accesskey     "с">
+<!ENTITY  systemTypeRadio.accesskey     "Н">
 <!ENTITY  WPADTypeRadio.label           "Автоматично откриване на прокси в мрежата">
-<!ENTITY  WPADTypeRadio.accesskey       "А">
+<!ENTITY  WPADTypeRadio.accesskey       "ф">
 <!ENTITY  manualTypeRadio.label         "Ръчна настройка на прокси:">
-<!ENTITY  manualTypeRadio.accesskey     "Р">
+<!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "Адрес за автоматично настройване на прокси:">
-<!ENTITY  autoTypeRadio.accesskey       "д">
+<!ENTITY  autoTypeRadio.accesskey       "О">
 <!ENTITY  reload.label                  "Презареждане">
-<!ENTITY  reload.accesskey              "з">
+<!ENTITY  reload.accesskey              "Д">
 <!ENTITY  ftp.label                     "Прокси за FTP:">
-<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  ftp.accesskey                 "ц">
 <!ENTITY  http.label                    "Прокси за HTTP:">
-<!ENTITY  http.accesskey                "H">
+<!ENTITY  http.accesskey                "х">
 <!ENTITY  ssl.label                     "Прокси за SSL:">
-<!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  ssl.accesskey                 "Н">
 <!ENTITY  socks.label                   "SOCKS хост:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "К">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "р">
 <!ENTITY  socksRemoteDNS.label2         "Прокси за DNS при използване на SOCKS v5">
-<!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  socksRemoteDNS.accesskey      "п">
 <!ENTITY  port.label                    "Порт:">
-<!ENTITY  HTTPport.accesskey            "П">
-<!ENTITY  SSLport.accesskey             "о">
-<!ENTITY  FTPport.accesskey             "р">
-<!ENTITY  SOCKSport.accesskey           "т">
+<!ENTITY  HTTPport.accesskey            "О">
+<!ENTITY  SSLport.accesskey             "б">
+<!ENTITY  FTPport.accesskey             "С">
+<!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Без прокси за:">
-<!ENTITY  noproxy.accesskey             "Б">
+<!ENTITY  noproxy.accesskey             "Н">
 <!ENTITY  noproxyExplain.label          "Например: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Използване на този прокси сървър за всички протоколи">
-<!ENTITY  shareproxy.accesskey          "п">
+<!ENTITY  shareproxy.accesskey          "С">
 <!ENTITY  autologinproxy.label          "Да не се пита за удостоверяване, ако паролата е запомнена">
-<!ENTITY  autologinproxy.accesskey      "у">
+<!ENTITY  autologinproxy.accesskey      "д">
 <!ENTITY  autologinproxy.tooltip        "Тази опция ще ви удостоверява без да потвърждение пред проксита, когато имате запомнени данни за влизане. Ще бъдете питани, ако удостоверяването се провали.">
