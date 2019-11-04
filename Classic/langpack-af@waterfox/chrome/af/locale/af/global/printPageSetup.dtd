@@ -1,32 +1,32 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "Bladsyopstelling">
 
 <!ENTITY basic.tab           "Formaat en opsies">
 
-<!ENTITY formatGroup.label   "Formaat">
+<!ENTITY formatGroup.label   "Format">
 
 <!ENTITY orientation.label   "Oriëntering:">
 <!ENTITY portrait.label      "Portret">
-<!ENTITY portrait.accesskey  "P">
+<!ENTITY portrait.accesskey  "p">
 <!ENTITY landscape.label     "Landskap">
 <!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.label         "Skaal:">
-<!ENTITY scale.accesskey     "S">
-<!ENTITY scalePercent        "&#037;">
+<!ENTITY scale.accesskey     "D">
+<!ENTITY scalePercent        "%">
 
 <!ENTITY shrinkToFit.label   "Krimp om bladsywydte te pas">
-<!ENTITY shrinkToFit.accesskey "w">
+<!ENTITY shrinkToFit.accesskey "v">
 
 <!ENTITY optionsGroup.label  "Opsies">
 
 <!ENTITY printBG.label       "Druk agtergrond (kleure en prente)">
-<!ENTITY printBG.accesskey   "a">
+<!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "Kantlyne en kopstuk/voetstuk">
 
@@ -34,9 +34,9 @@
 <!ENTITY marginUnits.inches  "duim">
 <!ENTITY marginUnits.metric  "millimeter">
 <!ENTITY marginTop.label     "Bokant:">
-<!ENTITY marginTop.accesskey "t">
+<!ENTITY marginTop.accesskey "p">
 <!ENTITY marginBottom.label  "Onderkant:">
-<!ENTITY marginBottom.accesskey "O">
+<!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "Linkerkant:">
 <!ENTITY marginLeft.accesskey "L">
 <!ENTITY marginRight.label   "Regterkant:">
