@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY print.label          "اطبع…">
-<!ENTITY print.accesskey      "ط">
+<!ENTITY print.accesskey      "خ">
 <!ENTITY pageSetup.label      "إعداد الصفحة…">
 <!ENTITY pageSetup.accesskey  "ع">
 <!ENTITY page.label           "الصفحة:">
-<!ENTITY page.accesskey       "ص">
+<!ENTITY page.accesskey       "ڤ">
 <!ENTITY of.label             "من">
 <!ENTITY scale.label          "المقياس:">
-<!ENTITY scale.accesskey      "م">
-<!ENTITY portrait.label       "طوليّ">
-<!ENTITY portrait.accesskey   "ط">
-<!ENTITY landscape.label      "عرضيّ">
-<!ENTITY landscape.accesskey  "ض">
-<!ENTITY close.label          "أغلق">
-<!ENTITY close.accesskey      "غ">
+<!ENTITY scale.accesskey      "ر">
+<!ENTITY portrait.label       "طولي">
+<!ENTITY portrait.accesskey   "ل">
+<!ENTITY landscape.label      "عرضي">
+<!ENTITY landscape.accesskey  "ه">
+<!ENTITY close.label          "أغلِق">
+<!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "٣٠٪">
 <!ENTITY p40.label            "٤٠٪">
 <!ENTITY p50.label            "٥٠٪">
