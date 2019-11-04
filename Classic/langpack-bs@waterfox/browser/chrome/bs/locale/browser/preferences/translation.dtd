@@ -4,23 +4,21 @@
 
 <!ENTITY window.title                     "Izuzeci - Prijevod">
 <!ENTITY window.width                     "36em">
-<!ENTITY windowClose.key                  "w">
+<!ENTITY windowClose.key                  "P">
 
 <!ENTITY noTranslationForLanguages.label  "Prijevod neće biti ponuđen za sljedeće jezike:">
 <!ENTITY treehead.languageName.label      "Jezici">
 <!ENTITY removeLanguage.label             "Ukloni jezik">
-<!ENTITY removeLanguage.accesskey         "U">
+<!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "Ukloni sve jezike">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "Prijevod neće biti ponuđen za sljedeće stranice:">
-
+<!ENTITY treehead.siteName2.label         "Websites">
 <!ENTITY removeSite.label                 "Ukloni stranicu">
-<!ENTITY removeSite.accesskey             "s">
+<!ENTITY removeSite.accesskey             "P">
 <!ENTITY removeAllSites.label             "Ukloni sve stranice">
-<!ENTITY removeAllSites.accesskey         "e">
+<!ENTITY removeAllSites.accesskey         "i">
 
 <!ENTITY button.close.label               "Zatvori">
-<!ENTITY button.close.accesskey           "Z">
-
-<!ENTITY treehead.siteName2.label         "Websites">
+<!ENTITY button.close.accesskey           "C">
