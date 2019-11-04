@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "Isjeci">
-<!ENTITY cutCmd.accesskey "I">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopiraj">
-<!ENTITY copyCmd.accesskey "K">
+<!ENTITY copyCmd.accesskey "Z">
 <!ENTITY pasteCmd.label "Zalijepi">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Poništi">
@@ -13,25 +13,25 @@
 <!ENTITY selectAllCmd.label "Označi sve">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Obriši">
-<!ENTITY deleteCmd.accesskey "O">
+<!ENTITY deleteCmd.accesskey "Z">
 
 <!ENTITY spellAddToDictionary.label "Dodaj u rječnik">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Poništi Dodaj u rječnik">
-<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.accesskey "P">
 <!ENTITY spellCheckToggle.label "Provjeri pravopis">
-<!ENTITY spellCheckToggle.accesskey "s">
+<!ENTITY spellCheckToggle.accesskey "a">
 <!ENTITY spellNoSuggestions.label "(Nema prijedloga u pravopisu)">
 <!ENTITY spellDictionaries.label "Jezici">
-<!ENTITY spellDictionaries.accesskey "J">
+<!ENTITY spellDictionaries.accesskey "l">
 
-<!ENTITY searchTextBox.clear.label "Očisti">
+<!ENTITY searchTextBox.clear.label "Clear">
 
 <!ENTITY fillLoginMenu.label          "Popuni prijavu">
-<!ENTITY fillLoginMenu.accesskey      "o">
+<!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillPasswordMenu.label       "Popuni lozinku">
-<!ENTITY fillPasswordMenu.accesskey   "n">
+<!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Popuni korisničko ime">
-<!ENTITY fillUsernameMenu.accesskey   "u">
+<!ENTITY fillUsernameMenu.accesskey   "F">
 <!ENTITY noLoginSuggestions.label     "(Nema predloženih prijava)">
 <!ENTITY viewSavedLogins.label        "Prikaži spašene prijave">
