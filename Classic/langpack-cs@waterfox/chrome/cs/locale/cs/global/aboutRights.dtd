@@ -34,7 +34,7 @@
 <!ENTITY rights.intro-point3-unbranded "Zásady ochrany soukromí nejsou pro neznačkové verze produktů k dispozici.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Některé funkce aplikace &brandShortName; využívají webových informačních služeb. U těchto služeb není možno garantovat jejich 100&#37; správnost a bezchybnost. Více podrobností, včetně informací jak tyto služby zakázat, lze nalézt v ">
+<!ENTITY rights2.intro-point4a "Některé funkce aplikace &brandShortName; využívají webových informačních služeb. U těchto služeb není možno garantovat jejich 100% správnost a bezchybnost. Více podrobností, včetně informací jak tyto služby zakázat, lze nalézt v ">
 <!ENTITY rights.intro-point4b "podmínkách služeb">
 <!ENTITY rights.intro-point4c ".">
 
