@@ -15,7 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Obecné">
 <!ENTITY  paneTabs.title          "Panely">
-<!ENTITY  paneSearch.title        "Vyhledávání">
+<!ENTITY  paneSearch.title        "Hledání">
 <!ENTITY  paneContent.title       "Obsah">
 <!ENTITY  paneApplications.title  "Aplikace">
 <!ENTITY  panePrivacy.title       "Soukromí">
