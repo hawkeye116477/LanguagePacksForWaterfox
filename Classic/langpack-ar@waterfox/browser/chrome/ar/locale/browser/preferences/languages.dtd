@@ -7,12 +7,12 @@
 <!ENTITY languages.customize.Header                     "اللّغات">
 <!ENTITY languages.customize.description                "تتوفّر بعض صفحات وِب بأكثر من لغة. اختر لغات عرض هذه الصّفحات، بالتّرتيب المفضّل:">
 <!ENTITY languages.customize.moveUp.label               "انقل لأعلى">
-<!ENTITY languages.customize.moveUp.accesskey           "ع">
+<!ENTITY languages.customize.moveUp.accesskey           "د">
 <!ENTITY languages.customize.moveDown.label             "انقل لأسفل">
-<!ENTITY languages.customize.moveDown.accesskey         "س">
-<!ENTITY languages.customize.deleteButton.label         "أزل">
-<!ENTITY languages.customize.deleteButton.accesskey     "ز">
+<!ENTITY languages.customize.moveDown.accesskey         "ت">
+<!ENTITY languages.customize.deleteButton.label         "أزِل">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
 <!ENTITY languages.customize.selectLanguage.label       "اختر لغة لإضافتها…">
 <!ENTITY languages.customize.addButton.label            "أضِف">
-<!ENTITY languages.customize.addButton.accesskey        "ض">
+<!ENTITY languages.customize.addButton.accesskey        "ع">
 
