@@ -8,7 +8,7 @@
 <!ENTITY     cookiename.label               "Nome de la cookie">
 <!ENTITY     cookiedomain.label             "Sitiu">
 
-<!ENTITY     props.name.label               "Nome:">
+<!ENTITY     props.name.label               "Nome">
 <!ENTITY     props.value.label              "Conteníu:">
 <!ENTITY     props.domain.label             "Host:">
 <!ENTITY     props.path.label               "Ruta:">
@@ -17,14 +17,12 @@
 <!ENTITY     props.container.label          "Contenedor:">
 
 <!ENTITY     window.title                   "Cookies">
-<!ENTITY     windowClose.key                "w">
-<!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
+<!ENTITY     windowClose.key                "f">
+<!ENTITY     focusSearch1.key               "c">
+<!ENTITY     focusSearch2.key               "y">
 
+<!ENTITY     searchFilter.label             "Guetar">
+<!ENTITY     searchFilter.accesskey         "U">
 
 <!ENTITY     button.close.label             "Zarrar">
-<!ENTITY     button.close.accesskey         "Z">
-
-<!ENTITY     searchFilter.accesskey         "S">
-
-<!ENTITY     searchFilter.label             "Search">
+<!ENTITY     button.close.accesskey         "C">
