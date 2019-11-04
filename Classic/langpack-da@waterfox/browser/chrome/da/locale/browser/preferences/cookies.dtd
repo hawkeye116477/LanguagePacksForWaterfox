@@ -7,10 +7,6 @@
 <!ENTITY     cookiesonsystem.label          "Følgende cookies er gemt på din computer:">
 <!ENTITY     cookiename.label               "Cookie-navn">
 <!ENTITY     cookiedomain.label             "Websted">
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
 
 <!ENTITY     props.name.label               "Navn:">
 <!ENTITY     props.value.label              "Indhold:">
@@ -21,12 +17,12 @@
 <!ENTITY     props.container.label          "Container:">
 
 <!ENTITY     window.title                   "Cookies">
-<!ENTITY     windowClose.key                "w">
+<!ENTITY     windowClose.key                "V">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
+<!ENTITY     focusSearch2.key               "o">
 
-<!ENTITY     searchFilter.label             "Søg">
-<!ENTITY     searchFilter.accesskey         "S">
+<!ENTITY     searchFilter.label             "Søgefelt">
+<!ENTITY     searchFilter.accesskey         "I">
 
 <!ENTITY     button.close.label             "Luk">
-<!ENTITY     button.close.accesskey         "L">
+<!ENTITY     button.close.accesskey         "C">
