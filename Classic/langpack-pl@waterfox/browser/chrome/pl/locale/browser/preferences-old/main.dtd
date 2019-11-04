@@ -5,45 +5,45 @@
 <!ENTITY startup.label             "Uruchamianie">
 
 <!ENTITY startupPage.label         "Po uruchomieniu programu &brandShortName;:">
-<!ENTITY startupPage.accesskey "P">
+<!ENTITY startupPage.accesskey     "U">
 <!ENTITY startupUserHomePage.label "wyświetl stronę startową">
 <!ENTITY startupBlankPage.label    "wyświetl pustą stronę">
-<!ENTITY startupPrevSession.label "wyświetl okna i karty z poprzedniej sesji">
+<!ENTITY startupPrevSession.label  "wyświetl okna i karty z poprzedniej sesji">
 
 <!ENTITY homepage.label            "Strona startowa:">
-<!ENTITY homepage.accesskey        "S">
+<!ENTITY homepage.accesskey        "O">
 <!ENTITY useCurrentPage.label      "Użyj bieżącej strony">
-<!ENTITY useCurrentPage.accesskey  "b">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Użyj bieżących stron">
 <!ENTITY chooseBookmark.label      "Użyj zakładki…">
 <!ENTITY chooseBookmark.accesskey  "z">
 <!ENTITY restoreDefault.label      "Przywróć domyślną">
-<!ENTITY restoreDefault.accesskey  "d">
+<!ENTITY restoreDefault.accesskey  "R">
 
-<!ENTITY downloads.label     		"Pobieranie">
+<!ENTITY downloads.label     "Pobrane">
 
-<!ENTITY saveTo.label 			"Pobierane pliki zapisuj do:">
-<!ENTITY saveTo.accesskey 		"o">
-<!ENTITY chooseFolderWin.label        	"Przeglądaj…">
-<!ENTITY chooseFolderWin.accesskey    	"g">
-<!ENTITY chooseFolderMac.label        	"Wybierz…">
-<!ENTITY chooseFolderMac.accesskey    	"y">
-<!ENTITY alwaysAskWhere.label "Pytaj, gdzie zapisać każdy plik">
-<!ENTITY alwaysAskWhere.accesskey "t">
+<!ENTITY saveTo.label "Pobierane pliki zapisuj do:">
+<!ENTITY saveTo.accesskey "g">
+<!ENTITY chooseFolderWin.label        "Przeglądaj…">
+<!ENTITY chooseFolderWin.accesskey    "r">
+<!ENTITY chooseFolderMac.label        "Wybierz…">
+<!ENTITY chooseFolderMac.accesskey    "F">
+<!ENTITY alwaysAskWhere.label         "Pytaj, gdzie zapisać każdy plik">
+<!ENTITY alwaysAskWhere.accesskey     "O">
 
-<!ENTITY alwaysCheckDefault2.label "Sprawdzanie, czy &brandShortName; jest domyślną przeglądarką">
-<!ENTITY alwaysCheckDefault2.accesskey "e">
-<!ENTITY setAsMyDefaultBrowser2.label "Ustaw jako domyślną">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "U">
-<!ENTITY isDefault.label "&brandShortName; jest obecnie domyślną przeglądarką">
-<!ENTITY isNotDefault.label "&brandShortName; nie jest obecnie domyślną przeglądarką">
+<!ENTITY alwaysCheckDefault2.label        "Sprawdzanie, czy &brandShortName; jest domyślną przeglądarką">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
+<!ENTITY setAsMyDefaultBrowser2.label     "Ustaw jako domyślną">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "N">
+<!ENTITY isDefault.label                  "&brandShortName; jest obecnie domyślną przeglądarką">
+<!ENTITY isNotDefault.label               "&brandShortName; nie jest obecnie domyślną przeglądarką">
 
-<!ENTITY separateProfileMode.label "Jednoczesne działanie programu &brandShortName; oraz Firefoksa">
-<!ENTITY useWaterfoxSync.label "Podczas jednoczesnego działania wykorzystywane są oddzielne profile. Można wykorzystać synchronizację, aby dzielić dane między nimi.">
-<!ENTITY getStarted.notloggedin.label "Zaloguj się, aby synchronizować…">
-<!ENTITY getStarted.configured.label "Otwórz ustawienia synchronizacji">
+<!ENTITY separateProfileMode.label        "Jednoczesne działanie programu &brandShortName; oraz Firefoksa">
+<!ENTITY useWaterfoxSync.label             "Podczas jednoczesnego działania wykorzystywane są oddzielne profile. Można wykorzystać synchronizację, aby dzielić dane między nimi.">
+<!ENTITY getStarted.notloggedin.label     "Zaloguj się, aby synchronizować…">
+<!ENTITY getStarted.configured.label      "Otwórz ustawienia synchronizacji">
 
-<!ENTITY e10sEnabled.label "&brandShortName; w wielu procesach">
+<!ENTITY e10sEnabled.label                "&brandShortName; w wielu procesach">
 
 <!ENTITY localeSelect.label               "Język interfejsu Waterfoksa">
 
