@@ -6,14 +6,14 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
+
 <!-- These strings are used in the about:home page -->
 
-
 <!ENTITY abouthome.pageTitle "Rutikirib'al ruxaq &brandFullName;">
+
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Waterfox features page on mozilla.com
 -->
-
 <!ENTITY abouthome.defaultSnippet1.v1 "¡Matyox nawokisaj ri Waterfox! richin chi ütz nisamäj ri awokik'amaya'l, tawetamaj ch'aqa' chik na'oj pa ruwi' ri <a>k'ak'a' taq samaj</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
@@ -33,8 +33,8 @@
 <!ENTITY abouthome.addonsButton.label    "Taq rutz'aqat">
 <!ENTITY abouthome.downloadsButton.label "Taq qasa'n">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
-
 <!ENTITY abouthome.aboutMozilla.label    "Chi rij Mozilla">
