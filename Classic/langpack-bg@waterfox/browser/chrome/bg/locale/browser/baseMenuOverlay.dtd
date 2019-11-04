@@ -24,9 +24,9 @@
 <!ENTITY helpKeyboardShortcuts.accesskey "К">
 
 <!ENTITY helpSafeMode.label       "Рестартиране с изключени добавки…">
-<!ENTITY helpSafeMode.accesskey   "д">
+<!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "Рестартиране с включени добавки">
-<!ENTITY helpSafeMode.stop.accesskey   "д">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "Доклад за изправност на &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "Д">
@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Услуги">
 
 <!ENTITY hideThisAppCmdMac2.label       "Скриване на &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "П">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Скриване на другите">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "П">
 
 <!ENTITY showAllAppsCmdMac.label        "Показване на всички">
