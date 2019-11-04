@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "&brandShortName; indi offline işləyir">
 <!ENTITY  offline.description             "&brandShortName; proqramının yeniləmələri yoxlaması və uyğun əlavələri yükləmək üçün online olması lazımdır.">
 <!ENTITY  offline.toggleOffline.label     "İndi onlayn ol.">
-<!ENTITY  offline.toggleOffline.accesskey "o">
+<!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "Uyğun olmayan əlavələr">
 <!ENTITY  mismatch.top.label              "Aşağıdaki əlavələr &brandShortName; brauzerinin bu versiyası ilə uyğun deyil və buna görə söndürüldü:">
@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "Quraşdırmaq istədiyiniz əlavəni seçin:">
 <!ENTITY  found.disabledXPinstall.label   "Bu yeniləmələr qurula bilməz, çünki proqram quraşdırılması indi söndürülüb. Bu seçimi aşağıdan dəyişə bilərsiniz.">
 <!ENTITY  found.enableXPInstall.label     "Saytların proqram yükləməsinə icazə ver">
-<!ENTITY  found.enableXPInstall.accesskey "y">
+<!ENTITY  found.enableXPInstall.accesskey "H">
 
 <!ENTITY  installing.wizard.title         "Uyğun əlavələr quraşdırılır">
 <!ENTITY  installing.top.label            "Əlavə yenilənmələri yüklənib quraşdırılır…">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Yeniləmələrin quraşdırılmasında problem">
 <!ENTITY  installerrors.intro.label       "&brandShortName; bəzi əlavələrinizi yeniləyərkən problemlərlə qarşılaşdı.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "&brandShortName; brauzerini açmağa davam etmək üçün Tamamlandı düyməsinə basın.">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; proqramını başladmaq üçün Tamamlandı düyməsinə basın.">
 <!ENTITY  enableChecking.label            "&brandShortName; brauzerinin yeniləmələrə baxmasına icazə ver.">
