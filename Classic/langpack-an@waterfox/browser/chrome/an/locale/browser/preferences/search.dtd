@@ -4,30 +4,26 @@
 
 <!ENTITY defaultSearchEngine.label             "Motor de busca por defecto">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Choose the default search engine to use in the address bar and search bar.">
 
 <!ENTITY provideSearchSuggestions.label        "Dar sucherencia de busca">
-<!ENTITY provideSearchSuggestions.accesskey    "b">
+<!ENTITY provideSearchSuggestions.accesskey    "t">
 
-
+<!ENTITY showURLBarSuggestions2.label           "Show search suggestions in address bar results">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "No s'amostrarán sucherencias de busca a os resultaus d'a barra d'ubicación porque ha configurau o &brandShortName; pa que no recuerde nunca o historial.">
 
 <!ENTITY oneClickSearchEngines.label           "Motors de busca d'un solo click">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.">
 
 <!ENTITY engineNameColumn.label                "Motors de busca">
 <!ENTITY engineKeywordColumn.label             "Parola clau">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Restaurar os motors de busca por defecto">
-<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+<!ENTITY restoreDefaultSearchEngines.accesskey "f">
 
-<!ENTITY removeEngine.label                    "Borrar…">
-<!ENTITY removeEngine.accesskey                "r">
-
-
-<!ENTITY chooseWhichOneToDisplay2.label         "Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.">
-
-<!ENTITY chooseYourDefaultSearchEngine2.label   "Choose the default search engine to use in the address bar and search bar.">
+<!ENTITY removeEngine.label                    "Borrar">
+<!ENTITY removeEngine.accesskey                "t">
 
 <!ENTITY findMoreSearchEngines.label           "Find more search engines">
-<!ENTITY showURLBarSuggestions2.accesskey       "l">
-<!ENTITY showURLBarSuggestions2.label           "Show search suggestions in address bar results">
