@@ -13,20 +13,20 @@
 <!ENTITY mainWindow.preface "Изходен код на: ">
 
 <!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "Ф">
+<!ENTITY fileMenu.accesskey "ц">
 <!ENTITY savePageCmd.label "Запазване на страницата като…">
-<!ENTITY savePageCmd.accesskey "к">
-<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY savePageCmd.accesskey "О">
+<!ENTITY savePageCmd.commandkey "в">
 <!ENTITY pageSetupCmd.label "Настройки на отпечатване…">
 <!ENTITY pageSetupCmd.accesskey "Н">
 <!ENTITY printPreviewCmd.label "Преглед преди отпечатване">
-<!ENTITY printPreviewCmd.accesskey "г">
+<!ENTITY printPreviewCmd.accesskey "р">
 <!ENTITY printCmd.label "Отпечатване…">
-<!ENTITY printCmd.accesskey "п">
-<!ENTITY printCmd.commandkey "P">
+<!ENTITY printCmd.accesskey "О">
+<!ENTITY printCmd.commandkey "О">
 <!ENTITY closeCmd.label "Затваряне">
-<!ENTITY closeCmd.accesskey "З">
-<!ENTITY closeCmd.commandkey "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.commandkey "н">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -36,51 +36,51 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
-<!ENTITY textEnlarge.commandkey3 "+">
+<!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey "-">
-<!ENTITY textReduce.commandkey2 "-">
+<!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">
-<!ENTITY textReset.commandkey2 "0">
+<!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Отиване на ред…">
-<!ENTITY goToLineCmd.accesskey "р">
+<!ENTITY goToLineCmd.label "Go to Line…">
+<!ENTITY goToLineCmd.accesskey "т">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Изглед">
-<!ENTITY viewMenu.accesskey       "И">
+<!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "Презареждане">
-<!ENTITY reloadCmd.accesskey "з">
-<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "С">
 <!ENTITY menu_wrapLongLines.title "Пренасяне на дългите редове"> 
-<!ENTITY menu_wrapLongLines.accesskey "П">
+<!ENTITY menu_wrapLongLines.accesskey "н">
 <!ENTITY menu_highlightSyntax.label "Синтактично открояване">
-<!ENTITY menu_highlightSyntax.accesskey "С">
+<!ENTITY menu_highlightSyntax.accesskey "П">
 <!ENTITY menu_textSize.label "Размер на текста">
-<!ENTITY menu_textSize.accesskey "Р">
+<!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Увеличаване">
-<!ENTITY menu_textEnlarge.accesskey "У">
+<!ENTITY menu_textEnlarge.accesskey "И">
 <!ENTITY menu_textReduce.label "Намаляване">
-<!ENTITY menu_textReduce.accesskey "Н">
+<!ENTITY menu_textReduce.accesskey "Б">
 <!ENTITY menu_textReset.label "Нормална">
-<!ENTITY menu_textReset.accesskey "Н">
+<!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "Търсене в страницата…">
-<!ENTITY findOnCmd.accesskey "Н">
+<!ENTITY findOnCmd.accesskey "ц">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Търсене отново">
-<!ENTITY findAgainCmd.accesskey "н">
-<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.accesskey "ж">
+<!ENTITY findAgainCmd.commandkey "ж">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+<!ENTITY findSelectionCmd.commandkey "Д">
 
 <!ENTITY backCmd.label "Назад">
-<!ENTITY backCmd.accesskey "з">
+<!ENTITY backCmd.accesskey "о">
 <!ENTITY forwardCmd.label "Напред">
-<!ENTITY forwardCmd.accesskey "п">
+<!ENTITY forwardCmd.accesskey "ц">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
 <!ENTITY copyLinkCmd.label "Копиране на препратката">
-<!ENTITY copyLinkCmd.accesskey "К">
+<!ENTITY copyLinkCmd.accesskey "Н">
 <!ENTITY copyEmailCmd.label "Копиране на електронния адрес">
-<!ENTITY copyEmailCmd.accesskey "К">
+<!ENTITY copyEmailCmd.accesskey "Р">
