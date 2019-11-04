@@ -24,9 +24,9 @@
 <!ENTITY helpKeyboardShortcuts.accesskey "Q">
 
 <!ENTITY helpSafeMode.label       "Əlavələri deaktiv edərək Yenidən başla…">
-<!ENTITY helpSafeMode.accesskey   "Y">
+<!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "Əlavələri aktiv edərək Yenidən başla">
-<!ENTITY helpSafeMode.stop.accesskey   "Y">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Sağlamlıq Hesabatı">
 <!ENTITY healthReport2.accesskey  "e">
@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Xidmətlər">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; gizlət">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "K">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Digərlərini gizlə">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "K">
 
 <!ENTITY showAllAppsCmdMac.label        "Hamısını göstər">
