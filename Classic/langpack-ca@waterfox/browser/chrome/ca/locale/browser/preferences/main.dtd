@@ -5,36 +5,36 @@
 <!ENTITY startup.label             "Inici">
 
 <!ENTITY startupPage2.label        "En iniciar el &brandShortName;">
-<!ENTITY startupPage2.accesskey    "i">
+<!ENTITY startupPage2.accesskey    "C">
 <!ENTITY startupUserHomePage.label "Mostra la pàgina d'inici">
 <!ENTITY startupBlankPage.label    "Mostra una pàgina en blanc">
 <!ENTITY startupPrevSession.label  "Mostra les finestres i pestanyes de la darrera vegada">
 
 <!ENTITY homepage2.label           "Pàgina d'inici">
-<!ENTITY homepage2.accesskey       "P">
+<!ENTITY homepage2.accesskey       "p">
 <!ENTITY useCurrentPage.label      "Utilitza la pàgina actual">
-<!ENTITY useCurrentPage.accesskey  "c">
+<!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Utilitza les pàgines actuals">
 <!ENTITY chooseBookmark.label      "Utilitza una adreça d'interès…">
-<!ENTITY chooseBookmark.accesskey  "z">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Restaura les pàgines per defecte">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Baixades">
 
 <!ENTITY saveTo.label "Desa els fitxers a">
-<!ENTITY saveTo.accesskey "s">
+<!ENTITY saveTo.accesskey "l">
 <!ENTITY chooseFolderWin.label        "Navega…">
-<!ENTITY chooseFolderWin.accesskey    "v">
+<!ENTITY chooseFolderWin.accesskey    "V">
 <!ENTITY chooseFolderMac.label        "Trieu…">
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAskWhere.label         "Demana sempre on desar els fitxers">
-<!ENTITY alwaysAskWhere.accesskey     "a">
+<!ENTITY alwaysAskWhere.accesskey     "Q">
 
 <!ENTITY alwaysCheckDefault2.label        "Comprova sempre si el &brandShortName; és el navegador per defecte">
-<!ENTITY alwaysCheckDefault2.accesskey    "o">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser3.label     "Fes que sigui el navegador per defecte…">
-<!ENTITY setAsMyDefaultBrowser3.accesskey "d">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "N">
 <!ENTITY isDefault.label                  "Actualment el &brandShortName; és el navegador per defecte">
 <!ENTITY isNotDefault.label               "El &brandShortName; no és el navegador per defecte">
 
