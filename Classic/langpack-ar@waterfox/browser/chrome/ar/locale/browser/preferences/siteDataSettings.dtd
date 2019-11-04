@@ -7,13 +7,13 @@
 <!ENTITY     statusCol.label               "الحالة">
 <!ENTITY     usageCol.label                "التخزين">
 <!ENTITY     searchTextboxPlaceHolder             "ابحث في المواقع">
-<!ENTITY     searchTextboxPlaceHolder.accesskey   "ح">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "ر">
 <!ENTITY     removeSelected.label          "أزل المحدد">
-<!ENTITY     removeSelected.accesskey      "م">
+<!ENTITY     removeSelected.accesskey      "ش">
 <!ENTITY     save.label                    "احفظ التغييرات">
-<!ENTITY     save.accesskey                "ظ">
-<!ENTITY     cancel.label                  "ألغ">
-<!ENTITY     cancel.accesskey              "ل">
+<!ENTITY     save.accesskey                "ڤ">
+<!ENTITY     cancel.label                  "ألغِ">
+<!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "إزالة بيانات المواقع">
 <!ENTITY     removingSelected.description  "إزالة بيانات الموقع سيزيل أيضا الكعكات و محتوى الوب للعمل دون اتصال. قد يتسبب هذا في ولوجك خارج المواقع. أمتأكد أنك تريد إجراء التغييرات؟">
 <!ENTITY     siteTree.label                "ستُزال كعكات المواقع التالية:">
