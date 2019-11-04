@@ -7,7 +7,7 @@
 <!ENTITY  offline.title                   "يعمل &brandShortName; في وضع دون اتصال">
 <!ENTITY  offline.description             "يحتاج &brandShortName; أن يتصل ليبحث عن تحديثات لإضافاتك و يجعلها متوافقة مع هذا الإصدار.">
 <!ENTITY  offline.toggleOffline.label     "اتصل الآن.">
-<!ENTITY  offline.toggleOffline.accesskey "ص">
+<!ENTITY  offline.toggleOffline.accesskey "ح">
 
 <!ENTITY  mismatch.win.title              "إضافات غير متوافقة">
 <!ENTITY  mismatch.top.label              "الإضافات التالية غير متوافقة من هذا الإصدار من &brandShortName; ولذلك عُطّلت:">
@@ -21,7 +21,7 @@
 <!ENTITY  found.top.label                 "اختر الإضافات التي تريد تنصيبها:">
 <!ENTITY  found.disabledXPinstall.label   "تعذّر تحديث الإضافات لأن تنصيب البرمجيات معطّل. يمكن تغيير ذلك في الأسفل.">
 <!ENTITY  found.enableXPInstall.label     "اسمح للمواقع بتنصيب برمجيات">
-<!ENTITY  found.enableXPInstall.accesskey "س">
+<!ENTITY  found.enableXPInstall.accesskey "ع">
 
 <!ENTITY  installing.wizard.title         "يجري تنصيب الإضافات المتوافقة">
 <!ENTITY  installing.top.label            "ينزّل و ينصّب تحديثات لإضافاتك…">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "حدثت أخطاء أثناء تنصيب التحديثات">
 <!ENTITY  installerrors.intro.label       "واجه &brandShortName; مشاكل أثناء تحديث بعض إضافاتك.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "اضغط ”أنهِ“ لمتابعة تشغيل &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "انقر ”تمّ“ لمتابعة &brandShortName;.">
 <!ENTITY  enableChecking.label            "اسمح ل&brandShortName; بالبحث عن تحديثات.">
