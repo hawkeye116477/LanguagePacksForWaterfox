@@ -49,14 +49,11 @@
 <!ENTITY  finishedBackground.name         "আপডেইট:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "ইয়াৰ পিছৰ বা &brandShortName; আৰম্ভ হ'লে এই আপডেইট ইনস্টল কৰা হ'ব। আপুনি &brandShortName; এতিয়া পুনাৰম্ভ কৰিব পাৰে, বা এতিয়া কামত আগবাঢ়ি পিছত পুনাৰম্ভ কৰিব পাৰে।">
-
-
-<!ENTITY  update.details.label            "বিৱৰণ">
-<!ENTITY  update.installedOn.label        "চিহ্নিত স্থানত ইনস্টল্ড:">
-<!ENTITY  update.status.label             "অৱস্থা:">
-
 <!ENTITY  finishedBackground.moreElevated "This update requires administrator privileges. The update will be
                                            installed the next time &brandShortName; starts. You can restart
                                            &brandShortName; now, continue working and restart later, or decline this
                                            update.">
 
+<!ENTITY  update.details.label            "বিৱৰণ">
+<!ENTITY  update.installedOn.label        "চিহ্নিত স্থানত ইনস্টল্ড:">
+<!ENTITY  update.status.label             "অৱস্থা:">
