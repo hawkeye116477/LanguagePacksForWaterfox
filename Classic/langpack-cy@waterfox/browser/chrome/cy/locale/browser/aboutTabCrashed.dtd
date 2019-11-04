@@ -5,6 +5,7 @@
 <!ENTITY tabCrashed.closeTab "Cau'r Tab Hwn">
 <!ENTITY tabCrashed.restoreTab "Adfer y Tab Hwn">
 <!ENTITY tabCrashed.restoreAll "Adfer Pob Tab Chwalwyd">
+
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
      are using it to communicate in an informal way that it is both
@@ -12,7 +13,6 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
 <!ENTITY tabCrashed.header2 "Ach. Mae eich tab newydd chwalu.">
 <!ENTITY tabCrashed.offerHelp "Gallwn ni eich helpu!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Dewiswch &tabCrashed.restoreTab; i ail lwytho cynnwys y dudalen.">
