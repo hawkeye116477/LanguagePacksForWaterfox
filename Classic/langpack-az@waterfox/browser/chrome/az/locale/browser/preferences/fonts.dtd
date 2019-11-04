@@ -5,19 +5,19 @@
 <!ENTITY  fontsDialog.title                       "Şriftlər">
 
 <!ENTITY  language.label                          "Şriftlər:">
-<!ENTITY  language.accesskey                      "r">
+<!ENTITY  language.accesskey                      "T">
 
-<!ENTITY  size.label                              "Ölçü:">
+<!ENTITY  size.label                              "Həcm:">
 <!ENTITY  sizeProportional.accesskey              "o">
-<!ENTITY  sizeMonospace.accesskey                 "a">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Proporsional:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional.accesskey                  "M">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  serif.accesskey                         "g">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.accesskey                    "i">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
 
@@ -54,7 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibet Dili">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ən kiçik yazı tipi ölçüsü:">
-<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.accesskey                        "T">
 <!ENTITY minSize.none                             "Yoxdur">
 
 <!-- default font type -->
@@ -62,11 +62,11 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  allowPagesToUseOwn.label                "Saytlara yuxarıda seçdikləriniz şriftlərin yerinə öz şriftlərini işlətməyə icazə verin">
-<!ENTITY  allowPagesToUseOwn.accesskey            "A">
+<!ENTITY  allowPagesToUseOwn.accesskey            "H">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "İrsi Məzmun üçün mətn simvol kodlaşdırması">
 <!ENTITY languages.customize.Fallback2.label      "Alternativ Mətn Kodlaşdırması:">
-<!ENTITY languages.customize.Fallback2.accesskey  "M">
+<!ENTITY languages.customize.Fallback2.accesskey  "P">
 <!ENTITY languages.customize.Fallback2.desc       "Bu simvol kodlaşdırması öz kodlaşdırmasını təyin edə bilməyən irsi məzmun üçün işlədilib.">
 
 <!ENTITY languages.customize.Fallback.auto        "Mövcud məkan üçün əsas dəyər">
@@ -85,7 +85,7 @@
 <!ENTITY languages.customize.Fallback.cyrillic    "Kiril">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "Yunanca">
+<!ENTITY languages.customize.Fallback.greek       "Yunan">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.hebrew      "İvritcə">
@@ -94,7 +94,7 @@
 <!ENTITY languages.customize.Fallback.japanese    "Yaponca">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "Koreya dili">
+<!ENTITY languages.customize.Fallback.korean      "Koreyaca">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.thai        "Tay dili">
