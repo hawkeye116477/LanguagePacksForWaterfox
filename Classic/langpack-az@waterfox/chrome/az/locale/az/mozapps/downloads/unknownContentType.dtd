@@ -7,20 +7,20 @@
 <!ENTITY  actionQuestion.label        "&brandShortName; bu fayl ilə nə etsin?">
 
 <!ENTITY  openWith.label              "Bununla aç">
-<!ENTITY  openWith.accesskey          "a">
+<!ENTITY  openWith.accesskey          "T">
 <!ENTITY  other.label                 "Digər…">
 
 <!ENTITY  saveFile.label              "Fərqli saxla">
-<!ENTITY  saveFile.accesskey          "S">
+<!ENTITY  saveFile.accesskey          "B">
 
 <!ENTITY  rememberChoice.label        "Bu cür bütün fayllar üçün bunu avtomatik et.">
-<!ENTITY  rememberChoice.accesskey    "a">
+<!ENTITY  rememberChoice.accesskey    "V">
 
 <!ENTITY  whichIs.label              "növü:">
 
-<!ENTITY  chooseHandlerMac.label      "Seç…">
-<!ENTITY  chooseHandlerMac.accesskey  "S">
+<!ENTITY  chooseHandlerMac.label      "Seçin…">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Bax…">
-<!ENTITY  chooseHandler.accesskey     "B">
+<!ENTITY  chooseHandler.accesskey     "Ə">
 
 <!ENTITY  unknownPromptText.label     "Bu faylı saxlamaq istərdiniz?">
