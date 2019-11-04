@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Titojtob'ëx chik">
 <!ENTITY returnToPreviousPage.label "Titzolin">
 <!ENTITY advanced.label "Q'axinäq">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Man tikirel ta nok">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Q'axinäq chi etamab'äl: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; man xok ta pa <span id='wrongSystemTime_URL'/> man tikirel ta ruma chi ri ch'utiq'ijub'äl nuk'üp pe ju sachoj ramaj, ri nub'än chi man ütz ta ri okem.</p> <p>Ri akematz'ib' nujikib'a' <span id='wrongSystemTime_systemDate'/>, toq k'o chi <span id='wrongSystemTime_actualDate'/>. Richin nisol re k'ayewal re', tajala' ri runuk'ulem q'ijul chuqa' ramaj richin nuk'äm ri' rik'in ri ütz ramaj.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; man xok ta pa <span id='wrongSystemTimeWithoutReference_URL'/> man tikirel ta ruma chi ri ch'utiq'ijub'äl nuk'üt pe jun sachoj ramaj, ri nub'än chi man ütz ta ri okem.</p> <p>Ri akematz'ib' nujikib'a' <span id='wrongSystemTimeWithoutReference_systemDate'/>. Richin nisol re k'ayewal re', tajala' ri runuk'ulem q'ijul chuqa' ri ramaj richin nuk'äm ri' rik'in ri ütz ramaj.</p>">
 
