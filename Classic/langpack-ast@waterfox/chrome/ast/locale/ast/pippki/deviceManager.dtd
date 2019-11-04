@@ -15,23 +15,22 @@
 <!ENTITY devmgr.button.login.label              "Entamar sesión">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Finar sesión">
-<!ENTITY devmgr.button.logout.accesskey         "F">
+<!ENTITY devmgr.button.logout.accesskey         "A">
 <!ENTITY devmgr.button.changepw.label           "Camudar contraseña">
-<!ENTITY devmgr.button.changepw.accesskey       "C">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
 <!ENTITY devmgr.button.load.label               "Cargar">
 <!ENTITY devmgr.button.load.accesskey           "g">
 <!ENTITY devmgr.button.unload.label             "Descargar">
 <!ENTITY devmgr.button.unload.accesskey         "D">
-<!ENTITY devmgr.button.fips.accesskey           "F">
+<!ENTITY devmgr.button.fips.accesskey           "P">
 
 <!ENTITY loaddevice.info                        "Introduza la información pal módulo que quier amestar.">
 <!ENTITY loaddevice.modname                     "Nome del módulu:">
 <!ENTITY loaddevice.modname.accesskey           "m">
 <!ENTITY loaddevice.modname.default             "Nuevu módulu PKCS#11">
 <!ENTITY loaddevice.filename                    "Ficheru del módulu:">
-<!ENTITY loaddevice.filename.accesskey          "i">
-<!ENTITY loaddevice.browse                      "Agüeyar…">
-<!ENTITY loaddevice.browse.accesskey            "A">
-
+<!ENTITY loaddevice.filename.accesskey          "c">
+<!ENTITY loaddevice.browse                      "Restolar…">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title2                      "Load PKCS#11 Device Driver">
