@@ -16,10 +16,10 @@
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text      "Hvis du opretter flere profiler kan du adskille dem på profilnavnet. Du kan anvende det foreslåede navn, eller angive et selv.">
 <!ENTITY profilePrompt.label            "Indtast nyt profilnavn:">
-<!ENTITY profilePrompt.accesskey        "I">
-<!ENTITY profileDirectoryExplanation.text     "Dine indstillinger og øvrige brugerdata vil blive opbevaret i mappen:">
+<!ENTITY profilePrompt.accesskey        "R">
+<!ENTITY profileDirectoryExplanation.text   "Dine indstillinger og øvrige brugerdata vil blive opbevaret i mappen:">
 <!ENTITY profileDefaultName             "Standard">
 <!ENTITY button.choosefolder.label      "Vælg mappe…">
-<!ENTITY button.choosefolder.accesskey  "V">
+<!ENTITY button.choosefolder.accesskey  "C">
 <!ENTITY button.usedefault.label        "Anvend standardmappe">
-<!ENTITY button.usedefault.accesskey    "A">
+<!ENTITY button.usedefault.accesskey    "l">
