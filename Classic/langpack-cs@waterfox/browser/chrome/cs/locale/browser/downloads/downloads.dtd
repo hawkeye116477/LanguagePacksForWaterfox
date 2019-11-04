@@ -43,9 +43,9 @@
 <!ENTITY downloadsSummary.minWidth2       "25ch">
 
 <!ENTITY cmd.pause.label                  "Pozastavit">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.accesskey              "a">
 <!ENTITY cmd.resume.label                 "Pokračovat">
-<!ENTITY cmd.resume.accesskey             "o">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Zrušit">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
@@ -53,25 +53,25 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                   "Otevřít složku">
-<!ENTITY cmd.show.accesskey               "l">
+<!ENTITY cmd.show.accesskey               "r">
 <!ENTITY cmd.showMac.label                "Zobrazit ve Finderu">
-<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showMac.accesskey            "r">
 <!ENTITY cmd.retry.label                  "Opakovat">
 <!ENTITY cmd.goToDownloadPage.label       "Přejít na stránku stahování">
-<!ENTITY cmd.goToDownloadPage.accesskey   "e">
+<!ENTITY cmd.goToDownloadPage.accesskey   "Z">
 <!ENTITY cmd.copyDownloadLink.label       "Kopírovat stahovaný odkaz">
-<!ENTITY cmd.copyDownloadLink.accesskey   "K">
+<!ENTITY cmd.copyDownloadLink.accesskey   "P">
 <!ENTITY cmd.removeFromHistory.label      "Odebrat z historie">
-<!ENTITY cmd.removeFromHistory.accesskey  "d">
+<!ENTITY cmd.removeFromHistory.accesskey  "H">
 <!ENTITY cmd.clearList2.label             "Vymazat tento seznam">
-<!ENTITY cmd.clearList2.accesskey         "m">
+<!ENTITY cmd.clearList2.accesskey         "e">
 <!ENTITY cmd.clearDownloads.label         "Smazat stahování">
-<!ENTITY cmd.clearDownloads.accesskey     "S">
+<!ENTITY cmd.clearDownloads.accesskey     "N">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "Povolit stažení">
-<!ENTITY cmd.unblock2.accesskey           "o">
+<!ENTITY cmd.unblock2.accesskey           "P">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -132,7 +132,7 @@
      the panel at all.
      -->
 <!ENTITY downloadsHistory.label           "Zobrazit všechna stahování">
-<!ENTITY downloadsHistory.accesskey       "v">
+<!ENTITY downloadsHistory.accesskey       "d">
 
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the
