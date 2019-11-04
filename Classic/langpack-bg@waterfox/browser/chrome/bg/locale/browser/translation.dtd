@@ -53,9 +53,9 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "Без превод на този сайт">
-<!ENTITY translation.options.neverForSite.accesskey "с">
+<!ENTITY translation.options.neverForSite.accesskey "Д">
 <!ENTITY translation.options.preferences.label  "Настройки на преводите">
-<!ENTITY translation.options.preferences.accesskey "Н">
+<!ENTITY translation.options.preferences.accesskey "И">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
