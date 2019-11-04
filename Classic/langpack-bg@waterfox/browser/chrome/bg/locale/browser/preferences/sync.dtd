@@ -5,30 +5,30 @@
 <!-- The page shown when logged in... -->
 
 <!ENTITY engine.bookmarks.label     "Отметки">
-<!ENTITY engine.bookmarks.accesskey "О">
+<!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Отворени раздели">
-<!ENTITY engine.tabs.accesskey      "р">
+<!ENTITY engine.tabs.accesskey      "И">
 <!ENTITY engine.history.label       "История">
-<!ENTITY engine.history.accesskey   "И">
+<!ENTITY engine.history.accesskey   "С">
 <!ENTITY engine.logins.label        "Регистрации">
-<!ENTITY engine.logins.accesskey    "Р">
+<!ENTITY engine.logins.accesskey    "Н">
 <!ENTITY engine.prefs.label         "Настройки">
-<!ENTITY engine.prefs.accesskey     "Н">
+<!ENTITY engine.prefs.accesskey     "в">
 <!ENTITY engine.addons.label        "Добавки">
-<!ENTITY engine.addons.accesskey    "б">
+<!ENTITY engine.addons.accesskey    "О">
 <!ENTITY engine.addresses.label     "Адреси">
-<!ENTITY engine.addresses.accesskey "а">
+<!ENTITY engine.addresses.accesskey "Д">
 <!ENTITY engine.creditcards.label   "Кредитни карти">
-<!ENTITY engine.creditcards.accesskey "к">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Име на текущото устройство">
 <!ENTITY changeSyncDeviceName2.label "Преименуване…">
-<!ENTITY changeSyncDeviceName2.accesskey "м">
-<!ENTITY cancelChangeSyncDeviceName.label "Отказ">
-<!ENTITY cancelChangeSyncDeviceName.accesskey "о">
+<!ENTITY changeSyncDeviceName2.accesskey "С">
+<!ENTITY cancelChangeSyncDeviceName.label "Прекъсване">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "Н">
 <!ENTITY saveChangeSyncDeviceName.label "Запазване">
-<!ENTITY saveChangeSyncDeviceName.accesskey "З">
+<!ENTITY saveChangeSyncDeviceName.accesskey "р">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Условия на услугата">
@@ -52,24 +52,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Не сте вписани.">
 <!ENTITY signIn.label                "Вписване">
-<!ENTITY signIn.accesskey            "В">
+<!ENTITY signIn.accesskey            "ж">
 <!ENTITY profilePicture.tooltip      "Промяна снимката на профила">
 <!ENTITY verifiedManage.label        "Управление на сметката">
-<!ENTITY verifiedManage.accesskey    "У">
+<!ENTITY verifiedManage.accesskey    "б">
 <!ENTITY disconnect3.label           "Изключване…">
-<!ENTITY disconnect3.accesskey       "И">
+<!ENTITY disconnect3.accesskey       "Б">
 <!ENTITY verify.label                "Проверка на мейла">
-<!ENTITY verify.accesskey            "П">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Забравяне на този мейл">
-<!ENTITY forget.accesskey            "З">
+<!ENTITY forget.accesskey            "ц">
 
 <!ENTITY signedOut.caption            "Вземете Мрежата със себе си">
 <!ENTITY signedOut.description        "Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.">
 <!ENTITY signedOut.accountBox.title   "Свържете ги с &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Създаване на сметка">
-<!ENTITY signedOut.accountBox.create.accesskey  "С">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Вписване">
-<!ENTITY signedOut.accountBox.signin.accesskey  "В">
+<!ENTITY signedOut.accountBox.signin.accesskey  "И">
 
 <!ENTITY signedIn.settings.label       "Настройки за синхронизиране">
 <!ENTITY signedIn.settings.description "Изберете какво да бъде синхронизирано на вашите устройства, използващи &brandShortName;.">
