@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/viewSource.xul -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -13,26 +13,26 @@
 <!ENTITY mainWindow.preface "Cod gwreiddiol: ">
 
 <!ENTITY fileMenu.label "Ffeil">
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.accesskey "S">
 <!ENTITY savePageCmd.label "Cadw Tudalen Fel…">
-<!ENTITY savePageCmd.accesskey "a">
-<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY savePageCmd.accesskey "n">
+<!ENTITY savePageCmd.commandkey "A">
 <!ENTITY pageSetupCmd.label "Gosodiad Tudalen…">
-<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY pageSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
-<!ENTITY printPreviewCmd.accesskey "h">
+<!ENTITY printPreviewCmd.accesskey "R">
 <!ENTITY printCmd.label "Argraffu…">
-<!ENTITY printCmd.accesskey "A">
-<!ENTITY printCmd.commandkey "P">
+<!ENTITY printCmd.accesskey "F">
+<!ENTITY printCmd.commandkey "F">
 <!ENTITY closeCmd.label "Cau">
 <!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.commandkey "W">
+<!ENTITY closeCmd.commandkey "N">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -42,45 +42,45 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Mynd i'r Linell…">
-<!ENTITY goToLineCmd.accesskey "M">
-<!ENTITY goToLineCmd.commandkey "l">
+<!ENTITY goToLineCmd.label "Go to Line…">
+<!ENTITY goToLineCmd.accesskey "E">
+<!ENTITY goToLineCmd.commandkey "I">
 
 <!ENTITY viewMenu.label           "Golwg">
-<!ENTITY viewMenu.accesskey       "G">
+<!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "Ail-lwytho">
-<!ENTITY reloadCmd.accesskey "A">
-<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "D">
 <!ENTITY menu_wrapLongLines.title "Amlapio Llinellau Hir"> 
-<!ENTITY menu_wrapLongLines.accesskey "H">
+<!ENTITY menu_wrapLongLines.accesskey "N">
 <!ENTITY menu_highlightSyntax.label "Amlygu Cystrawen">
-<!ENTITY menu_highlightSyntax.accesskey "m">
+<!ENTITY menu_highlightSyntax.accesskey "C">
 <!ENTITY menu_textSize.label "Maint Testun">
-<!ENTITY menu_textSize.accesskey "T">
+<!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Cynyddu">
-<!ENTITY menu_textEnlarge.accesskey "y">
+<!ENTITY menu_textEnlarge.accesskey "w">
 <!ENTITY menu_textReduce.label "Lleihau">
-<!ENTITY menu_textReduce.accesskey "L">
+<!ENTITY menu_textReduce.accesskey "P">
 <!ENTITY menu_textReset.label "Arferol">
-<!ENTITY menu_textReset.accesskey "A">
+<!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "Canfod ar y Dudalen…">
-<!ENTITY findOnCmd.accesskey "f">
-<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findOnCmd.accesskey "S">
+<!ENTITY findOnCmd.commandkey "S">
 <!ENTITY findAgainCmd.label  "Canfod Eto">
-<!ENTITY findAgainCmd.accesskey "E">
-<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.accesskey "D">
+<!ENTITY findAgainCmd.commandkey "D">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "e">
+<!ENTITY findSelectionCmd.commandkey "A">
 
 <!ENTITY backCmd.label "Nôl">
 <!ENTITY backCmd.accesskey "N">
 <!ENTITY forwardCmd.label "Ymlaen">
-<!ENTITY forwardCmd.accesskey "Y">
+<!ENTITY forwardCmd.accesskey "S">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
 <!ENTITY copyLinkCmd.label "Copïo Lleoliad Dolen">
-<!ENTITY copyLinkCmd.accesskey "D">
+<!ENTITY copyLinkCmd.accesskey "F">
 <!ENTITY copyEmailCmd.label "Copïo Cyfeiriad E-bost">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.accesskey "G">
