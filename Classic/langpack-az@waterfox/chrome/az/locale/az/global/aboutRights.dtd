@@ -20,7 +20,7 @@
 
 <!ENTITY rights.intro-point2-a "Mozilla Fondu və ya başqa tərəfin hər hansı bir əmtəə nişanı və ya lisenziyası, Waterfox adı və loqosu da daxil olmaqla, üzərində heç bir haqqınız yoxdur. Əmtəə nişanları ilə əlaqəli ətraflı məlumat ">
 <!ENTITY rights.intro-point2-b "buradan baxa bilərsiniz">
-<!ENTITY rights.intro-point2-c "açıqlanmışdır.">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
 <!ENTITY rights.intro-point2.5 "&brandShortName; səyyahınızdakı Çökmə Xəbərçisi kimi bəzi funksiyalar sizə &vendorShortName; üçün əks əlaqə vermə imkanı verir. Əks əlaqə verməyi seçməklə &vendorShortName; tərəfinə məhsullarını inkişaf etdirmək üçün bu məlumatı istifadə etmə, verdiyiniz əks əlaqəni saytlarında nəşr etmək və əks əlaqənizlə bölüşmək icazəsi vermiş olursunuz.">
@@ -28,15 +28,15 @@
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Şəxsi məlumat və əks əlaqənizi &brandShortName; ilə &vendorShortName;-ya göndərdiyinizdə necə istifadə etdiyimiz ">
 <!ENTITY rights2.intro-point3b "&brandShortName; Məxfilik Siyasətində">
-<!ENTITY rights.intro-point3c " təsvir edilib.">
+<!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Bu məhsulla bağlı bütün məxfilik siyasətləri burada sıralanmalıdır.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Bəzi &brandShortName; funksiyaları veb əsaslı məlumat xidmətlərindən yararlanır, ancaq bunların 100&#037; doğru və ya xətasız olduğuna zəmanət verə bilmərik. Daha ətraflı və həmçinin bu xidmətlərin necə söndürülməsi haqqında məlumatı buradan tapa bilərsiz:">
+<!ENTITY rights2.intro-point4a "Bəzi &brandShortName; funksiyaları veb əsaslı məlumat xidmətlərindən yararlanır, ancaq bunların 100% doğru və ya xətasız olduğuna zəmanət verə bilmərik. Daha ətraflı və həmçinin bu xidmətlərin necə söndürülməsi haqqında məlumatı buradan tapa bilərsiz:">
 <!ENTITY rights.intro-point4b "xidmət şərtləri">
-<!ENTITY rights.intro-point4c "açıqlanmışdır.">
+<!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Bu məhsul web xidmətləri ilə bağlantı qurursa, xidmət(lər) ilə bağlı bütün xidmət şərtləri ">
