@@ -8,6 +8,6 @@
 <!ENTITY editfield1.label "Lozinka:"> 
 <!ENTITY checkbox.label   "označeno">
 <!ENTITY copyCmd.label    "Kopiraj">
-<!ENTITY copyCmd.accesskey "K">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Označi sve">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "O">
