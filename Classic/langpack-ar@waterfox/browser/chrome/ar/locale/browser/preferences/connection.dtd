@@ -9,41 +9,41 @@
 
 <!ENTITY  proxyTitle.label              "اضبط وسطاء الوصول إلى الإنترنت">
 <!ENTITY  noProxyTypeRadio.label        "لا وسيط">
-<!ENTITY  noProxyTypeRadio.accesskey    "ل">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "استخدم إعدادات النظام للوسيط">
-<!ENTITY  systemTypeRadio.accesskey     "ن">
+<!ENTITY  systemTypeRadio.accesskey     "ع">
 <!ENTITY  WPADTypeRadio.label           "تعرَّف تلقائيًّا على إعدادات وسيط هذه الشَّبكة">
-<!ENTITY  WPADTypeRadio.accesskey       "ش">
+<!ENTITY  WPADTypeRadio.accesskey       "خ">
 <!ENTITY  manualTypeRadio.label         "إعداد الوسيط يدويا:">
-<!ENTITY  manualTypeRadio.accesskey     "ي">
+<!ENTITY  manualTypeRadio.accesskey     "ص">
 <!ENTITY  autoTypeRadio.label           "مسار إعداد الوسيط آليا:">
-<!ENTITY  autoTypeRadio.accesskey       "و">
+<!ENTITY  autoTypeRadio.accesskey       "ع">
 <!ENTITY  reload.label                  "أعد التحميل">
-<!ENTITY  reload.accesskey              "ع">
+<!ENTITY  reload.accesskey              "ق">
 <!ENTITY  ftp.label                     "وسيط FTP:">
-<!ENTITY  ftp.accesskey                 "و">
+<!ENTITY  ftp.accesskey                 "ش">
 <!ENTITY  http.label                    "وسيط HTTP:">
-<!ENTITY  http.accesskey                "س">
+<!ENTITY  http.accesskey                "خ">
 <!ENTITY  ssl.label                     "وسيط SSL:">
-<!ENTITY  ssl.accesskey                 "ي">
+<!ENTITY  ssl.accesskey                 "ه">
 <!ENTITY  socks.label                   "مستضيف SOCKS:">
-<!ENTITY  socks.accesskey               "ض">
+<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "خ">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "ط">
 <!ENTITY  socksRemoteDNS.label2         "خادوم عناوين نطاقات الوسيط أثناء استخدام SOCKS v5">
-<!ENTITY  socksRemoteDNS.accesskey      "ط">
+<!ENTITY  socksRemoteDNS.accesskey      "ن">
 <!ENTITY  port.label                    "المنفذ:">
-<!ENTITY  HTTPport.accesskey            "م">
-<!ENTITY  SSLport.accesskey             "ن">
-<!ENTITY  FTPport.accesskey             "ف">
-<!ENTITY  SOCKSport.accesskey           "ذ">
+<!ENTITY  HTTPport.accesskey            "خ">
+<!ENTITY  SSLport.accesskey             "ل">
+<!ENTITY  FTPport.accesskey             "ش">
+<!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "لا وسيط ل‍:">
-<!ENTITY  noproxy.accesskey             "ل">
+<!ENTITY  noproxy.accesskey             "ف">
 <!ENTITY  noproxyExplain.label          "مثلًا: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "استعمل هذا الخادوم الوسيط لكل البروتوكولات">
-<!ENTITY  shareproxy.accesskey          "س">
+<!ENTITY  shareproxy.accesskey          "ش">
 <!ENTITY  autologinproxy.label          "لا تسأل الاستيثاق إذا كانت كلمة السر محفوظة">
 <!ENTITY  autologinproxy.accesskey      "س">
 <!ENTITY  autologinproxy.tooltip        "يستوثق هذا الخيار مع وسطاء الشبكة تلقائيًا إذا كان لديك بيانات ولوج محفوظة لهم. ستُسأل إذا فشل الاستيثاق.">
