@@ -13,14 +13,14 @@
 <!ENTITY restorepage.startNew       "Začít s prohlížením v nové relaci">
 
 <!ENTITY restorepage.tryagainButton "Obnovit">
-<!ENTITY restorepage.restore.access "b">
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Zavřít">
-<!ENTITY restorepage.close.access   "Z">
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Obnovit">
 <!ENTITY restorepage.listHeader     "Okna a panely">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Okno #&#37;S">
+<!ENTITY restorepage.windowLabel    "Okno #%S">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
