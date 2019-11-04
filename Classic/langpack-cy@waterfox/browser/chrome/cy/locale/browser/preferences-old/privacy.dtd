@@ -4,24 +4,24 @@
 
 <!ENTITY  trackingProtectionHeader.label       "Defnyddio Diogelu Rhag Tracio">
 <!ENTITY  trackingProtectionAlways.label       "Bob tro">
-<!ENTITY  trackingProtectionAlways.accesskey   "B">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Dim ond mewn ffenestri preifat">
-<!ENTITY  trackingProtectionPrivate.accesskey  "D">
+<!ENTITY  trackingProtectionPrivate.accesskey  "I">
 <!ENTITY  trackingProtectionNever.label        "Byth">
-<!ENTITY  trackingProtectionNever.accesskey    "y">
-<!ENTITY  trackingProtectionLearnMore.label    "Dysgu rhagor">
+<!ENTITY  trackingProtectionNever.accesskey    "w">
+<!ENTITY  trackingProtectionLearnMore.label    "Learn more">
 <!ENTITY  trackingProtectionExceptions.label   "Eithriadau…">
-<!ENTITY  trackingProtectionExceptions.accesskey "E">
+<!ENTITY  trackingProtectionExceptions.accesskey "G">
 
 <!ENTITY tracking.label                 "Tracio">
 <!ENTITY trackingProtectionPBM5.label         "Defnyddio Diogelu Rhag Tracio mewn Ffenestri Preifat">
-<!ENTITY trackingProtectionPBM5.accesskey     "P">
-<!ENTITY trackingProtectionPBMLearnMore.label "Dysgu rhagor">
+<!ENTITY trackingProtectionPBM5.accesskey     "R">
+<!ENTITY trackingProtectionPBMLearnMore.label "Learn more">
 <!ENTITY changeBlockList.label          "Newid y Rhestr Rhwystro">
-<!ENTITY changeBlockList.accesskey      "N">
+<!ENTITY changeBlockList.accesskey      "C">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "Gallwch hefyd ">
 <!ENTITY  doNotTrack.settings.label     "reoli eich gosodiadau Dim Tracio">
 <!ENTITY  doNotTrack.post.label         ".">
@@ -32,50 +32,50 @@
 
 <!ENTITY  locbar.suggest.label          "Pan yn defnyddio'r bar lleoliad, cynnig o'ch:">
 <!ENTITY  locbar.history.label          "Hanes">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.history.accesskey      "C">
 <!ENTITY  locbar.bookmarks.label        "Nodau Tudalen">
-<!ENTITY  locbar.bookmarks.accesskey    "N">
+<!ENTITY  locbar.bookmarks.accesskey    "w">
 <!ENTITY  locbar.openpage.label         "Tabiau ar agor">
-<!ENTITY  locbar.openpage.accesskey     "T">
+<!ENTITY  locbar.openpage.accesskey     "F">
 <!ENTITY  locbar.searches.label         "Chwiliadau perthnasol o'r peiriant chwilio rhagosodedig">
-<!ENTITY  locbar.searches.accesskey     "h">
+<!ENTITY  locbar.searches.accesskey     "F">
 
 <!ENTITY  suggestionSettings.label      "Newid dewisiadau am awgrymiadau peiriannau chwilio…">
-<!ENTITY  suggestionSettings.accesskey  "N">
+<!ENTITY  suggestionSettings.accesskey  "D">
 
 <!ENTITY  acceptCookies2.label          "Derbyn cwcis o wefannau">
-<!ENTITY  acceptCookies2.accesskey      "w">
+<!ENTITY  acceptCookies2.accesskey      "n">
 
 <!ENTITY  acceptThirdParty.pre.label      "Derbyn cwcis trydydd parti:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "Bob tro">
 <!ENTITY  acceptThirdParty.never.label    "Byth">
 <!ENTITY  acceptThirdParty.visited.label  "O'r ymwelwyd">
 
 <!ENTITY  keepUntil.label               "Cadw tan:">
-<!ENTITY  keepUntil.accesskey           "C">
+<!ENTITY  keepUntil.accesskey           "o">
 
 <!ENTITY  expire.label                  "byddant yn dod i ben">
 <!ENTITY  close.label                   "Cau &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Eithriadau…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.accesskey    "G">
 
 <!ENTITY  showCookies.label             "Dangos Cwcis…">
-<!ENTITY  showCookies.accesskey         "C">
+<!ENTITY  showCookies.accesskey         "A">
 
 <!ENTITY  historyHeader.pre.label          "Bydd &brandShortName; yn:">
-<!ENTITY  historyHeader.pre.accesskey      "B">
+<!ENTITY  historyHeader.pre.accesskey      "G">
 <!ENTITY  historyHeader.remember.label     "Cofio hanes">
 <!ENTITY  historyHeader.dontremember.label "Peidio cofio hanes">
 <!ENTITY  historyHeader.custom.label       "Defnyddio gosodiadau cyfaddasu ar gyfer hanes">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "Bydd &brandShortName; yn cofio eich hanes pori, llwytho, ffurflenni a chwilio ac yn cadw eich cwcis rhag gwefannau byddwch yn ymweld â nhw.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Efallai'r hoffech ">
 <!ENTITY  rememberActions.clearHistory.label  "glirio eich hanes diweddar">
 <!ENTITY  rememberActions.middle.label        ", neu ">
@@ -83,9 +83,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "Bydd &brandShortName; yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Efallai y byddwch eisiau ">
 <!ENTITY  dontrememberActions.clearHistory.label "clirio'r holl hanes presennol">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -94,23 +94,23 @@
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Cofio fy hanes pori a hanes llwytho i lawr">
-<!ENTITY  rememberHistory2.accesskey  "o">
+<!ENTITY  rememberHistory2.accesskey  "D">
 
 <!ENTITY  rememberSearchForm.label       "Cofio hanes chwilio a ffurflen">
-<!ENTITY  rememberSearchForm.accesskey   "C">
+<!ENTITY  rememberSearchForm.accesskey   "S">
 
 <!ENTITY  clearOnClose.label             "Clirio hanes pan fydd &brandShortName; yn cau">
-<!ENTITY  clearOnClose.accesskey         "l">
+<!ENTITY  clearOnClose.accesskey         "D">
 
 <!ENTITY  clearOnCloseSettings.label     "Gosodiadau…">
-<!ENTITY  clearOnCloseSettings.accesskey "G">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersHeader.label         "Tabiau Cynwysyddion">
-<!ENTITY  browserContainersLearnMore.label      "Dysgu rhagor">
+<!ENTITY  browserContainersLearnMore.label      "Learn more">
 <!ENTITY  browserContainersEnabled.label        "Galluogi Tabiau Cynwysyddion">
-<!ENTITY  browserContainersEnabled.accesskey    "G">
+<!ENTITY  browserContainersEnabled.accesskey    "w">
 <!ENTITY  browserContainersSettings.label        "Gosodiadau…">
-<!ENTITY  browserContainersSettings.accesskey    "G">
+<!ENTITY  browserContainersSettings.accesskey    "D">
 
 <!-- Geo Location Via Checkbox Tweak -->
 <!ENTITY  geographicalLocation.label            "Geographical Location">
