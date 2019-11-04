@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY playButton.playLabel "Göstər">
+<!ENTITY playButton.playLabel "Oynat">
 <!ENTITY playButton.pauseLabel "Dayandır">
-<!ENTITY muteButton.muteLabel "Səsi bağla">
-<!ENTITY muteButton.unmuteLabel "Sesi aç">
+<!ENTITY muteButton.muteLabel "Səssiz">
+<!ENTITY muteButton.unmuteLabel "Səsi aç">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Tam ekran">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Tam ekrandan çıx">
 <!ENTITY castingButton.castingLabel "Ekrana Yayımla">
 <!ENTITY closedCaption.off "Söndürülmüş">
 
 <!ENTITY stats.media "Ortam">
-<!ENTITY stats.size "Həcmi">
+<!ENTITY stats.size "Həcm">
 <!ENTITY stats.activity "Fəaliyyət">
 <!ENTITY stats.activityPaused "Saxlanıldı">
 <!ENTITY stats.activityPlaying "Göstərilir">
