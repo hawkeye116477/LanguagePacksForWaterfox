@@ -11,4 +11,4 @@
 <!ENTITY continue        "İrəli">
 <!ENTITY restartMessage  "Əlavə quraşdırmasının tamamlanması üçün &brandShortName; yenidən başladılmalıdır.">
 <!ENTITY restartButton   "&brandShortName; yenidən başlasın">
-<!ENTITY cancelButton    "ləğv et">
+<!ENTITY cancelButton    "Ləğv et">
