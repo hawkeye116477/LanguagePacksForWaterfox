@@ -17,12 +17,12 @@
 <!ENTITY     props.container.label          "Kontejner:">
 
 <!ENTITY     window.title                   "Správce cookies">
-<!ENTITY     windowClose.key                "w">
+<!ENTITY     windowClose.key                "b">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
+<!ENTITY     focusSearch2.key               "l">
 
-<!ENTITY     searchFilter.label             "Hledat">
-<!ENTITY     searchFilter.accesskey         "H">
+<!ENTITY     searchFilter.label             "Hledání">
+<!ENTITY     searchFilter.accesskey         "d">
 
 <!ENTITY     button.close.label             "Zavřít">
-<!ENTITY     button.close.accesskey         "Z">
+<!ENTITY     button.close.accesskey         "C">
