@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "O profilima">
 <!ENTITY aboutProfiles.subtitle "Ova stranica vam pomaže kod upravljanja profilima. Svaki profil je zasebna cjelina koja sadrži zasebnu historiju, zabilješke, postavke i add-one.">
 <!ENTITY aboutProfiles.create "Kreiraj novi profil">
-<!ENTITY aboutProfiles.restart.title "Restartuj">
+<!ENTITY aboutProfiles.restart.title "Restart">
 <!ENTITY aboutProfiles.restart.inSafeMode "Restartuj sa onemogućenim add-onima…">
 <!ENTITY aboutProfiles.restart.normal "Restartuj na normalan način…">
