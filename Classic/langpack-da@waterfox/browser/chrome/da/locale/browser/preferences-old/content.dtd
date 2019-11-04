@@ -1,46 +1,47 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  popups.label                "Pop op-vinduer">
 
 <!ENTITY  blockPopups.label           "Bloker pop op-vinduer">
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "Beskeder">
-<!ENTITY  notificationsPolicyLearnMore.label   "Læs mere">
+<!ENTITY  notificationsPolicyLearnMore.label   "Learn more">
 <!ENTITY  notificationsPolicyDesc4.label       "Vælg websteder, der må sende dig beskeder">
-<!ENTITY  notificationsPolicyButton.accesskey  "g">
+<!ENTITY  notificationsPolicyButton.accesskey  "l">
 <!ENTITY  notificationsPolicyButton.label      "Vælg…">
 <!ENTITY  notificationsDoNotDisturb.label      "Forstyr ikke">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "o">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "I">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Der vil ikke blive vist beskeder før du genstarter &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Undtagelser…">
-<!ENTITY  popupExceptions.accesskey   "U">
+<!ENTITY  popupExceptions.accesskey   "R">
 
 <!ENTITY  fontsAndColors.label        "Skrifttyper &amp; farver">
 
 <!ENTITY  defaultFont.label           "Standardskrifttype:">
-<!ENTITY  defaultFont.accesskey       "k">
+<!ENTITY  defaultFont.accesskey       "N">
 <!ENTITY  defaultSize.label           "Størrelse:">
-<!ENTITY  defaultSize.accesskey       "t">
+<!ENTITY  defaultSize.accesskey       "I">
 
 <!ENTITY  advancedFonts.label         "Avanceret…">
-<!ENTITY  advancedFonts.accesskey     "v">
+<!ENTITY  advancedFonts.accesskey     "O">
 
 <!ENTITY  colors.label                "Farver…">
-<!ENTITY  colors.accesskey            "F">
+<!ENTITY  colors.accesskey            "C">
 
 
 <!ENTITY languages.label              "Sprog">
 <!ENTITY chooseLanguage.label         "Vælg dit fortrukne sprog at få vist sider i">
 <!ENTITY chooseButton.label           "Vælg…">
-<!ENTITY chooseButton.accesskey       "æ">
+<!ENTITY chooseButton.accesskey       "R">
 
 <!ENTITY translateWebPages.label      "Oversæt webindhold">
-<!ENTITY translateWebPages.accesskey  "O">
+<!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Undtagelser…">
-<!ENTITY translateExceptions.accesskey "n">
+<!ENTITY translateExceptions.accesskey "A">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -55,8 +56,8 @@
 <!ENTITY  drmContent.label             "DRM-indhold">
 
 <!ENTITY  playDRMContent.label         "Afspil DRM-indhold">
-<!ENTITY  playDRMContent.accesskey     "A">
-<!ENTITY  playDRMContent.learnMore.label "Læs mere">
+<!ENTITY  playDRMContent.accesskey     "p">
+<!ENTITY  playDRMContent.learnMore.label "Learn more">
 
 <!ENTITY images.label "Images">
 <!ENTITY loadImages.label "Load images automatically">
