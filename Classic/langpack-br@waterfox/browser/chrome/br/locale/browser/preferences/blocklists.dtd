@@ -6,9 +6,9 @@
 <!ENTITY window.width                 "50em">
 
 <!ENTITY treehead.list.label          "Roll">
-<!ENTITY windowClose.key              "w">
+<!ENTITY windowClose.key              "d">
 
 <!ENTITY button.cancel.label          "Nullañ">
-<!ENTITY button.cancel.accesskey      "N">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "Enrollañ ar c'hemmoù">
-<!ENTITY button.ok.accesskey          "E">
+<!ENTITY button.ok.accesskey          "m">
