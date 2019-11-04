@@ -6,5 +6,5 @@
 <!ENTITY window.emHeight "26em">
 <!ENTITY ChooseOtherApp.description "Başqa tətbiqetmə seç">
 <!ENTITY ChooseApp.label "Seçin…">
-<!ENTITY ChooseApp.accessKey "S">
+<!ENTITY ChooseApp.accessKey "C">
 <!ENTITY accept "Keçidi aç">
