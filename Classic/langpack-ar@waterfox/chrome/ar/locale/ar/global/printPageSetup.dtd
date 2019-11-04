@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "إعداد الصّفحة">
 
@@ -12,21 +12,21 @@
 
 <!ENTITY orientation.label   "الاتّجاه:">
 <!ENTITY portrait.label      "طولي">
-<!ENTITY portrait.accesskey  "ط">
+<!ENTITY portrait.accesskey  "خ">
 <!ENTITY landscape.label     "عرضي">
-<!ENTITY landscape.accesskey "ع">
+<!ENTITY landscape.accesskey "ه">
 
 <!ENTITY scale.label         "المقياس:">
-<!ENTITY scale.accesskey     "م">
+<!ENTITY scale.accesskey     "ر">
 <!ENTITY scalePercent        "٪">
 
 <!ENTITY shrinkToFit.label   "قلص ليناسب عرض الصّفحة">
-<!ENTITY shrinkToFit.accesskey "ص">
+<!ENTITY shrinkToFit.accesskey "ذ">
 
-<!ENTITY optionsGroup.label  "الخيارات">
+<!ENTITY optionsGroup.label  "خيارات">
 
 <!ENTITY printBG.label       "اطبع الخلفيّة (الألوان و الصّور)">
-<!ENTITY printBG.accesskey   "خ">
+<!ENTITY printBG.accesskey   "ش">
 
 <!ENTITY advanced.tab        "الهوامش و التّرويسة/التّذييل">
 
@@ -34,13 +34,13 @@
 <!ENTITY marginUnits.inches  "بوصة">
 <!ENTITY marginUnits.metric  "ملي متر">
 <!ENTITY marginTop.label     "أعلى:">
-<!ENTITY marginTop.accesskey "ى">
+<!ENTITY marginTop.accesskey "ط">
 <!ENTITY marginBottom.label  "أسفل:">
-<!ENTITY marginBottom.accesskey "ف">
+<!ENTITY marginBottom.accesskey "ش">
 <!ENTITY marginLeft.label    "يسار:">
-<!ENTITY marginLeft.accesskey "س">
+<!ENTITY marginLeft.accesskey "ه">
 <!ENTITY marginRight.label   "يمين:">
-<!ENTITY marginRight.accesskey "ي">
+<!ENTITY marginRight.accesskey "R">
 
 <!ENTITY headerFooter.label  "التّرويسات و التّذييلات">
 
