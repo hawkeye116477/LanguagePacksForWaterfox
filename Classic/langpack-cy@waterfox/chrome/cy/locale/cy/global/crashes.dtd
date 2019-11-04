@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY crashReports.title         "Adroddiadau Chwalu">
+<!ENTITY crashReports.title         "Ardroddiad Chwalu">
 <!ENTITY crashesUnsubmitted.label   "Adroddiadau Chwalu heb eu Cyflwyno">
 <!ENTITY crashesSubmitted.label     "Adroddiadau Chwalu">
 <!ENTITY id.heading                 "Enw'r Adroddiad">
