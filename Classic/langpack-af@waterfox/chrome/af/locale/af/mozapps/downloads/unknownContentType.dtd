@@ -7,11 +7,11 @@
 <!ENTITY  actionQuestion.label        "Wat moet &brandShortName; met hierdie lêer doen?">
 
 <!ENTITY  openWith.label              "Open met">
-<!ENTITY  openWith.accesskey          "O">
+<!ENTITY  openWith.accesskey          "o">
 <!ENTITY  other.label                 "Ander…">
 
 <!ENTITY  saveFile.label              "Stoor lêer">
-<!ENTITY  saveFile.accesskey          "S">
+<!ENTITY  saveFile.accesskey          "D">
 
 <!ENTITY  rememberChoice.label        "Doen dit van nou af outomaties vir lêers soos dié.">
 <!ENTITY  rememberChoice.accesskey    "o">
@@ -19,7 +19,7 @@
 <!ENTITY  whichIs.label              "en dit is 'n:">
 
 <!ENTITY  chooseHandlerMac.label      "Kies…">
-<!ENTITY  chooseHandlerMac.accesskey  "K">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "Blaai…">
 <!ENTITY  chooseHandler.accesskey     "B">
 
