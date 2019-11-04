@@ -10,5 +10,5 @@
 <!ENTITY later           "Decyzję tę można zawsze zmienić, przechodząc do menedżera dodatków.">
 <!ENTITY continue        "Kontynuuj">
 <!ENTITY restartMessage  "Do ukończenia instalacji tego dodatku konieczne jest ponowne uruchomienie programu &brandShortName;.">
-<!ENTITY restartButton   "Uruchom ponownie">
+<!ENTITY restartButton   "Uruchom ponownie program &brandShortName;">
 <!ENTITY cancelButton    "Anuluj">
