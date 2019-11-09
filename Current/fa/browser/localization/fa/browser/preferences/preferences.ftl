@@ -919,3 +919,6 @@ category-downloads =
 pane-all-title = Display All
 category-all =
     .tooltiptext = { pane-all-title }
+
+display-all-new-prefs =
+    .label = Use all-new settings layout

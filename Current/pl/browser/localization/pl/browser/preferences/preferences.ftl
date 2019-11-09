@@ -970,3 +970,6 @@ category-downloads =
 pane-all-title = Wszystkie ustawienia
 category-all =
     .tooltiptext = { pane-all-title }
+
+display-all-new-prefs =
+    .label = Używaj zupełnie nowego układu ustawień
