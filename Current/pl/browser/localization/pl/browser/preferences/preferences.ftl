@@ -954,3 +954,19 @@ tab-top-under-ab =
 
 tab-bottom =
     .label = Na dole
+
+pane-webpages-title = Strony internetowe
+category-webpages =
+    .tooltiptext = { pane-webpages-title }
+
+pane-appearance-title = Wygląd
+category-appearance =
+    .tooltiptext = { pane-appearance-title }
+
+pane-downloads-title = Pobieranie i aktualizacje
+category-downloads =
+    .tooltiptext = { pane-downloads-title }
+
+pane-all-title = Wszystkie ustawienia
+category-all =
+    .tooltiptext = { pane-all-title }
