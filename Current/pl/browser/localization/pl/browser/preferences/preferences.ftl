@@ -973,3 +973,36 @@ category-all =
 
 display-all-new-prefs =
     .label = Używaj zupełnie nowego układu ustawień
+
+window-controls-position-header = Pozycja kontrolek okna
+
+left-side =
+    .label = Po lewej
+
+right-side =
+    .label = Po prawej
+
+menu-icon-style-header = Styl ikony menu
+
+menu-icon =
+    .label = Ikona menu
+
+browser-icon =
+    .label = Ikona programu { -brand-short-name }
+
+bookmarks-bar-position-header = Położenie paska zakładek
+
+top-bookmarks =
+    .label = Na górze
+
+pane-windowAppearance-title = Wygląd okna
+
+pane-menu-title = Menu
+
+search-suggestions-header = Podpowiedzi wyszukiwania
+
+dnt-header = Sygnał „Do Not Track”
+
+webrtc-header = Połączenie WebRTC P2P
+
+ref-header = Nagłówek HTTP odsyłający
