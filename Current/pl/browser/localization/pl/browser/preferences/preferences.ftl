@@ -1006,3 +1006,5 @@ dnt-header = Sygnał „Do Not Track”
 webrtc-header = Połączenie WebRTC P2P
 
 ref-header = Nagłówek HTTP odsyłający
+
+settings-page = Strona ustawień

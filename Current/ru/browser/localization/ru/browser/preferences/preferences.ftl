@@ -1007,3 +1007,6 @@ webrtc-header = WebRTC peer connection
 
 ref-header = HTTP Referrer Header
 
+
+settings-page = Settings Page
+
