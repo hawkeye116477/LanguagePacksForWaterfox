@@ -815,3 +815,5 @@ ref-header = HTTP Referrer Header
 
 settings-page = Settings Page
 
+show-links =
+    .label = Show links

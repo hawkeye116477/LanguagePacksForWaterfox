@@ -1008,3 +1008,6 @@ webrtc-header = Połączenie WebRTC P2P
 ref-header = Nagłówek HTTP odsyłający
 
 settings-page = Strona ustawień
+
+show-links =
+    .label = Wyświetlaj linki
