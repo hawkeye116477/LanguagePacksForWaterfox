@@ -45,3 +45,5 @@
 
 <!ENTITY closeSourceBrowser.label       "आगे बढ़ने से पहले कृपया सुनिश्चित करें ‌कि चुना हुआ ब्राउज़र बंद हो.‌">
 <!ENTITY migrationWizard.text1          "Waterfox now uses its own profile location to store your personal data. If you are coming from an older version of Waterfox, you will need to import your existing Waterfox data as previously this data was shared with your Firefox profile.">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
