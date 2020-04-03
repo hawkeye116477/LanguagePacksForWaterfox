@@ -4,6 +4,10 @@ SCRIPT_PATH=$(dirname "$0")
 
 cd "$SCRIPT_PATH" || exit
 
+if [ ! -d "$SCRIPT_PATH/../Current_XPI" ]; then
+    mkdir "$SCRIPT_PATH/../Current_XPI"
+fi
+
 # Build language XPI packages
 for D in *; do
     if [ -d "${D}" ]; then
