@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Enporzhiet eo bet an ergorennoù da heul gant berzh :">
 
 <!ENTITY closeSourceBrowser.label       "Gwiriekait eo serret ar merdeer diuzet a-raok kenderc'hel.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

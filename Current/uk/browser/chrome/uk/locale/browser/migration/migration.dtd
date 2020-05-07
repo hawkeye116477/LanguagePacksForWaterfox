@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Наступні об’єкти успішно імпортовані:">
 
 <!ENTITY closeSourceBrowser.label       "Перед продовженням переконайтеся, що вибраний браузер закрито.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

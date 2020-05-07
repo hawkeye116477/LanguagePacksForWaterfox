@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "ఈ క్రింది అంశములు సమర్ధంగా దిగుమతైనవి:">
 
 <!ENTITY closeSourceBrowser.label       "కొనసాగే ముందు ఎంచుకున్న విహారిణి మూసివుందని నిర్ధారించుకోండి.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

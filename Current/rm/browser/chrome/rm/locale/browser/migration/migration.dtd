@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Las suandantas datas èn vegnidas importadas cun success:">
 
 <!ENTITY closeSourceBrowser.label       "Controllescha p.pl. ch'il navigatur tschernì è serrà avant che cuntinuar.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

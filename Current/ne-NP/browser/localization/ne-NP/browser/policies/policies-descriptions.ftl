@@ -15,3 +15,4 @@ policy-BlockAboutAddons = एडअन व्यवस्ठापक (about:add
 policy-BlockAboutConfig = about:config पृष्ठमा पहुँच रोक्नुहोस ।
 policy-BlockAboutProfiles = about:profiles पृष्ठमा पहुँच रोक्नुहोस ।
 policy-BlockAboutSupport = about:support पृष्ठमा पहुँच रोक्नुहोस ।
+policy-DisabledCiphers = Disable ciphers.

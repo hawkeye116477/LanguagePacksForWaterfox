@@ -55,3 +55,4 @@ policy-SanitizeOnShutdown = Suprimís totas las donadas de navigacion a la tampa
 policy-SearchBar = Definís l’emplaçament per defaut de la barra de recèrca. L’utilizaire garda la possibilitat de personalizar aquò.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Permet d’installar de moduls PKCS #11.
+policy-DisabledCiphers = Disable ciphers.

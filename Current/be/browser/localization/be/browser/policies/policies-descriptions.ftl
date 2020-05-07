@@ -86,3 +86,4 @@ policy-SSLVersionMin = Устанаўляе мінімальную версію 
 policy-SupportMenu = Дадае нестандартны элемент у меню даведкі.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Забараніць наведванне вэб-сайтаў. За падрабязнасцямі фармату гл. дакументацыю.
+policy-DisabledCiphers = Disable ciphers.

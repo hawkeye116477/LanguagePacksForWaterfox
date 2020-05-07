@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Tika sekmīgi importēti:">
 
 <!ENTITY closeSourceBrowser.label       "Lūdzu pārliecinieties ka izvēlētais pārlūks ir aizvērts pirms turpināt.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

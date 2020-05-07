@@ -86,3 +86,4 @@ policy-SSLVersionMin = Definir a versão SSL mínima.
 policy-SupportMenu = Adicionar um item de menu de suporte personalizado ao menu de ajuda.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear o acesso a determinados sites. Confira a documentação para mais detalhes sobre o formato.
+policy-DisabledCiphers = Disable ciphers.

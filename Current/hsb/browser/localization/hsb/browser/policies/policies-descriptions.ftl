@@ -86,3 +86,4 @@ policy-SSLVersionMin = Nastajće minimalnu SSL-wersiju.
 policy-SupportMenu = Swójski menijowy zapisk pomocy menijej pomocy přidać.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Wopytowanju websydłow zadźěwać. Hlejće dokumentaciju za dalše podrobnosće wo formaće.
+policy-DisabledCiphers = Disable ciphers.

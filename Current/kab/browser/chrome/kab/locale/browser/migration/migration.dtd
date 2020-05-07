@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Iferdisen-a ttwaketren akken iwata:">
 
 <!ENTITY closeSourceBrowser.label       "Ma ulac aɣilif, wali ma yella iminig-inek yemdel send ad tedduḍ deg umahil-inek.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

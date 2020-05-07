@@ -74,3 +74,4 @@ policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquear sitios web de ser visitado. Consulta la documentación para obtener más detalles sobre el formato.
+policy-DisabledCiphers = Disable ciphers.

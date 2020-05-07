@@ -35,3 +35,4 @@ policy-DisableTelemetry = Telemetry बंद करा.
 policy-Proxy = प्रॉक्सी सेटिंग कॉन्फिगर करा.
 policy-SSLVersionMax = कमाल SSL आवृत्ती सेट करा.
 policy-SSLVersionMin = किमान SSL आवृत्ती सेट करा.
+policy-DisabledCiphers = Disable ciphers.

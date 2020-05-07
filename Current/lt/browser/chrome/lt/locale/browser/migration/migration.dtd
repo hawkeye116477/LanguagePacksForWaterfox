@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Sėkmingai importuota:">
 
 <!ENTITY closeSourceBrowser.label       "Prieš tęsdami įsitikinkite, kad pasirinkta naršyklė yra išjungta.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

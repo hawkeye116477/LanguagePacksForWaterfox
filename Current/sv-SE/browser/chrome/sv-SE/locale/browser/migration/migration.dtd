@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Följande poster har importerats:">
 
 <!ENTITY closeSourceBrowser.label       "Kontrollera att den valda webbläsaren är stängd innan du fortsätter.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

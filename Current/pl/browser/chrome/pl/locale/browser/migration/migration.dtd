@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Poniższe elementy zostały zaimportowane:">
 
 <!ENTITY closeSourceBrowser.label       "Przed przejściem dalej proszę upewnić się, że wybrana przeglądarka jest wyłączona.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

@@ -86,3 +86,4 @@ policy-SSLVersionMin = Ange den lägsta SSL-versionen.
 policy-SupportMenu = Lägg till ett anpassat menyalternativ med hjälp i hjälpmenyn.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blockera besök på webbplatser. Läs dokumentationen för mer detaljer om hur de anges.
+policy-DisabledCiphers = Disable ciphers.

@@ -12,3 +12,4 @@
 
 policy-DisablePrivateBrowsing = అంతరంగిక విహరణను అచేతనించు.
 policy-DisableTelemetry = టెలిమెట్రీని ఆపివేయి.
+policy-DisabledCiphers = Disable ciphers.

@@ -34,3 +34,4 @@ policy-SearchSuggestEnabled = Omogućite ili onemogućite prijedloge za pretraž
 policy-SecurityDevices = Instalirajte PKCS #11 module.
 policy-SSLVersionMax = Postavite maksimalnu SSL inačicu.
 policy-SSLVersionMin = Postavite minimalnu SSL inačicu.
+policy-DisabledCiphers = Disable ciphers.

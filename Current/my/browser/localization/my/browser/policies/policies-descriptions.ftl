@@ -34,3 +34,4 @@ policy-DisableTelemetry = ပေးပို့စနစ်များကို
 policy-DisplayBookmarksToolbar = စာမှတ်တူးဘားကို ပုံသေဖြင့်ပြပါ။
 policy-Proxy = ပရောက်ဆီ စနစ်များ နေရာချပါ
 policy-SearchSuggestEnabled = ရှာဖွေအကြံပြုမှုများကို စွမ်းဆောင်ခြင်း ဖွင့် သို့မဟုတ် ပိတ်ပါ
+policy-DisabledCiphers = Disable ciphers.

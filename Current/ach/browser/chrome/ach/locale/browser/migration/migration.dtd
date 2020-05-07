@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Jami magi okele maber ki woko:">
 
 <!ENTITY closeSourceBrowser.label       "Tim ber inen ni layeny ma kiyero ni kiloro woko mapud pe imede anyim.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

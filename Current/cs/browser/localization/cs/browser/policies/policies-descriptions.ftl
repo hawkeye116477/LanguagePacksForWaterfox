@@ -86,3 +86,4 @@ policy-SSLVersionMin = Nastavení minimální verze SSL.
 policy-SupportMenu = Přidání vlastní položky nabídky s nápovědou.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokování návštěvy webových stránek. Více informací o formátu najdete v dokumentaci.
+policy-DisabledCiphers = Disable ciphers.

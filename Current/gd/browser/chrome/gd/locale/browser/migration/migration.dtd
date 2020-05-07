@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Chaidh na rudan a leanas ion-phortadh gu soirbheachail:">
 
 <!ENTITY closeSourceBrowser.label       "Dèan cinnteach gu bheil am brabhsair a thagh thu dùinte mus lean thu air adhart.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

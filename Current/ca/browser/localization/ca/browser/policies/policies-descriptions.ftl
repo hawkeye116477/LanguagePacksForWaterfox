@@ -14,3 +14,4 @@ policy-BlockAboutAddons = Bloca l'accés al gestor de complements (about:addons)
 policy-BlockAboutConfig = Bloca l'accés a la pàgina about:config.
 policy-BlockAboutProfiles = Bloca l'accés a la pàgina about:profiles.
 policy-BlockAboutSupport = Bloca l'accés a la pàgina about:support.
+policy-DisabledCiphers = Disable ciphers.

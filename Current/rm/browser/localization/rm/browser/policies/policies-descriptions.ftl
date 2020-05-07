@@ -81,3 +81,4 @@ policy-SSLVersionMin = Definir la versiun minimala da SSL.
 policy-SupportMenu = Agiuntar in element da menu persunalisà en il menu d'agid.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir l'access a tschertas websites. Consultar la documentaziun per ulteriuras infurmaziuns davart il format.
+policy-DisabledCiphers = Disable ciphers.

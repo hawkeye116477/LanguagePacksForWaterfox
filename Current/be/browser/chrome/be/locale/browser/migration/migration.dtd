@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Наступныя адзінкі паспяхова імпартаваны:">
 
 <!ENTITY closeSourceBrowser.label       "Калі ласка, упэўніцеся перад працягам, што выбраны браўзер закрыты.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

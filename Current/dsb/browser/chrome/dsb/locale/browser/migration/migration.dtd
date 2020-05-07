@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Slědujuce objekty su se z wuspěchom importěrowali:">
 
 <!ENTITY closeSourceBrowser.label       "Pšosym zawěsććo, až wubrany wobglědowak jo zacynjony, nježli až pókšacujośo.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

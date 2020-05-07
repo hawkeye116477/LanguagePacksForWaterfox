@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "הפריטים הבאים יובאו בהצלחה:">
 
 <!ENTITY closeSourceBrowser.label       "נא לוודא שהדפדפן הנבחר סגור לפני המשך הפעילות.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

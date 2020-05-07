@@ -86,3 +86,4 @@ policy-SSLVersionMin = Nastajśo minimalnu SSL-wersiju.
 policy-SupportMenu = Swójski menijowy zapisk pomocy menijoju pomocy pśidaś.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Woglědowanju k websydłam zajźowaś. Glejśo dokumentaciju za dalšne drobnostki wó formaśe.
+policy-DisabledCiphers = Disable ciphers.

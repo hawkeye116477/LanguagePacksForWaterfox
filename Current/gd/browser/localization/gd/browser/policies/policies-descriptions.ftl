@@ -81,3 +81,4 @@ policy-SSLVersionMin = Suidhich an tionndadh SSL as lugha.
 policy-SupportMenu = Cuir ball gnàthaichte ri clàr-taice na taice ri clàr-taice na cobharach.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bac làraichean-lìn àraidh. Faic an docamaideadh airson barrachd fiosrachaidh mun fhòrmat.
+policy-DisabledCiphers = Disable ciphers.

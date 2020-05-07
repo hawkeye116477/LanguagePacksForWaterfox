@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Келесі объектілер сәтті импортталды:">
 
 <!ENTITY closeSourceBrowser.label       "Жалғастыру алдында таңдалған браузер жабылғанын тексеріңіз.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

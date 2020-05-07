@@ -86,3 +86,4 @@ policy-SSLVersionMin = ตั้งรุ่น SSL ต่ำสุด
 policy-SupportMenu = เพิ่มรายการเมนูการสนับสนุนที่กำหนดเองไปยังเมนูช่วยเหลือ
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ปิดกั้นไม่ให้เยี่ยมชมเว็บไซต์ ดูคู่มือสำหรับรายละเอียดเพิ่มเติมเกี่ยวกับรูปแบบ
+policy-DisabledCiphers = Disable ciphers.

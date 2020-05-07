@@ -86,3 +86,4 @@ policy-SSLVersionMin = Arventennañ an handelv SSL izelañ.
 policy-SupportMenu = Ouzhpennañ un elfenn lañser skor personelaet el lañser skoazell.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Stankañ al lec'hiennoù da vezañ gweladennet. Lennit an teuliadur evit kaout muioc'h a vunudoù war ar mentrezh.
+policy-DisabledCiphers = Disable ciphers.

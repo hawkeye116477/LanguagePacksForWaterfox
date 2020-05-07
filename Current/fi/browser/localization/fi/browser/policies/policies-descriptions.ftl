@@ -86,3 +86,4 @@ policy-SSLVersionMin = Aseta SSL:n vähimmäisversio.
 policy-SupportMenu = Lisää Ohje-valikkoon oma valikkokohta tukea varten.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Estä sivustojen avaaminen. Katso ohjeista lisätietoja käyttötavasta.
+policy-DisabledCiphers = Disable ciphers.

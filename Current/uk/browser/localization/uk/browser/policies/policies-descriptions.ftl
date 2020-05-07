@@ -86,3 +86,4 @@ policy-SSLVersionMin = Встановлює мінімальну версію SS
 policy-SupportMenu = Додає власний елемент меню підтримки в меню довідки.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Блокувати відвідування веб-сайтів. Для отримання подробиць щодо формату, ознайомтеся з документацією.
+policy-DisabledCiphers = Disable ciphers.

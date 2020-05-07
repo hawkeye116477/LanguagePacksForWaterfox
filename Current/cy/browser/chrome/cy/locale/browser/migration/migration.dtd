@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Cafodd yr eitemau canlynol eu mewnforio'n llwyddiannus:">
 
 <!ENTITY closeSourceBrowser.label       "Gwnewch yn siŵr fod y porwr wedi ei gau cyn parhau.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

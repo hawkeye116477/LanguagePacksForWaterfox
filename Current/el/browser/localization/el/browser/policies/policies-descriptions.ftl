@@ -86,3 +86,4 @@ policy-SSLVersionMin = Ορισμός ελάχιστης έκδοσης SSL.
 policy-SupportMenu = Προσθήκη προσαρμοσμένου στοιχείου μενού υποστήριξης στο μενού βοήθειας.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Αποκλεισμός επίσκεψης σε ιστοσελίδες. Δείτε την τεκμηρίωση για περισσότερες λεπτομέρειες σχετικά με τη μορφή.
+policy-DisabledCiphers = Disable ciphers.

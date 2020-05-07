@@ -86,3 +86,4 @@ policy-SSLVersionMin = ضبط إصدارة SSL الدنيا.
 policy-SupportMenu = إضافة عنصر ”الدعم“ (يمكن تخصيصه) في قائمة المساعدة.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = منع زيارة المواقع. طالع التوثيق لتفاصيل أكثر بخصوص النسق.
+policy-DisabledCiphers = Disable ciphers.

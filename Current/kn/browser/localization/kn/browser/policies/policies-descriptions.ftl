@@ -11,3 +11,4 @@
 ## in the documentation section in about:policies.
 
 policy-DisableTelemetry = ಟೆಲಿಮೆಟ್ರಿ ಆಫ್ ಮಾಡಿ.
+policy-DisabledCiphers = Disable ciphers.

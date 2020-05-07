@@ -86,3 +86,4 @@ policy-SSLVersionMin = Nustatyti mažiausią SSL versiją.
 policy-SupportMenu = Pridėti specialų pagalbos meniu elementą į žinyno meniu.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokuoti svetainių lankymą. Paskaitykite dokumentaciją dėl informacijos apie formatą.
+policy-DisabledCiphers = Disable ciphers.

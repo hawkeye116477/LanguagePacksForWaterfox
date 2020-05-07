@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Järgnevate elementide importimine õnnestus:">
 
 <!ENTITY closeSourceBrowser.label       "Enne jätkamist kontrolli, et valitud brauser oleks suletud.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

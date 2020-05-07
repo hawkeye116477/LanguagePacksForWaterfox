@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Importáronse correctamente os seguintes elementos:">
 
 <!ENTITY closeSourceBrowser.label       "Asegúrese de que o navegador seleccionado está pechado antes de continuar.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

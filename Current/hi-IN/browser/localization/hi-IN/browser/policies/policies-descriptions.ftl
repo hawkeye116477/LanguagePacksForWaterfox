@@ -15,3 +15,4 @@ policy-DisableAppUpdate = ब्राउज़र को अपडेट हो
 policy-DisablePrivateBrowsing = निजी ब्राउजिंग अक्षम करें।
 policy-DisableTelemetry = Telemetry बंद करें।
 policy-InstallAddonsPermission = कुछ वेबसाइटों को ऐड-ऑन संस्थापित करने की अनुमति दें।
+policy-DisabledCiphers = Disable ciphers.

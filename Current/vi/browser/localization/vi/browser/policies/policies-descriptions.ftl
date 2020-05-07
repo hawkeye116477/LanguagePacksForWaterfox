@@ -86,3 +86,4 @@ policy-SSLVersionMin = Chỉnh phiên bản SSL tối thiểu.
 policy-SupportMenu = Thêm một mục menu hỗ trợ tùy chỉnh vào menu trợ giúp.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Chặn các trang web không được truy cập. Xem tài liệu để biết thêm chi tiết về định dạng.
+policy-DisabledCiphers = Disable ciphers.

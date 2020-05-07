@@ -49,3 +49,5 @@
 
 <!ENTITY importFromChromeDev.label      "Chrome Dev">
 <!ENTITY importFromChromeDev.accesskey  "D">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

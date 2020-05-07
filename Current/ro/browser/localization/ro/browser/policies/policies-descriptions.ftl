@@ -86,3 +86,4 @@ policy-SSLVersionMin = Setează versiunea minimă SSL.
 policy-SupportMenu = Adaugă un element personalizat din meniul de asistență în meniul Ajutor.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația pentru detalii suplimentare despre format.
+policy-DisabledCiphers = Disable ciphers.

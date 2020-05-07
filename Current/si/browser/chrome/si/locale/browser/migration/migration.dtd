@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "පහත අයිතමයන් සාර්ථකව ආයාත කරන ලදී:">
 
 <!ENTITY closeSourceBrowser.label       "ඉදිරියට ක්‍රියාත්මක වීමට පෙර තෝරාගත් ගවේශකය වසා ඇති බව තහවුරු කරගන්න.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

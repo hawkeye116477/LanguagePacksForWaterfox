@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Els elements següents s'han importat correctament:">
 
 <!ENTITY closeSourceBrowser.label       "Abans de continuar, assegureu-vos que el navegador seleccionat estigui tancat.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

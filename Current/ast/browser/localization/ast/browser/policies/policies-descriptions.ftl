@@ -13,3 +13,4 @@
 policy-AppUpdateURL = Aiftar una URL personalizada d'anovamientu de l'aplicación.
 policy-Authentication = Configurar l'autenticación integrada pa sitios web que l'admitan.
 policy-BlockAboutAddons = Bloquiar l'accesu al alministrador de complementos (about:addons).
+policy-DisabledCiphers = Disable ciphers.

@@ -11,3 +11,4 @@
 ## in the documentation section in about:policies.
 
 policy-DisableFirefoxStudies = Забранява на { -brand-short-name } да извършва изследвания.
+policy-DisabledCiphers = Disable ciphers.

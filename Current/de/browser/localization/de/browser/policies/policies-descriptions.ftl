@@ -113,3 +113,4 @@ policy-SupportMenu = Benutzerdefinierten Eintrag zum Menü "Hilfe" hinzufügen
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bestimmte Website-Aufrufe blockieren. Weitere Details in der Dokumentation.
+policy-DisabledCiphers = Disable ciphers.

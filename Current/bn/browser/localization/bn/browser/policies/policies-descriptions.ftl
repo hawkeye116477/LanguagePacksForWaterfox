@@ -65,3 +65,4 @@ policy-SSLVersionMax = সর্বাধিক SSL সংস্করণ সে
 policy-SSLVersionMin = সর্বনিম্ন SSL সংস্করণ সেট করুন।
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ওয়েবসাইট পরিদর্শন ব্লক করুন। ফরমেট সম্পর্কে বিস্তারিত জানতে ডকুমেন্টেশন দেখুন।
+policy-DisabledCiphers = Disable ciphers.

@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "La jenaj elementoj estis sukcese importitaj:">
 
 <!ENTITY closeSourceBrowser.label       "Bonvolu certi ke la elektita retumilo estu fermita antaŭ ol daŭrigi.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

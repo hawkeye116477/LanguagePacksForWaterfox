@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "مندرجہ ذیل اشیا کامیابی سے درآمد ہو گئیں: ">
 
 <!ENTITY closeSourceBrowser.label       "جاری رکھنے سے پہلے براہ کرم یقینی بنائیں کے منتخب براؤزر بند کر دیا ہے۔">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

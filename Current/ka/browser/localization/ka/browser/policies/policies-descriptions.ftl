@@ -86,3 +86,4 @@ policy-SSLVersionMin = SSL-ის უმცირესი ვერსიის
 policy-SupportMenu = საკუთარი მხარდაჭერის მენიუს დამატება დახმარების მენიუში.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ვებსაიტების მონახულების შეზღუდვა. იხილეთ შესაბამისი მასალა დამატებითი ინფორმაციისთვის ფორმატის თაობაზე.
+policy-DisabledCiphers = Disable ciphers.

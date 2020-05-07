@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "खालील घटक यशस्वीरित्या आयात केले गेले:">
 
 <!ENTITY closeSourceBrowser.label       "कृपया पुढे जायच्या पहिले निवडलेला ब्राउझर बंद आहे याची खात्री करा.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

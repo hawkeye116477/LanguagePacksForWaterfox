@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Hurrengo osagaiak ondo inportatu dira:">
 
 <!ENTITY closeSourceBrowser.label       "Ziurtatu hautatutako nagitzailea itxita dagoela jarraitu aurretik.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

@@ -43,3 +43,4 @@ policy-SearchBar = ਖੋਜ ਪੱਟੀ ਲਈ ਮੂਲ ਟਿਕਾਣਾ �
 policy-SecurityDevices = PKCS # 11 ਮੈਡਿਊਲ ਇੰਸਟਾਲ ਕਰੋ।
 policy-SSLVersionMax = ਵੱਧ ਤੋਂ ਵੱਧ SSL ਵਰਜ਼ਨ ਨਿਯਤ ਕਰੋ।
 policy-SSLVersionMin = ਘੱਟੋ ਘੱਟ SSL ਵਰਜ਼ਨ ਨਿਯਤ ਕਰੋ।
+policy-DisabledCiphers = Disable ciphers.

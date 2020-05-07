@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "A következő elemek sikeresen importálva lettek:">
 
 <!ENTITY closeSourceBrowser.label       "Ne feledje el bezárni a kiválasztott böngészőt a folytatás előtt.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

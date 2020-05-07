@@ -158,3 +158,4 @@ policy-SupportMenu = Føj et tilpasset menupunkt til menuen Hjælp.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Bloker websteder fra at blive besøgt. Se dokumentationen for detaljer om formatet.
+policy-DisabledCiphers = Disable ciphers.

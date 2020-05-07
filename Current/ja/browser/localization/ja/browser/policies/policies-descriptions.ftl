@@ -152,3 +152,4 @@ policy-SupportMenu = ヘルプメニューにカスタムサポートメニュ�
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ウェブサイトを訪問済みにしません。書式の詳細はドキュメントをご覧ください。
+policy-DisabledCiphers = Disable ciphers.

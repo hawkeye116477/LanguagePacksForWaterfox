@@ -71,3 +71,4 @@ policy-SSLVersionMax = Maksimum SSL versiyasını qurun.
 policy-SSLVersionMin = Minimum SSL versiyasını qurun.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Saytların ziyarət edilməsini əngəllə. Format detalları üçün sənədlərə bax.
+policy-DisabledCiphers = Disable ciphers.

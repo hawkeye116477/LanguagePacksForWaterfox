@@ -71,3 +71,4 @@ policy-SearchEngines = Configura os axustes do buscador. Esta política só est�
 policy-SecurityDevices = Permite instalar os módulos PKCS #11.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloquea sitios web para que non sexan visitados. Vexa a documentación para obter máis información sobre o formato.
+policy-DisabledCiphers = Disable ciphers.

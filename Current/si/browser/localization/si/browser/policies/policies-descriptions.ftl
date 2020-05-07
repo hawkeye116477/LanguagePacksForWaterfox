@@ -19,3 +19,4 @@ policy-DontCheckDefaultBrowser = ආරම්භයේදී පෙරනිම�
 policy-Proxy = ප්‍රොක්සි සැකසුම් වින්‍යාස කරන්න.
 policy-SSLVersionMax = උපරිම SSL අනුවාදය සකසන්න.
 policy-SSLVersionMin = අවම SSL අනුවාදය සකසන්න.
+policy-DisabledCiphers = Disable ciphers.

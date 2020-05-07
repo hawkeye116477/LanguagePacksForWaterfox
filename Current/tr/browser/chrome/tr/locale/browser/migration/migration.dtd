@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Aşağıdaki öğeler başarıyla içe aktarıldı:">
 
 <!ENTITY closeSourceBrowser.label       "Devam etmeden önce lütfen seçtiğiniz tarayıcının kapalı olduğundan emin olun.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

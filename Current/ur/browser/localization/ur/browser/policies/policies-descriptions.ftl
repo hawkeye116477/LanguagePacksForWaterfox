@@ -51,3 +51,4 @@ policy-Proxy = پراکسی ترتیبات ترتیب کریں۔
 policy-SanitizeOnShutdown = بند کرنے پر تمام نیویگیشن ڈیٹا صاف کریں۔
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 ماڈیول انسٹال کریں۔
+policy-DisabledCiphers = Disable ciphers.

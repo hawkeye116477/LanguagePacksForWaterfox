@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Følgende elementer er importert:">
 
 <!ENTITY closeSourceBrowser.label       "Kontroller at den valgte nettleseren er lukket før du fortsetter.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

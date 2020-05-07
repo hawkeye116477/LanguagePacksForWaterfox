@@ -23,3 +23,4 @@ policy-DisableFormHistory = جستجو وتاریخچه فرم را به خاط�
 policy-DNSOverHTTPS = پیکربندی DNS بر روی HTTPS.
 policy-DontCheckDefaultBrowser = غیر فعال کردن بررسی مرورگر پیش‌فرض در هنگام راه اندازی
 policy-Proxy = پیکربندی تنظیمات پروکسی
+policy-DisabledCiphers = Disable ciphers.

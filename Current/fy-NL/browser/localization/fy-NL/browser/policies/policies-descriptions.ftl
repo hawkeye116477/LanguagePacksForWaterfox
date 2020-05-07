@@ -86,3 +86,4 @@ policy-SSLVersionMin = De minimale SSL-ferzje ynstelle.
 policy-SupportMenu = In oanpast menu-item foar stipe oan it menu Help tafoegje.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = It besykjen fan websites blokkearje. Sjoch de dokumintaasje foar mear ynformaasje oer de notaasje.
+policy-DisabledCiphers = Disable ciphers.

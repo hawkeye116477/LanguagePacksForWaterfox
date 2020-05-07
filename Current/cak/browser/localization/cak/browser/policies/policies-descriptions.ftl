@@ -86,3 +86,4 @@ policy-SSLVersionMin = Tijikib'äx ri ko'öl ruwäch SSL
 policy-SupportMenu = Titz'aqatisäx jun ruch'akulal ruk'utsamaj ichinan tob'äl pa ruk'utsamaj tob'äl.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Tiq'at ri tz'etoj rik'in ajk'amaya'l ruxaq. Tatz'eta' ri ruwujil richin nawetamaj ch'aqa' chik rutzijoxik rub'anikil.
+policy-DisabledCiphers = Disable ciphers.

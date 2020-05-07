@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "အောက်ပါ အချက်‌များကို အောင်မြင်စွာ တင်သွင်းခဲ့ပြီ၊">
 
 <!ENTITY closeSourceBrowser.label       "ဆက်လက် မဆောင်ရွက်ခင် ကျေးဇူးပြု၍ ရွေးထားသည့် ဘရောင်ဇာသည် ပိတ်ထားခြင်း ရှိ/မရှိ စစ်ပါ။">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

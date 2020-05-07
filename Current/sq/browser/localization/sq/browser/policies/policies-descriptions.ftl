@@ -86,3 +86,4 @@ policy-SSLVersionMin = Caktoni version minimum SSL-je.
 policy-SupportMenu = Shtoni te menuja e ndihmës një element vetjak menuje asistence.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bllokoni vizita në sajte. Për më tepër hollësi mbi këtë format, shihni dokumentimin.
+policy-DisabledCiphers = Disable ciphers.

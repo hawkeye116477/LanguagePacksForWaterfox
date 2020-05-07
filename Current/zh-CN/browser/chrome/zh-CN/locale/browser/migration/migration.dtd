@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "成功导入下列各项：">
 
 <!ENTITY closeSourceBrowser.label       "请先关闭选定的浏览器，再继续操作。">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

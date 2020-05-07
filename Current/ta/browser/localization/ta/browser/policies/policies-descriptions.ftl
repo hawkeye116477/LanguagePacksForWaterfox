@@ -33,3 +33,4 @@ policy-Proxy = பதிலி அமைப்புகளை கட்டமை
 policy-SecurityDevices = PKCS # 11 கூறுகளை நிறுவவும்.
 policy-SSLVersionMax = அதிகபட்ச SSL பதிப்பை அமைக்கவும்.
 policy-SSLVersionMin = குறைந்தபட்ச SSL பதிப்பு அமைக்கவும்.
+policy-DisabledCiphers = Disable ciphers.

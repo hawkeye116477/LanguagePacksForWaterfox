@@ -32,3 +32,4 @@ policy-Proxy = កំណត់​ការកំណត់​ប្រូកស�
 policy-SanitizeOnShutdown = សម្អាត​ទិន្នន័យ​រុករក​ទាំងអស់​នៅ​ពេល​បិទ។
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = ដំឡើងម៉ូឌុល PKCS # 11 ។
+policy-DisabledCiphers = Disable ciphers.

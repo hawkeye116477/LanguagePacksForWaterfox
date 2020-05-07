@@ -86,3 +86,4 @@ policy-SSLVersionMin = Tetapkan versi SSL minimum.
 policy-SupportMenu = Tambahkan item menu dukungan khusus pada menu bantuan.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi lebih lanjut untuk formatnya.
+policy-DisabledCiphers = Disable ciphers.

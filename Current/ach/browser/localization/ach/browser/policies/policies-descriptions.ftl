@@ -31,3 +31,4 @@ policy-Permissions = Ter twero pi kamera, mikropon, kabedo ki jami angeya.
 policy-SearchSuggestEnabled = Cak onyo juk tam amiya me yeny.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Geng limo kakube. Nen gin acoya pi ngec mapol i kite.
+policy-DisabledCiphers = Disable ciphers.

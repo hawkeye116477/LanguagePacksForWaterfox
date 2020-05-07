@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Item berikut sukses diimpor:">
 
 <!ENTITY closeSourceBrowser.label       "Pastikan peramban terpilih telah ditutup sebelum melanjutkan.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

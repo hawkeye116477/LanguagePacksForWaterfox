@@ -73,3 +73,4 @@ policy-SSLVersionMax = Постави највеће могуће издање S
 policy-SSLVersionMin = Постави најмање могуће издање SSL-a.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Блокирај посету веб сајтовима. Погледајте документацију за више детаља о формату.
+policy-DisabledCiphers = Disable ciphers.

@@ -79,3 +79,4 @@ policy-SSLVersionMin = ન્યૂનતમ SSL સંસ્કરણ સેટ
 policy-SupportMenu = સહાય મેનૂ પર કસ્ટમ સપોર્ટ મેનૂ આઇટમ ઉમેરો.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = વેબસાઇટ્સની મુલાકાત લેવાથી અવરોધિત કરો. રુપરેખા પર વધુ વિગતો માટે દસ્તાવેજીકરણ જુઓ.
+policy-DisabledCiphers = Disable ciphers.

@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Uspešno je bilo uvoženo naslednje:">
 
 <!ENTITY closeSourceBrowser.label       "Pred nadaljevanjem se prepričajte, da je izbrani brskalnik zaprt.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

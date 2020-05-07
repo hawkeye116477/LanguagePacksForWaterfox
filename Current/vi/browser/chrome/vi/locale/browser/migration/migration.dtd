@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Các mục sau đã được nhập thành công:">
 
 <!ENTITY closeSourceBrowser.label       "Vui lòng chắc chắn trình duyệt được chọn đã đóng truớc khi tiếp tục.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

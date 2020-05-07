@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "გადმოტანილია შემდეგი მონაცემები:">
 
 <!ENTITY closeSourceBrowser.label       "გაგრძელებამდე დარწმუნდით, რომ არჩეული ბრაუზერი დახურულია.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

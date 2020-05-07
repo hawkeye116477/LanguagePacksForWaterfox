@@ -86,3 +86,4 @@ policy-SSLVersionMin = Sbadu lqem adday n SSL.
 policy-SupportMenu = Ad yernu anekcum udmawan ɣer wumuɣ n tallelt i uɛiwen.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Sewḥel anekcum Ɣer ismal web. Wali tasemlit i wugar n telqayt Ɣef umasal.
+policy-DisabledCiphers = Disable ciphers.

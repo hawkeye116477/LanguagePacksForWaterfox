@@ -73,3 +73,4 @@ policy-SecurityDevices = Aaf wulnde PKCS#11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Faddo lowe geese jillaaɗe jooni. Ƴeew duttorɗe ngam ɓeydude humpito wonande formaa oo.
+policy-DisabledCiphers = Disable ciphers.

@@ -84,3 +84,4 @@ policy-SSLVersionMin = הגדרת גרסת ה־SSL המינימלית.
 policy-SupportMenu = הוספת תפריט תמיכה בהתאמה אישית לתפריט העזרה.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = חסימת ביקור באתרים. יש לעיין בתיעוד לקבלת פרטים נוספים על התבנית.
+policy-DisabledCiphers = Disable ciphers.

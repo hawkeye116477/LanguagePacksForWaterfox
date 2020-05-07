@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Následující položky byly úspěšně importovány:">
 
 <!ENTITY closeSourceBrowser.label       "Před pokračováním se prosím ujistěte, že vybraný prohlížeč je zavřený.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

@@ -48,3 +48,5 @@
 <!ENTITY done.label                     "Ɗee-ɗoo teme njiggoraama no moƴƴirta:">
 
 <!ENTITY closeSourceBrowser.label       "Tiiɗno teeŋtin wonde wanngorde suɓaande ndee ko uddiinde hade maa jokkude.">
+<!ENTITY importFromLfirefox.label       "Mozilla Firefox">
+<!ENTITY importFromLfirefox.accesskey   "L">

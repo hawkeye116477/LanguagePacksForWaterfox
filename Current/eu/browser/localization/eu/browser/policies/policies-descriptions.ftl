@@ -86,3 +86,4 @@ policy-SSLVersionMin = Ezarri SSL bertsio minimoa.
 policy-SupportMenu = Gehitu euskarrirako menu-elementu pertsonalizatua laguntzaren menuan.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokeatu zenbait webgune bisitatzea. Irakurri dokumentazioa formatuaren gaineko xehetasun gehiagorako.
+policy-DisabledCiphers = Disable ciphers.

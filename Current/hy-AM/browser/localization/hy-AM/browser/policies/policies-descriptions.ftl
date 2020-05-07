@@ -21,3 +21,4 @@ policy-Cookies = Թույլատրել կամ մերժել կայքերը՝ կա�
 policy-DisableAppUpdate = Կանխել դիտարկիչի արդիացումը:
 policy-DisableBuiltinPDFViewer = Անջատել PDF.js-ը, ներկառուցվա PDF ցուցադրիչը { -brand-short-name }-ում:
 policy-DisableDeveloperTools = Արգելափակել մատչումը Ծրագրավորողի գործիքներին:
+policy-DisabledCiphers = Disable ciphers.
