@@ -87,3 +87,6 @@ policy-SupportMenu = Pridá vlastnú položku do ponuky pomocníka.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Zablokuje prístup na určité webové stránky. Ďalšie informácie o formáte nájdete v dokumentácii.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

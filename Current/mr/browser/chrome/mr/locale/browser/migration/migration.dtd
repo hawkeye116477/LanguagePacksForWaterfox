@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "कृपया पुढे जायच्या पहिले निवडलेला ब्राउझर बंद आहे याची खात्री करा.">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

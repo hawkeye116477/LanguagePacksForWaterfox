@@ -87,3 +87,6 @@ policy-SupportMenu = Legg til et tilpasset menyelement med hjelp i hjelpemenyen.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokker besøk på nettsteder. Les dokumentasjonen for detaljer om formatet.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

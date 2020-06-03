@@ -15,3 +15,6 @@ policy-BlockAboutConfig = Bloca l'accés a la pàgina about:config.
 policy-BlockAboutProfiles = Bloca l'accés a la pàgina about:profiles.
 policy-BlockAboutSupport = Bloca l'accés a la pàgina about:support.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

@@ -84,3 +84,6 @@ policy-SupportMenu = Yardım menüsüne özel bir destek menüsü öğesi ekle.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgili daha fazla bilgi için belgelendirmeye bakın.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

@@ -87,3 +87,6 @@ policy-SupportMenu = 於說明選單內新增自訂的技術支援項目。
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 封鎖網站，不讓使用者開啟。請參考文件取得設定格式的詳細資料。
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

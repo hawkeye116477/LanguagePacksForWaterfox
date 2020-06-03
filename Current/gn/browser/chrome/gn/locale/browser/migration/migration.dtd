@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "Ikatúpiko, ehechaporãke pe kundaha poravopyre oñembotýpara'e reku'e mboyve jey.">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

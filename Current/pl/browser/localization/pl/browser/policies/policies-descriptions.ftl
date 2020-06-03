@@ -87,3 +87,6 @@ policy-SupportMenu = Dodanie niestandardowego elementu menu pomocy.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokowanie odwiedzania witryn. Dokumentacja zawiera więcej informacji o formacie.
 policy-DisabledCiphers = Wyłączanie szyfrów.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Włączenie lub wyłączenie Encrypted Media Extensions i opcjonalnie ich blokada.

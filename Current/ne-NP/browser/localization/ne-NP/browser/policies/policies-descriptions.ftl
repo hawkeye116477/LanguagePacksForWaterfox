@@ -16,3 +16,6 @@ policy-BlockAboutConfig = about:config पृष्ठमा पहुँच र
 policy-BlockAboutProfiles = about:profiles पृष्ठमा पहुँच रोक्नुहोस ।
 policy-BlockAboutSupport = about:support पृष्ठमा पहुँच रोक्नुहोस ।
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

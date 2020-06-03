@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "Pastikan peramban terpilih telah ditutup sebelum melanjutkan.">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

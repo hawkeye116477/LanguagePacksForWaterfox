@@ -87,3 +87,6 @@ policy-SupportMenu = 도움말 메뉴에 사용자 지정 지원 메뉴 항목�
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 특정 웹사이트 방문을 차단합니다. 자세한 형식에 대해서는 문서를 참고하세요.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

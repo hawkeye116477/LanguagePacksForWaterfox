@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "Controllescha p.pl. ch'il navigatur tschernì è serrà avant che cuntinuar.">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

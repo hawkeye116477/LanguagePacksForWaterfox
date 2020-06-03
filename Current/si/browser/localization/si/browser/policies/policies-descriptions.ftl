@@ -20,3 +20,6 @@ policy-Proxy = ප්‍රොක්සි සැකසුම් වින්‍
 policy-SSLVersionMax = උපරිම SSL අනුවාදය සකසන්න.
 policy-SSLVersionMin = අවම SSL අනුවාදය සකසන්න.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

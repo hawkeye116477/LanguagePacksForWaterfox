@@ -22,3 +22,6 @@ policy-DisableAppUpdate = Կանխել դիտարկիչի արդիացումը:
 policy-DisableBuiltinPDFViewer = Անջատել PDF.js-ը, ներկառուցվա PDF ցուցադրիչը { -brand-short-name }-ում:
 policy-DisableDeveloperTools = Արգելափակել մատչումը Ծրագրավորողի գործիքներին:
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

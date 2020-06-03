@@ -52,3 +52,6 @@ policy-SanitizeOnShutdown = بند کرنے پر تمام نیویگیشن ڈی�
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 ماڈیول انسٹال کریں۔
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

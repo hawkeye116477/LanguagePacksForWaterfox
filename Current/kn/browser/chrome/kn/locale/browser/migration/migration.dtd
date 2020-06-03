@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "ಮುಂದುವರೆಯುವ ಮೊದಲು, ಆಯ್ಕೆ ಮಾಡಲಾದ ಜಾಲವೀಕ್ಷಕವನ್ನು ಮುಚ್ಚಲಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

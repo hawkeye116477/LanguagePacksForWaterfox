@@ -87,3 +87,6 @@ policy-SupportMenu = Ajoute une entrée personnalisée au menu d’aide pour l�
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloque l’accès à des sites web. Voir la documentation pour plus de détails sur le format.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

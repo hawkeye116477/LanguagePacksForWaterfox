@@ -32,3 +32,6 @@ policy-SearchSuggestEnabled = Cak onyo juk tam amiya me yeny.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Geng limo kakube. Nen gin acoya pi ngec mapol i kite.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

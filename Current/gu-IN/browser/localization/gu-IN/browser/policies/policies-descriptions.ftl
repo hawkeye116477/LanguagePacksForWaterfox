@@ -80,3 +80,6 @@ policy-SupportMenu = સહાય મેનૂ પર કસ્ટમ સપો�
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = વેબસાઇટ્સની મુલાકાત લેવાથી અવરોધિત કરો. રુપરેખા પર વધુ વિગતો માટે દસ્તાવેજીકરણ જુઓ.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "Tiiɗno teeŋtin wonde wanngorde suɓaande ndee ko uddiinde hade maa jokkude.">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

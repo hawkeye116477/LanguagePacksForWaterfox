@@ -19,3 +19,6 @@ policy-SearchEngines = Qidiruv tizimi sozlamalarini sozlaydi. Bu siyosat faqat "
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Kiriladigan saytlarni bloklaydi. Format haqida batafsil ma’lumot olish uchun qo‘llanmani o‘qib chiqing.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

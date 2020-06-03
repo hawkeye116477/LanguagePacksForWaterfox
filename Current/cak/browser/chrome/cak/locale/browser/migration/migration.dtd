@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "Tab'ana' utzil, tajikib'a' awi' chi ri okik'amaya'l xacha' k'o chi tz'apäl chuwäch xtachäp chik samaj.">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

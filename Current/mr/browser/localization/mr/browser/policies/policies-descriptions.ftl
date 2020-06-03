@@ -36,3 +36,6 @@ policy-Proxy = प्रॉक्सी सेटिंग कॉन्फिग
 policy-SSLVersionMax = कमाल SSL आवृत्ती सेट करा.
 policy-SSLVersionMin = किमान SSL आवृत्ती सेट करा.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

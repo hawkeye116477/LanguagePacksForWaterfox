@@ -34,3 +34,6 @@ policy-SecurityDevices = PKCS # 11 கூறுகளை நிறுவவு�
 policy-SSLVersionMax = அதிகபட்ச SSL பதிப்பை அமைக்கவும்.
 policy-SSLVersionMin = குறைந்தபட்ச SSL பதிப்பு அமைக்கவும்.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

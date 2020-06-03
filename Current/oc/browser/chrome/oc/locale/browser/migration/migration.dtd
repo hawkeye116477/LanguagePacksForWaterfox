@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "Abans de contunhar, asseguratz-vos que lo navegador seleccionat siá tampat">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

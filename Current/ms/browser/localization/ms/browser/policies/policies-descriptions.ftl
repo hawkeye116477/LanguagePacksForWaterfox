@@ -74,3 +74,6 @@ policy-SecurityDevices = Pasang modul PKCS #11.
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Sekat laman web daripada dilawati. Lihat dokumentasi untuk maklumat lanjut format berkenaan.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

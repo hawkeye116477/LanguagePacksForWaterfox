@@ -79,3 +79,6 @@ policy-SSLVersionMin = Imposta la versione minima di SSL.
 policy-SupportMenu = Aggiungi una voce di menu personalizzata nel menu Aiuto.
 policy-WebsiteFilter = Impedisci l’accesso a determinati siti web. Consulta la documentazione per ulteriori dettagli sul formato da utilizzare.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

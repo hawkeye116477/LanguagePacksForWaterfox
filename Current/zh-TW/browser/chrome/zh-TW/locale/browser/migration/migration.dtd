@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "請確定已關閉選擇的瀏覽器後繼續。">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

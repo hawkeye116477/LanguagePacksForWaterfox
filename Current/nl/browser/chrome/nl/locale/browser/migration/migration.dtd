@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "Zorg ervoor dat de geselecteerde browser is gesloten voordat u verdergaat.">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

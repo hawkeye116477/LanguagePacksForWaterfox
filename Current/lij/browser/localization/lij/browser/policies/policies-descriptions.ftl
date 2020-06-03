@@ -71,3 +71,6 @@ policy-SupportMenu = Azonzi 'na voxe de menû personalizâ into menû d'agiutto.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blòcca a vixita a di sciti. Amia a documentaçion pe avei ciù detalli in sciô formou.
 policy-DisabledCiphers = Disable ciphers.
+
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Enable or disable Encrypted Media Extensions and optionally lock it.

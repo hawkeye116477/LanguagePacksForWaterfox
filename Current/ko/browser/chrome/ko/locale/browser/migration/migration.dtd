@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "계속 진행하기 전에 선택된 브라우저가 닫힘을 확인하세요.">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">

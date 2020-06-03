@@ -50,3 +50,5 @@
 <!ENTITY closeSourceBrowser.label       "Asegure-se de que o navegador trigau ye zarrau antes de continar.">
 <!ENTITY importFromLfirefox.label       "Mozilla Firefox">
 <!ENTITY importFromLfirefox.accesskey   "L">
+<!ENTITY importFromWaterfoxClassic.label "Waterfox Classic">
+<!ENTITY importFromWaterfoxClassic.accesskey   "W">
