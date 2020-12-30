@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Waterfox Issues
+    url: https://github.com/MrAlex94/Waterfox/issues
+    about: Please post here issues with official language packages
+  - name: Waterfox Support
+    url: https://www.reddit.com/r/waterfox/
+    about: Please ask and answer questions here.
+  - name: Waterfox KDE Plasma Edition & AppImage Issues
+    url: https://github.com/hawkeye116477/waterfox-deb-rpm-arch-AppImage
+    about: Please post here issues with Linux waterfox packages or language packages made by me
