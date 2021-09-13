@@ -60,3 +60,7 @@
 <!ENTITY scripts.label "Skrypty">
 
 <!ENTITY enableNotifications.label "Włącz powiadomienia">
+
+<!ENTITY scrollbars.label        "Paski przewijania">
+<!ENTITY allowScrollbarColor.label "Pozwól stronom na zmianę koloru pasków przewijania">
+<!ENTITY allowScrollbarWidth.label "Pozwól stronom na zmianę szerokości pasków przewijania">
